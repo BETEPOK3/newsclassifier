@@ -1,0 +1,25 @@
+version: "3"
+
+services:
+  db:
+    image: postgres:11
+    ports:
+      - "5432"
+    environment:
+      - POSTGRES_USER=POSTGRES_USER
+      - POSTGRES_PASSWORD=POSTGRES_PASSWORD
+      - POSTGRES_DB=POSTGRES_DB
+  web:
+    build: .
+    command: bash -c "alembic upgrade head && gunicorn main:app -b 0.0.0.0:8000
+      --worker-class=uvicorn.workers.UvicornH11Worker --workers=4"
+    volumes:
+      - .:/code
+    depends_on:
+      - db
+    environment:
+      - TZ=Europe/Moscow
+      - DATABASE_URL=postgresql://POSTGRES_USER:POSTGRES_PASSWORD@db:5432/POSTGRES_DB
+    ports:
+      - "8034:8000"
+

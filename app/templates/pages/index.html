@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="ru">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        {% include 'shared/links.html' %}
+        <meta http-equiv="Content-Type" content="text/html; Charset=UTF-8">
+        <title>Index</title>
+    </head>
+    <body id="page-top">
+        <div id="wrapper">
+            {% include 'shared/left_nav.html' %}
+            <div class="d-flex flex-column" id="content-wrapper">
+                <div id="content" class="main-div">
+                    {% include 'shared/top_nav.html' %}
+                   <div>
+                       <form class="row" action="/post_data" method="post">
+                           <input class="col-4" name="data" type="text" />
+                           <input class="col-2" type="submit" value="Добавить" />
+                       </form>
+                   </div>
+                    <div>
+                        {% for data in content.data_list %}
+                            <div class="row">
+                                <p class="col-2">{{ data.id }}</p>
+                                <p class="col-4">{{ data.data }}</p>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% include 'shared/scripts.html' %}
+    </body>
+</html>

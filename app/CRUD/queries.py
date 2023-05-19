@@ -11,9 +11,9 @@ async def get_data(data_id):
         query = (
             select(
                 [
-                    Data
+                    Article
                 ]
-            ).where(Data.id == data_id)
+            ).where(Article.id_article == data_id)
         )
         data = await database.fetch_one(query)
         return data
@@ -26,7 +26,7 @@ async def get_all_data():
         query = (
             select(
                 [
-                    Data
+                    Article
                 ]
             )
         )
@@ -39,7 +39,7 @@ async def get_all_data():
 async def insert_data(data):
     try:
         query = (
-            insert(Data).values(data=data)
+            insert(Article).values(data=data)
         )
         data = await database.fetch_one(query)
         return data.id

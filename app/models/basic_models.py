@@ -9,7 +9,8 @@ class Article(Base):
     __tablename__ = 'article'
     metadata = metadata
     id_article = Column(Integer(), primary_key=True, autoincrement=True)
-    article_authors = Column(ARRAY(String))
+    article_title = Column(String(), nullable=False)
+    article_author = Column(String())
     article_keywords = Column(ARRAY(String))
     article_date = Column(Date(), nullable=False)
     article_text = Column(String(), nullable=False)

@@ -1,6 +1,11 @@
+from datetime import datetime
+
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse, RedirectResponse
-from fastapi import FastAPI, Request, status, Form
+from fastapi import FastAPI, Request, status, Form, Body
+from pydantic import BaseModel, Field
+
+from app.CRUD import queries
 from app.CRUD.queries import *
 import database
 from fastapi.staticfiles import StaticFiles
@@ -8,6 +13,18 @@ from logger.custom_logging import CustomizeLogger
 from pathlib import Path
 
 templates = Jinja2Templates(directory="app/templates")
+
+
+class ArticleSchema(BaseModel):
+    article_title: str
+    article_author: str = Field(default=None)
+    article_categories: list
+    article_keywords: list
+    article_date: datetime
+    article_text: str
+
+    class Config:
+        orm_mode = True
 
 
 def get_error_page(request, exc):
@@ -59,11 +76,11 @@ async def get_index(request: Request):
         return get_error_page(request, e)
 
 
-@app.post("/post_data", response_class=HTMLResponse)
-async def post_data(request: Request, data: str = Form(...)):
+@app.post("/article/create", response_class=HTMLResponse)
+async def create_article(request: Request, article: ArticleSchema):
     try:
-        await insert_data(data)
-        return RedirectResponse("/index", status.HTTP_302_FOUND)
+        articleId = await queries.create_article(article)
+        return "Article with id: {} created successfully!".format(articleId)
     except Exception as e:
         logger.error(e)
         return get_error_page(request, e)

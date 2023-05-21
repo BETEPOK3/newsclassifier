@@ -27,5 +27,5 @@ class ArticleCategory(Base):
     __tablename__ = 'article_category'
     metadata = metadata
     article_category_id = Column(Integer(), primary_key=True, autoincrement=True)
-    article_id = Column(ForeignKey("article.article_id", onupdate="RESTRICT", ondelete="RESTRICT"))
-    category_id = Column(ForeignKey("category.category_id", onupdate="RESTRICT", ondelete="RESTRICT"))
+    article_id = Column(ForeignKey("article.article_id", onupdate="CASCADE", ondelete="CASCADE"))
+    category_id = Column(ForeignKey("category.category_id", onupdate="CASCADE", ondelete="CASCADE"))

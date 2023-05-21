@@ -2,6 +2,7 @@ from datetime import datetime
 
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse, RedirectResponse
+
 from fastapi import FastAPI, Request, status, Form, Body
 from pydantic import BaseModel, Field
 
@@ -81,6 +82,16 @@ async def create_article(request: Request, article: ArticleSchema):
     try:
         articleId = await queries.create_article(article)
         return "Article with id: {} created successfully!".format(articleId)
+    except Exception as e:
+        logger.error(e)
+        return get_error_page(request, e)
+
+
+@app.delete("/article/{articleId}", status_code=status.HTTP_200_OK)
+async def delete_article(request: Request, articleId: int):
+    try:
+        await queries.delete_article(articleId)
+        return "Article with id: {} deleted successfully!".format(articleId)
     except Exception as e:
         logger.error(e)
         return get_error_page(request, e)

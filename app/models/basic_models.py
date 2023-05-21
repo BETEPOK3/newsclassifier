@@ -8,7 +8,7 @@ Base = declarative_base()
 class Article(Base):
     __tablename__ = 'article'
     metadata = metadata
-    id_article = Column(Integer(), primary_key=True, autoincrement=True)
+    article_id = Column(Integer(), primary_key=True, autoincrement=True)
     article_title = Column(String(), nullable=False)
     article_author = Column(String())
     article_keywords = Column(ARRAY(String))
@@ -19,13 +19,13 @@ class Article(Base):
 class Category(Base):
     __tablename__ = 'category'
     metadata = metadata
-    id_category = Column(Integer(), primary_key=True, autoincrement=True)
+    category_id = Column(Integer(), primary_key=True, autoincrement=True)
     category_name = Column(String(), unique=True, nullable=False)
 
 
 class ArticleCategory(Base):
     __tablename__ = 'article_category'
     metadata = metadata
-    id_article_category = Column(Integer(), primary_key=True, autoincrement=True)
-    id_article = Column(ForeignKey("article.id_article", onupdate="RESTRICT", ondelete="RESTRICT"))
-    id_category = Column(ForeignKey("category.id_category", onupdate="RESTRICT", ondelete="RESTRICT"))
+    article_category_id = Column(Integer(), primary_key=True, autoincrement=True)
+    article_id = Column(ForeignKey("article.article_id", onupdate="RESTRICT", ondelete="RESTRICT"))
+    category_id = Column(ForeignKey("category.category_id", onupdate="RESTRICT", ondelete="RESTRICT"))

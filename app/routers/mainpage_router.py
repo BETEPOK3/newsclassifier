@@ -89,11 +89,16 @@ async def create_article(request: Request):
         return get_error_page(request, e)
 
 
-@app.post("/article/create", response_class=HTMLResponse)
+@app.post("/article/create", status_code=status.HTTP_200_OK)
 async def create_article(request: Request, article: ArticleSchema):
     try:
-        articleId = await queries.create_article(article)
-        return "Article with id: {} created successfully!".format(articleId)
+        article_id = await queries.create_article(article)
+        accept = request.headers["accept"]
+        if (accept == "application/json"):
+            return {"id": article_id}
+        elif (accept == "text/html"):
+            return RedirectResponse("/article/{}".format(article_id),
+                                    status_code=status.HTTP_303_SEE_OTHER)
     except Exception as e:
         logger.error(e)
         return get_error_page(request, e)

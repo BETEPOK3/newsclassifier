@@ -87,11 +87,15 @@ async def create_article(request: Request, article: ArticleSchema):
         return get_error_page(request, e)
 
 
-@app.delete("/article/{articleId}", status_code=status.HTTP_200_OK)
-async def delete_article(request: Request, articleId: int):
+@app.delete("/article/{article_id}", status_code=status.HTTP_200_OK)
+async def delete_article(request: Request, article_id: int):
     try:
-        await queries.delete_article(articleId)
-        return "Article with id: {} deleted successfully!".format(articleId)
+        await queries.delete_article(article_id)
+        accept = request.headers["accept"]
+        if (accept == "application/json"):
+            return {"id": article_id}
+        elif (accept == "text/html"):
+            return RedirectResponse("/index", status_code=status.HTTP_303_SEE_OTHER)
     except Exception as e:
         logger.error(e)
         return get_error_page(request, e)

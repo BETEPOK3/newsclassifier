@@ -76,12 +76,12 @@ async def create_article(article):
         logger.error(e)
 
 
-async def delete_article(articleId):
+async def delete_article(article_id):
     try:
         query = (
-            delete(Article).where(Article.article_id == articleId)
+            delete(Article).where(Article.article_id == article_id)
         )
-        data = await database.fetch_one(query)
-        return data.id
+        await database.fetch_one(query)
+        return article_id
     except Exception as e:
         logger.error(e)

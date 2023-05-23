@@ -1,9 +1,9 @@
 from datetime import datetime
 
 from fastapi.templating import Jinja2Templates
-from fastapi.responses import HTMLResponse, RedirectResponse
+from fastapi.responses import HTMLResponse, RedirectResponse, JSONResponse
 
-from fastapi import FastAPI, Request, status, Form, Body
+from fastapi import FastAPI, Request, status, Form, Body, Depends
 from pydantic import BaseModel, Field
 
 from app.CRUD import queries
@@ -24,8 +24,13 @@ class ArticleSchema(BaseModel):
     article_date: datetime
     article_text: str
 
-    class Config:
-        orm_mode = True
+
+class ArticlesRequestSchema(BaseModel):
+    category: int = Field(default=-1)
+    sort_by: str = Field(default=None)
+    search_text: str = Field(default=None)
+    page: int = Field(default=0)
+    page_size: int = Field(default=10)
 
 
 def get_error_page(request, exc):
@@ -63,13 +68,47 @@ async def shutdown():
     await database.database.disconnect()
 
 
-@app.get("/", response_class=HTMLResponse)
 @app.get("/index", response_class=HTMLResponse)
-async def get_index(request: Request):
+@app.get("/index/{page}", response_class=HTMLResponse)
+async def get_article_list(request: Request, search_params: ArticlesRequestSchema = Depends()):
     try:
         content = dict()
-        content["data_list"] = await get_all_data()
-        return templates.TemplateResponse("pages/index.html",
+        articles = await queries.get_article_list(search_params.page, search_params.page_size,
+                                          {
+                                              "category": search_params.category,
+                                              "sort_by": search_params.sort_by,
+                                              "search_text": search_params.search_text
+                                          })
+        accept_header = request.headers.get('accept')
+        if accept_header == "application/json":
+            for article in articles["articles"]:
+                date_str = article["article_date"].isoformat()
+                article["article_date"] = date_str
+            return JSONResponse(articles)
+        content["articles"] = articles["articles"]
+        content["cur_page"] = search_params.page
+        content["articles_count"] = articles["articles_count"]
+        content["categories"] = await get_categories()
+        return templates.TemplateResponse("pages/articles_list.html",
+                                          {"request": request, "content": content},
+                                          status.HTTP_200_OK)
+    except Exception as e:
+        logger.error(e)
+        return get_error_page(request, e)
+
+
+@app.get("/article", response_class=HTMLResponse)
+async def get_article_page(request: Request, article_id: int):
+    try:
+        content = dict()
+        article = await get_article(article_id)
+        content["article"] = article
+        accept_header = request.headers.get('accept')
+        if accept_header == "application/json":
+            date_str = article["article_date"].isoformat()
+            article["article_date"] = date_str
+            return JSONResponse(content["article"])
+        return templates.TemplateResponse("pages/article_text.html",
                                           {"request": request, "content": content},
                                           status.HTTP_200_OK)
     except Exception as e:

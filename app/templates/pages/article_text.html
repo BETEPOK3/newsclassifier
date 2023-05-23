@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="ru">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        {% include 'shared/links.html' %}
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+        <meta http-equiv="Content-Type" content="text/html; Charset=UTF-8">
+        <title>{{content.article.article_title}}</title>
+    </head>
+    <body id="page-top">
+        <div id="wrapper">
+            {% include 'shared/left_nav.html' %}
+            <div class="d-flex flex-column" id="content-wrapper">
+                <div id="content" class="main-div">
+                    {% include 'shared/top_nav.html' %}
+                   <div>
+                       <form action="/article/update" method="post">
+                           <input name="article_id" hidden value="{{content.article.article_id}}"/>
+                           <input type="submit" value="Редактировать" />
+                       </form>
+                       <form id="delete-form">
+                           <input id="article-id" name="article_id" hidden value="{{content.article.article_id}}"/>
+                           <input type="submit" value="Удалить" />
+                       </form>
+                       <script>
+                           $("#delete-form").submit(function(e) {
+                                $.ajax({
+                                  url: '/article/' + $("#article-id").val(),
+                                  type: 'DELETE',
+                                  data : $('#delete-form').serialize(),
+                                  success: function(res){
+                                    window.location = "/index/0";
+                                  }
+                                });
+                            });
+                       </script>
+                   </div>
+                    <div style="padding: 10px">
+                        <div>
+                            <h4 style="text-align: center;">{{content.article.article_title}}</h4>
+                            <div>
+                                <p>{{content.article.article_text}}</p>
+                                <p style="text-align: right; padding-right: 50px">
+                                    {{content.article.article_date.strftime('%d.%m.%Y')}}
+                                </p>
+                            </div>
+                        </div>
+                        <div>
+                            <div style="margin-top: 20px">
+                                <label style="display: inline">Категории:</label>
+                                {% for category in content.article.categories %}
+                                    <p style="display: inline">{{category.category_name}}</p>{{ "," if not loop.last }}
+                                {% endfor %}
+                            </div>
+                            <div style="margin-top: 5px; margin-right: 0px; padding-right: 0px">
+                                <label style="display: inline">Ключевые слова:</label>
+                                {% for key_word in content.article.article_keywords %}
+                                    <p style="display: inline;">{{key_word}}</p>{{ "," if not loop.last }}
+                                {% endfor %}
+                            </div>
+                            <div style=" margin-top: 5px">
+                                <label style="display: inline">Автор:</label>
+                                <p style="display: inline">{{content.article.article_author}}</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        {% include 'shared/scripts.html' %}
+    </body>
+</html>

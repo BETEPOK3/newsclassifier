@@ -1,10 +1,11 @@
-from datetime import datetime
+from datetime import date
 
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse, RedirectResponse
 
 from fastapi import FastAPI, Request, status, Form, Body
 from pydantic import BaseModel, Field
+from typing import List
 
 from app.CRUD import queries
 from app.CRUD.queries import *
@@ -19,9 +20,9 @@ templates = Jinja2Templates(directory="app/templates")
 class ArticleSchema(BaseModel):
     article_title: str
     article_author: str = Field(default=None)
-    article_categories: list
-    article_keywords: list
-    article_date: datetime
+    article_categories: List[str]
+    article_keywords: List[str] = Field(default=[])
+    article_date: date
     article_text: str
 
     class Config:
@@ -71,6 +72,17 @@ async def get_index(request: Request):
         content["data_list"] = await get_all_data()
         return templates.TemplateResponse("pages/index.html",
                                           {"request": request, "content": content},
+                                          status.HTTP_200_OK)
+    except Exception as e:
+        logger.error(e)
+        return get_error_page(request, e)
+
+
+@app.get("/article/create", response_class=HTMLResponse)
+async def create_article(request: Request):
+    try:
+        return templates.TemplateResponse("pages/article_create.html",
+                                          {"request": request},
                                           status.HTTP_200_OK)
     except Exception as e:
         logger.error(e)

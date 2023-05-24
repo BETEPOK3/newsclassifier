@@ -68,6 +68,7 @@ async def shutdown():
     await database.database.disconnect()
 
 
+@app.get("/", response_class=HTMLResponse)
 @app.get("/index", response_class=HTMLResponse)
 @app.get("/index/{page}", response_class=HTMLResponse)
 async def get_article_list(request: Request, search_params: ArticlesRequestSchema = Depends()):

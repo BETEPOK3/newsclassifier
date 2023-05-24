@@ -17,6 +17,9 @@ input[type=checkbox] {
 body.dark-theme .left-nav{
 	background-color: #000029;
 }
+body.dark-theme .top-nav{
+	background-color: #444444;
+}
 body.dark-theme div{
 	border-color: white;
 }
@@ -26,10 +29,13 @@ body.dark-theme label{
 .left-nav{
 	background-color: darkblue;
 }
+.top-nav{
+	background-color: white;
+}
 
 body.dark-theme .main-div {
 	color: #eeeeee;
-	background: #000000;
+	background: #333333;
 }
 
 h5, p, label {

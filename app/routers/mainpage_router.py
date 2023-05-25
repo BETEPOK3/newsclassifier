@@ -131,7 +131,7 @@ async def create_article(request: Request):
         return get_error_page(request, e)
 
 
-@app.post("/article/create", response_class=HTMLResponse)
+@app.post("/article/create")
 async def create_article(request: Request, article: ArticleSchema):
     try:
         article_id = await queries.create_article(article)
@@ -145,7 +145,7 @@ async def create_article(request: Request, article: ArticleSchema):
         return get_error_page(request, e)
 
 
-@app.delete("/article/{article_id}", response_class=HTMLResponse)
+@app.delete("/article/{article_id}")
 async def delete_article(request: Request, article_id: int):
     try:
         await queries.delete_article(article_id)

@@ -72,7 +72,6 @@ def article_record_to_dict(article, categories):
         for key in cat._mapping.keys():
             if key != "article_id":
                 cat_dict[key] = cat._mapping[key]
-        logger.info(cat_dict)
         article_dict["categories"].append(cat_dict)
     return article_dict
 

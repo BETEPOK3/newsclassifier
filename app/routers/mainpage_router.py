@@ -30,7 +30,6 @@ class ArticlesRequestSchema(BaseModel):
     sort_by: str = Field(default=None)
     search_text: str = Field(default=None)
     page: int = Field(default=0)
-    page_size: int = Field(default=10)
 
 
 def get_error_page(request, exc):
@@ -73,7 +72,8 @@ async def shutdown():
 async def get_article_list(request: Request, search_params: ArticlesRequestSchema = Depends()):
     try:
         content = dict()
-        articles = await queries.get_article_list(search_params.page, search_params.page_size,
+        page_size = 10
+        articles = await queries.get_article_list(search_params.page, page_size,
                                           {
                                               "category": search_params.category,
                                               "sort_by": search_params.sort_by,

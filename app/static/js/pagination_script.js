@@ -17,9 +17,8 @@ function setPag(acount, curPage){
         let a = document.createElement("a");
         a.textContent = i;
         if(curPage == i) a.className = "active";
-        a.href = "/index/" + (i-1) + "?category=" + selected_category + "&sort_by=" + selected_sort_by
-            + "&search_text=" + selected_search_text + "&page_size=" + selected_limit1
-            + "&page="+(i-1);
+        a.href = "/index" + "?category=" + selected_category + "&sort_by=" + selected_sort_by
+            + "&search_text=" + selected_search_text + "&page=" + (i-1);
         if(c>10){
             let absDiv = Math.abs(i-curPage);
             let r = 0;

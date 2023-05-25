@@ -37,7 +37,9 @@ class ArticlesRequestSchema(BaseModel):
 def get_error_page(request, exc):
     content = dict()
     content["error"] = exc
-    return templates.TemplateResponse("pages/error_page.html", {"request": request, "content": content})
+    return templates.TemplateResponse("pages/error_page.html",
+                                      {"request": request, "content": content},
+                                      status_code=status.HTTP_400_BAD_REQUEST)
 
 
 exceptions = {
@@ -129,30 +131,28 @@ async def create_article(request: Request):
         return get_error_page(request, e)
 
 
-@app.post("/article/create", status_code=status.HTTP_200_OK)
+@app.post("/article/create", response_class=HTMLResponse)
 async def create_article(request: Request, article: ArticleSchema):
     try:
         article_id = await queries.create_article(article)
         accept = request.headers["accept"]
         if (accept == "application/json"):
             return {"id": article_id}
-        elif (accept == "text/html"):
-            return RedirectResponse("/article/{}".format(article_id),
-                                    status_code=status.HTTP_303_SEE_OTHER)
+        return RedirectResponse("/article/{}".format(article_id),
+                                status_code=status.HTTP_303_SEE_OTHER)
     except Exception as e:
         logger.error(e)
         return get_error_page(request, e)
 
 
-@app.delete("/article/{article_id}", status_code=status.HTTP_200_OK)
+@app.delete("/article/{article_id}", response_class=HTMLResponse)
 async def delete_article(request: Request, article_id: int):
     try:
         await queries.delete_article(article_id)
         accept = request.headers["accept"]
         if (accept == "application/json"):
             return {"id": article_id}
-        elif (accept == "text/html"):
-            return RedirectResponse("/index", status_code=status.HTTP_303_SEE_OTHER)
+        return RedirectResponse("/index", status_code=status.HTTP_303_SEE_OTHER)
     except Exception as e:
         logger.error(e)
         return get_error_page(request, e)

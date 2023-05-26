@@ -136,7 +136,9 @@ async def create_article(request: Request, article: ArticleSchema):
         article_id = await queries.create_article(article)
         accept = request.headers["accept"]
         if (accept == "application/json"):
-            return {"id": article_id}
+            content = dict()
+            content["id"] = article_id
+            return JSONResponse(content["id"])
         return RedirectResponse("/article/{}".format(article_id),
                                 status_code=status.HTTP_303_SEE_OTHER)
     except Exception as e:
@@ -150,7 +152,9 @@ async def delete_article(request: Request, article_id: int):
         await queries.delete_article(article_id)
         accept = request.headers["accept"]
         if (accept == "application/json"):
-            return {"id": article_id}
+            content = dict()
+            content["id"] = article_id
+            return JSONResponse(content["id"])
         return RedirectResponse("/index", status_code=status.HTTP_303_SEE_OTHER)
     except Exception as e:
         logger.error(e)

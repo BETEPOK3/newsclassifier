@@ -116,7 +116,7 @@ async def get_article_page(request: Request, article_id: int):
                                           status.HTTP_200_OK)
     except Exception as e:
         logger.error(e)
-        return get_error_page(request, e)
+        return get_error_page(request, Exception("Неверный article_id"))
 
 
 @app.get("/article/create", response_class=HTMLResponse)

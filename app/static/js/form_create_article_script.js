@@ -84,6 +84,32 @@ async function send() {
     } else {
         document.querySelector(".text-error").innerHTML = "";
     }
+
+    const title_input = document.querySelector("div input[name='article_title']");
+    title_input.addEventListener('change', function() {
+        document.querySelector(".title-error").innerHTML = "";
+    });
+    const author_input = document.querySelector("div input[name='article_author']");
+    author_input.addEventListener('change', function() {
+        document.querySelector(".author-error").innerHTML = "";
+    });
+    const categories_input = document.querySelector("div input[name='article_categories']");
+    categories_input.addEventListener('change', function() {
+        document.querySelector(".categories-error").innerHTML = "";
+    });
+    const keywords_input = document.querySelector("div input[name='article_keywords']");
+    keywords_input.addEventListener('change', function() {
+        document.querySelector(".keywords-error").innerHTML = "";
+    });
+    const date_input = document.querySelector("div input[name='article_date']");
+    date_input.addEventListener('change', function() {
+        document.querySelector(".date-error").innerHTML = "";
+    });
+    const text_input = document.querySelector("div input[name='article_text']");
+    text_input.addEventListener('change', function() {
+        document.querySelector(".text-error").innerHTML = "";
+    });
+
     if (isValid) {
         const response = await fetch("/article/create", {
             method: "POST",

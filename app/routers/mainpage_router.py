@@ -161,3 +161,23 @@ async def delete_article(request: Request, article_id: int):
     except Exception as e:
         logger.error(e)
         return get_error_page(request, e)
+
+
+@app.post("/article/update/{article_id}")
+async def update_article(request: Request, article_id: int, params: dict):
+    try:
+        content = dict()
+        article = await queries.update_article(article_id=article_id, params=params)
+        content["article"] = article
+        accept_header = request.headers.get("accept")
+        if accept_header == "application/json":
+            date_str = article["article_date"].isoformat()
+            article["article_date"] = date_str
+            return JSONResponse(content["article"])
+        return templates.TemplateResponse("pages/article_text.html",
+                                          {"request": request, "content": content},
+                                          status.HTTP_200_OK)
+
+    except Exception as e:
+        logger.error(e)
+        return get_error_page(request, e)

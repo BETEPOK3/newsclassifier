@@ -1,3 +1,5 @@
+from datetime import datetime
+from databases.backends.postgres import Record
 from app.models.basic_models import *
 from database import database
 from sqlalchemy import select, insert, delete, update, or_, and_, func, desc
@@ -202,5 +204,110 @@ async def delete_article(article_id):
         )
         await database.fetch_one(query)
         return article_id
+    except Exception as e:
+        logger.error(e)
+
+
+def check_article_none(article: Record, params: dict) -> Article:
+    new_article = Article()
+
+    new_article.article_id = article.get("article_id")
+
+    if params.get("article_title") is not None:
+        new_article.article_title = params.get("article_title")
+    else:
+        new_article.article_title = article.get("article_title")
+
+    if params.get("article_author") is not None:
+        new_article.article_author = params.get("article_author")
+    else:
+        new_article.article_author = article.get("article_author")
+
+    if params.get("article_keywords") is not None:
+        new_article.article_keywords = params.get("article_keywords")
+    else:
+        new_article.article_keywords = article.get("article_keywords")
+
+    if params.get("article_date") is not None:
+        date_str = params.get("article_date")
+        date = datetime.strptime(date_str, "%Y-%m-%d")
+        new_article.article_date = date
+    else:
+        date_str = article.get("article_date")
+        date = datetime.strptime(date_str, "%Y-%m-%d")
+        new_article.article_date = date
+
+    if params.get("article_text") is not None:
+        new_article.article_text = params.get("article_text")
+    else:
+        new_article.article_text = article.get("article_text")
+
+    return new_article
+
+
+def check_categories_none(categories: Record, params: dict) -> list:
+    if params.get("article_categories") is not None:
+        new_categories = params.get("article_categories")
+    else:
+        new_categories = categories
+
+    return new_categories
+
+
+async def select_article_for_update(article_id: int) -> Record:
+    query = (
+        select(Article).where(Article.article_id == article_id)
+    )
+    resultArticle = await database.fetch_one(query)
+    return resultArticle
+
+
+async def select_categories_for_update(article_id: int) -> Record:
+    query = (
+        select([Category])
+        .where(ArticleCategory.article_id == article_id, Category.category_id == ArticleCategory.category_id)
+    )
+    resultCategories = await database.fetch_all(query)
+    return resultCategories
+
+
+async def update_article(article_id: int, params: dict):
+    try:
+        article = await select_article_for_update(article_id=article_id)
+        new_article = check_article_none(article=article, params=params)
+        query = (
+            update(Article).where(Article.article_id == article_id).values(
+                article_title=new_article.article_title,
+                article_author=new_article.article_author,
+                article_keywords=new_article.article_keywords,
+                article_date=new_article.article_date,
+                article_text=new_article.article_text
+            )
+        )
+        await database.fetch_one(query)
+        resultArticle = await select_article_for_update(article_id=article_id)
+        categories = await select_categories_for_update(article_id=article_id)
+
+        new_categories = params.get("article_categories")
+
+        if len(new_categories) != len(categories):
+            msg = "Категория пропущена (кол-во категорий должно совпадать)"
+            raise Exception(msg)
+
+        if new_categories is None:
+            article_dict = article_record_to_dict(resultArticle, categories)
+            return article_dict
+        else:
+            for category, new_category in zip(categories, new_categories):
+                if new_category is not None:
+                    query = (
+                        update(Category).where(Category.category_id == category.get("category_id")).values(
+                            category_name=new_category)
+                    )
+                await database.fetch_one(query)
+        resultCategories = await select_categories_for_update(article_id=article_id)
+        article_dict = article_record_to_dict(resultArticle, resultCategories)
+        return article_dict
+
     except Exception as e:
         logger.error(e)

@@ -17,7 +17,7 @@
                 <div>
                     <label for="" style="font-size:18px">Название:</label>
                     <input class="col-8" name="article_title" id="article_title"
-                           value={{content.article.article_title}} type="text"/>
+                           value="{{content.article.article_title}}" type="text"/>
 
                     <br>
                     <p class="error title-error"></p>
@@ -25,7 +25,7 @@
                 <div>
                     <label for="" style="font-size:18px">Автор:</label>
                     <input class="col-8" name="article_author" id="article_author"
-                           value={{content.article.article_author}} type="text"/>
+                           value="{{content.article.article_author}}" type="text"/>
                     <br>
                     <p class="error author-error"></p>
                 </div>
@@ -56,14 +56,14 @@
                 <div>
                     <label for="" style="font-size:18px">Текст:</label>
                     <input class="col-8" name="article_text" id="article_text"
-                           value={{content.article.article_text}} type="list"/>
+                           value="{{content.article.article_text}}" type="list"/>
                     <br>
                     <p class="error text-error"></p>
                 </div>
                 <div>
                     <button onclick="send()">Изменить</button>
                 </div>
-                <script src="/static/js/form_create_article_script.js"></script>
+                <script src="/static/js/form_update_article_script.js"></script>
                 <form action="/index/0" method="get">
                     <button type="submit" class="btn btn-info mt-4">Отмена</button>
                 </form>

@@ -285,28 +285,38 @@ async def update_article(article_id: int, params: dict):
             )
         )
         await database.fetch_one(query)
-        resultArticle = await select_article_for_update(article_id=article_id)
+        result_article = await select_article_for_update(article_id=article_id)
         categories = await select_categories_for_update(article_id=article_id)
 
         new_categories = params.get("article_categories")
 
-        if len(new_categories) != len(categories):
-            msg = "Категория пропущена (кол-во категорий должно совпадать)"
-            raise Exception(msg)
+        query = (
+            delete(ArticleCategory).where(ArticleCategory.article_id == article_id)
+        )
+        await database.fetch_one(query)
 
         if new_categories is None:
-            article_dict = article_record_to_dict(resultArticle, categories)
+            article_dict = article_record_to_dict(result_article, categories)
             return article_dict
         else:
-            for category, new_category in zip(categories, new_categories):
-                if new_category is not None:
-                    query = (
-                        update(Category).where(Category.category_id == category.get("category_id")).values(
-                            category_name=new_category)
-                    )
+            result_categories = []
+            for new_category in new_categories:
+                query = (select(Category).where(Category.category_name == new_category))
+                category = await database.fetch_one(query)
+
+                if category is None:
+                    query = (insert(Category).values(category_name=new_category))
+                    category = await database.fetch_one(query)
+                    result_categories.append(category)
+
+                else:
+                    result_categories.append(category)
+
+                query = (insert(ArticleCategory).values(article_id=result_article.article_id,
+                                                        category_id=category.get("category_id")))
                 await database.fetch_one(query)
-        resultCategories = await select_categories_for_update(article_id=article_id)
-        article_dict = article_record_to_dict(resultArticle, resultCategories)
+
+        article_dict = article_record_to_dict(result_article, result_categories)
         return article_dict
 
     except Exception as e:

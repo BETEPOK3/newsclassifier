@@ -245,21 +245,12 @@ def check_article_none(article: Record, params: dict) -> Article:
     return new_article
 
 
-def check_categories_none(categories: Record, params: dict) -> list:
-    if params.get("article_categories") is not None:
-        new_categories = params.get("article_categories")
-    else:
-        new_categories = categories
-
-    return new_categories
-
-
 async def select_article_for_update(article_id: int) -> Record:
     query = (
         select(Article).where(Article.article_id == article_id)
     )
-    resultArticle = await database.fetch_one(query)
-    return resultArticle
+    result_article = await database.fetch_one(query)
+    return result_article
 
 
 async def select_categories_for_update(article_id: int) -> Record:
@@ -267,8 +258,8 @@ async def select_categories_for_update(article_id: int) -> Record:
         select([Category])
         .where(ArticleCategory.article_id == article_id, Category.category_id == ArticleCategory.category_id)
     )
-    resultCategories = await database.fetch_all(query)
-    return resultCategories
+    result_categories = await database.fetch_all(query)
+    return result_categories
 
 
 async def update_article(article_id: int, params: dict):

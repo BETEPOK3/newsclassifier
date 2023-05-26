@@ -15,7 +15,7 @@
                 <div id="content" class="main-div">
                     {% include 'shared/top_nav.html' %}
                    <div>
-                       <form action="/article/update/{{content.article.article_id}}" method="get">
+                       <form action="/article/update" method="post">
                            <input name="article_id" hidden value="{{content.article.article_id}}"/>
                            <input type="submit" value="Редактировать" />
                        </form>

@@ -161,3 +161,44 @@ async def delete_article(request: Request, article_id: int):
     except Exception as e:
         logger.error(e)
         return get_error_page(request, e)
+
+
+@app.get("/article/update/{article_id}", response_class=HTMLResponse)
+async def update_article(request: Request, article_id: int):
+    try:
+        content = dict()
+        article = await get_article(article_id)
+        content["article"] = article
+        accept_header = request.headers.get('accept')
+        if accept_header == "application/json":
+            date_str = article["article_date"].isoformat()
+            article["article_date"] = date_str
+            return JSONResponse(content["article"])
+        content["keywords"] = ";".join(article["article_keywords"])
+        content["categories"] = ";".join([dct["category_name"] for dct in article["categories"]])
+        return templates.TemplateResponse("pages/article_update.html",
+                                          {"request": request, "content": content},
+                                          status.HTTP_200_OK)
+    except Exception as e:
+        logger.error(e)
+        return get_error_page(request, e)
+
+
+@app.post("/article/update/{article_id}")
+async def update_article(request: Request, article_id: int, params: dict):
+    try:
+        content = dict()
+        article = await queries.update_article(article_id=article_id, params=params)
+        content["article"] = article
+        accept_header = request.headers.get("accept")
+        if accept_header == "application/json":
+            date_str = article["article_date"].isoformat()
+            article["article_date"] = date_str
+            return JSONResponse(content["article"])
+        return templates.TemplateResponse("pages/article_text.html",
+                                          {"request": request, "content": content},
+                                          status.HTTP_200_OK)
+
+    except Exception as e:
+        logger.error(e)
+        return get_error_page(request, e)

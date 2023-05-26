@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    {% include 'shared/links.html' %}
+    <meta http-equiv="Content-Type" content="text/html; Charset=UTF-8"/>
+    <title>Index</title>
+</head>
+<body id="page-top">
+<div id="wrapper">
+    {% include 'shared/left_nav.html' %}
+    <div class="d-flex flex-column" id="content-wrapper">
+        <div id="content" class="main-div">
+            {% include 'shared/top_nav.html' %}
+            <div align="center">
+                <div>
+                    <label for="" style="font-size:18px">Название:</label>
+                    <input class="col-8" name="article_title" id="article_title"
+                           value="{{content.article.article_title}}" type="text"/>
+
+                    <br>
+                    <p class="error title-error"></p>
+                </div>
+                <div>
+                    <label for="" style="font-size:18px">Автор:</label>
+                    <input class="col-8" name="article_author" id="article_author"
+                           value="{{content.article.article_author}}" type="text"/>
+                    <br>
+                    <p class="error author-error"></p>
+                </div>
+                <div>
+                    <label for="" style="font-size:18px">Категории:</label>
+                    <input class="col-8" name="article_categories" id="article_categories"
+                           value="{{content.categories}}"
+                           type="text"/>
+                    <br>
+                    <p class="error categories-error"></p>
+                </div>
+                <div>
+                    <label for="" style="font-size:18px">Ключевые слова:</label>
+                    <input class="col-8" name="article_keywords" id="article_keywords"
+                           value="{{content.keywords}}"
+                           type="text"/>
+                    <br>
+                    <p class="error keywords-error"></p>
+                </div>
+                <div>
+                    <label for="" style="font-size:18px">Дата создания:</label>
+                    <input class="col-8" name="article_date" id="article_date"
+                           value={{content.article.article_date}}
+                           min="1970-01-01" max="2023-12-31" type="date"/>
+                    <br>
+                    <p class="error date-error"></p>
+                </div>
+                <div>
+                    <label for="" style="font-size:18px">Текст:</label>
+                    <input class="col-8" name="article_text" id="article_text"
+                           value="{{content.article.article_text}}" type="list"/>
+                    <br>
+                    <p class="error text-error"></p>
+                </div>
+                <div>
+                    <button onclick="send()">Изменить</button>
+                </div>
+                <script src="/static/js/form_update_article_script.js"></script>
+                <form action="/index/0" method="get">
+                    <button type="submit" class="btn btn-info mt-4">Отмена</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% include 'shared/scripts.html' %}
+</body>
+</html>

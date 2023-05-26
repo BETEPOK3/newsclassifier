@@ -28,6 +28,7 @@
                                 $.ajax({
                                   url: '/article/' + $("#article-id").val(),
                                   type: 'DELETE',
+                                  headers: { "Accept": "application/json" },
                                   data : $('#delete-form').serialize(),
                                   success: function(res){
                                     window.location = "/index";

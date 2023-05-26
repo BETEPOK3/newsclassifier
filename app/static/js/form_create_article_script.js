@@ -115,7 +115,7 @@ async function send() {
             method: "POST",
             headers: {
                 "Accept": "application/json",
-                "Content-Type": "application/json",
+                "Content-Type": "application/json"
             },
             body: JSON.stringify({
                 article_title: title,

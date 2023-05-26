@@ -133,6 +133,8 @@ async def create_article(request: Request):
 @app.post("/article/create")
 async def create_article(request: Request, article: ArticleSchema):
     try:
+        if (len(article.article_categories) == 0):
+            raise Exception("Количество категорий не может быть равно нулю")
         article_id = await queries.create_article(article)
         accept = request.headers["accept"]
         if (accept == "application/json"):

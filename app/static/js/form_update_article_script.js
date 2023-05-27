@@ -1,5 +1,5 @@
 async function send() {
-    let my_article_id = location.href.substring(location.href.lastIndexOf('/') + 1);
+    let my_article_id = location.href.substring(location.href.lastIndexOf('/') + 1, location.href.length - 1);
     let title = document.getElementById("article_title").value;
     title = title == "" ? undefined : title;
     let author = document.getElementById("article_author").value;

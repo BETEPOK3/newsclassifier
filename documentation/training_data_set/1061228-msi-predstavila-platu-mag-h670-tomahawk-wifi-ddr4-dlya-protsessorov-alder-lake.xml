@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[MSI представила плату MAG H670 Tomahawk WiFi DDR4 для процессоров Alder Lake]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[материнские платы]]></keyword>
+    <keyword type="str"><![CDATA[intel h670]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[материнская плата]]></keyword>
+    <keyword type="str"><![CDATA[msi]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-03-02T19:26:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Вскоре после старта продаж процессоров Intel Core 12-го поколения, производители представили материнские платы на чипсетах Z690, B660 и H610. Однако в рамках новой платформы Intel также представила чипсет H670. И отсутствие анонсов новинок на его базе создавало впечатление, что о нём все забыли. Производители наконец начали анонсировать первые модели плат на базе этого чипсета. Компания MSI, например, представила MAG H670 Tomahawk WiFi DDR4.Дизайн MAG H670 Tomahawk WiFi DDR4, похоже, во многом заимствуется у моделей серии MAG B660 Tomahawk. Ключевым отличием чипсета H670 является наличие 8-линейной шины DMI 4.0 вместо 4-линейной у B660.Ключевым же отличием между платами B660 Tomahawk и H670 Tomahawk является наличие у последней разъёма PCIe 5.0 x16, тогда как модель на чипсете Intel B660 предлагает PCIe 4.0 x16. Однако это связанно исключительно с желанием самого производителя, поскольку чипсет Intel B660 тоже поддерживает новый интерфейс.Дополнительной отличительной особенностью чипсета Intel H670 является поддержка 12 линией PCIe 4.0. Восемь из них MSI использовала для поддержки двух слотов для твердотельных NVMe-накопителей формата M.2 с поддержкой интерфейса PCIe 4.0 x4.Плата MAG H670 Tomahawk WiFi DDR4 поддерживает установку до 128 Гбайт ОЗУ. Она оборудована 2,5-гигабитным сетевым разъёмом, управляемым контроллером Intel i225-V, получила модуль Intel AX200 с поддержкой Wi-Fi 6 и Bluetooth 5.2, а также поддержку 8-канального HD-аудио на базе кодека Realtek ALC897.О стоимости платы MAG H670 Tomahawk WiFi DDR4 производитель не сообщил.]]></text>
+</doc>

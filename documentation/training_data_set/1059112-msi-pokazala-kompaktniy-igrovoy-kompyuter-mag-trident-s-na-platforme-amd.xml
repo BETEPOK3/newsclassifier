@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[MSI показала игровой компьютер MAG Trident S на платформе AMD — он похож на игровую консоль]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[компьютер]]></keyword>
+    <keyword type="str"><![CDATA[игровой компьютер]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[корпуса, настольные компьютеры]]></keyword>
+    <keyword type="str"><![CDATA[trident]]></keyword>
+    <keyword type="str"><![CDATA[msi]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-01-31T14:09:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания MSI обнародовала тизер, раскрывающий некоторые подробности о настольном компьютере небольшого форм-фактора MAG Trident S, официальная презентация которого состоится в ближайшее время.Устройство разработано прежде всего для облачных игр. В комплект поставки войдёт классический игровой контроллер, оборудованный джойстиками, крестовиной и дополнительными кнопками.Компьютер заключён в корпус объёмом всего 2,6 литра. Говорится о возможности вывода изображения одновременно на три монитора. На фронтальной панели располагаются гнёзда для гарнитуры и микрофона, порты USB Type-A и USB Type-С.Максимальной конфигурацией предусмотрено наличие процессора AMD Ryzen 7 5700G. Этот чип объединяет восемь вычислительных ядер с возможностью обработки до 16 потоков инструкций. Базовая тактовая частота составляет 3,8 ГГц, максимальная частота — 4,6 ГГц. Имеется интегрированный ускоритель Radeon Graphics, работающий на частоте до 2 ГГц.Прочие технические характеристики игровой системы MAG Trident S пока, к сожалению, не раскрываются. ]]></text>
+</doc>

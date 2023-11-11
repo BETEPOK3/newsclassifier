@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсирована манга «The DioField Chronicle»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[адаптация]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-09-11T13:06:09+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[8-го сентября в приложении  Manga UP!  запустили новую мангу  «The DioField Chronicle» . Манга основана на стратегической ролевой видеоигре, разработанной совместно Square Enix и Lancarse. Выпуск игры запланирован на 20-е сентября 2022 года для платформ Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S и Windows.  Минори Цукахара  и  Атару Арата  занимаются рисовкой. Эпоха мифов сменяется эпохой великих потрясений… Мир людей погряз в войне, которая длится уже целую эпоху. Группа наемников, называющих себя «Синие лисы» (Blue Fox) прокладывает свой путь среди огня и хаоса, своими деяниями завоевывая себе место в песнях и легендах. Но когда все закончится, будет ли их имя символом надежды, или величайшей трагедии?]]></text>
+</doc>

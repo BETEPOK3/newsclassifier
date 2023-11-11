@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Ampere, рейтрейсинг и DLSS: информация о новой консоли Nintendo утекла в Сеть]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Евгений Миркин]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[nvidia]]></keyword>
+    <keyword type="str"><![CDATA[слухи]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[nintendo switch]]></keyword>
+    <keyword type="str"><![CDATA[игровые консоли]]></keyword>
+    <keyword type="str"><![CDATA[nintendo]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-03-02T18:04:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В Сеть утёк исходный код NVIDIA DLSS, в котором была обнаружена информация о потенциальной следующей консоли Nintendo — преемнике Switch или совершенно новой модели. Сообщается, что в её основе будет лежать графика с архитектурой Ampere и поддержкой аппаратного ускорения трассировки лучей.Nintendo Switch уже завтра отпразднует пять лет с дебюта. Консоль разошлась по всему миру в количестве свыше 103 миллионов устройств. Она обладает большим и разнообразным рядом крупных игр — и в планах ещё есть интересные релизы. При этом сама Nintendo утверждает, что консоль находится только в середине своего жизненного цикла. Что, впрочем, не мешает разрабатывать новую версию.Недавно в Сети появился исходный код технологии NVIDIA DLSS. И оказалось, что в нём есть свидетельства, указывающие на существование условной Nintendo Switch 2. Пользователи, копаясь в файлах, нашли упоминание ″.nvn2″ — графического API следующей консоли Nintendo. Как это установили? Дело в том, что API оригинальной Nintendo Switch имеет кодовое название ″nvn″.Утечка также предполагает, что условная Nintendo Switch 2, помимо того, что базируется на архитектуре GPU Ampere и поддерживает трассировку лучей, также сможет воспользоваться функцией DLSS 2.2.Примечательно, что это также может быть Nintendo Switch Pro — обновлённая модель консоли, а не следующее поколение. На это указывает тот факт, что данные в файлах датированы 2019 годом. Также в Сети полагают, что эта модель может поступить в продажу в 2023-2024 годах.]]></text>
+</doc>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[ Этот крокодил умрёт через 100 дней]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Xarlamov]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+    <category type="str"><![CDATA[Фильмы]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[фильм]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-03-20T15:33:08+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Весьма необычная твиттер-манга  Hyakunichigo Ni Shinu Wani   (This crocodile will die in 100 days), получит бумажную версию, а так же аниме-адаптацию (фильм). На русский сейчас  переведено 99 дней , 100-я страничка-день вышла как раз сегодня. Каждая глава-страничка этой манги - день из жизни одного крокодила. И - обратный отсчёт до его смерти, всё согласно названию. Первоначально, в основном, обыгрывались ситуации длинных планов, прожектов и мечтаний данного персонажа, весьма забавных, на фоне нашего послезнания. Ближе к середине, обычная повседневка с несмелой романтикой, друзьями, работой, проблемами и радостями. Заменить крокодила на обычного человека, да ничего бы и не изменилось, а деньки то капают. И теперь уже... хочется и не хочется узнать - как же оно всё закончится (надеюсь, не грузовик-куном) ]]></text>
+</doc>

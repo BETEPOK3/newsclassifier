@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Готовится аниме по ещё не вышедшей игре «Anonymous;Code» из серии Science Adventure]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Twinqssly]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[слухи]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-03-11T20:18:42+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[MAGES. (ранее 5pb.) готовят аниме по ещё не вышедшей визуальной новелле «Anonymous;Code» из серии Science Adventure, куда входят  Chaos;Head ,  Steins;Gate ,  Robotics;Notes ,  Occultic;Nine ,  Chaos;Child . «Проблема 2036 года» привела к разрушению крупных городов по всему миру. Суперкомпьютеру Gaia доверили создать альтернативную модель Земли из-за возможных последствий ещё одной надвигающейся катастрофы, «проблемы 2038 года». Однако жители альтернативной Земли создали свой собственный симулятор Земли, поставив под вопрос существование исходной Земли. Поллон Такаока, владеет способностью сохранять и загружать различные моменты, как в видеоиграх. И каким-то образом он и всё человечество оказываются связаны с «Посланием Аресибо», радиосигналом людей к иным мирам.]]></text>
+</doc>

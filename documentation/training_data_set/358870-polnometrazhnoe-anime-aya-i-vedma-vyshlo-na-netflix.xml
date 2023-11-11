@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Полнометражное аниме «Ая и ведьма» вышло на Netflix]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Twinqssly]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[лицензия]]></keyword>
+    <keyword type="str"><![CDATA[netflix]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-11-18T22:32:55+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Полнометражное аниме « Ая и ведьма » от режиссёра  Горо Миядзаки  и  Studio Ghibli  вышло на  Netflix . Картина доступна на сервисе в русской озвучке, а также на японском языке с русскими и украинскими субтитрами. Японская премьера аниме состоялась 30 декабря 2020 года на телеканале  NHK General . Прокат фильма в кинотеатрах России проходил с 25 марта 2021 года.  « Ая и ведьма » является адаптацией детской книги «Ирвиг и ведьма», которую написала британская писательница  Диана Уинн Джонс . Книга рассказывает о девочке-сироте, которая счастливо живёт в приюте Сент-Морвальдс до тех пор, пока её не забирают оттуда приёмные родители —  Мэндрейк  и  Белла Яга . Последняя оказывается ведьмой, и Ирвиг пытается спастись от неё, используя всю свою смекалку и помощь говорящего кота.]]></text>
+</doc>

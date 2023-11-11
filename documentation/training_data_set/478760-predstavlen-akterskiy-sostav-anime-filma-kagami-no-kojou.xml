@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Представлен актерский состав аниме-фильма «Kagami no Kojou»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[сейю]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-09-20T11:03:10+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Официальный сайт аниме-фильма  «Одинокий замок в Зазеркалье»  представил актерский состав.  Премьера фильма в Японии состоится 23-го декабря 2022 года. В тихом районе Токио семеро подростков просыпаются и обнаруживают, что в их спальнях блестят зеркала. Одно прикосновение, и они переносятся из своей одинокой жизни в удивительный замок, наполненный винтовыми лестницами, настороженными портретами и мерцающими люстрами. Исследуя его, дети находят подсказки, которые приводят их к потайной комнате, где желание одного из них будет исполнено. Но есть одна загвоздка: если они не покинут замок к пяти часам, они будут наказаны. С течением времени выясняется ужасающая правда: спасутся только те, у кого хватит смелости поделиться своими секретами. СЕЙЮ И ПЕРСОНАЖИ Ami Tōma в роли  Kokoro Anzai Кокоро Андзай Sakura Kiryuu Сакура Кирю  в роли Aki Takumi Kitamura Такуми Китамура  в роли Rion Aoi Miyazaki Аой Миядзаки  в роли Kitajima-sensei Rihito Itagaki в роли Subaru Naho Yokomizo Нахо Ёкомидзо  в роли Fūka Minami Takayama Минами Такаяма  в роли Masamune Yuuki Kaji Юки Кадзи  в роли Ureshino Kumiko Aso Кумико Асо  в роли матери Кокоро]]></text>
+</doc>

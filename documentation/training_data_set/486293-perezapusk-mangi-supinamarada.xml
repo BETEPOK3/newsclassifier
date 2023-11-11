@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Перезапуск манги «Supinamarada!»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[перезапуск]]></keyword>
+    <keyword type="str"><![CDATA[дата]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-11-20T21:51:11+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В газете  Hokkaido Shimbun  сообщили, что  Сатору Нода  перезапустит мангу  «Хоккей!»  весной 2023 года. Манга будет публиковаться в журнале Young Jump(Weekly). После смерти матери Ро Сиракава и его сестра Харуна вынуждены переехать к родственникам в маленький провинциальный город. Оставшись сиротами в пятнадцать лет, они постепенно привыкают к новым людям и к новой жизни. Мать Ро хотела, чтобы однажды он стал олимпийским чемпионом, и он сам мечтал об этом, но трагедия, оборвавшая жизнь его матери за день до решающих соревнований, сломила его. Он пропустил чемпионат и потерял единственный шанс исполнить свою мечту. Но, застряв в глухом городишке, Ро неожиданно для себя обретает новую страсть — хоккей, и в его жизни появляется новая цель.]]></text>
+</doc>

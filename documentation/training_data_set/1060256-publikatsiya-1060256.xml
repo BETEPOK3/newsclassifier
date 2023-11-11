@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Слухи: грядущий доступный MacBook Pro будет отличаться от предшественника только новым процессором]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[компьютеры и ноутбуки apple]]></keyword>
+    <keyword type="str"><![CDATA[ноутбук]]></keyword>
+    <keyword type="str"><![CDATA[рынок it]]></keyword>
+    <keyword type="str"><![CDATA[apple]]></keyword>
+    <keyword type="str"><![CDATA[утечка]]></keyword>
+    <keyword type="str"><![CDATA[слухи]]></keyword>
+    <keyword type="str"><![CDATA[soc и микросхемы-контроллеры]]></keyword>
+    <keyword type="str"><![CDATA[процессоры]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[macbook]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-15T19:23:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В следующем месяце компания Apple представит новый Arm-процессор M2 в составе обновлённого 13-дюймового MacBook Pro, сообщает интернет-издание MacRumors, ссылаясь на надёжный источник, имеющий тесные связи с цепочкой поставок Apple.Сообщается, что новый ноутбук не претерпит серьёзных конструктивных изменений по сравнению с MacBook Pro 2020 года, основанном на чипе M1. Сообщается, что будущий 13-дюймовый MacBook Pro начального уровня получит тот же дизайн, что и текущая версия устройства, включая сенсорную панель Touch Bar и экран без выреза, который появился в старших моделях серии. Дисплей не получит поддержку высокой частоты обновления.Свежая утечка опровергает некоторые предыдущие слухи, которые утверждали, что новый MacBook Pro лишится сенсорной панели над клавиатурой и получит обновлённый дизайн с 14-дюймовым экраном. По всей видимости, главным нововведением станет использование фирменного Arm-процессора Apple нового поколения под названием М2. Ожидается, что новый чип получит то же количество ядер CPU, что и М1, до 10 графических ядер и предложит пользователям более высокую производительность.Ожидается, что новый 13-дюймовый MacBook Pro дебютирует на весеннем мероприятии Apple, которое предположительно пройдёт 8 марта. По слухам, в этот же день будут представлены новые iPhone SE и iPad Air с чипсетом A15 Bionic.]]></text>
+</doc>

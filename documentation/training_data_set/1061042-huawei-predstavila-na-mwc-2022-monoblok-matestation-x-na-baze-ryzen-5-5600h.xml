@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Huawei представила на MWC 2022 моноблок MateStation X на базе Ryzen 5 5600H]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[ryzen 5000]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[huawei]]></keyword>
+    <keyword type="str"><![CDATA[barebone-системы, неттопы,  all-in-one pc,  медиацентры]]></keyword>
+    <keyword type="str"><![CDATA[моноблок]]></keyword>
+    <keyword type="str"><![CDATA[mwc 2022]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-27T18:32:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В ходе виртуальной презентации в рамках выставки MWC 2022 компания Huawei представила несколько продуктов для международного рынка. Одним из них стал 28,2-дюймрвый моноблок MateStation X, который производитель анонсировал в Китае ещё осенью прошлого года. В основе системы лежит процессор AMD серии Ryzen 5000.В составе 28,2-дюймового моноблока MateStation X применяется сенсорная IPS-матрица с разрешением 3840 × 2560 пикселей, соотношением сторон 3:2, 98-% охватом цветового пространства DCI-P3 и 100-% охватом sRGB. Дисплей сертифицирован TUV Rheinland, что свидетельствует о практически нулевом уровне излучения вредного синего света.Моноблок собран в металлическом корпусе и оснащён 2.1-канальной аудиосистемой с поддержкой технологии Diavlet и собственного алгоритма Histen, разработанного Huawei. Он также имеет 4 микрофона, которые распознают голосовые команды на расстоянии до 5 метров.Huawei MateStation X имеет шестиядерный процессор AMD Ryzen 5 5600H, работающий в диапазоне частот от 3,3 до 4,2 ГГц. Компанию ему составляют 16 Гбайт оперативной памяти DDR4-3200, а также NVMe-накопитель ёмкостью 1 Тбайт. Набор физических разъёмов представлен двумя USB-C 3.2 Gen 1, двумя USB-A 3.2 Gen 1 и 3,5-мм аудиоразъёмом. Из беспроводных интерфейсов стоит отметить поддержку Wi-Fi 6 и Bluetooth 5.1.Huawei поставляет MateStation X с фирменной беспроводной клавиатурой с дактилоскопическим сенсором и Bluetooth-мышью Huawei AF30. Компьютер работает под управлением Windows 11. Для европейского рынка моноблок оценён в €2199.]]></text>
+</doc>

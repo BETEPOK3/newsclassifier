@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Опубликовали музыкальный клип к аниме-фильму «Kimi wo Aishita Hitori no Boku e»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Музыка]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[клип]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-09-14T12:24:01+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Официальный твиттер аниме-фильма  «Единственному мне, кто тебя любил»  опубликовал музыкальный клип с кадрами из фильма.  Премьера фильма в Японии состоится 7-го октября 2022 года. Мир, в котором уже устоялось, что люди должны ежедневно проходят сквозь несколько других параллельных миров, не сильно отличающихся друг от друга, на своём пути куда-либо. Коёми Хидака , после развода своих родителей, оставшись жить со своим отцом, однажды встречает  Сиори Сато  в научно-исследовательском институте, где работает его отец. Хоть и полюбив друг друга, Коёми и Cиори, уверены, что никогда не смогут быть вместе, поэтому они решают перепрыгнуть в другой мир, где судьба не сделала их сводными братом и сестрой... В мире без неё нет смысла. МУЗЫКАЛЬНЫЙ КЛИП Saucy Dog  исполняет  «Summer Daydream»]]></text>
+</doc>

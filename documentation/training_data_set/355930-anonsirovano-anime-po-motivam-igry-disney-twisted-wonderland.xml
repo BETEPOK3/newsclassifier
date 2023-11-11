@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсировано аниме по мотивам игры «Disney Twisted-Wonderland»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-10-14T09:45:09+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Состоялся анонс аниме-проекта по мотивам мобильной игры  «Disney Twisted-Wonderland» . Сама игра была запущена в Японии в марте 2020 года. Первая реклама была посвящена общежитию Heartslabyul, вдохновленному миром Алисы в стране чудес, а вторая рекламировала общежитие Savanaclaw в стиле Короля Льва. Стоит отметить, что создатель манги  «Тёмный дворецкий»   Яна Тобосо  разработала основную концепцию, сценарий и дизайн персонажей игры. А вот студия  TROYCA  анимировала вступительный ролик игры, а музыкальная группа "Night Ravels" исполнили вступительную тему «Piece of my world». История повествует о персонажах, вдохновленных злодеями из фильмов Диснея, и описывается как «приключение в академии злодеев».]]></text>
+</doc>

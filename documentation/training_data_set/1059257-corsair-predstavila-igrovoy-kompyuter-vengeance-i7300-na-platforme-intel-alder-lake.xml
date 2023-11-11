@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Corsair представила игровой компьютер Vengeance i7300 на платформе Intel Alder Lake]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[десктоп]]></keyword>
+    <keyword type="str"><![CDATA[компьютер]]></keyword>
+    <keyword type="str"><![CDATA[игровой компьютер]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[корпуса, настольные компьютеры]]></keyword>
+    <keyword type="str"><![CDATA[corsair]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-02T07:51:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Corsair анонсировала настольный компьютер Vengeance i7300, разработанный для любителей игр. В новинке использованы аппаратная платформа Intel и операционная система Windows 11 Home.Установлена материнская плата на наборе системной логики Intel Z690. «Сердце» десктопа — процессор Core i7-12700K поколения Alder Lake. Чип содержит 12 вычислительных ядер (восемь производительных и четыре энергоэффективных) с возможностью одновременной обработки до 20 потоков инструкций. Максимальная тактовая частота в режиме Turbo составляет 5,0 ГГц. Использовано жидкостное охлаждение.В состав графической подсистемы включён ускоритель NVIDIA GeForce RTX 3070 Ti. Объём оперативной памяти DDR5-4800 составляет 32 Гбайт (2 × 16 Гбайт), вместимость твердотельного накопителя NVMe — 1 Тбайт.В оснащение включены сетевой адаптер 2.5G Ethernet, контроллеры беспроводной связи Wi-Fi 6 и Bluetooth 5. Питание обеспечивает блок мощностью 850 Вт с сертификатом 80 PLUS Gold.В число доступных интерфейсов входят порты USB 3.2 Gen 1 Type-A, USB 3.2 Gen 2 Type-C, USB 2.0, DisplayPort, HDMI, гнездо RJ45 для сетевого кабеля и аудиогнёзда. Информации об ориентировочной цене пока нет. ]]></text>
+</doc>

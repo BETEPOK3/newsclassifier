@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[На рынке смарт-устройств стандарта Matter прогнозируется взрывной рост]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[abi research]]></keyword>
+    <keyword type="str"><![CDATA[разработка и производство электроники]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[рынок it]]></keyword>
+    <keyword type="str"><![CDATA[matter]]></keyword>
+    <keyword type="str"><![CDATA[прогноз]]></keyword>
+    <keyword type="str"><![CDATA[умный дом]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-10T07:24:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания ABI Research сделала прогноз по поставкам устройств для умного дома, выполненных в соответствии со стандартом Matter. Аналитики полагают, что в ближайшие годы данное направление ожидает стремительный рост.Стандарт Matter разрабатывается с целью удешевления производства домашнего смарт-оборудования и улучшения совместимости продуктов различных производителей. Кроме того, Matter обеспечит бесперебойную работу устройств, а также их надёжное и безопасное подключение.Разработку единого протокола инициировали Apple, Google и Amazon. На сегодняшний день в альянс входят более 400 компаний по всему миру, в том числе российские «Сбер» и «Яндекс».По мнению специалистов ABI Research, в течение пяти лет Matter станет доминирующим стандартом на рынке устройств для умного дома. Уже в текущем году поставки таких продуктов превысят 100 млн штук.В общей сложности, полагают аналитики, между 2022 и 2030 гг. суммарные поставки устройств на базе Matter превысят 5,5 млрд единиц. В целом, внедрение данного стандарта может полностью изменить ландшафт мирового рынка домашнего смарт-оборудования. ]]></text>
+</doc>

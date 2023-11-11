@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсирован новый проект во франшизе "The ]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[франшиза]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-07-26T18:16:33+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В честь 16-летия и во время прямой   трансляции , состоялся  новый проект  во франшизе  [email protected] . СОСТАВ СОЗДАТЕЛЕЙ Производство:  Khara   &  CloverWorks Режиссёр:  Ацуси Нисигори  ( главный аниматор  Evangelion: 3.0+1.0 Thrice Upon a Time ). Все девушки Японии мечтают об этой карьере, но лишь единицы добиваются известности». Молодое продюсерское агентство «765 -про», создающее будущих молодежных поп-идолов, связывает свои надежды с приходом молодого продюсера, которому окажут поддержку менеджер Рицуко и секретарь Котори. Вместе они должны помочь раскрутиться двенадцати юным дарованиям — девушкам от 13 до 20 лет из разных семей и с самыми разными характерами, привычками, достоинствами и недостатками. Путь к славе тернист, и начинать придется с самых низов, но вместе ведь веселее!]]></text>
+</doc>

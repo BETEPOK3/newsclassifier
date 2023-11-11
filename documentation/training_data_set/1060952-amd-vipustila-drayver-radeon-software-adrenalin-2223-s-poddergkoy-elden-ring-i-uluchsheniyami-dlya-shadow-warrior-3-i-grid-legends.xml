@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[AMD выпустила драйвер Radeon Software Adrenalin 22.2.3 с поддержкой Elden Ring и улучшениями для Shadow Warrior 3 и GRID Legends]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Владимир Фетисов]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[драйвер]]></keyword>
+    <keyword type="str"><![CDATA[драйверы]]></keyword>
+    <keyword type="str"><![CDATA[программное обеспечение]]></keyword>
+    <keyword type="str"><![CDATA[видеокарта]]></keyword>
+    <keyword type="str"><![CDATA[amd]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-25T12:13:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания AMD выпустила графический драйвер Radeon Software Adrenalin 22.2.3. В нём разработчики реализовали поддержку вышедшего 25 февраля ролевого экшена Elden Ring, а также внесли некоторые улучшения для Shadow Warrior 3 и GRID Legends.Улучшения для Shadow Warrior 3:Улучшения для GRID Legends:Вместе с этим разработчики опубликовали список известных проблем, исправления для которых будут включены в будущие версии драйвера Adrenalin:]]></text>
+</doc>

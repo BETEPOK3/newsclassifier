@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Apple уже ведёт переговоры о производстве фирменных 5G-модемов для iPhone]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[производство микросхем]]></keyword>
+    <keyword type="str"><![CDATA[tsmc]]></keyword>
+    <keyword type="str"><![CDATA[iphone]]></keyword>
+    <keyword type="str"><![CDATA[apple]]></keyword>
+    <keyword type="str"><![CDATA[модем]]></keyword>
+    <keyword type="str"><![CDATA[soc и микросхемы-контроллеры]]></keyword>
+    <keyword type="str"><![CDATA[разработка и производство электроники]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-23T19:50:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Apple ведёт переговоры с потенциальными новыми партнёрами, которые должны помочь ей в выпуске первых собственных 5G-модемов для iPhone. Сообщается, что Apple обсуждает сотрудничество с ASE Technology, владеющей Advanced Semiconductor Engineering (ASE) и Siliconware Precision Industries (SPIL), и может поручить ей упаковку своих первых 5G-модемов, сообщает DigiTimes. Сообщается, что ASE и SPIL выступали в роли партнёров Qualcomm по упаковке 5G-модемов для iPhone, включая новейший Snapdragon X65 5G, который в настоящее время производится Samsung.  По оценкам DigiTimes, Apple поставит не менее 200 миллионов новых iPhone в 2023 году и, несомненно, будет полагаться на нескольких партнёров, производящих 5G-модемы её разработки, основываясь на своей обычной политике управления цепочками поставок.Сообщается, что Apple уже договорилась со своим основным партнёром по производству чипов TSMC, насчёт производства модемов собственной разработки, которые, как ожидается, появятся в iPhone 2023 года. Apple и TSMC в настоящее время тестируют производство этих модемов с использованием 5-нм техпроцесса. Тем не менее, массовое производство микросхем будет осуществляться по нормам 4-нм техпроцесса.TSMC уже работает над тем, чтобы наладить производство чипсета А16 для флагманских моделей iPhone 2022 года по нормам 4-нм техпроцесса. Ожидается, что в следующем году чип А17 будет производиться в соответствии с 3-нм техпроцессом.]]></text>
+</doc>

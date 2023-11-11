@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсировано новое оригинальное аниме от Crunchyroll и Adult Swim]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[kataneer]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[cruchchyroll]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-07-26T12:53:13+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[На 2021 год заявлено новое 12-серийное аниме  Kaizoku Oujo  (Fena: Pirate Princess) по оригинальному сценарию — совместный проект Crunchyroll и Adult Swim. Также были представлены синопсис и первый трейлер. Режиссер:  Kazuto Nakazawa  ( Би: Начало ) Студия:  Producton I.G. Fena: Pirate Princess повествует о девочке-сироте Фене Хаутман. Она росла на острове, где единственное возможное будущее — стать рабыней. Солдаты Британской империи пользуются бесплатной рабочей силой, а затем избавляются от нее. Однако Фена не просто бессильная сирота. Когда загадочное прошлое постучится в дверь, она вырвется из-под контроля притеснителей. Фена стремится сотворить новую личность, свободную от оков. Она в поисках места, где сможет найти себя и правду, которая скрывается за кодовым словом «Рай». Это история о приключении длиною в жизнь, в которой Фена, изгои и удивительные союзники спешат навстречу своим мечтам.]]></text>
+</doc>

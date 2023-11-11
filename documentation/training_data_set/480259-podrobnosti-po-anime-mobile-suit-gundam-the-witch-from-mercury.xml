@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Подробности по аниме «Mobile Suit Gundam: The Witch from Mercury»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[трансляция]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-09-29T14:14:41+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Стало известно, что аниме  «Мобильный воин Гандам: Ведьма с Меркурия»  будут транслировать сплит-куром. Трансляция второго кура состоится в апреле 2023 года. Количество серий не уточнялось.  Трансляция первого кура начнется 2-го октября 2022 года. 122 год эпохи A.S. (Ad Stella). Эпоха, в ходе которой множество транснациональных корпораций вышли в космос и построили в нем огромную экономическую систему. Одинокая девушка с далекой планеты Меркурий поступает в технологическую школу Астикассии, которая управляется Beneritt Group — компанией, доминирующей в индустрии производства мобильных воинов. Ее зовут Сулетта Меркьюри. С алым светом, что горит в ее чистом сердце, эта девушка шаг за шагом идет по новому миру.]]></text>
+</doc>

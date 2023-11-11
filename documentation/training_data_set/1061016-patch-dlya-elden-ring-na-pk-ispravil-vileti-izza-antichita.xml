@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Elden Ring для ПК получила патч, который исправил вылеты из-за античита]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Владимир Куншин]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[моды, патчи, дополнения]]></keyword>
+    <keyword type="str"><![CDATA[elden ring]]></keyword>
+    <keyword type="str"><![CDATA[fromsoftware]]></keyword>
+    <keyword type="str"><![CDATA[bandai namco]]></keyword>
+    <keyword type="str"><![CDATA[xbox]]></keyword>
+    <keyword type="str"><![CDATA[playstation]]></keyword>
+    <keyword type="str"><![CDATA[rpg, jrpg]]></keyword>
+    <keyword type="str"><![CDATA[bandai namco entertainment]]></keyword>
+    <keyword type="str"><![CDATA[патч]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-26T22:22:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Студия FromSoftware выпустила патч под номером 1.02.1 для ПК-версии ролевого экшена с открытым миром Elden Ring. Небольшое обновление сосредоточено на исправлении вылетов игры из-за античита Easy Anti-Cheat и других технических проблем.Как ранее стало известно, некоторые вылеты с Easy Anti-Cheat на ПК происходили при наличии двухбайтовых символов в названии учётной записи Steam. Теперь эта проблема решена. Также патч улучшил управление с помощью мыши. Ещё было уменьшено количество файлов, необходимых для загрузки при входе в новую игровую область.В негативных отзывах к Elden Ring в Steam пользователи жалуются на значительные падения кадровой частоты. На момент написания рейтинг игры составляет 65,28 %. Разработчики ранее отметили, что работают над оптимизацией Elden Ring на ПК. Пока что FromSoftware не готова назвать выход этого обновления.Elden Ring вышла 25 февраля на ПК (Steam), PS4, PS5, Xbox One, Xbox Series X и S.]]></text>
+</doc>

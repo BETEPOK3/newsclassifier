@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Количество игроков в Sifu за первые три дня с релиза достигло полумиллиона]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Рудь]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[боевик]]></keyword>
+    <keyword type="str"><![CDATA[sifu]]></keyword>
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[экшен]]></keyword>
+    <keyword type="str"><![CDATA[sloclap]]></keyword>
+    <keyword type="str"><![CDATA[playstation]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-11T19:06:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Разработчики из независимой французской студии Sloclap (Absolver) в официальном микроблоге своего рукопашного экшена Sifu поделились информацией о первых успехах игры после релиза.Как стало известно, за первые три дня с момента официальной премьеры аудитория Sifu разрослась до 500 тыс. человек. К продажам данный показатель в Sloclap почему-то не приравнивают.Стоит отметить, что официально Sifu ни по каким подпискам не раздаётся. Единственный способ получить доступ к игре — приобрести её на одной из целевых платформ. Впрочем, создатели могут также учитывать вторичный рынок.«Мы польщены тем, что более полумиллиона из вас к настоящему моменту уже встали на путь мести. От всех сотрудников в Sloclap — СПАСИБО ВАМ», — поделились разработчики.Sifu дебютировала 6 февраля для владельцев расширенного издания, а 8-го числа стала доступна обладателям базовой версии. Игра вышла на PC (Epic Games Store), PlayStation 4 и PlayStation 5.]]></text>
+</doc>

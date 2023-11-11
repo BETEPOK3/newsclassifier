@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Охладитель Silent Cooler V2 OWL-SC200V2 подходит для мощных чипов Intel Alder Lake]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[кулер]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[охлаждение]]></keyword>
+    <keyword type="str"><![CDATA[система охлаждения]]></keyword>
+    <keyword type="str"><![CDATA[системы охлаждения]]></keyword>
+    <keyword type="str"><![CDATA[owltech]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-18T09:13:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Owltech выпустила процессорный охладитель Silent Cooler V2 OWL-SC200V2 башенного типа. Новинка обладает относительно небольшим уровнем шума и при этом справляется с отводом тепла от чипов, чей показатель TDP достигает 200 Вт.Алюминиевый радиатор пронизывают четыре 6-мм тепловые трубки, изготовленные из меди с никелевым покрытием. Они выполнены по технологии DTH, которая предполагает непосредственный контакт с процессорной крышкой.Конструкция «поток сбоку» включает 130-мм вентилятор, оснащённый гидравлическим подшипником и крыльчаткой с девятью лопастями. Скорость вращения изменяется методом широтно-​импульсной модуляции (ШИМ) в зависимости от текущей нагрузки: минимальное значение составляет 800 оборотов в минуту, максимальное — 1600 (±10 %). Объём воздушного потока достигает 138 кубометров в час при уровне шума не более 28,6 дБА.Кулер совместим с процессорами AMD Socket AM4, а также Intel LGA 1156/1155/1150/1151/1200/1700. Таким образом, решение подходит в том числе для чипов Intel Alder Lake. Габариты составляют 130 × 75 × 159 мм, вес — около 700 г. ]]></text>
+</doc>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Valve изменит правила выставления скидок в Steam с 28 марта]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Игнатий Колыско]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[valve]]></keyword>
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[steam]]></keyword>
+    <keyword type="str"><![CDATA[скидки]]></keyword>
+    <keyword type="str"><![CDATA[акции]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-21T13:38:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Valve опубликовала новый свод правил для разработчиков, которые выпускают свои игры в Steam или планируют это сделать. Документ содержит обновлённую информацию об участии в распродажах и системе выставления скидок.С 28 марта текущего года начнут действовать ограничения на размер устанавливаемой скидки: не меньше 10 %, но и не более 90 %.Остальные тезисы из нового списка правил выглядят следующим образом:Как отмечено выше, издателям и разработчикам разрешат обходить правила по применению скидок только в случае проведения сезонных событий в Steam. Речь идёт о четырёх крупных сезонных распродажах: летней, осенней, зимней, а также в лунный Новый год.]]></text>
+</doc>

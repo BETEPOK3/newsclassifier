@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Премьера и детали сериала "Tensai Ouji no Akaji Kokka Saisei Jutsu"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[дата_показа]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-08-12T06:51:09+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Команда  анимационного сериала " The Genius Prince's Guide to Raising a Nation Out of Debt ", назвала дату показа, также был представлен новый трейлер. СОСТАВ СОЗДАТЕЛЕЙ Производство:  Y.A.L Режиссёр: Масато Тамагава Сценарий:  Деко Акао Композитор:  Toshihiko Sahashi Дизайн:  Ryuunosuke Ouji Принц этого небольшого и слабого королевства стремится только к одному: побыстрее продать свою страну и жить спокойной жизнью на досуге! К сожалению, самое большое препятствие, с которым он когда-либо столкнется, - это его собственный ум! По мере того, как он достигает все больших достижений, он получает все больше и больше благосклонности у людей своего королевства . Что делает выполнение его собственных мечтаний ещё труднее!!! Его тайное предательство обернулось победой! Показ начнётся в январе 2022 года.]]></text>
+</doc>

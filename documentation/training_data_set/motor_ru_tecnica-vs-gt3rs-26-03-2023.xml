@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Видео: Lamborghini Huracan Tecnica и Porsche 911 GT3 RS устроили гонку]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Александр Пономарёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[911]]></keyword>
+    <keyword type="str"><![CDATA[gt3 rs]]></keyword>
+    <keyword type="str"><![CDATA[lamborghini]]></keyword>
+    <keyword type="str"><![CDATA[huracan]]></keyword>
+    <keyword type="str"><![CDATA[porsche]]></keyword>
+    <keyword type="str"><![CDATA[дрэг-рейсинг]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2023-03-25T11:00:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Блогеры сравнили трековые Lamborghini Huracan Tecnica и Porsche 911 GT3 RS. В линейке Lamborghini и Porsche достаточно спортивных моделей, каждая из которых имеет массу модификаций — от откровенно, если можно так сказать, повседневных исполнений до самых экстремальных трековых версий. В очередной гонке по прямой сошлись два заднеприводных купе: Lamborghini Huracаn Tecnica и Porsche 911 GT3 RS последнего поколения 992. Спорткары созданы для езды по кольцевым трассам, а не для дрэг-заездов, но оттого лишь интереснее!
+У новейшего GT3 RS под капотом атмосферный двигатель 4.0 мощностью 525 лошадиных сил и крутящим моментом 465 Нм. В этой версии заднеприводного Porsche 911 коробка передач безальтернативная — 7-ступенчатая роботизированная трансмиссия PDK.
+Сам автомобиль массой около полутора тонн изначально заточен под быструю езду по кольцевым трассам. Huracаn Tecnica представляет собой промежуточное звено между обычным Huracan Evo RWD и экстремальным Huracan STO.
+Заднеприводное купе при массе порядка 1400 килограммов оснащено 640-сильным атмосферным 5,2-литровым V10 и 7-ступенчатым «роботом». Автомобили заточены под минимальное время круга на трассе, но журналисты издания Motorsport Magazine решили свести Lamborghini и Porsche в гонке по прямой.]]></text>
+</doc>

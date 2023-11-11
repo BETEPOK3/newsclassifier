@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Планшет Xiaomi Mi Pad 5 с системой Windows 11 для Arm протестировали в Geekbench]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Владимир Фетисов]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[arm-чип]]></keyword>
+    <keyword type="str"><![CDATA[операционные системы]]></keyword>
+    <keyword type="str"><![CDATA[windows 11]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+    <keyword type="str"><![CDATA[xiaomi mi pad 5]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-26T17:39:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Первые сообщения о том, что Xiaomi Mi Pad 5 может работать под управлением Windows 11 появились осенью прошлого года и с тех пор процесс оптимизации ОС на планшете значительно продвинулся за счёт работы энтузиастов. Теперь же Xiaomi Mi Pad 5 с Windows 11 для Arm был протестирован в бенчмарке Geekbench.Очевидно, Xiaomi Mi Pad 5 никогда не получит официальную поддержку Windows 11 для Arm, поэтому некоторые компоненты планшета не получат драйверы. Однако это не помешало энтузиастам установить Windows 11 для Arm на планшет компании Xiaomi и протестировать его в Geekbench.Напомним, Mi Pad 5 (2021) представляет собой производительное устройство, которое построено на основе мощного процессора Qualcomm Snapdragon 860 (SM8150-AC) и работает под управлением Android 11. За обработку графики отвечает ускоритель Adreno 640. Конфигурация дополняется 6 Гбайт оперативной памяти и накопителем на 128 Гбайт. В планшете задействован IPS-дисплей с поддержкой разрешения 2560 × 1600 пикселей.Во время тестирования Mi Pad 5 с Windows 11 для Arm в бенчмарке Geekbench 5 планшет набрал 456 баллов в одноядерном режиме, тогда как в многоядерном режиме результат вырос до 1992 баллов. По сравнению с х86-совместимыми процессорами результат не слишком впечатляющий.Однако, если эти результаты сравнить с показателями платформы Snapdragon 8cx, предназначенной для устройств с Windows, то снижение производительности не превысит 20-30 %. Этот результат совсем неплох, особенно если учесть, что официальной поддержки Snapdragon 860 в Windows 11 попросту нет и всё ещё существует длинный список компонентов с отсутствующими драйверами.]]></text>
+</doc>

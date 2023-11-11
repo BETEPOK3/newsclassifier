@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новости сериала "Kyuuketsuki Sugu Shinu"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Трейлер]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-03-27T21:32:29+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Команда сериала "Kyuuketsuki Sugu Shinu" представила новые постер и трейлер. Выпустит его студия Madhouse. Премьера в октябре. Режиссер Хироси Кодзина (Hiroshi Koujina) - "Hunter x Hunter" 2011 года. Сценарий пишет Юкие Сугавара (Yukie Sugawara) - "Overlord", художник персонажей Маюко Накано (Mayuko Nakano) - "WWW.Working!!". Вампира Дралюка озвучит Дзюн Фукуяма (Jun Fukuyama) - Кинг в "Nanatsu no Taizai". Рональд заговорит голосом Макото Фурукава (Makoto Furukawa) - Шерлок Холмс в "Yuukoku no Moriarty". Лорд-вампир Дралюк превращается в пепел от малейшего стресса. Однажды чудесным способом он объединяется с охотником на вампиров Роналду (который совсем этому не рад). Так или иначе им придется сотрудничать и противостоять вампирам-мошенникам, следователям и прочим с постоянно отбрасывающим копыта лордом Дралюком.]]></text>
+</doc>

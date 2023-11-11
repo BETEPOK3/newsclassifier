@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Постер и подробности по аниме «Ayakashi Triangle»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[постер]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-09-02T10:50:46+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Официальный сайт аниме  «Треугольник Аякаси»  опубликовал новый постер, представил персонал и огласил месяц премьеры.  Трансляция начнется в январе 2023 года. СОСТАВ СОЗДАТЕЛЕЙ Производство: CONNECT (дочерняя компания студии SILVER LINK) Режиссёр:  Noriaki Akitaya Нориаки Акитая   Сценарист:  Shougo Yasukawa Сёго Ясукава Дизайнер персонажей:  Hideki Furukawa Хидэки Фурукава Композитор:  Rei Ishizuka Рэй Исидзука Японию начали наводнять таинственные монстры — Аякаси. Ниндзя-экзорцист по имени Мацури неустанно борется с ними изо дня в день, чтобы уберечь себя и свою подругу детства Судзу. Однако после появления кота-аякаси по имени Сироганэ, всё переворачивается с ног на голову! Сможет ли наш отважный герой справиться с возникшей напастью? С этого и начинается наше приключение от всеми известного мангаки Кэнтаро Ябуки, который вернулся в «Джамп» с новой фэнтези историей с привкусом романтики!]]></text>
+</doc>

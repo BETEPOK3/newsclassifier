@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Трейлер и подробности к аниме «Bocchi the Rock!»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Трейлер]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-09-14T17:12:35+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Официальный сайт аниме  «Одинокий рокер!»  опубликовал новый трейлер, постер, представил персонал и огласил дату премьеры.  Трансляция начнется 9-го октября 2022 года. СОСТАВ СОЗДАТЕЛЕЙ Производство:  CloverWorks Режиссёр:  Keiichirou Saitou Кэйитиро Сайто  &  Yuusuke Yamamoto Юсукэ Ямамото Сценарист:  Erika Yoshida Эрика Ёсида Дизайнер персонажей: Kerorira Композитор:  Tomoki Kikuya Томоки Кикуя Мечтающая в будущем играть в музыкальной группе, старшеклассница Хитори Гото взялась за уроки игры на гитаре. Ничего не мешает исполнению её мечты, кроме самой Хитори, которая настолько застенчива и зажата, что не смогла завести ни одного друга, чего уж говорить о создании собственного музыкального коллектива. Сама судьба решает помочь Хитори, и та, на своё счастье, встречает Нидзику Идзити, которая играет на ударных в собственной группе и как раз подыскивает гитаристку!]]></text>
+</doc>

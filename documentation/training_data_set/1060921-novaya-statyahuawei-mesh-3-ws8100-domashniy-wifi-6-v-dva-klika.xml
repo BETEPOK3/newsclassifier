@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новая статья: HUAWEI Mesh 3 (WS8100) — домашний Wi-Fi 6+ в два клика]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[3DNews Team]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[роутер]]></keyword>
+    <keyword type="str"><![CDATA[huawei]]></keyword>
+    <keyword type="str"><![CDATA[беспроводные сети]]></keyword>
+    <keyword type="str"><![CDATA[сети и коммуникации]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-25T11:00:02+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Huawei в этом месяце выпустила в России беспроводной роутер Huawei Mesh 3 с поддержкой стандарта Wi-Fi 6+. Новинка предназначена для создания mesh-сети, то есть позволяет развернуть бесшовную беспроводную сеть на большой площади.Huawei Mesh 3 предлагается в версиях из двух или трёх модулей, каждый из которых способен обеспечить беспроводную сеть на площади до 200 м2, согласно спецификациям, что в сумме даёт покрытие до 600 м2. При этом обеспечивается и высокая скорость передачи данных: производитель заявляет до 2402 Мбит/с на частоте 5 ГГц и до 574 Мбит/с в диапазоне 2,4 ГГц.Есть и различные полезные дополнительные функции вроде NFC-модуля для мгновенного подключения к Wi-Fi смартфонов на Android. Узлы самостоятельно выбирают предпочтительный диапазон для соединения между собой, а при повышении нагрузки сами распределяют подключённые устройства между собой и диапазонами, чтобы никого не обидеть. Подробнее со всеми особенностями Huawei Mesh 3 можно ознакомиться в нашем обзоре.]]></text>
+</doc>

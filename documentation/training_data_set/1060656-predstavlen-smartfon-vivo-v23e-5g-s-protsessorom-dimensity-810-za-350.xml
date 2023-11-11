@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Представлен смартфон Vivo V23e 5G с процессором Dimensity 810 за $350]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[vivo]]></keyword>
+    <keyword type="str"><![CDATA[смартфон]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[мобильные телефоны, смартфоны, сотовая связь, коммуникаторы, кпк]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-21T11:46:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Китайская компания Vivo анонсировала смартфон среднего уровня V23e 5G, функционирующий под управлением операционной системы Funtouch OS 12 на базе Android 12.Аппарат оснащён 6,44-дюймовым дисплеем Full HD+ AMOLED с разрешением 2400 × 1080 точек. В небольшом вырезе в верхней части экрана располагается 44-мегапиксельная камера с автофокусом и максимальной диафрагмой f/2,0.Тыльная камера выполнена в виде тройного блока. Это 50-мегапиксельный основной сенсор, 8-мегапиксельный модуль с широкоугольной оптикой и 2-мегапиксельный датчик, предназначенный для макросъёмки.Установлен процессор Dimensity 810 разработки MediaTek. В состав данного решения, помимо модема 5G, входят восемь вычислительных ядер в виде связки Arm Cortex-A55 и Arm Cortex-A76 с максимальной тактовой частотой 2,4 ГГц. Обработкой графики занят ускоритель Arm Mali-G57 MC2.Смартфон несёт на борту 8 Гбайт оперативной памяти LPDDR4x и флеш-накопитель UFS 2.1 вместимостью 128 Гбайт. Есть адаптеры Wi-Fi 802.11ac и Bluetooth 5.1, приемник GPS/ГЛОНАСС/Beidou, порт USB Type-C. За питание отвечает аккумуляторная батарея ёмкостью 4050 мА·ч с 44-ваттной зарядкой. Цена составляет около 350 долларов США. ]]></text>
+</doc>

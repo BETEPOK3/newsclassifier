@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Разработчики Cyberpunk 2077 расследуют проблемы игроков на PC и PS4 после обновления 1.5]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Рудь]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[боевик]]></keyword>
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[облачные игровые платформы]]></keyword>
+    <keyword type="str"><![CDATA[ролевой экшен]]></keyword>
+    <keyword type="str"><![CDATA[моды, патчи, дополнения]]></keyword>
+    <keyword type="str"><![CDATA[шутер]]></keyword>
+    <keyword type="str"><![CDATA[cyberpunk 2077]]></keyword>
+    <keyword type="str"><![CDATA[xbox]]></keyword>
+    <keyword type="str"><![CDATA[playstation]]></keyword>
+    <keyword type="str"><![CDATA[rpg, jrpg]]></keyword>
+    <keyword type="str"><![CDATA[cd projekt red]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-17T09:24:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Независимая польская студия CD Projekt RED прокомментировала проблемы, с которыми столкнулись игроки после установки масштабного патча 1.5 для ролевого боевика Cyberpunk 2077.Напомним, обновление 1.5 вышло 15 февраля и включало множественные исправления багов, корректировки баланса, дополнительный контент и улучшения многих элементов игры.Как выяснилось после выпуска, версия 1.5 также принесла части геймеров головную боль: ПК-версия у некоторых начала вылетать на старте, а дисковое издание для PS4 перестало запускаться (выдаёт ошибку о повреждении данных).По словам разработчиков, сбой Cyberpunk 2077 на PC, «скорее всего», вызван конфликтом с программным обеспечением звуковой карты. В качестве временного решения предлагают отключить аудиодрайверы A-Volute, Nahimic или Sonic Studio.Обе проблемы уже расследуются. CD Projekt RED также заверила, что изучает возможность переноса трофеев с PS4 на PS5 и повышения предела частоты кадров на Xbox Series S (сейчас это 30 кадров/с).Впрочем, положительный исход в последних двух случаях создатели не гарантируют: «Мы пока не знаем, возможно ли это вообще, и, если да, то можно ли это сделать в случае трофеев, полученных ранее».Cyberpunk 2077 вышла 10 декабря 2020 года на PC (Steam, GOG, EGS), PS4, Xbox One и в Google Stadia, а 15 февраля 2022-го дебютировала на PS5, Xbox Series X и S. До 15 марта на консолях нынешнего поколения доступна 5-часовая пробная версия игры.]]></text>
+</doc>

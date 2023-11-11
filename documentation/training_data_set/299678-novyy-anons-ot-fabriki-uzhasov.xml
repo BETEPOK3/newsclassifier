@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новый анонс от Фабрики ужасов]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Aniki]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2019-12-27T19:35:46+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Фабрика комиксов объявляет 2020-й  годом любителей хорроров: Отличная новость для любителей хоррора и поклонников творчества Дзюндзи Ито. Наконец-то лицензирована новая манга!  Русское название: Дом дезертира (название пока рабочее)  Японское название: 脱走兵のいる家  Английское название: House of the Deserter  Сценарий и рисунок: Дзюндзи Ито (ITOU Junji)  Весьма объемистый томик выйдет в 2020 в твердом переплете и суперобложке. Издательство продолжает активно лицензировать сборники из  Junji Ito Collection Masterpiece . Полный список томов коллекции: Aniki 01-02.  Tomie 03.  Souichi no Katte na Noroi  (Souichi's Selfish Curse) 04.  Shibito no Koiwazurai  (Lovesick Dead) 05.  Dassouhei no Iru Ie  (A Deserter in the House) 06. Rojiura (The Back Alley) 07. Kubi no Nai Choukoku (Headless Sculptures) 08. Umeku Haisuikan (The Groaning Drain) 09. Bohyou no Machi (Gravetown) 10. Frankenstein 11.  Kaidan  (Smashed) (Выделенные жирным позиции из списка уже лицензированы)]]></text>
+</doc>

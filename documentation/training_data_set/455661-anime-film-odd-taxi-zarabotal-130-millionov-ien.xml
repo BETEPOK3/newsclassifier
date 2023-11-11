@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Аниме-фильм «Odd taxi» заработал 130 миллионов иен]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-04-24T12:15:12+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Веб-сайт Mantan компании Mainichi Shimbun сообщил в воскресенье, что  Eiga Odd Taxi: In the Woods , кинопроект оригинального аниме  Odd Taxi , заработал 130 миллионов иен (около 1,01 миллиона долларов США). Продюсер фильма Дайсуке Хирага заявил, что персонал постепенно увеличивает количество кинотеатров, в которых идет показ фильма. Фильм открылся в 34 кинотеатрах Японии 1 апреля, заняв 10-е место и заработав 52 миллиона иен (примерно 4 23 685 долларов США) за первые выходные. Вернулись основные актеры и персонал телевизионного аниме. ASMIK Ace занимается распространением. Crunchyroll будет транслировать фильм. Фильм представляет собой «реконструкцию» эпизодов телевизионного аниме, но в нем также показано, что происходит после финала телевизионного аниме.]]></text>
+</doc>

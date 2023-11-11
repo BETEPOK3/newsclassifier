@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Демейк Bloodborne вышел в срок и уже доступен для загрузки]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Рудь]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[боевик]]></keyword>
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[ролевой экшен]]></keyword>
+    <keyword type="str"><![CDATA[heartstrings studios]]></keyword>
+    <keyword type="str"><![CDATA[bloodborne psx]]></keyword>
+    <keyword type="str"><![CDATA[премьера]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+    <keyword type="str"><![CDATA[rpg, jrpg]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-01-31T20:47:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Ведущий программист Heartstrings Studios Лилит Вальтер (Lilith Walther) у себя в микроблоге сообщила о долгожданном выходе Bloodborne PSX — демейка готического экшена Bloodborne от студии FromSoftware.Bloodborne PSX уже доступна для бесплатного скачивания на отдельной странице сайта itch.io. Размер клиента составляет 142 Мбайт. На данном этапе демейк имеет совместимость только с Windows.По случаю релиза был представлен новый трейлер Bloodborne PSX. Обнародованный ролик длится полторы минуты и демонстрирует нарезку особо эффектных и атмосферных моментов из проекта.Напомним, Bloodborne PSX предлагает взять в руки один из 10 видов охотничьего оружия, трансформировать его во время боя, уворачиваться от вражеских атак и парировать их с помощью своего пистолета.Bloodborne PSX включает адаптацию не всей игры, а лишь «первых нескольких боссов» (вплоть до Отца Гаскойна). На прохождение всего контента демейка у Вальтер ушло чуть меньше четырёх часов.]]></text>
+</doc>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Приложение соцсети Truth Social Дональда Трампа стало самым скачиваемым в App Store]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Владимир Фетисов]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[truth social]]></keyword>
+    <keyword type="str"><![CDATA[социальная сеть]]></keyword>
+    <keyword type="str"><![CDATA[ios]]></keyword>
+    <keyword type="str"><![CDATA[app store]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-22T20:35:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Только вчера команда бывшего президента США Дональда Трампа (Donald Trump) запустила собственную социальную сеть под названием Truth Social. И она сразу стала очень популярна: на это указывают и случившиеся вскоре после запуска проблемы при загрузке приложения и регистрации — сервера не справлялись с потоком пользователей; и тот факт, что Truth Social возглавила рейтинги популярных приложений магазина цифрового контента Apple App Store.Truth Social во многом напоминает Twitter, но посты здесь называются не твитами, а истинами (truths). Запуск собственной платформы стал важным шагом для Трампа, благодаря которому бывший американский президент смог вернуться в социальные сети. Напомним, аккаунт Трампа в Twitter был заблокирован в начале прошлого года, после того, как администрация соцсети обвинила его в призывах к насилию и участию в массовых беспорядках, которые в конечном счёте обернулись штурмом здания Капитолия.В целом же Truth Social, похоже, станет ещё одной альтернативной платформой, такой как Parler, Gettr и Rumble, которая привлечёт сторонников Трампа. Разработкой соцсети занималась компания Trump Media and Technology Group. В настоящее время Truth Social доступна только в США пользователям устройств на базе iOS.]]></text>
+</doc>

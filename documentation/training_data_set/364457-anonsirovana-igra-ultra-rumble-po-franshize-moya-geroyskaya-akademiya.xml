@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсирована игра Ultra Rumble по франшизе Моя геройская академия]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Pё Хазуки]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анимэ]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-01-20T01:57:01+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Bandai Namco Ent. разрабатывает бесплатную игру в стиле королевской битвы для консолей и ПК. Седьмой выпуск журнала Weekly Shonen Jump 2022 года 17 января 2022 года сообщил, что франшиза  Моя геройская академия  получит новую видеоигру под названием My Hero Academia Ultra Rumble. Игра будет бесплатной и будет доступна на платформах PlayStation 4, Xbox One, Nintendo Switch и ПК через сервис Steam. Bandai Namco Entertainment занимается разработкой игры. Игра будет представлять собой экшн в стиле королевской битвы с участием 24 игроков, и игроки объединяются в команды. Последней игрой франшизы является My Hero One's Justice 2, которая была выпущена для платформ PS4, Switch, Xbox One и сервиса Steam в марте 2020 года. Первой игра была My Hero One's Justice, выпущенная для платформ Switch и PS4 в Японии в августе 2018 года, а затем выпущенная для платформ PS4, Switch, Xbox One и ПК в Европе и Америке в октябре 2018 года.]]></text>
+</doc>

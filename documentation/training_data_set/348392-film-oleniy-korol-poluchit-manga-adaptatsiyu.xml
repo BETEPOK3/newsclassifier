@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Фильм «Олений король» получит манга-адаптацию]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Clear Foe]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[anime]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-07-25T10:20:17+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[По фильму  Олений король: Обещанное путешествие с Юной , который выйдет в кинотеатрах Японии 10 сентября, анонсирована одноимённая манга.  За иллюстрации отвечает  Tarou Sekiguchi Таро Сэкигути  ( Wild Baseballers Дикие бейсболисты ,  Yurusaba. ). Оригинал — роман  Nahoko Uehashi Нахоко Уэхаси .  Адаптация — "Олений король" производственный комитет.  Манга начнёт выходить в бесплатном онлайн-журнале  Young Ace UP  ( ComicWalker ) с  26 июля .   После того, как его родину захватила могущественная империя, воин  Van Gansa Ван Ганса  попал в плен и стал рабом. Однажды ночью на соляную шахту, где он работал, напали странные чёрные псы, распространяя смертельную болезнь. В живых остались только  Van Gansa Ван Ганса  и маленькая девочка по имени  Yuna Юна .]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Любимые аниме 2010-2019 годов]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Romantic]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[топ]]></keyword>
+    <keyword type="str"><![CDATA[anime]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-01-08T23:53:38+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[На днях американский стриминговый сервис Funimation обнародовал результаты своих пользовательских опросов по поводу любимых аниме 2010-2019 годов. Победители по номинациям: 1. Любимый сёнэн десятилетия —  Boku no Hero Academia . 2. Любимое сёдзё десятилетия —  Fruits Basket 1st Season . 3. Любимый спокон десятилетия —  Haikyuu!! 4. Любимая научная фантастика/фентези десятилетия —  Steins;Gate 5. Любимый исекай десятилетия —  Kono Subarashii Sekai ni Shukufuku wo! 6. Любимое романтическое аниме десятилетия —  Shigatsu wa Kimi no Uso 7. Любимая анимация десятилетия —  Kimetsu no Yaiba 8. Любимый персонаж зверёк-компаньон десятилетия —  Хэппи   из  Fairy Tail 9. Любимое оригинальное аниме десятилетия —  Kill la Kill 10. Любимый аниме-фильм десятилетия —  Kimi no Na wa. Другие претенденты, занявшие 2-5 места: 1.  Shingeki no Kyojin ,  JoJo no Kimyou na Bouken (TV) ,  Kimetsu no Yaiba ,  Hunter x Hunter . 2.  Banana Fish ,  Orange ,  Mahou Shoujo Madoka★Magica ,  Akatsuki no Yona . 3.  Free! ,  Kuroko no Basket ,  Megalo Box ,  Yuri!!! on Ice . 4.  Shingeki no Kyojin ,  Dr. Stone ,  Psycho-Pass ,  Sword Art Online . 5.  Overlord ,  Re:Zero kara Hajimeru Isekai Seikatsu ,  Tate no Yuusha no Nariagari ,  Sword Art Online . 6.  Fruits Basket ,  Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen ,  Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai ,  Akagami no Shirayuki-hime . 7.  Shingeki no Kyojin ,  Mob Psycho 100 ,  One Punch Man ,  Violet Evergarden . 8.  Чоппер  из  One Piece ,  Экубо  из  Mob Psycho 100 ,  Хоук  из  Nanatsu no Taizai ,  Пикачу  из  Pokemon . 9.  Death Parade ,  Psycho-Pass ,  Mahou Shoujo Madoka★Magica ,  Yuri!!! on Ice . 10.  Koe no Katachi ,  Dragon Ball Super Movie: Broly ,  Boku no Hero Academia the Movie 1: Futari no Hero ,  Promare .]]></text>
+</doc>

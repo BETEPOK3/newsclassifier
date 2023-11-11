@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Трейлер и новости о фильме "Hula Fulla Dance"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Трейлер]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+    <category type="str"><![CDATA[Фильмы]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[фильм]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-06-22T09:11:20+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Авторы полнометражного  Танец хула-хула , сообщили о том, что показ фильма  переносится  с лета на декабрь. В качестве извинений, создатели показали новый трейлер и сообщили о новых сэйю. Фильм является частью большого проекта "Zutto Ōen Project 2011 + 10...", который посвящен землетрясению 2011 года. СОСТАВ СОЗДАТЕЛЕЙ Производство:  BNP Режиссёр:  Shinya Watada Сценарий:  Reiko Yoshida Дизайн:  Hiroko Yaguchi Хива Нацунаги, начинающая танцовщица, устраивается в танцевальную группу, которая развлекает гостей отеля Spa Resort Hawaiians во время вечерних концертов. ПЕРСОНАЖИ И СЭЙЮ Канну Камакура: озвучивает  Karen Miyama Ранка Такигава: озвучивает Miu Tomita Охану Кайяху: озвучивает  Kaori Maeda Сион Сирасава: озвучивает  Emiri Suyama Рюта Судзукаке: озвучивает  Dean Fujioka Тайра Кадзуто: озвучивает  Yuki Yamada Новый показ в кинотеатрах появится 3 декабря 2021 года.]]></text>
+</doc>

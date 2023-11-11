@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Постер и подробности по аниме «Gamera: Rebirth»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[постер]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2023-02-13T10:03:44+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Официальный сайт аниме  «Гамера: Перерождение»  опубликовал новый постер, представил персонал и актерский состав. Дату премьеры не оглашали. СОСТАВ СОЗДАТЕЛЕЙ Производство:  ENGI Режиссёр:  Hiroyuki Seshita Хироюки Сэсита  &  Keisuke Ide Кэйсукэ Идэ Сценарист: Seshita &  Kenta Ihara Кэнта Ихара  &  Hiroshi Seko Хироси Сэко  &  Tetsuya Yamada Тэцуя Ямада Дизайнер персонажей/монстров:  Atsushi Tamura Ацуси Тамура  &  Kan Takahama Кан Такахама Композитор:  Shuuji Katayama Сюдзи Катаяма Гамера — гигантская черепаха из популярной одноимённой серии фильмов о кайдзю, созданных Daiei Motion Picture Company. Является вторым по популярности японским монстром после Годзиллы. СЭЙЮ И ПЕРСОНАЖИ Hisako Kanemoto Хисако Канэмото  — Boko Yoshitsugu Matsuoka Ёсицугу Мацуока  — Joe Aki Toyosaki Аки Тоёсаки  — Junichi Subaru Kimura Субару Кимура  — Brody]]></text>
+</doc>

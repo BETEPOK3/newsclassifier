@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Intel потеряла на выпуске памяти Optane 3D XPoint более $500 млн в 2020 году]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+    <category type="str"><![CDATA[Экономика]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[intel]]></keyword>
+    <keyword type="str"><![CDATA[память]]></keyword>
+    <keyword type="str"><![CDATA[3d xpoint]]></keyword>
+    <keyword type="str"><![CDATA[финансовые новости и аналитика]]></keyword>
+    <keyword type="str"><![CDATA[анализ рынка]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-07T23:23:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Бизнес по производству памяти 3D XPoint по итогам 2020 года принёс компании Intel убытки в размере более полумиллиарда долларов, следует из финансового отчёта, подданного производителем в Комиссию по ценным бумагам и биржам США. Неутешительные финансовые результаты в очередной раз показывают, что несмотря на весь технический потенциал этого вида памяти, заработать на ней очень сложно.Под брендом Intel Optane в настоящее время производятся энергонезависимые модули памяти NVDIMM (Non-Volatile DIMM) и твердотельные накопители для серверов. Выпуск большинства потребительских решений компания прекратила в прошлом году.Согласно документам, в 2020 году операционный убыток Intel от подразделения Optane, отвечающего за память 3D XPoint, составил $576 млн. И ему вряд ли удастся выйти в плюс по итогам 2021-го, учитывая, что выручка отдела за прошедший год составила $392 миллиона. Прогнозируется, что операционные потери от этого направления за 2021 год составили $529 млн.Несмотря на теоретический потенциал, устройства с микросхемами 3D XPoint не получили коммерческого успеха. Micron Technology вовсе свернула разработку данного вида памяти, а осенью прошлого года продала фабрику, где производился этот вид памяти, компании Texas Instruments. Фактически на данный момент весь сегмент памяти 3D XPoint лежит на плечах одной Intel.]]></text>
+</doc>

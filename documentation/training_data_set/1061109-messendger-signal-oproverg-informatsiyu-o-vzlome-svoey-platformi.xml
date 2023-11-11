@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Мессенджер Signal опроверг информацию о взломе своей платформы]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Руслан Авдеев]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[мессенджер]]></keyword>
+    <keyword type="str"><![CDATA[шифрование и защита данных]]></keyword>
+    <keyword type="str"><![CDATA[im-клиенты]]></keyword>
+    <keyword type="str"><![CDATA[вирусы, трояны, уязвимости в по, вопросы безопасности]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[безопасность]]></keyword>
+    <keyword type="str"><![CDATA[безопасность данных]]></keyword>
+    <keyword type="str"><![CDATA[signal]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-03-01T07:28:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Популярный мессенджер Signal опроверг слухи о взломе своего приложения. Ранее в социальных сетях и альтернативных мессенджерах появились слухи о том, что платформа «скомпрометирована и взломана».Как сообщили в Signal, в Восточной Европе наблюдается стремительный рост активности в мессенджере и в передаваемых слухах новости часто приписываются официальным правительственным источникам, которые якобы зарегистрировали атаки на платформу.«Это неправда и Signal не находится под атакой», — заявили в компании, добавив, что слухи являются частью некой кампании по дезинформации, «предназначенной для того, чтобы поощрять использование людьми менее безопасных альтернатив».Заявление Signal последовало за серией кибератак на украинскую банковскую систему и местные правительственные сайты, а также российские правительственные сайты и ресурсы связанных с органами власти российских СМИ.]]></text>
+</doc>

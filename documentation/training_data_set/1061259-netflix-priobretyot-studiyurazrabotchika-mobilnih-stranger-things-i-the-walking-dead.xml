@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Netflix приобретёт студию-разработчика мобильных Stranger Things и The Walking Dead]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Рудь]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[next games]]></keyword>
+    <keyword type="str"><![CDATA[netflix]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-03-03T08:38:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Вице-президент отдела Netflix по разработке игр Майк Верду (Mike Verdu) объявил о намерении стримингового сервиса приобрести финскую студию Next Games за €65 млн. Сделку планируют закрыть во втором квартале года.Next Games была основана в 2013 году и возглавляется Теему Хухтаненом (Teemu Huuhtanen). В 2020-м студия заработала €27,2 млн, 95 % из которых приходятся на внутриигровые покупки.За время своего существования Next Games успела выпустить такие мобильные развлечения, как Stranger Things: Puzzle Tales, The Walking Dead: Our World и The Walking Dead: No Man’s Land.«Пускай мы только начинаем свой игровой путь, я уверен, что вместе с Next Games мы построим библиотеку первоклассных игр — без реклам и микротранзакций, — которые будут радовать наших пользователей по всему миру», — поделился Верду.Приобретение Next Games — не первый шаг Netflix в сторону игр. Ранее стриминговый гигант купил Night School Studio (Oxenfree, Afterparty) и открыл своим подписчикам доступ к подборке мобильных проектов.]]></text>
+</doc>

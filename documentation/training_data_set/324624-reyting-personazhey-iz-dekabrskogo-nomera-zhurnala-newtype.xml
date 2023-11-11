@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Рейтинг персонажей из декабрьского номера журнала Newtype ]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Aeronus]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[news]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-11-21T17:19:35+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Среди мужских персонажей:    1)  Tanjirou Kamado Тандзиро Камадо  (Kimetsu no Yaiba) 2)  Кирито  (Sword Art Online) 3)  Char Aznable Чар Азнабль  (Gundam)  4)  Zenitsu Agatsuma Дзэнъицу Агацума  (Kimetsu no Yaiba)  5)  Kyoujurou Rengoku Кёдзюро Рэнгоку  (Kimetsu no Yaiba)  6)  Giyuu Tomioka Гию Томиока  (Kimetsu no Yaiba)  7)  Tatsuya Shiba Тацуя Шиба  (Mahouka Koukou no Rettousei)  8)  Lelouch Lamperouge Лелуш Ламперуж  (Code Geass)  9)  Wen-li Yang Вэньли Ян  (Ginga Eiyuu Densetsu)  10) Дуглас Кайен (Five Star Stories)   Среди женских персонажей:  1)  Nezuko Kamado Нэдзуко Камадо  (Kimetsu no Yaiba) 2)  Violet Evergarden Вайолет Эвергарден  (Violet Evergarden)  3)  Lachesis Fatima Лахесис Фатима  (Five Star Stories) 4)  Асуна  (Sword Art Online) 5)  Shinobu Kochou Синобу Котё  (Kimetsu no Yaiba)  6)  Мисака Микото  (Toaru Kagaku no Railgun T)  7)  Rem Рем  (Re:Zero kara Hajimeru Isekai Seikatsu)  8)  Yukino Yukinoshita Юкино Юкиношита  (Oregairu)  9)  Бэллин  (Gothicmade) 10)  Asirpa Асирпа  (Golden Kamuy)]]></text>
+</doc>

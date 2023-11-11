@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Valve отключила основные способы оплаты в Steam в России]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Артур Хамзин]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[valve]]></keyword>
+    <keyword type="str"><![CDATA[steam]]></keyword>
+    <keyword type="str"><![CDATA[россия]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-03-02T23:20:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Valve отключила основные способы оплаты в Steam для российских пользователей. Теперь россиянам недоступны покупки в этом магазине цифрового контента с помощью карт Visa, MasterCard и «Мир». Об этом сообщается в Twitter-аккаунте Steam Status (Unofficial).Теперь россияне могут приобрести товары только с помощью кошелька PayPal или «Кошелька Steam». При выборе другого способа появляется сообщение о невозможности его использовать. Цены в сервисе пока указаны в рублях. Представители Valve пока никак не прокомментировали ситуацию. В последние дни пользователи жаловались на проблемы с оплатой товаров — при попытке использовать банковскую карту сервис выдавал ошибку с объяснением, что эмитент карты «отклонила запрос».Это не единственная игровая платформа, ограничившая возможности оплаты для россиян. Цифровой магазин GOG отключил возможность покупки в рублях. Сервис объяснил инициативу нестабильной ситуацией с российской валютой.Добавим также, что в Беларуси на момент написания данной заметки покупки в Steam всё ещё были доступны с помощью любых способов оплаты.]]></text>
+</doc>

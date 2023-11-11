@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсирован лайв-сериал по манге «Спиди Гонщик»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[лайв_экшен]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[адаптация]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-05-26T13:18:44+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Киностудия  Bad Robot  принадлежащая режиссёру  Джей Джей Абрамс  совместно с компанией  Apple TV  анонсировали  лайв-сериал  по мотивам  «Mach Go Go Go» . Работа над новым «Спиди Гонщиком» ведется уже несколько лет, а конкретно представители Apple встречались с несколькими десятками сценаристов, чтобы найти лучший вариант для развития проекта. Из-за этого процесс разработки длится так медленно. Прошлая   голливудская экранизация  вышла в 2008 году, за постановку отвечали Вачовски. В прокате ее тогда ждал провал (93 млн долларов сборов по всему миру при бюджете в 120), как и отзывы критиков и зрителей оставляли желать лучшего. Тем не менее, спустя несколько лет отношение к « Спиди Гонщику » стало теплее, в социальных сетях фильм все чаще называют недооцененным. СОСТАВ СОЗДАТЕЛЕЙ Производство:  Bad Robot   &   Apple TV Продюсер: Хирам Мартинес & Рон Фитцджералд]]></text>
+</doc>

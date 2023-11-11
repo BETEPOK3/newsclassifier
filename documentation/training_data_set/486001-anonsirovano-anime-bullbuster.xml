@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсировано аниме «Bullbuster»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-11-18T12:21:25+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Kodakawa объявила, что франшиза «Bullbuster» получит аниме-адаптацию.  Трансляция начнется в 2023 году. СОСТАВ СОЗДАТЕЛЕЙ Производство: NUT Режиссёр:  Hiroyasu Aoki Хироясу Аоки Сценарист:  Hiroyuki Nakao Хироюки Накао Дизайнер персонажей:  Eisaku Kubonouchi Эйсаку Кубоноути Молодой инженер Тецуро Окино, разработал нового робота Bullbuster и благодаря этому его переводят в компанию Hato Industries, занимающуюся уничтожением вредных животных. Однажды компания сталкивается с загадочной формой жизни именуемой как «Kyojou». СЕЙЮ И ПЕРСОНАЖИ Asami Seto Асами Сэто  в роли Arumi ikaidō Yuuki Takada Юки Такада  в роли Miyuki Shirogane Shinichiro Miki Синъитиро Мики  в роли Kōji Tajima Saeko Chiba Саэко Тиба  в роли Tetsurō Okino Ken Uo Кэн Уо  в роли Kintarō Kataoka Taiten Kusunoki Тайтэн Кусуноки  в роли Ginnosuke Mutō]]></text>
+</doc>

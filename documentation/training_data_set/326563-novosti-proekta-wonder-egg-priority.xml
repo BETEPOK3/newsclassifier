@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новости проекта "Wonder Egg Priority"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[обновления]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-12-16T16:59:05+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Команда оригинального аниме  Приоритет чудо-яйца , представила трейлер, постер и актёрский состав, а также огласила дату показа.  СОСТАВ СОЗДАТЕЛЕЙ Производство: CloverWorks (Darling In Franks) Режиссёр:  Shin Wakabayashi  &  Yuuta Yamazaki Сценарист:  Shinji Nojima  ( автор манги " Любовь эльфа " ) Композитор:  Неизвестно Дизайн персонажей:  Saki Takahashi  & taracod & Iori Hisatake История начинается с того, что главная героиня, 14-летняя девочка по имени Ай Ото, слышит загадочный голос, прогуливаясь по городу поздно ночью. Она получает яйцо со словами: «Если вы хотите изменить будущее, вам нужно только выбрать. Теперь верьте в себя и разбейте яйцо». СОСТАВ СЭЙЮ И ПЕРСОНАЖИ Ай: озвучивает  Kanata Aikawa Момоэ Саваки: озвучивает  Hinaki Yano Нейра Онума: озвучивает  Tomori Kusunoki Рики Каваи: озвучивает  Shuka Saitou Премьера состоится 12 января 2021 года.]]></text>
+</doc>

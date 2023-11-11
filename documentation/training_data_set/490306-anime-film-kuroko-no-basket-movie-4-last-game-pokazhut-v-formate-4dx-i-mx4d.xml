@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Аниме-фильм «Kuroko no Basket Movie 4: Last Game» покажут в формате 4DX и MX4D]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[показ]]></keyword>
+    <keyword type="str"><![CDATA[дата]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-12-18T10:54:29+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Официальный твиттер франшизы  «Баскетбол Куроко»  сообщил, что фильм  «Баскетбол Куроко: Последняя игра»  покажут в формате 4DX и MX4D в 79 кинотеатрах Японии. Были опубликованы два рекламных ролика.  Показы стартуют с 20-го января 2023 года. Фильм повествует о хорошо известной американской баскетбольной команде «Бармаглот», участники которой высмеяли японских игроков после их поражения. Тренер Кагэтора Айда в свою очередь заручается поддержкой единственных игроков, которые, на его взгляд, смогут одолеть насмешливого противника — «Поколение чудес» и Тайга Кагами. Также в кинотеатрах будет показана полная версия музыкального клипа, посвященного 10-летию франшизы, на сингл «Zero Step» от группы  GRANRODEO . 30-секундный рекламный ролик: youtube]]></text>
+</doc>

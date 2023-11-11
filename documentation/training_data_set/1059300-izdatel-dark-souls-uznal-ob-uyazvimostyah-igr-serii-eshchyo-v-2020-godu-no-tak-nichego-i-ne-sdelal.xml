@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Издатель Dark Souls узнал об уязвимостях игр серии ещё в 2020 году, но так ничего и не сделал]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Рудь]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[боевик]]></keyword>
+    <keyword type="str"><![CDATA[dark souls]]></keyword>
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[ролевой экшен]]></keyword>
+    <keyword type="str"><![CDATA[fromsoftware]]></keyword>
+    <keyword type="str"><![CDATA[вирусы, трояны, уязвимости в по, вопросы безопасности]]></keyword>
+    <keyword type="str"><![CDATA[xbox]]></keyword>
+    <keyword type="str"><![CDATA[playstation]]></keyword>
+    <keyword type="str"><![CDATA[rpg, jrpg]]></keyword>
+    <keyword type="str"><![CDATA[bandai namco entertainment]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-02T14:21:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Портал Video Games Chronicle (VGC) со ссылкой на знакомых с ситуацией членов сообщества Dark Souls рассказал, что издательство Bandai Namco Entertainment было в курсе уязвимостей игр серии на протяжении двух лет.Напомним, 23 января Bandai Namco Entertainment временно отключила (обратно их пока так и не включили) серверы трилогии Dark Souls на ПК из-за лазейки, с помощью которой злоумышленники могут удалённо выполнять код на чужом компьютере.Как сообщили VGC игроки, Bandai Namco Entertainment доложили об аналогичной (но пока не обнародованной) уязвимости ещё в начале 2020 года, однако за прошедшее с тех пор время проблема так и не была решена.Суммарно в Dark Souls 3 до отключения серверов насчитывалось более 100 читов, взломов и уязвимостей. Удалённое выполнение кода при этом может быть использовано и против консольных игроков (приставку даже не потребуется взламывать).Пользователь Reddit под псевдонимом LukeYui, сообщивший Bandai Namco о ряде уязвимостей в Dark Souls 3 и создавший для игры античит-мод Blue Sentinel, пессимистично настроен насчёт ситуации в Elden Ring.По мнению моддера, читеры способны превратить день выхода Elden Ring в сущий кошмар. Не спасёт игру и Easy Anti-Cheat, который, как считает LukeYui, окажется не по зубам лишь начинающим взломщикам и затруднит создание аналога Blue Sentinel.Релиз Elden Ring ожидается 25 февраля на PC (Steam), PlayStation 4, PlayStation 5, Xbox One, Xbox Series X и S. В проекте используется аналогичная c Dark Souls 3 сетевая инфраструктура, чем и объясняется обеспокоенность сообщества.]]></text>
+</doc>

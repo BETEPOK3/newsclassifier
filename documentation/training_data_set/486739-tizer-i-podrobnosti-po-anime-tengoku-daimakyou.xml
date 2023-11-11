@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Тизер и подробности по аниме «Tengoku Daimakyou»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+    <keyword type="str"><![CDATA[тизер]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-11-25T14:21:56+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Официальный сайт аниме  «Великая небесная стена»  опубликовал тизер и представил персонал.  Трансляция начнется в 2023 году. СОСТАВ СОЗДАТЕЛЕЙ Производство:  Production I.G Режиссёр:  Hirotaka Mori Хиротака Мори Сценарист:  Makoto Fukami Макото Фуками Дизайнер персонажей: Utsushita (Minakata Laboratory) Композитор:  Kensuke Ushio Кэнсукэ Усио Сюжет поведает две истории, которые непременно связаны. Одна расскажет о путешествии таинственного Мару в компании его телохранителя Кируко в поисках «Небес» по давно разрушенному миру, который таит в себе немало ужасных монстров. Вторая посвящена незабвенному пребыванию Токио в том самом «рае», который окружён гигантскими стенами, где туда-сюда снуют взрослые, а дети проявляют таланты. И каждый житель «рая» хоть раз да задумывался: «Что же может быть за стенами?..»]]></text>
+</doc>

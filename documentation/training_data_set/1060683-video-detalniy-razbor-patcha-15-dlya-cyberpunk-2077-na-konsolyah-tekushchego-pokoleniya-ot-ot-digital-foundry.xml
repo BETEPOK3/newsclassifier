@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Видео: детальный разбор патча 1.5 для Cyberpunk 2077 на консолях текущего поколения от Digital Foundry]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Игнатий Колыско]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[боевик]]></keyword>
+    <keyword type="str"><![CDATA[digital foundry]]></keyword>
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[облачные игровые платформы]]></keyword>
+    <keyword type="str"><![CDATA[ролевой экшен]]></keyword>
+    <keyword type="str"><![CDATA[моды, патчи, дополнения]]></keyword>
+    <keyword type="str"><![CDATA[cyberpunk 2077]]></keyword>
+    <keyword type="str"><![CDATA[xbox]]></keyword>
+    <keyword type="str"><![CDATA[playstation]]></keyword>
+    <keyword type="str"><![CDATA[rpg, jrpg]]></keyword>
+    <keyword type="str"><![CDATA[cd projekt red]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-21T20:24:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Специалисты Digital Foundry, технического подразделения издания Eurogamer, изучили работу версии ролевого экшена Cyberpunk 2077 для консолей текущего поколения после установки патча 1.5.Напомним, на PS5 и Xbox Series X игра может работать в двух режимах: трассировки лучей (динамическое 4K и 30 кадров/с) и производительности (динамическое 4K и 60 кадров/с). На Xbox Series S есть динамическое 1440p и 30 кадров/с.Авторы Digital Foundry описали ситуацию с версией для Xbox Series S: в реальности показатели разрешения варьируются от 1296p до 1440p при 30 кадрах/с.В режиме трассировки лучей игра во время теста работала в разрешении 1440p при 30 кадрах/с как на PlayStation 5, так и на Xbox Series X.В режиме производительности на PlayStation 5 до настоящего 4K дело не доходило: игра в таком случае выдавала от 1260p до 1728p с постоянными 60 кадрами/с. До установки патча 1.5 игра работала в диапазоне разрешений от 972p до 1200p.На Xbox Series X игра во время тестов также работала в разных разрешениях — от 1382p до 1782p (с патчем 1.23 было от 1080p до 1296p), но с почти стабильными 60 кадрами/с.Представители Digital Foundry отметили, что PS5 и Xbox Series X в режиме производительности демонстрируют почти полный паритет с отрисовкой 60 кадров/c. Но версия для PS5 кажется технологически более выверенной благодаря более стабильному поведению в особо нагруженных сценах.Степень проработки режима трассировки лучей в Cyberpunk 2077 на Xbox Series X и PS5 тоже была разобрана Digital Foundry. Рейтрейсинг здесь не обрабатывает отражения — только локальные тени.На улицах работа технологии остаётся практически незаметной, но всё меняется в помещениях со множеством предметов: появляются реалистичные тени с рассеиванием.Наконец, установка патча 1.5 кардинально изменила ситуацию со скоростью загрузки игры на PlayStation 5. Раньше на это уходило до 45 секунд, а теперь укладывается в 14 секунд. В случае с Xbox Series X загрузка происходит ещё быстрее — за 13 секунд.Подробнее о тестировании консольных версий Cyberpunk 2077 можно прочитать в отдельной заметке на сайте Eurogamer.Патч 1.5 был выпущен 15 февраля. Обновление исправило множество багов и ошибок, а также добавило возможность арендовать квартиры. Cyberpunk 2077 вышла в декабре 2020 года на PC (Steam, GOG, EGS), PS4, Xbox One и в Google Stadia.]]></text>
+</doc>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[NVIDIA выпустила обновление драйвера GeForce Game Ready 511.72 Hotfix с исправлением ошибок прошлой версии]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[драйвер]]></keyword>
+    <keyword type="str"><![CDATA[nvidia geforce]]></keyword>
+    <keyword type="str"><![CDATA[драйверы]]></keyword>
+    <keyword type="str"><![CDATA[видеокарта]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-07T13:58:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания NVIDIA выпустила обновление драйвера GeForce Game Ready 511.72 Hotfix для Windows 11 и Windows 10. Новая версия исправляет ошибки, с которыми пользователи столкнулись после установки драйвера GeForce Game Ready версии 511.65 WHQL.В GeForce Game Ready 511.72 Hotfix разработчики исправили следующие проблемы:Важно отметить, что драйверы не получили WHQL-статус и рекомендуются не всем пользователям. В описании обновления NVIDIA сообщает, что версия драйвера GeForce Game Ready 511.72 Hotfix прошла упрощённый процесс оценки качества. Основная цель драйвера — как можно скорее исправить ошибки, с которыми пользователи могли столкнуться в предыдущей версии. В качестве самого безопасного варианта производитель рекомендует дождаться следующего драйвера с сертификацией WHQL.Загрузить обновление драйвера GeForce Game Ready 511.72 Hotfix можно с официального сайта компании NVIDIA.]]></text>
+</doc>

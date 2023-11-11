@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Плата ASUS Pro H610T D4-CSM формата Thin Mini-ITX поддерживает чипы Alder Lake]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[материнские платы]]></keyword>
+    <keyword type="str"><![CDATA[asus]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[материнская плата]]></keyword>
+    <keyword type="str"><![CDATA[плата]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-18T08:47:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания ASUS анонсировала материнскую плату Pro H610T D4-CSM для корпоративного сектора. Новинка может применяться для построения компактных компьютеров, рассчитанных на эксплуатацию в круглосуточном режиме.Использован набор логики Intel H610. Возможна установка процессоров Intel Alder Lake (Core двенадцатого поколения) в исполнении LGA 1700. Для модулей оперативной памяти DDR4-3200 доступны два слота SO-DIMM: поддерживается до 64 Гбайт ОЗУ.Плата имеет формат Thin Mini-ITX с размерами 170 × 170 мм. Питание может подаваться от внешнего сетевого блока, благодаря чему изделие может монтироваться в очень тонкие корпуса.Есть два порта SATA 3.0 для накопителей и коннектор M.2 для твердотельного модуля 2260/2280 с интерфейсом PCIe 4.0 x4 или SATA. В оснащение входят гигабитный сетевой контроллер Ethernet и звуковой кодек Realtek формата 7.1. Слоты расширения PCIe не предусмотрены.Интерфейсный блок содержит по два порта USB 3.2 Gen2 и USB 2.0, разъёмы DisplayPort и HDMI, гнездо RJ45 для сетевого кабеля, аудиогнёзда и разъём DC-In. Сведений об ориентировочной цене платы пока нет. ]]></text>
+</doc>

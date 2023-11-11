@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[В работе Twitter произошёл масштабный сбой]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+    <keyword type="str"><![CDATA[сбой]]></keyword>
+    <keyword type="str"><![CDATA[twitter]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[интернет]]></keyword>
+    <keyword type="str"><![CDATA[социальные сети]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-11T21:35:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Пользователи Twitter со всего мира массово жалуются на сбои в работе социальной сети. По данным сайта Downdetector, первые жалобы на работу сервиса начали поступать в 20:11 по московскому времени.Отмечается, что большая часть жалоб на работу социальной сети поступает от пользователей из США, Канады и Японии, однако проблемы наблюдаются также в России и Украине. Большая часть пользователей жалуется на ошибки в работе веб-сайта Twitter. Чуть реже сбои происходят при работе с мобильным приложением.Количество жалоб до сих пор продолжает расти. Twitter пока не прокомментировала сбой в работе социальной сети и не сообщила, когда нормальная функциональность сервиса будет восстановлена.]]></text>
+</doc>

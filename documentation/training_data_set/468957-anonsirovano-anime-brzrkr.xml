@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсировано аниме «BRZRKR»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-07-23T12:40:36+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Студия  Production IG  занимается производством нового аниме по комиксу, под названием  «BRZRKR» . Об этом анонсе стало известно на мероприятии  Comic-Con International , которое проходило в Сан-Диего. Также известно, что персонал планирует два сезона. Компания  Netflix  сначала выпустит фильм, а затем уже аниме которое расширит вселенную  «BRZRKR»  и расскажет подробней саму историю. История расскажет о бессмертном воине Берсерке, проклятом полубоге. Прожив на земле много веков, он соглашается работать на американское правительство, выполняя секретные операции, слишком опасные для кого-либо другого. В обмен на это он может получить информацию о том, как стал бессмертным и как прекратить своё затянувшееся существование. СЕЙЮ И ПЕРСОНАЖИ Keanu Reeves Киану Ривз  в роли своего персонажа]]></text>
+</doc>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Игровой смартфон Lenovo Legion Y90 получит до 18 Гбайт ОЗУ и 144-Гц дисплей]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[игрофон]]></keyword>
+    <keyword type="str"><![CDATA[legion]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[смартфон]]></keyword>
+    <keyword type="str"><![CDATA[lenovo]]></keyword>
+    <keyword type="str"><![CDATA[мобильные телефоны, смартфоны, сотовая связь, коммуникаторы, кпк]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-10T09:54:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Менеджер по продуктам Lenovo Лин Лин (Lin Lin) опубликовал в социальной сети Weibo скриншоты, раскрывающие ключевые характеристики игрового смартфона Legion Y90. Подтверждено использование процессора Qualcomm Snapdragon 8 Gen 1 с восемью ядрами (до 3,0 ГГц), графическим ускорителем Adreno нового поколения и модемом Snapdragon X65 5G.Объём оперативной памяти LPDDR5 указан в размере 18 Гбайт. Дополнительно может быть задействовано до 4 Гбайт виртуального пространства ОЗУ. Подсистема хранения данных построена по схеме UFS 3.1 + SSD суммарным объёмом 640 Гбайт: вероятно, это встроенный флеш-модуль на 512 Гбайт и карта памяти ёмкостью 128 Гбайт.Новинка оборудована дисплеем AMOLED с частотой обновления до 144 Гц и частотой отклика сенсорного слоя до 720 Гц. Размер экрана может составить 6,92 дюйма по диагонали.Говорится о наличии аудиосистемы Dolby Atmos и дополнительных боковых кнопок для управления в играх. За питание отвечает аккумуляторная батарея ёмкостью 5600 мА·ч с поддержкой быстрой 68-ваттной подзарядки.На игрофон установлена операционная система Android 12 с фирменной надстройкой ZUI 13. Официальная презентация новинки состоится в ближайшее время. ]]></text>
+</doc>

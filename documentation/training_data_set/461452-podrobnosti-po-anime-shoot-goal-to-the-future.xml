@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Подробности по аниме «Shoot! Goal to the Future»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[дата_показа]]></keyword>
+    <keyword type="str"><![CDATA[обновление]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-06-03T14:45:11+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Официальный сайт аниме « Shoot! Goal to the Future Удар! Гол в будущее » в пятницу, объявил дату премьеры.  Трансляция начнется 2 июля 2022 года. СОСТАВ СОЗДАТЕЛЕЙ Производство:  EMT2 Режиссёр:  Noriyuki Nakamura Нориёси Накамура  &  Junichi Kitamura Дзюнъити Китамура Сценарий:  Mitsutaka Hirota Мицутака Хирота Дизайн:  Yukiko Akiyama Юкико Акияма  (персонажи) Куратор:  Tetsu Dezaki Сатоси Дэдзаки Ацуши Камия — бывший капитан средней школы Какегава — сейчас является всемирно известным «отважным капитаном» одной знаменитой итальянской футбольной команды… Хидэто Цуджи сейчас как раз учится в средней школе Какэгава, однако парня не интересует их слабая футбольная команда и их встреча станет началом новой легенды. ВСТУПИТЕЛЬНАЯ ТЕМА Airi Furukawa Айри Фурукава  исполнит "Aoreido" ЗАКЛЮЧИТЕЛЬНАЯ ТЕМА All at once исполнят "Rivals"]]></text>
+</doc>

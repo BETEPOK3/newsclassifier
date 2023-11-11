@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Lamborghini посвятила особые суперкары Huracan юбилею марки]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Александр Пономарёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[lamborghini]]></keyword>
+    <keyword type="str"><![CDATA[суперкары]]></keyword>
+    <keyword type="str"><![CDATA[huracan]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2023-04-21T12:00:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Lamborghini показала суперкары Huracan в исполнении 60th Anniversary Edition. На протяжении всего 2023 года главным для Lamborghini событием, безусловно, будет премьера первого в истории марки серийного гибридного суперкара Revuelto, но 60-летие бренда слишком масштабное событие, чтобы отметить его дебютом лишь одной модели. На Неделе дизайна в Милане итальянский автопроизводитель представил линейку моделей 60th Anniversary Edition, в основу которых легли различные модификации спорткара Lamborghini Huracan.
+Полноприводный 640-сильный Lamborghini Huracan STO 60th Anniversary Edition доступен в двух цветовых вариантах: основной голубой цвет Blu Aegeus с элементами оттенков Blu Astraeus и Blue Mira и салоном из алькантары Nero Cosmus и Grigio Octans с деталями Nero Ade и прошивкой Blue Amon или кузов Grigio Telesto с элементами Nero Noctis и деталями из неокрашенного карбона и интерьером с алькантарой цветов Nero Cosmus и Grigio Octans Alcantara, кожей и прострочкой оттенка Rosso Alala.
+Спорткары получат матово-чёрные 20-дюймовые диски Hek. Заднеприводный Lamborghini Huracan Tecnica 60th Anniversary Edition с аналогичным 5,2-литровым V10 на 640 сил выполнен в цветах итальянского флага. У первого варианта кузов Grigio Telesto сочетается с деталями Nero Noctis и Rosso Mars, а салон обит алькантарой Nero Ade с акцентами Rosso Alala.
+Вторая версия имеет кузов Bianco Asopo с полосами Verde Viper и соответствующими элементами в салоне из алькантары Nero Ade. Открытый 610-сильный спорткар Lamborghini Huracan Evo Spyder 60th Anniversary Edition также имеет две версии. У первой цвет Blue Le Mans сочетается с полосами Bianco Isi и салоном из алькантары Nero Ade с деталями Blue Amon и Bianco Leda, у второй — кузов Verde Viper дополнен акцентами Bianco Isi и имеет салон из алькантары Nero Ade с элементами оттенков Rosse Alala и Bianco Leda.
+И Huracan Tecnica, и Huracan Evo Spyder получили глянцевые чёрные 20-дюймовые колёса Damiso. Все автомобили юбилейной версии будут иметь особую графику на кузове с числом «60», вышитые логотипы модификации в салоне и карбоновые плашки с указанием лимитированного статуса модели. Тираж каждого варианта Lamborghini Huracan 60th Anniversary Edition составит 60 экземпляров.]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсирован второй сезон «Tonikaku Kawaii»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Yuzuke]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-11-06T13:12:40+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Анонсирован второй сезон аниме-сериала « Tonikaku Kawaii Унеси меня на Луну ». Также анонсировали еще и новую овашку. Вышел первый трейлер и представлен постер. Дата выхода и прочие подробности не уточняются. Наса Юдзаки назвали в честь космического агентства, все над ним посмеиваются. Однажды он видит красивую девушку и бежит через дорогу, чтобы признаться в любви. Парня сбивает грузовик, но все-таки он признается девушке в любви и она легкомысленно обещает выйти за него замуж. Очнувшись, Наса никого рядом с собой не находит. Наса серьезно берется за учебу, а в 18 лет перед ним предстает прекрасная Тсукаса Тсукуёми, да-да, та самая и они женятся. Но при этом Наса совершенно не знает ничего о своей избраннице.]]></text>
+</doc>

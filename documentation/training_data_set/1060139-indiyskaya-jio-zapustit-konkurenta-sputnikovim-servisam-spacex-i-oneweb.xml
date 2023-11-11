@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[В Индии создадут конкурента спутниковому интернету SpaceX Starlink и OneWeb]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Владимир Мироненко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[космос]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[спутники]]></keyword>
+    <keyword type="str"><![CDATA[спутниковый интернет]]></keyword>
+    <keyword type="str"><![CDATA[сети и коммуникации]]></keyword>
+    <keyword type="str"><![CDATA[интернет]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-14T14:59:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Крупнейший холдинг Индии Reliance Industries, возглавляемый миллиардером Мукешем Амбани (Mukesh Ambani), планирует запустить спутниковый сервис по предоставлению широкополосного доступа в интернет, аналогичный проектам компаний OneWeb и SpaceX.Индийская телекоммуникационная компания Jio Platforms, «дочка» Reliance Industries, создала вместе с базирующейся в Люксембурге фирмой SES совместное предприятие Jio Space Technology, чтобы «предоставлять масштабируемые и доступные широкополосные услуги следующего поколения в Индии с использованием спутниковых технологий». Как указано в заявлении Reliance Industries для фондовой биржи, Jio Platforms будет принадлежать 51 % СП Jio Space Technology, а SES — 49 %.Согласно заявлению, совместное предприятие «будет использовать многоорбитальные космические сети», объединяющие спутниковые группировки на геостационарной и средней околоземной орбитах, которые смогут предоставлять мультигигабитный интернет-канал компаниям, розничным пользователям в Индии и соседних регионах. Также сообщается, что Jio станет основным заказчиком совместного предприятия согласно многолетнему соглашению на общую сумму в $100 млн.Представитель Reliance пока не дал разъяснение ресурсу Bloomberg  по поводу того, будет ли Jio Space Technology запускать спутники на низкую околоземную орбиту (LEO), на которой обеспечивается более быстрая передача данных и меньшая задержка.]]></text>
+</doc>

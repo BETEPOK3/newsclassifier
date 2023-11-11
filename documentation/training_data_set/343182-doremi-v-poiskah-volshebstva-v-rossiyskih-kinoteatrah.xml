@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[«Дореми: В поисках волшебства» в российских кинотеатрах]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Aeronus]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+    <category type="str"><![CDATA[Фильмы]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[премьера]]></keyword>
+    <keyword type="str"><![CDATA[кинопрокат]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-05-29T11:21:40+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Уже 10 июня в российских кинотеатрах выходит махо-сёдзе  «Дореми: В поисках волшебства»  (Majo Minarai wo Sagashite), абсолютно новая и трогательная мелодрама про трёх 20-летних девушек, которые никак не хотят мириться с тем, что, становясь взрослыми, мы теряем веру в чудеса и связь с волшебным миром. Это аниме от легендарной студии Toei Animation, подарившей нам такие шедевры как  «One Piece» ,  «Digimon»  и  «Dragon Ball» , и режиссёра незабываемого хита  «Sailor Moon»   Junichi Satou Дзюнъити Сато . Саундтрек для фильма написал известный испанский композитор Роке Баньос («Девушка, которая застряла в паутине», «Олдбой», «В сердце моря»).  В наш прокат кино выходит в дубляже студии Reanimedia.]]></text>
+</doc>

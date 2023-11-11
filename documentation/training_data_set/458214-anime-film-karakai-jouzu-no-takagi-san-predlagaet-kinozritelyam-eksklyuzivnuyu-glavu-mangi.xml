@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Аниме-фильм «Karakai Jouzu no Takagi-san»  предлагает кинозрителям эксклюзивную главу манги]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[прочее]]></keyword>
+    <keyword type="str"><![CDATA[кинотеатр]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-05-12T14:19:42+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Сотрудники  Озорная Такаги , грядущего аниме-фильма франшизы  Озорная Такаги , объявили в четверг, что фильм будет иметь четыре различных бонуса для кинозрителей в течение первых четырех недель. Бонус первой недели — 68-страничный буклет с эксклюзивным содержанием манги от создателя оригинальной манги  Souichirou Yamamoto Соитиро Ямамото . Буклет Volume Film будет включать в себя «переписанную» версию первой главы манги «Eraser» и новую главу под названием «Ashita Kara» («Starting Tomorrow»), вдохновленную сценой из фильма. Буклет также включает раздел вопросов и ответов с  Ямамото , личную информацию о  Ямамото , производственные материалы для персонажей,комментарии актеров и раздел, посвященный телесериалу.]]></text>
+</doc>

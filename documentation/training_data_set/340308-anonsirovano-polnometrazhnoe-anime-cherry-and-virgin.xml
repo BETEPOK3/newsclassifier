@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсировано полнометражное аниме "CHERRY AND VIRGIN"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+    <category type="str"><![CDATA[Фильмы]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[фильм]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-04-28T07:14:45+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Состоялся анонс полнометражного аниме под названием "CHERRY AND VIRGIN", который будет выполнен по методу ротоскопирования. На данный момент, началась краундфандинговая компания в поддержку фильма, чтобы обеспечить маркетинг и широкий прокат фильма как в Японии, так и за рубежом. Данный проект станет дебютным для Масанао Кавадзири, который ранее выпустил короткометражку  "A Japanese Boy Who Draws". Также был представлен трейлер и показан постер. СОСТАВ СОЗДАТЕЛЕЙ Режиссёр: Масанао Кавадзири Сценарий: Масанао Кавадзири Главные герои истории Рё, 32-летний мангака эро-манги, замкнутый и неловкий в общении с девушками, и Ами, фудзёси, которая не лучшего мнения о мужчинах. Премьера запланирована на 2022 год.]]></text>
+</doc>

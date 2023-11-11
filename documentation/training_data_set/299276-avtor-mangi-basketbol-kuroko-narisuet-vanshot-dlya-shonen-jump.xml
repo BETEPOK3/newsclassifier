@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Автор манги Баскетбол Куроко нарисует ваншот для Shonen Jump]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Usani_usagi]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2019-12-23T21:44:20+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В журнале Weekly Shonen Jump сообщили, что Тадатоси Фудзимаки (Баскетбол Куроко, Лазерный луч Робота) нарисует ваншот, который выйдет в выпуске от 4 января следующего года. Работа будет носить название "Kitsune Biyori no Konjirō" (Fox Weather's Konjirō) и состоять из 47 страниц, притом одна будет цветная. Это будет вторым ваншотом в журнале подряд, что необычно. Первый вышел в последнем номере за авторством Сюити Асо (Ох уж этот экстрасенс Сайки Кусуо!). Фудзимаки начал рисовать Лазерный луч Робота в марте 2017 года, и до завершения в июне 2018 было выпущено 7 томов. Баскетбол Куроко мангака рисовал для Weekly Shonen Jump с 2008 по 2014гг. По мотивам было снято три аниме сериала, два фильма-компиляции, полнометражный фильм, написано продолжение манги, ранобэ и спин-офф манга.]]></text>
+</doc>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Cooler Master представила БП компактного формата SFX мощностью до 1300 Вт с поддержкой стандарта питания PCIe 5.0]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[блоки питания]]></keyword>
+    <keyword type="str"><![CDATA[cooler master]]></keyword>
+    <keyword type="str"><![CDATA[блоки питания, адаптеры, источники питания]]></keyword>
+    <keyword type="str"><![CDATA[pci express 5.0]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-15T14:31:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Cooler Master представила блоки питания V1100 и V1300 Platinum мощностью 1100 и 1300 Вт соответственно. Обе модели выпущены в форм-факторе SFX и подойдут для компактных сборок с высокопроизводительными комплектующими.Оба блока питания имеют сертификацию 80 Plus Platinum, указывающую на то, что их показатель КПД составляет 92 %. Главной же особенностью новинок является их поддержка нового стандарта питания PCIe 5.0 с 12-контактным разъёмом для питания видеокарт.На блоках питания этот разъем обозначен просто как PCIe 5.0 — к нему в комплекте прилагается соответствующий 12+4-контактный кабель длиной 40 см. Производитель не называет максимальную мощность для коннектора PCIe 5.0, но согласно спецификациям, он должен быть способен передавать до 600 Вт мощности.На данный момент нет информации о стоимости и дате начала продаж блоков питания Cooler Master V1100 и V1300 SFX Platinum. Известно лишь, что производитель даёт на них 10-летнюю гарантию.]]></text>
+</doc>

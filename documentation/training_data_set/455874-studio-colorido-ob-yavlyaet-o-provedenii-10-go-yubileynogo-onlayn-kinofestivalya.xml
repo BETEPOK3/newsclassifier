@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Studio Colorido объявляет о проведении 10-го юбилейного онлайн-кинофестиваля]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Pё Хазуки]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[прочее]]></keyword>
+    <keyword type="str"><![CDATA[студия]]></keyword>
+    <keyword type="str"><![CDATA[фестиваль]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-04-25T21:50:24+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Студия Colorido  ( Nakitai Watashi wa Neko wo Kaburu Сквозь слёзы я притворяюсь кошкой ,  Penguin Highway Тайная жизнь пингвинов ) отмечает своё 10-летие в апреле и мае 2022 года. Студия выпустила видео, посвященное 10-летию, и 6 и 7 мая 2022 года на платном сервисе по подписке YouTube Premium будет транслировать некоторые из своих аниме. На вёб-сайте, посвященном 10-летию студии, указаны следующие аниме, которые будут транслироваться в составе потокового вещания: Солнце сквозь дождик   (6-13 мая 2022 года) Фотоателье   (6-13 мая 2022 года) Бубу и Бубурина (6-13 мая 2022 года) Тайная жизнь пингвинов   (6-7 мая 2022 года) Сжечь ведьму   (7-14 мая 2022 года) Вперёд, Каролина   (7-14 мая 2022 года) Усы прочь (7-8 мая) Studio Colorido  известна такими аниме, как  Taifuu no Noruda Тайфун Норуды ,  Penguin Highway Тайная жизнь пингвинов  и  Hinata no Aoshigure Солнце сквозь дождик . Самый последний известный проект студии —  Poketoon Покетун . Студия также недавно сняла  Burn the Witch Сжечь ведьму  и выпустит новый полнометражный аниме-фильм под названием  Ame wo Tsugeru Hyouryuu Danchi Дрейфующий дом . Фильм будет транслироваться по всему мире на платформе Netflix в 2022 году, а также будет показан в кинотеатрах Японии.]]></text>
+</doc>

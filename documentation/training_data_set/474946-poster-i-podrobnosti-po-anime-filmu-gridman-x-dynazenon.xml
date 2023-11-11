@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Постер и подробности по аниме-фильму «Gridman x Dynazenon»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[постер]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-08-26T17:22:27+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Официальный твиттер аниме-фильма  «Гридмен и Диназенон»  опубликовал новый постер, представил актерский состав и огласил год премьеры.  Премьера фильма состоится в Японии в 2023 году. «Гридмен»  стал первым проектом в возрожденной франшизы «GRIDMAN UNIVERSE», основанной на токусацу-сериале из 90-х. В 2021 году вышел сиквел —  «Диназенон» . Теперь готовится первый полнометражный фильм новой серии. СЕЙЮ И ПЕРСОНАЖИ Yume Miyamoto Юмэ Миямото  в роли  Рикки Такарады Yuuya Hirose Юя Хиросэ  в роли  Юты Хибики Hikaru Midorikawa Хикару Мидорикава  в роли  Гридмена Souma Saitou Сома Сайто  в роли  Shou Utsumi Сё Уцуми Shion Wakayama Сион Вакаяма  в роли  Yume Minami Юмэ Минами Junya Enoki Дзюнъя Эноки  в роли  Ёмоги Асанаки Chika Anzai Тика Андзай  в роли  Тисэ Асукагавы Yuuichirou Umehara Юитиро Умэхара  в роли  Коёми Яманаки]]></text>
+</doc>

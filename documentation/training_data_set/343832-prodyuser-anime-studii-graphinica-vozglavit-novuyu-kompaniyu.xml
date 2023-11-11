@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[​​Продюсер аниме-студии Graphinica возглавит новую компанию]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[прочее]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+    <keyword type="str"><![CDATA[студия]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-06-04T11:23:35+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания CREST объявила о создании новой студии цифровой анимации 100studio (One Double Studio),которой CREST будет управлять в рамках своего подразделения по управлению интеллектуальной собственностью.  Возглавит новую организацию продюсер Graphinica, Котаро Хоригучи, который знаком поклонникам аниме по проектам « Hello World Здравствуй, мир » и « Juuni Taisen Война двенадцати ». Отмечается, что 100studio будет выпускать сериалы, фильмы, видеоигры и музыкальные видео. Интересное: основателем CREST является продюсер Масатака Миками, ранее работавший в TOHO animation RECORDS, Polygon Pictures, Frontier Works и 5pb. Компания, в частности, занималась производством таких аниме-проектов как: « Kuma Kuma Kuma Bear Ми-ми-ми-мишка » и « Seven Knights Revolution: Eiyuu no Keishousha Семь рыцарей революции: Преемник героя ».]]></text>
+</doc>

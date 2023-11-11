@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новый родстер Chevrolet Corvette Z06 выйдет на старт гонки «Инди 500»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Александр Пономарёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[corvette]]></keyword>
+    <keyword type="str"><![CDATA[z06]]></keyword>
+    <keyword type="str"><![CDATA[chevrolet]]></keyword>
+    <keyword type="str"><![CDATA[суперкары]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2023-05-12T10:30:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Новый родстер Chevrolet Corvette Z06 впервые появится в культовой гонке «Инди 500». В 2023 году 28 мая на трассе «Индианаполис» состоится знаменитая 500-мильная гонка серии IndyCar. Среднемоторный суперкар Chevrolet Corvette C8 в топовом варианте Z06 в версии со складным жёстким верхом Convertible станет официальным автомобилем безопасности, который возглавит пелотон гоночных болидов перед стартом и станет появляться на трассе в случае аварии или других проблем. Гонка будет проходить в 107-й раз.
+34 года автомобилем безопасности на «Инди 500» работают автомобили Chevrolet и 20 лет из них эту роль выполняют спорткары Corvette. В 2023 году впервые в истории машиной безопасности станет родстер в исполнении Z06, так что предстоящий заезд станет в каком-то смысле знаковым.
+Суперкар окрашен в цвет Red Mist Metallic, дополненный дисками оттенка Tech Bronze, а салон отделан чёрно-серой кожей Jet Black и Sky Cool Gray с белыми и красными акцентами. Родстер также получил опциональный углепластиковый аэродинамический обвес Z07 Performance Package, который доступен и для дорожных моделей.
+С технической точки зрения никаких изменений нет — автомобиль сохранил 670-сильный атмосферный 5,5-литровый двигатель V8 модели LT6, заимствованный от гоночного Corvette C8.R, в сочетании с 8-ступенчатой роботизированной коробкой передач с двумя сцеплениями.]]></text>
+</doc>

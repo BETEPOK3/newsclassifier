@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Пользователи сообщают о сбоях в работе YouTube на территории России]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Андрей Крупин]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[сервис]]></keyword>
+    <keyword type="str"><![CDATA[россия]]></keyword>
+    <keyword type="str"><![CDATA[рунет]]></keyword>
+    <keyword type="str"><![CDATA[youtube]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[сбои]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-03-02T15:35:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Российские пользователи YouTube стали сталкиваться с проблемами в работе популярного видеосервиса. Об этом свидетельствуют данные сайта Downdetector, который отслеживает сбои различных ресурсов в глобальной сети.Согласно данным портала, больше всего жалоб поступает из Москвы и Санкт-Петербурга. Технические неполадки также наблюдаются в Крыму.Большинство пользователей сервиса жалуются на проблемы с сайтом YouTube (51 %), мобильным приложением (33 %) и просмотром медиаконтента (16 %).Платформа YouTube была основана 14 февраля 2005 года тремя бывшими работниками PayPal. В 2006 году этот сервис был приобретён IT-гигантом Google за 1,65 миллиардов долларов США. Месячная аудитория медиаплощадки превышает 2 млрд уникальных пользователей.]]></text>
+</doc>

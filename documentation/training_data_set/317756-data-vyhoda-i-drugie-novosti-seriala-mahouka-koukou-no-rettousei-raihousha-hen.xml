@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Дата выхода и другие новости сериала "Mahouka Koukou no Rettousei: Raihousha Hen"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[дата_показа]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-08-28T01:03:55+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Показ второго сезона под названием " Raihousha Hen " состоится 3 октября 2020 года. Напомню, что над   первым сезоном  работала студия  Madhouse . После событий «Беспорядков в Иокогаме» герои возвращаются к своей обычной школьной жизни. Но уничтожение армии Великого Азиатского Альянса подстегнуло соперничество между ведущими магическими силами мира. Теперь их главная цель — узнать, кто же этот неизвестный маг стратегического класса, которого скрывает Япония. Однако неприятности Тацуе принесут не только гости из-за границы, но и гости не из мира сего.. СОСТАВ СОЗДАТЕЛЕЙ Студия:  8bit  (The Fruit of Grisaia) Режиссёр:  Рисако Ёсида  (Дьявольские возлюбленные) Композитор:  Taku Iwasaki  (Убийца Акамэ) Остальной состав пока неизвестен и будет объявлен позже.]]></text>
+</doc>

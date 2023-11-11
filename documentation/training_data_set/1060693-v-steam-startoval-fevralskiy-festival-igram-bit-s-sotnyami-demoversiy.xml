@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[В Steam стартовал февральский фестиваль «Играм быть» с сотнями демоверсий]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Рудь]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[valve]]></keyword>
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[steam]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+    <keyword type="str"><![CDATA[фестиваль игр steam]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-21T21:55:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Как и было обещано, 21 февраля в 21:00 по московскому времени в сервисе цифровой дистрибуции Steam начался очередной фестиваль «Играм быть», который Valve называет «праздником будущих новинок».В частности, в рамках «Играм быть» можно попробовать тоталитарное приключение Beholder 3, сетевой шутер Boundary, абсурдную головоломку McPixel 3, космическую стратегию Ixion, экшен-хоррор Daymare: 1994 Sandcastle и многое другое.Для удобства навигации проекты-участники на странице фестиваля разделены по категориям. Кроме того, на главной странице фестиваля доступные демо можно отсортировать по фильтрам: жанр, поджанр, визуальный стиль, тематика и так далее.Напомним, «Играм быть» предлагает ознакомиться с ещё не вышедшими проектами как от начинающих, так и от опытных разработчиков, а также посмотреть за прямыми трансляциями с их участием.Текущая итерация «Играм быть» закончится 28 февраля в 21:00 по московскому времени. Следующий аналогичный фестиваль демоверсий назначен на ближайший июнь (точные сроки проведения пока не раскрываются).]]></text>
+</doc>

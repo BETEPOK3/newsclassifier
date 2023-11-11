@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Голосовой помощник Amazon Alexa поселится в автомобилях Jaguar Land Rover]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[автомобили, мотоциклы, транспортные средства]]></keyword>
+    <keyword type="str"><![CDATA[amazon alexa]]></keyword>
+    <keyword type="str"><![CDATA[голосовой помощник]]></keyword>
+    <keyword type="str"><![CDATA[alexa]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[автомобиль]]></keyword>
+    <keyword type="str"><![CDATA[jaguar land rover]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-02T15:39:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Jaguar Land Rover сообщила о том, что бортовой мультимедийный комплекс её автомобилей обзаведётся поддержкой интеллектуального голосового ассистента Amazon Alexa.Умный помощник станет доступен всем владельцам машин Jaguar и Land Rover, оборудованных информационно-развлекательной системой Pivi Pro. В настоящее время в эксплуатации находятся более 200 тыс. таких транспортных средств.Обращаясь к ассистенту Alexa при помощи простых голосовых команд, автомобилисты смогут строить маршруты, управлять воспроизведением музыки, запрашивать ту или иную информацию, прослушивать новости и пр.Кроме того, через помощника можно будет управлять устройствами для умного дома. Причём подключение к смартфону не потребуется. Навык Jaguar and Land Rover Remote Skill for Alexa позволит дистанционно проверять состояние автомобиля и получать информацию от бортовых датчиков.Распространение апдейта, привносящего поддержку Amazon Alexa, будет осуществляться «по воздуху». Уведомление о доступности обновления будет отображено на экране комплекса Pivi Pro. ]]></text>
+</doc>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Deadline: режиссер «Форсажа» Джастин Лин снимет фильм «Ванпанчмен» в формате лайв-экшн ]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Ничего]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[адаптация]]></keyword>
+    <keyword type="str"><![CDATA[лайв_экшен]]></keyword>
+    <keyword type="str"><![CDATA[анимэ]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-06-14T00:59:52+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Новостной сайт индустрии развлечений Deadline сообщил в понедельник, 13 июня 2022 года, что Sony Pictures нанимает Джастина Лина в качестве режиссёра фильма-адаптации в формате лайв-экшн  One Punch-Man Ванпанчмен   ONE  и  Yusuke Murata Юсукэ Мурата . Лин также будет выступать в качестве продюсера и участвовать в переписывании сценария перед началом производства фильма к концу 2022 года. Лин только что покинул франшизу «Форсаж» в начале 2022 года:  deadline.com Другой развлекательный новостной веб-сайт Variety сообщил о приобретении Sony прав на адаптацию  One Punch-Man Ванпанчмен  у издательства Shueisha в апреле 2020 года и сообщил, что Скотт Розенберг и Джефф Пинкнер («Веном», «Джуманджи: Добро пожаловать в фильмы о джунглях») будут сценаристами фильма. Продюсеры фильма Ави Арад и Ари Арад из Arad Productions (франшиза о Человеке-пауке и Людях Икс).]]></text>
+</doc>

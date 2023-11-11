@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[В России случился сбой в работе трёх крупных банков — Сбербанка, ВТБ и Райффайзенбанка]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Артур Хамзин]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[банкинг]]></keyword>
+    <keyword type="str"><![CDATA[сбои]]></keyword>
+    <keyword type="str"><![CDATA[банк]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-25T15:25:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Российские пользователи трёх крупных банков пожаловались на проблемы в работе сервисов финансовых организаций. Об этом свидетельствуют данные Downdetector. Сбой коснулся Сбербанка, ВТБ и Райффайзенбанка.Всплеск жалоб на Downdetector начался около 12:00 по московскому времени. Большая часть претензий была связана с работой мобильных приложений и переводом средств. Причины сбоя пока неизвестны. Представители ВТБ в разговоре с Forbes заявили о работе служб в штатном режиме за исключением валютных операций. В Райффайзенбанке назвали случившееся сбоем и заявили, что работают над его устранением.Ранее на фоне обострения ситуации вокруг Украины западные страны ввели санкции против российских банков. В санкционный список попали ВТБ, Сбербанк, «Открытие», Совкомбанк и ряд других банков.]]></text>
+</doc>

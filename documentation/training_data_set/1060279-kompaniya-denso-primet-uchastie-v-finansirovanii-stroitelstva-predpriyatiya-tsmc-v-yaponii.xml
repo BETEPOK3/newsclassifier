@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Завод TSMC в Японии получил ещё одного инвестора – производителя автомобильных чипов Denso]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Алексей Разин]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[tsmc]]></keyword>
+    <keyword type="str"><![CDATA[производство микросхем]]></keyword>
+    <keyword type="str"><![CDATA[автомобили, мотоциклы, транспортные средства]]></keyword>
+    <keyword type="str"><![CDATA[япония]]></keyword>
+    <keyword type="str"><![CDATA[разработка и производство электроники]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[sony]]></keyword>
+    <keyword type="str"><![CDATA[denso]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-16T04:51:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[К концу 2024 года должно начать выдавать продукцию предприятие TSMC на юге Японии, строительство которого будет субсидироваться властями, но в роли инвесторов одновременно выступят компании Sony и Denso. Последняя в данном качестве фигурирует впервые, но это лишь доказывает ориентацию предприятия на удовлетворение нужд японской автомобильной промышленности.Как уточняет Nikkei Asian Review, появление Denso в числе акционеров совместного предприятия Japan Advanced Semiconductor Manufacturing (JASM) подразумевает увеличение бюджета проекта с $7 до $8,6 млрд, а также перспективу освоения 12-нм или 16-нм техпроцесса против изначальных 22-нм и 28-нм, которые устраивали бы Sony. Последняя претендует на долю менее 20 % в капитале JASM с инвестициями в размере $500 млн.Компании Denso, которая является крупнейшим поставщиком автокомпонентов на конвейер Toyota Motor, в капитале JASM достанется чуть более 10 %, а вложить ей придётся не менее $350 млн. По замыслу, Denso сможет заказывать японскому предприятию TSMC выпуск автомобильных компонентов 10-нм класса, которые найдут применение в системах активной помощи водителю и силовых установках электромобилей. Являясь поставщиком крупнейшего автопроизводителя в мире, Denso заинтересована в долгосрочном сотрудничестве с TSMC в рамках нового проекта по локальному производству автокомпонентов на территории Японии.]]></text>
+</doc>

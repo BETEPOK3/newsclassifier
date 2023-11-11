@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[MSI выпустит обновлённый гибридный ноутбук Summit E16 Flip EVO на базе Intel Alder Lake-H и Arc Alchemist]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[ноутбук]]></keyword>
+    <keyword type="str"><![CDATA[alder lake]]></keyword>
+    <keyword type="str"><![CDATA[msi]]></keyword>
+    <keyword type="str"><![CDATA[intel arc alchemist]]></keyword>
+    <keyword type="str"><![CDATA[ноутбуки и нетбуки]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[intel arc]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-06T09:15:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания MSI готовит к выпуску обновлённый ноутбук Summit E16 Flip EVO. Новинка получит процессоры Alder Lake, а также графический ускоритель Intel серии Arc Alchemist.MSI Summit E16 Flip представляет собой гибридный лэптоп с поворачивающимся на 360 градусов дисплеем, что при желании позволяет использовать его как планшет. Устройство оснащено сенсорным экраном с соотношением сторон 16:10. Актуальная версия ноутбука работает на базе процессоров Intel Core 11-го поколения U-серии и оснащается графическим ускорителем GeForce RTX 3050.Обновлённая версия лэптопа, информация о которой была обнаружена в базе данных сайта PugetBench, построена на новом 14-ядерном и 20-поточном Core i7-12700H серии Alder Lake-H. Этот чип имеет заявленный показатель TDP в 45 Вт. Если актуальная модель использует ОЗУ стандарта LPDDR4X, то обновлённая модель получит память стандарта LPDDR5-6400.Пожалуй, самой интересной особенностью будущей новинки является её графическая подсистема. MSI Summit E16 Flip EVO версии 2022 года сможет предложить мобильный дискретный графический ускоритель Intel Arc A370M. Насколько данная видеокарта от Intel быстрее, чем GeForce RTX 3050, которая используется в актуальной версии лэптопа, пока неизвестно. На сайте PugetBench нет информации о графической производительности ноутбука, указывается лишь общий показатель его быстродействия в бенчмарке Lightroom Classic — в нём обновлённый MSI Summit E16 Flip EVO набрал 1034,5 балла.Согласно слухам, видеокарта Intel Arc A370M построена на графическом процессоре DG2-128EU. Она имеет 4 Гбайт выделенной памяти GDDR6 с 64-битным интерфейсом. Из последних утечек стало известно, что данный ускоритель примерно на 20 процентов медленнее настольной модели Intel Arc A380.На данный момент неизвестно, когда MSI планирует выпустить обновлённый лэптоп Summit E16 Flip EVO и какая у него будет стоимость.]]></text>
+</doc>

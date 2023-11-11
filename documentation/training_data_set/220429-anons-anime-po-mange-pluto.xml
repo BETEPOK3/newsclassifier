@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонс аниме по манге "Pluto"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[someThing4kG]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true"/>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2017-06-13T15:57:32+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Манга «Плутон» получает адаптацию аниме в соответствии с плакатом на Международном кинофестивале анимационных фильмов в Анси. Скорее всего, анонсу поспособствовало желание  Masao Maruyama Масао Маруяма  экранизировать мангу Pluto. Производством сериала займутся ребята из MAPPA (Shingeki no Bahamut). Продолжительность составит 8 эпизодов (по серии на каждый том). Сценарий пишет Наоки Урасава (автор оригинала). Манга основана на арке «Атом» Осамы Тэзуки, история повествует о расследовании робота-детектива Гэзихта из Европола. Он пытается раскрыть таинственную череду смертей сильнейших роботов и людей. Расследование становится еще более запутанным, когда улики приводят его к выводу, что убивает не человек. Последний раз такое случилось 8 лет назад. www.crunchyroll.com/forumtopic-992913/pluto-anime]]></text>
+</doc>

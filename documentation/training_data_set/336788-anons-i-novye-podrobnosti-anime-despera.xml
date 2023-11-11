@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонс и новые подробности аниме «Despera»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[дата_показа]]></keyword>
+    <keyword type="str"><![CDATA[обновления]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-03-24T13:49:39+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Тиаки Дж. Конака , сценарист " Serial Experiments Lain ", опубликовал в  Твиттере  новость, что аниме-долгострой "Despera", его совместный проект с  Ёситоси Абе  (Yoshitoshi ABe), все-таки жив. Работа над ним идет и выполнено уже 80%. С 2009 по 2011 год в журнале Animage издавался короткий роман по мотивам будущей адаптации. Позже все главы объединили и выпустили в отдельном томе. Всё это время Абэ, Накамура и Конака искали потенциальных инвесторов. К сожалению, в 2013 году Накамура скончался от рака поджелудочной железы. Проект был остановлен в 2013 году после смерти режиссера  Рютаро Накамура . Но в 2015  Ёситоси Абэ  после писал, что проект будет продолжен с новым режиссером. Подробно о проекте, можно почитать  здесь 14-летняя Айн создает удивительные механизмы из разных подручных материалов. Показ состоится не ранее 2022 года]]></text>
+</doc>

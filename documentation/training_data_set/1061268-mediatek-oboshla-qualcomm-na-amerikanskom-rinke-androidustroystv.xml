@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[MediaTek обошла Qualcomm на американском рынке Android-устройств]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Павел Котов]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+    <category type="str"><![CDATA[Экономика]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[mediatek]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[сша]]></keyword>
+    <keyword type="str"><![CDATA[процессоры]]></keyword>
+    <keyword type="str"><![CDATA[финансовые новости и аналитика]]></keyword>
+    <keyword type="str"><![CDATA[qualcomm]]></keyword>
+    <keyword type="str"><![CDATA[soc и микросхемы-контроллеры]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-03-03T11:18:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[По итогам IV квартала 2021 года MediaTek обошла Qualcomm и остальных разработчиков мобильных процессоров на рынке Android-смартфонов США. Как сообщил ресурс The Verge со ссылкой на данные аналитической компании IDC, доля устройств на платформах MediaTek в США составила 48,1 %, тогда как Qualcomm заняла лишь 43,9 %.По информации аналитиков IDC, MediaTek смогла вырваться вперёд за счёт успешных продаж смартфонов Samsung Galaxy A12, Galaxy A32 и Moto G Pure — они составили 51 % устройств на платформе тайваньского разработчика в IV квартале минувшего года и 24 % всего рынка Android-смартфонов в США. Журналисты The Verge, однако, отметили, что данные аналитической компании Counterpoint Research расходятся с информацией IDC: 55 % у Qualcomm и 37 % у MediaTek.Так или иначе, тайваньский разработчик мобильных процессоров сейчас активно завоёвывает рынок, в том числе американский. Пока Qualcomm остаётся несомненным лидером в производстве чипов для флагманских устройств, MediaTek уже демонстрирует более ощутимое присутствие в сегментах смартфонов начального и среднего уровня. Впрочем, и передовые модели азиатская компания игнорировать больше не собирается: согласно её собственным заявлениям, флагманский процессор Dimensity 9000 уже демонстрирует более высокую производительность, чем Snapdragon 888, а буквально накануне к нему присоединились субфлагманские решения в лице чипов Dimensity 8100 и 8000. Их дополнила 5G-совместимая платформа Dimensity 1300 со встроенными ИИ-ускорителем. Трио мобильных процессоров дебютирует на новых смартфонах уже до конца I квартала и обеспечит дополнительный рост доли MediaTek на многих рынках, включая американский.]]></text>
+</doc>

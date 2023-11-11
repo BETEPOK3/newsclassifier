@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Графика AMD RDNA2 в составе Exynos 2200 оказалась на 30 % медленнее Adreno 730 в чипе Snapdragon 8 Gen 1]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[samsung]]></keyword>
+    <keyword type="str"><![CDATA[разгон и замеры производительности системы]]></keyword>
+    <keyword type="str"><![CDATA[exynos]]></keyword>
+    <keyword type="str"><![CDATA[тестирование]]></keyword>
+    <keyword type="str"><![CDATA[amd]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[графические процессоры]]></keyword>
+    <keyword type="str"><![CDATA[мобильные телефоны, смартфоны, сотовая связь, коммуникаторы, кпк]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-15T18:27:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Samsung ещё не сняла запрет на публикацию полномасштабных обзоров смартфонов Galaxy S22, однако это не помешало некоторым обозревателям протестировать образцы устройств. Один из них сравнил производительность версий Galaxy S22 Ultra с чипами Qualcomm и Samsung, и сравнение это оказалось не в пользу модели на фирменном чипе.Напомним, что Galaxy S22 будут доступны как с Qualcomm Snapdragon 8 Gen 1, так и с Samsung Exynos 2200 в зависимости от региона продаж. Хотя ожидается, что производительность центрального процессора не будет ощутимо отличаться, на графический процессор Xclipse 920 в составе Exynos 2200 возлагаются большие надежды. Этот GPU, созданный совместными усилиями AMD и Samsung, полагается на архитектуру RDNA 2. В Snapdragon 8 Gen 1 традиционно используется фирменная графика Adreno — на этот раз Adreno 730.Энтузиаст протестировал версии Galaxy S22 Ultra на базе чипсетов Qualcomm и Samsung в графических бенчмарках 3DMark Wild Life, Wild Life Extreme и GFXBench. Согласно полученным результатам, Exynos 2200 лишь на 7 % превосходит прошлогодний Exynos 2100 с графикой Arm Mali-G78 в 3DMark Wild Life, при этом уступая Snapdragon 8 Gen 1 на впечатляющие 30 %. В остальных тестах ситуация сложилась аналогичным образом — модель на Exynos 2200 сильно отстала.Стоит отметить, что отдельные тестовые прогоны могут не показывать полную картину, поскольку производительность мобильной графики довольно сильно зависит от возможностей отвода тепла в тестируемых устройствах. Сообщается, что производительность Snapdragon 8 Gen 1 может ощутимо снизиться после нескольких прогонов из-за понижения частот, обусловленного чрезмерным нагревом чипа.Стоит понимать, что Galaxy S22 всё ещё могут получить обновления ПО, которые повысят производительность Xclipse 920 в составе Exynos 2200 до официального старта продаж.]]></text>
+</doc>

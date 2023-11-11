@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Разработчики Factorio обновили данные о продажах и рассказали о поддержке Steam Deck]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Рудь]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[wube software]]></keyword>
+    <keyword type="str"><![CDATA[steam deck]]></keyword>
+    <keyword type="str"><![CDATA[factorio]]></keyword>
+    <keyword type="str"><![CDATA[симулятор]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+    <keyword type="str"><![CDATA[продажи игр]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-28T09:40:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Независимая чешская студия Wube Software в своём официальном блоге раскрыла информацию о продажах симулятора строительства фабрик Factorio и поделилась подробностями поддержки Steam Deck.Как стало известно, к своей шестой годовщине с выхода в ранний доступ Factorio преодолела отметку 3 млн проданных копий (уже 3,1 млн). В феврале 2021-го авторы говорили о 2,5 млн реализованных экземплярах.Разработчики назвали достигнутую величину важным рубежом и отметили, что добились подобных показателей, ни разу не участвуя в распродажах или бандлах. Стоимость Factorio в России составляет 520 рублей.Что касается Steam Deck, то на портативном ПК от Valve игра работает хорошо: 60 кадров/с на заводах разумной величины и чуть менее 6 часов от батареи на средней яркости экрана.Для тех пользователей Steam Deck, кто не хочет настраивать управление в Factorio под себя через Steam Input, создатели советуют дождаться официальной поддержки контроллера — она появится ближе к концу текущего года.В ближайшее время Wube Software планирует несколько исправлений и улучшений графического интерфейса Factorio, чтобы он смог в полной мере развернуться на экране Steam Deck с разрешением 1280×800.Factorio стартовала в раннем доступе Steam в феврале 2016 года, а в августе 2020-го состоялся релиз финальной версии. Сейчас Wube Software трудится над дополнением, которое будет сопоставимо по размеру с основной игрой.]]></text>
+</doc>

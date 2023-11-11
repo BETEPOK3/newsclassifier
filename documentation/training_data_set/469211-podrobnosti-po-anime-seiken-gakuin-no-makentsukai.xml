@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Подробности по аниме «Seiken Gakuin no Makentsukai»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+    <keyword type="str"><![CDATA[производство]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-07-24T16:06:02+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[На мероприятии  Natsu no Gakuensai 2022  объявили, что студия  Passione  будет заниматься производством аниме сериала  «Мастер демонического клинка из академии «Святого Меча»» Проведя в магической коме целую тысячу лет, Тёмный лорд Леонис Дэт Магнус очнулся ото сна и, к своему немалому изумлению, обнаружил, что очутился в теле десятилетнего мальчишки. Не успел Леонис сообразить, что происходит, как столкнулся с Риселией Рей Кристалией, которая как раз в этот момент отчаянно сражалась с войдами — существами, которые почти стёрли человечество с лица Земли. Решив непременно разобраться со странными загадками нового тысячелетия, Леонис поступил в академию «Святого меча», где учеников обучают сражаться с войдами. Неужели эти неведомые монстры как-то связаны с прошлым Леониса?]]></text>
+</doc>

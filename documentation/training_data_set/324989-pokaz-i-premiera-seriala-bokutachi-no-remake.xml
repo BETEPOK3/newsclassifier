@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Показ и премьера сериала "Bokutachi no Remake"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[обновления]]></keyword>
+    <keyword type="str"><![CDATA[премьера]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-11-26T07:08:26+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В Японии экранизация выйдет в 2021 году. Роман за авторством Кио Нати под названием  Bokutachi no Remake  дебютировал в 2017 году на выпуске Kodansha и в настоящее время имеет 8 переплетенных томов в Японии. Также по мотивам романаc 2018 года, выходила  манга , всего имеется 4 тома. Хашиба Кёя - 28-летний разработчик игр. Когда его компания обанкротилась, а он потерял работу, он возвращается в свой родной город. Глядя на успех сверстников, он, будучи в подавленном состоянии, ложится на кровать и начинает сожалеть о своих прошлых решениях. Но когда он открывает глаза, он осознаёт, что его перенесло в прошлое на 10 лет, в студенческую пору. Это история о неудачнике, которому был дан второй шанс, дабы достичь своей мечты.]]></text>
+</doc>

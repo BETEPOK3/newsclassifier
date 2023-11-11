@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Серверы трилогии Dark Souls на ПК включат лишь после релиза Elden Ring]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Рудь]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[боевик]]></keyword>
+    <keyword type="str"><![CDATA[dark souls]]></keyword>
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[ролевой экшен]]></keyword>
+    <keyword type="str"><![CDATA[fromsoftware]]></keyword>
+    <keyword type="str"><![CDATA[вирусы, трояны, уязвимости в по, вопросы безопасности]]></keyword>
+    <keyword type="str"><![CDATA[rpg, jrpg]]></keyword>
+    <keyword type="str"><![CDATA[bandai namco entertainment]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-09T18:42:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Издательство Bandai Namco Entertainment и студия FromSoftware в официальном микроблоге Dark Souls сообщили о сроках возвращения онлайн-служб игр серии на ПК в рабочее состояние.Напомним, 23 января Bandai Namco Entertainment временно отключила серверы трилогии Dark Souls на ПК из-за лазейки, с помощью которой злоумышленники могут удалённо выполнять код на чужом компьютере.Как стало известно, серверы трилогии Dark Souls на ПК заработают лишь после релиза Elden Ring, который намечен на 25 февраля. Команде необходимо время, чтобы протестировать решение проблемы.Кроме того, расследование Bandai Namco Entertainment и FromSoftware затронуло и Elden Ring. Компании «обеспечили необходимые защитные меры для этого проекта на всех целевых платформах».Издатель и разработчик также поблагодарили сообщество за вклад в освещение ситуации. По неподтверждённой информации, Bandai Namco Entertainment знала о проблемах с начала 2020 года.]]></text>
+</doc>

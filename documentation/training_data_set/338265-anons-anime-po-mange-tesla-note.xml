@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонс аниме по манге "Tesla Note"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[KRXKZ]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-04-06T14:41:23+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Анонсирована аниме-адаптация манги  Заметки Теслы  (Онгоинг, 1 том) Производством займётся студия Gambit. Режиссёр -  Michio Fukuda Сценарист -  Masafumi Nishida Дизайн Персонажей -  POKImari Композитор -  Kaoru Wada "Миссия Т" – это разведывательная операция, задача которой спасти мир от гибели! Главная героиня - Негоро Ботан, что с раннего детства тренировалась как ниндзя и стала лучшим разведчиком. Негоро объединяется с другим агентом и берет на себя миссию, которая определит судьбу мира. Целью является восстановление наследия гениального изобретателя Николы Теслы, "Осколки Теслы". Смогут ли они выполнить свою миссию, обогнав разведывательных агентов из других стран, нацелившихся на те же самые фрагменты?]]></text>
+</doc>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Представлен рейтинг самых популярных мобильных приложений среди россиян]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Артур Хамзин]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[по для мобильных устройств]]></keyword>
+    <keyword type="str"><![CDATA[аналитика]]></keyword>
+    <keyword type="str"><![CDATA[исследование]]></keyword>
+    <keyword type="str"><![CDATA[российский рынок]]></keyword>
+    <keyword type="str"><![CDATA[мобильные приложения]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-22T18:10:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Mediascope провела исследование, призванное получить представление о том, в каких мобильных приложениях россияне больше всего проводят времени. Как выяснилось, отечественная аудитория предпочитает YouTube и игры Tencent. Данные приводит Forbes.Специалистами Mediascope были проанализированы интересы россиян старше 12 лет. Для статистики были взяты сведения с августа 2021 года по январь 2022 года. Самым популярным приложением стала игра PUBG Mobile: Artermath от Tencent, в которой пользователи в среднем проводят 91 минуту в сутки. На втором месте — детский YouTube (85 мин./сут.) и взрослая версия видеосервиса (82 мин./сут.). В пятёрку также вошли TikTok и игра Empires and Puzzles.Статистика наиболее популярных у россиян приложений:Несмотря на доминирование западных продуктов, в топ-10 вошли несколько продуктов из СНГ. Среди них — World of Tanks Blitz от белорусской студии Wargaming и шутер Standoff от казахстанской Axelbolt.]]></text>
+</doc>

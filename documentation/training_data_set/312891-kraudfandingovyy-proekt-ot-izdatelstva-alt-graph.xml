@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Краудфандинговый проект от издательства Alt Graph]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[SmokyWerewolf]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[лицензия]]></keyword>
+    <keyword type="str"><![CDATA[altgraph]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-06-22T12:20:21+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Для издательства  Alt Graph  настал очень важный момент. В первой половине 2020 года они собирались выпустить четыре очень интересные книги, но теперь вся дальнейшая работа издательства под вопросом. Чтобы выпустить эти книги и продолжить работу им как никогда нужна ваша помощь, поэтому они запустили краудфандинг на выпуск следующих книг: 1)  В этом уголке мира  от  Fumiyo Kouno 2)  Ночь на Галактической железной дороге  от  Кэндзи Миядзавы 3) Заключительные два тома  Паразита  от  Hitoshi Iwaaki Вся подготовительная работа уже завершена, осталось только собрать недостающие деньги на печать. Специально для краудфандинга будут подготовлены коллекционные издания с эксклюзивными обложками. Подробнее можно узнать в  посте издательства  или на  Бумстартере .]]></text>
+</doc>

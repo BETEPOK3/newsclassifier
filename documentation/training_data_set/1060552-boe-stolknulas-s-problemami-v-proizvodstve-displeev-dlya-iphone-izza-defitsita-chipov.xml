@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Дефицит чипов вынудил BOE сократить производство дисплеев для iPhone]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[дисплей]]></keyword>
+    <keyword type="str"><![CDATA[рынок it]]></keyword>
+    <keyword type="str"><![CDATA[apple]]></keyword>
+    <keyword type="str"><![CDATA[boe]]></keyword>
+    <keyword type="str"><![CDATA[производство]]></keyword>
+    <keyword type="str"><![CDATA[разработка и производство электроники]]></keyword>
+    <keyword type="str"><![CDATA[дефицит]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-18T21:11:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[У китайской компании BOE возникли проблемы с производством OLED-дисплеев для iPhone, связанные с глобальным дефицитом чипов, сообщает издание TheElec. По словам источников ресурса, нехватка полупроводниковой продукции будет сказываться на производственных возможностях компании ближайшие пару месяцев.BOE покупает драйверы дисплея (микросхемы, отвечающие за работу экрана) для использующихся в iPhone панелей у компании LX Semicon. На данный момент масштабы производства последней не соответствуют поставленным целям. Стеснённая нехваткой производственных мощностей, LX Semicon отдаёт предпочтение поставкам своей продукции LG Display, которая также производит экраны для iPhone.Ожидается, что в результате этого в следующем месяце BOE снизит объём производства OLED-панелей с трёх до двух миллионов единиц. Сообщается, что Apple заказала у BOE производство 10 миллионов OLED-экранов на первую половину 2022 года, и пока неясно, сможет ли компания обеспечить требуемые объёмы поставок.]]></text>
+</doc>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Toshiba планирует выпустить HDD объёмом 30 Тбайт уже в 2023 году]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[hdd]]></keyword>
+    <keyword type="str"><![CDATA[mamr]]></keyword>
+    <keyword type="str"><![CDATA[производство]]></keyword>
+    <keyword type="str"><![CDATA[toshiba]]></keyword>
+    <keyword type="str"><![CDATA[разработка и производство электроники]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[hamr]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-08T23:58:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Toshiba провела в Токио мероприятие для инвесторов, в ходе которого рассказала о своих планах по производству накопителей на жёстких магнитных дисках (HDD). По данным производителя, объёмы данных, генерируемых в мире, продолжают расти двузначными темпами каждый год, поэтому спрос со стороны облачных провайдеров вызывает потребность в жёстких дисках большой ёмкости.Для удовлетворения растущего спроса в носителях большой ёмкости Toshiba планирует использовать свои запатентованные технологии записи FC-MAMR и MAS-MAMR. Уже к следующему году эти технологии позволят увеличить ёмкость жёстких дисков до 30 Тбайт, отмечает компания.Наглядное представление о планах Toshiba даёт иллюстрация, позаимствованная из презентации. К 2023 году компания планирует выйти на производство HDD объёмом 30 Тбайт. А к 2026 году производитель планирует выпустить накопители ёмкостью более 40 Тбайт. Для их выпуска будет использоваться технология магнитной записи с подогревом (HAMR).]]></text>
+</doc>

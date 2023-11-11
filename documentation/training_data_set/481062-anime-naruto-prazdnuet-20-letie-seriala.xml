@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Аниме «Naruto» празднует 20-летие сериала]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Трейлер]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[годовщина]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-10-03T21:12:24+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Студия  Pierrot  опубликовала праздничный трейлер для аниме  «Наруто»  под названием  «Дорога Наруто» . Сегодня, а именно 3-го октября франшиза празднует 20-летия аниме-сериала. По этому поводу создали  специальный сайт , на котором будет информация по всяким мероприятиям в честь 20-й годовщины. На сайте были опубликованы еще иллюстрации поддерживающие эту историю. В трейлере звучат опенинги из  «Наруто»  и  «Наруто: Ураганные хроники» : Из  «Наруто» : Второй опенинг: «Haruka Kanata» исполнили  ASIAN KUNG-FU GENERATION Четвертый опенинг: «GO!!!» исполнили  FLOW Пятый опенинг: «Seishun Kyosokyoku» исполнили  Sambomaster Из  «Наруто: Ураганные хроники» : Третий опенинг: «Blue Bird» исполнили  Ikimonogakari Шестой опенинг: «Sign» исполнили  FLOW Шестнадцатый опенинг: «Silhouette» исполнили  KANA-BOON Масаси Кисимото  нарисовал специальную памятную иллюстрацию вместе со своим комментарием. Написанный текст на иллюстрации — это благодарность Кисимото фанатам, что до этого момента продолжают поддерживать автора и наслаждаться его творением.]]></text>
+</doc>

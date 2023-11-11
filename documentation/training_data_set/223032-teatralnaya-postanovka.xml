@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Театральная постановка ]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[K.I.R.A]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true"/>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2017-07-26T19:00:19+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В последней главе объявили о театральной постановке, сопровождаемой чтением текста на фоне и музыкой, называемой "Super Sound Theater: Vinland Saga ~ Hero Revival Chapter ~".  Она будет проходить в "Амфитеатре Майхамы", расположенной в Майхаме (город Ураясу, префектура Чиба) с 30 сентября по 1 октября 2017 года. Известен список лиц, занятых на проекте: ● Сценарий: Ацухиро Томиока (Zetman, Berserk, Space Battleship Yamato, Pokemon (фильмы)) ● Режиссёр: TEAM SOUND THEATER / Ацухиро Томиока ● Композитор: Юсаку Цучия (Sonic Generations; Kâito jôkâ) ● Чтение текста: Йошицугу Мацуока, Сатоши Хино, Казухиро Ямаджи, Кенью Хоруичи, Кохэй Амасаки, Эйзо Цуда, Хироки Такахаши, Дайки Хамано. ● Инструменты: Кана (флейта), Такаюки Манабэ (гитара), Котаро Сайто (виолончель), Мегу Хаттории (ударные), Юсаку Цучия (скрипка / терменвокс) ● Спонсор: Sound Theater Executive Office ● Производство: Ahaba Creative Party Пока достоверно ничего не известно, будет ли это театральной постановкой или неким воспроизведением событий путём зачитывания сценария и музыкальном сопровождением или чем-то ещё.]]></text>
+</doc>

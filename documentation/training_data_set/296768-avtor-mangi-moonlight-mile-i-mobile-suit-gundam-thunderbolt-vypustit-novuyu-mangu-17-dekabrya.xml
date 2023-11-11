@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Автор манги «Moonlight Mile» и «Mobile Suit Gundam Thunderbolt» выпустит новую мангу 17 декабря.]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[3pack]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2019-11-12T14:07:02+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Создатель научно-фантастических манга-сериалов « Moonlight Mile » и « Mobile Suit Gundam Thunderbolt » Ясуо Отагаки в следующем месяце начнёт новый проект. В выходящем 17 декабря выпуске журнала Manga Action издательства Futabasha будет опубликована первая глава манги «Диана и Артемида» (Diana & Artemis) Отагаки. Сериал будет посвящён «сохранению мира на Луне». « Moonlight Mile » выходила в 2000–2011 годах в журнале Big Comic Superior издательства Shogakukan и собрана в 23 тома. В 2007 году были показаны два сезона аниме-адаптации манги от Studio Hibari. Манга « Mobile Suit Gundam Thunderbolt » выходит с 2012 года в Big Comic Superior и сейчас собрана в 14 томов. По этой манге, являющейся частью огромного медиафранчайза « Мобильный доспех Гандам », выпустила аниме студия Sunrise: два сезона сериала и фильм.]]></text>
+</doc>

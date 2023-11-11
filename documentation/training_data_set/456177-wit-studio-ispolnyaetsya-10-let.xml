@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Wit Studio исполняется 10 лет.]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Grigorii]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[юбилей]]></keyword>
+    <keyword type="str"><![CDATA[witstudio]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-04-27T17:24:47+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В честь этого события анонсировано специальное мероприятие «Wit Studio 10th Aim Higher», которое пройдет с 27 мая по 20 июня в Икэбукуро. Студия была основана в июне 2012 года, став дочерней компанией I.G. За весь период существования они успели выпустить множество различных аниме-сериалов, которые смогли заслужить высокие рейтинги и награды за качество.  «Shingeki no Kyojin» ,  «Vinland Saga» , « Great Pretender»  – это далеко не весь список их успешных проектов. В весеннем сезоне выходит сериал  «Spy X Family» , который они делают совместно с Cloverworks. На Netflix 28 апреля выйдет полнометражный фильм «Bubble», который, судя по трейлеру, имеет все шансы стать одним из самых красочных проектов в этом году.]]></text>
+</doc>

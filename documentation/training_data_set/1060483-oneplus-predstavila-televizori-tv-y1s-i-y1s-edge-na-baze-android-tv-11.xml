@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[OnePlus представила телевизоры TV Y1S и Y1S Edge на базе Android TV 11]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[телевизор]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[мониторы, проекторы, тв-тюнеры, телевизоры]]></keyword>
+    <keyword type="str"><![CDATA[oneplus]]></keyword>
+    <keyword type="str"><![CDATA[смарт-телевизоры]]></keyword>
+    <keyword type="str"><![CDATA[смарт-тв]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-18T07:24:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания OnePlus анонсировала смарт-телевизоры TV Y1S и Y1S Edge, которые будут предлагаться в версиях с диагональю 32 и 43 дюйма. В первом случае разрешение составляет 1366 × 768 пикселей (формат HD), во втором — 1920 × 1080 точек (Full HD).Для всех новинок заявлена поддержка HDR10+, HDR10 и HLG. Варианты серии Edge дополнительно имеют сертификат TÜV Rheinland, указывающий на защиту зрения пользователя. В частности, предусмотрены средства сокращения интенсивности вредного излучения в синей части спектра.Телевизоры несут на борту 64-битный процессор MediaTek MT9216, функционирующий в тандеме с 1 Гбайт оперативной памяти. Вместимость встроенного флеш-накопителя составляет 8 Гбайт.Есть адаптеры Wi-Fi 802.11ac и Bluetooth 5.0 LE, два разъёма HDMI и два порта USB, оптический интерфейс и контроллер Ethernet. Версии TV Y1S оборудованы аудиосистемой мощностью 20 Вт, модели Y1S Edge — 24 Вт.На панелях применена операционная система Android TV 11 с надстройкой OxygenPlay 2.0 и возможностью использования помощника Google Assistant. Цена варьируется от 220 до 370 долларов США. ]]></text>
+</doc>

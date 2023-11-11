@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Сегодня днём пройдёт мероприятие Honor на MWC 2022 — ожидается анонс флагманской серии Magic 4]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Владимир Мироненко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[мероприятия и события it-индустрии, выставки, форумы]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[смартфон]]></keyword>
+    <keyword type="str"><![CDATA[мобильные телефоны, смартфоны, сотовая связь, коммуникаторы, кпк]]></keyword>
+    <keyword type="str"><![CDATA[mwc 2022]]></keyword>
+    <keyword type="str"><![CDATA[honor]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-28T12:40:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Вскоре стартует пресс-конференция компании Honor в рамках выставки MWC 2022, начавшей сегодня работу в Барселоне. Мероприятие, которое начнётся в 15:00 по московскому времени, пройдёт в обычном очном формате в присутствии журналистов и других посетителей. Слоган мероприятия — «The Power of Magic» (Сила магии). Судя по тизерному видео, размещённому в Twitter, на пресс-конференции Honor состоится презентация серии флагманских смартфонов Magic 4. Учитывая то, что серия смартфонов Magic 3 вышла менее шести месяцев назад, Honor значительно ускорила смену поколений своих мобильных устройств.В Сети уже появились некоторые данные о технических характеристиках новинок. Как сообщают источники, в серию войдут три модели — Honor Magic 4, Honor Magic 4 Pro и Honor Magic4 Pro+. Первая по всей видимости, будет основана на чипе MediaTek Dimensity 9000, остальные две модели получат процессор Qualcomm Snapdragon 8 Gen 1. Honor Magic 4, как сообщается, оснащён 6,55-дюймовым дисплеем с разрешением 2400 × 1080 точек и частотой отклика сенсорного слоя 300 Гц, а Honor Magic 4 Pro и Honor Magic4 Pro+ получат соответственно 6,67-дюймовый (2772 × 1344 пикселя) и 6,78-дюймовый (3200 × 1440 точек) экраны. Впрочем, через несколько часов Honor познакомит нас с официальными спецификациями новинок, а также ценами и сроками выхода.]]></text>
+</doc>

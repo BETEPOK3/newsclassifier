@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсировано аниме по манге Oshi no Ko]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Toku Tonari]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[oshinoko]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-06-09T18:00:51+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Young Jump в завершение 75 часового обратного отсчета объявили о том, что манга  Oshi no Ko  получит аниме-адаптацию. Манга начала публикацию в апреле 2020 года, и ее сценаристом является  Ака Акасака , известный по манге  Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen , а художником манги выступает  Мэнго Ёкояри , известная по манге  Kuzu no Honkai .  Это совершенно новая работа, в которой мир шоу-бизнеса предстаёт перед читателями в очень необычном свете: у лидера идол-группы Ай Хосино есть секрет, о котором никто не должен знать. Анимационная студия:  Doga Kobo  ( Gekkan Shoujo Nozaki-kun ,  Plastic Memories ,  Kawaii dake ja Nai Shikimori-san ) Главный режиссер:  Дайсукэ Хирамаки Помощник режиссера:  Саори Татибана  (Nekotomichao) Сценарист:  Дзин Танака Дизайн персонажей:  Канна Хираяма]]></text>
+</doc>

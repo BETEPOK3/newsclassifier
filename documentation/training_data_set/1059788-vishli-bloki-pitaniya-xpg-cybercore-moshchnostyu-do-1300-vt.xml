@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Вышли блоки питания XPG CyberCore мощностью до 1300 Вт]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[xpg]]></keyword>
+    <keyword type="str"><![CDATA[блоки питания, адаптеры, источники питания]]></keyword>
+    <keyword type="str"><![CDATA[блок питания]]></keyword>
+    <keyword type="str"><![CDATA[adata]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-09T09:13:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Бренд XPG (Xtreme Performance Gear), созданный компанией ADATA, сообщил о выпуске блоков питания серии CyberCore для высокопроизводительных игровых компьютеров. Решения имеют сертификат 80 PLUS Platinum.В семейство вошли две модели — мощностью 1000 и 1300 Вт. В конструкции применяются высококачественные японские конденсаторы, рассчитанные на температурный режим 105 градусов Цельсия. Устройства наделены усовершенствованным активным механизмом коррекции коэффициента мощности (Active PFC).CyberCore — это совместная разработка XPG и Nidec. Новинки получили вентилятор XPG Vento Pro 120 PWM диаметром 120 мм от компании Nidec. Лопасти имеют изогнутую форму, обеспечивающую максимальную эффективность. Вентилятор полностью останавливается при небольшой нагрузке, благодаря чему уровень шума от блока питания падает до ноля.«Конструкция имеет два основных преимущества: увеличение ожидаемого срока службы вентилятора и, что наиболее важно, компактный форм-фактор длиной всего 160 мм, один из самых компактных в категории Platinum», — отмечает XPG.Реализована модульная система кабелей, позволяющая избавиться от неиспользуемых шлейфов. Упомянуты восемь видов защиты, а гарантия составляет 10 лет. ]]></text>
+</doc>

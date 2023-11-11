@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсировано аниме по мотивам новелл "Kijin Gentoushou"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Трейлер]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-09-09T08:36:56+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Издательская компания " Futabasha ", объявила об адаптации новелл под названием  "Kijin Gentoushou" , за авторством писателя Юу Сатоси. Подробности адаптации объявят позже, однако был представлен тизер и постер. На данный момент существует русская локализация от издательства " Истари комикс ", правда в виде первого тома. Действие происходит в эпоху Эдо в Японии и рассказывает о Джинте — телохранителе жрицы из отдаленной горной деревни. Хотя Джинта является здесь чужаком, ему поручено найти демона в лесу, чтобы победить его. Однако демон рассказывает парню о его загадочном будущем. История книг охватывает 170 лет периодов с Эдо по Хэйсэй. Главные герои путешествуют через пространство и время, всё время пытаясь найти смысл того, почему они владеют клинком.]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Фильм «Jujutsu Kaisen 0» стал шестым аниме-фильмом по доходам во всем мире]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[топ]]></keyword>
+    <keyword type="str"><![CDATA[сборы]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-11-24T15:33:52+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Персонал аниме-фильма  «Магическая битва 0. Фильм»  похвастался тем, что всего на фильм было продано 20.51 млн. билетов, в результате чего они заработали более 26.5 миллиардов иен (приблизительно 11.5 миллиардов руб.).  Исходя из данных сайта Numbers, в целом фильм заработал 195 870 885 долларов (~11 823 745 973 руб.). Тем самым  «Магическая битва 0. Фильм»  обогнал по мировым кассовым сборам фильм  «Дитя погоды»  и стал шестым аниме-фильмом по доходам во всем мире, без поправки на инфляцию. На сегодня топ выглядит так: 1.  «Клинок, рассекающий демонов: Бесконечный поезд. Фильм» 2.  «Унесённые призраками» 3.  «Ходячий замок» 4.  «Рыбка Поньо на утёсе» 5.  «Твоё имя» 6.  «Магическая битва 0. Фильм»]]></text>
+</doc>

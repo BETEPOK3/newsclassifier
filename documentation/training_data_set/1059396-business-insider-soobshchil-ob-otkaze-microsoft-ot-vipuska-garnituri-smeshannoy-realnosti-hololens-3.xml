@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Microsoft передумала выпускать гарнитуру смешанной реальности HoloLens 3 в середине года]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Владимир Мироненко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[microsoft]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[смешанная реальность]]></keyword>
+    <keyword type="str"><![CDATA[носимая электроника]]></keyword>
+    <keyword type="str"><![CDATA[hololens]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-03T12:26:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Microsoft пока не планирует выпуск гарнитуры смешанной реальности HoloLens третьего поколения, хотя предыдущая модель HoloLens 2 вышла ещё в 2020 году. Как утверждают источники ресурса Business Insider, компания отказалась от планов по запуску производства HoloLens 3 в середине прошлого года.Участники команды разработчиков HoloLens рассказали ресурсу о существующей в Microsoft «путанице и стратегической неопределённости». Microsoft якобы договорилась с Samsung о сотрудничестве для создания нового устройства смешанной реальности, что вызвало возмущение у команды HoloLeans. По словам источников, Microsoft не решается отказаться от собственной технологии HoloLens, тогда как Samsung настаивает на том, чтобы самой работать над аппаратной частью, а Microsoft должна заниматься только разработкой программного обеспечения.Сейчас в Microsoft спорят о направлениях развития HoloLens. Некоторые считают, что это должно быть больше связано с разработкой аппаратного обеспечения и поддержкой существующих корпоративных пользователей и военных, а другие думают, что это должно быть связано с созданием программного обеспечения для метавселенной и рядовых потребителей.На фоне этих споров команду HoloLens покинули такие высококвалифицированые специалисты как Дон Бокс (Don Box), специализирующийся на смешанной реальности, и разработчик технологий компьютерного зрения Дэйв Рид (Dave Reed).]]></text>
+</doc>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсировано полнометражное аниме «Make a Girl»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+    <category type="str"><![CDATA[Фильмы]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[фильм]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-08-26T19:12:21+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[3D аниматор  Гэнсё Ясуда  организовал краудфандинговую компанию  Campfire , для своего первого полнометражного аниме  «Сделай девушку» . Производством занимается студия  Xenotoon .  Премьера запланирована на 2024 год. Сам фильм основан на короткометражке под названием  «Make Love 3D» , сделанную самим же  Ясудой . История рассказывает про парнишку по имени Акира, который сделал себе искусственную девушку и дал ей имя № 0. Его проект был сделан с научной точки зрения. Всего на данный проект они собирают 10 миллионов иен. 31-го октября сбор средств завершится. В 2021 году  Ясуда  основал свою студию  Yasuda Gensho Studio , после ухода из  Nitroplus . Его короткометражные анимации, сделанные в  Blender , форсят в твиттере и тик токе.]]></text>
+</doc>

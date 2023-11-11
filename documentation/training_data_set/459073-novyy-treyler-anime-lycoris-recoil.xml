@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новый трейлер аниме «Lycoris Recoil»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Трейлер]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[персонаж]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-05-18T13:43:56+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Официальный сайт оригинального аниме  Lycoris Recoil Ликорис Рикоил  от режиссера  Shingo Adachi Синго Адати  опубликовал в среду первый трейлер персонажа. Видео знакомит с сотрудником кафе  Chisato Nishikigi Тисато Нисикиги Всегда улыбающаяся Чисато живет настоящим моментом. Она сентиментальна и ее легко обмануть, но она находит удовольствие во всем и оправляется от любой неудачи. Ее любимые вещи - неожиданные повороты, неприятности. Действие происходит в кафе в японском стиле «Lyco-Reco»в старом центре Токио. Кафе принимает заказы на все, от вкусного кофе до сладких сладостей и возможно, что-то еще например: общение с детьми, деловые переговоры, любовные советы, беседы один на один о зомби и гигантских монстрах и многое другое. Девиз кафе: "Неважно, что вы закажете, мы приготовим это...!"]]></text>
+</doc>

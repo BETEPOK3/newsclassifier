@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Epson представила флагманский домашний проектор Pro Cinema LS12000 — 4K, 120 Гц и до 300 дюймов за $5000]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[epson]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[мониторы, проекторы, тв-тюнеры, телевизоры]]></keyword>
+    <keyword type="str"><![CDATA[проектор]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-15T17:09:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Epson анонсировала свой флагманский проектор для домашних кинотеатров — модель Pro Cinema LS12000 4K PRO-UHD, в которой используется лазерный источник света.Новинка выполнена по фирменной технологии Epson 3LCD. Формируется изображение с разрешением 3840 × 2160 пикселей и частотой обновления до 120 Гц. Размер картинки варьируется от 50 до 300 дюймов по диагонали. Устройство обеспечивает яркость до 2700 люмен и контрастность 2 500 000:1.Применён высокопроизводительный процессор Epson ZX. Реализована поддержка HDR, HDR10+ и HLG (Hybrid Log Gamma). Заявленный срок службы источника света — 20 тыс. часов.Проектор оборудован двумя интерфейсами HDMI 2.1 (HDCP 2.3), портами USB Type-A и Mini USB, разъёмом RJ45 для подключения сетевого Ethernet-кабеля и последовательным портом.Отмечается, что новинка отлично подходит для 4К-игр с кадровой частотой 120 fps. Задержка ввода составляет менее 20 мс. Приобрести новинку можно будет по ориентировочной цене 5000 долларов США. ]]></text>
+</doc>

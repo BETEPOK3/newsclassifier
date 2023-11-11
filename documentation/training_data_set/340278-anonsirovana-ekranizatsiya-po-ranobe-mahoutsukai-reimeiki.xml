@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсирована экранизация по ранобэ "Mahoutsukai Reimeiki" ]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[адаптация]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-04-27T19:02:22+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Состоялся анонс , экранизации " Mahoutsukai Reimeiki ". Подробности, будут объявлены позже, также по мотивам ранобэ выходит и  oдноимённая манга  за авторством  Какеру Кабасири . Также стоит отметить, что само ранобэ разворачивается в том же фентезийном мире, что и " Zero kara Hajimeru Mahou no Sho " Война между ведьмами и церковниками бушевала несколько веков. Сейчас, к счастью, все утихло, но на окраинах еще тлеют конфликты. Сэвилл, бездарный ученике Колледжа Магии королевства Вениас. Однажды, он каким-то образом потерял память обо всём, что происходило с ним до поступления в колледж. Директор заведения Альбус отправляет его на специальную тренировку в южную часть континента, где усиливается гонение ведьм.]]></text>
+</doc>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[NVIDIA выпустила драйвер GeForce Game Ready 511.79 WHQL с поддержкой новых игр и различными исправлениями]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[драйвер]]></keyword>
+    <keyword type="str"><![CDATA[nvidia geforce]]></keyword>
+    <keyword type="str"><![CDATA[драйверы]]></keyword>
+    <keyword type="str"><![CDATA[видеокарта]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-14T19:16:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания NVIDIA выпустила пакет графического драйвера GeForce Game Ready 511.79 WHQL. Он обеспечивает поддержку новых игр, а также содержит различные улучшения и исправления.В описании драйвера указывается, что он добавляет поддержку Elden Ring, GRID Legends, Total War: Warhammer III, Martha is Dead, Destiny 2: The Witch Queen, а также технологии NVIDIA Reflex в игре iRacing.Список исправленных проблем:Список известных проблем:Загрузить пакет графического драйвера GeForce Game Ready 511.79 WHQL можно с официального сайта NVIDIA или через приложение GeForce Experience.]]></text>
+</doc>

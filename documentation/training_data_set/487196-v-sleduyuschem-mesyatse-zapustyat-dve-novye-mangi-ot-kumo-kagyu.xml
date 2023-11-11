@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[В следующем месяце запустят две новые манги от Кумо Кагю ]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[дата]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-11-30T01:13:40+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В декабрьском номере журнала  Big Gangan (Monthly)  сообщили, что  Кумо Кагю  запустит еще одну новую мангу под названием  «Goblin Slayer Day in the Life» .  Даити Мацусэ  отвечает за рисовку. Манга охватит 12 томов ранобэ  «Убийца гоблинов» , но сосредоточится на авантюристах и их повседневной рутине. Также журнал сообщил, что манги  «Goblin Slayer Day in the Life»  и  «Moscow 2160»  запустят в один день, а именно  23-го декабря 2022 года . Мир, где люди не имеют никаких прав и свободы. Холодная война длится уже двести лет. Киборги держат в страхе улицы городов. Но в Москве появляется таинственный Чистильщик, который оказывается обычным человеком, и он не принадлежит ни к одной из группировок. Нобору Каннацуки  отвечает за дизайн персонажей обеих манг.]]></text>
+</doc>

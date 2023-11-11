@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Apple открыла новый книжный клуб «Strombo’s Lit» в приложении Apple Books]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Владимир Мироненко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[по для мобильных устройств]]></keyword>
+    <keyword type="str"><![CDATA[apple books]]></keyword>
+    <keyword type="str"><![CDATA[книги]]></keyword>
+    <keyword type="str"><![CDATA[приложения для ios]]></keyword>
+    <keyword type="str"><![CDATA[программное обеспечение]]></keyword>
+    <keyword type="str"><![CDATA[apple]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-10T11:43:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Apple открыла собственный книжный клуб в приложении Apple Books, где будет проходить обсуждение как художественной, так и научно-популярной литературы. Аудитория нового клуба — читатели в США, Канаде, Великобритании и Австралии.Куратором клуба является канадский медийный деятель и ведущий радиостанции Apple Music Hits Джордж «Стромбо» Стромбулопулос (George «Strombo» Stroumboulopoulos).Компания пояснила, что «Strombo’s Lit» вовсе не предназначен для замены приложения Apple Books. Его редакторы продолжат формировать различные списки книг, которые можно найти на вкладке «Магазин книг». Просто книжный клуб будет предлагать читателями новую возможность открыть для себя произведения новых авторов благодаря рекомендациям «Стромбо».Хотя Струмбулопулос входит в команду Apple Music, книжный клуб не будет посвящён произведениям, связанным с музыкой. Тематика «Strombo’s Lit» будет довольно обширной. По словам компании, он станет своего рода объективом, который позволит лучше видеть мир. Целевой аудиторией клуба станут все, кто заинтересован в чтении произведений от лучших авторов мира.В дополнение к обсуждению произведений, предложенных Струмбулопулосом, в клубе будут публиковаться интервью с авторами книг и другой контент, часть которого также будет опубликована в социальных сетях.Первый выбор «Strombo’s Lit» — научно-фантастический триллер «Termination Shock» Нила Стивенсона (Neal Stephenson), автора таких бестселлеров, как «Семиевие» (Seveneves), «Анафем» (Anathem) и «Вирус Reamde» (Reamde), которые также доступны в Apple Books.]]></text>
+</doc>

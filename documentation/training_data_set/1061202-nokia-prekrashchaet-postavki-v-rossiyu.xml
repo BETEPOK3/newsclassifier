@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Nokia прекратит поставки продукции в Россию]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Руслан Авдеев]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[интересности из мира хай-тек]]></keyword>
+    <keyword type="str"><![CDATA[мероприятия и события it-индустрии, выставки, форумы]]></keyword>
+    <keyword type="str"><![CDATA[рынок it]]></keyword>
+    <keyword type="str"><![CDATA[санкции]]></keyword>
+    <keyword type="str"><![CDATA[россия]]></keyword>
+    <keyword type="str"><![CDATA[nokia]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[сети и коммуникации]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-03-02T13:07:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Актуальная геополитическая ситуация способна привести к серьёзным перебоям с поставками электроники в Россию. О готовности соблюдать западный санкционный режим объявила финская компания Nokia — она прекратит поставки своей продукции в Россию. Пока речь идёт не о смартфонах, выпускаемых под одноимённым брендом китайским производителем HMD Global. Сама финская компания Nokia занимается производством сетевого оборудования, базовых станций и прочих компонентов для систем связи.«Это сложная ситуация, которая быстро развивается и мы продолжаем её оценивать», — заявил представитель производителя, поставляющего оборудование для российских сетей МегаФона, «Вымпелкома», МТС и Tele2.Ранее о прекращении продаж электроники в России из числа крупных производителей объявили компании AMD, Apple и Dell, а многие онлайн-сервисы перестали принимать платежи с карт попавших под санкции российских банков.]]></text>
+</doc>

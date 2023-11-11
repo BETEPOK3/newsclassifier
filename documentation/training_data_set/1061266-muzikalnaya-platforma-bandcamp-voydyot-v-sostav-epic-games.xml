@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Музыкальная платформа Bandcamp войдёт в состав Epic Games]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Рудь]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[bandcamp]]></keyword>
+    <keyword type="str"><![CDATA[epic games]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-03-03T10:51:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Американский издатель и разработчик Epic Games объявил о намерении приобрести онлайн-магазин звукозаписей и музыкальное сообщество Bandcamp. Сумма сделки не разглашается.По словам сооснователя и генерального исполнительного директора Bandcamp Итана Даймонда (Ethan Diamond), платформа сохранит бизнес-модель и продолжит функционировать под текущим руководством.И хотя на поверхности Bandcamp не изменится, за кулисами поддержка Epic Games позволит команде совершенствовать свои мобильные приложения, платёжные системы, функцию поиска, стриминговые сервисы и многое другое.«Bandcamp сыграет важную роль в задумке Epic создать рыночную экосистему для творцов, объединяющую контент, технологии, игры, живопись, музыку и так далее», — заявили в Epic Games.Предыдущее музыкальное приобретение Epic Games — Harmonix (Rock Band, Dance Central). Американская студия будет создавать «музыкальные путешествия и игровой процесс» для условно-бесплатной королевской битвы Fortnite.]]></text>
+</doc>

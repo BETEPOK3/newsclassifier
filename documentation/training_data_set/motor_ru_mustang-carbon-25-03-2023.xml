@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Ford показал сверхмощный карбоновый Mustang]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Александр Пономарёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[gt3]]></keyword>
+    <keyword type="str"><![CDATA[ford]]></keyword>
+    <keyword type="str"><![CDATA[автоспорт]]></keyword>
+    <keyword type="str"><![CDATA[mustang]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2023-03-24T11:30:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Ford показала очень мощный карбоновый Mustang GT3. Вместе с премьерой дорожных купе и кабриолета Ford Mustang седьмого поколения марка анонсировала целый выводок гоночных модификаций спорткара. Самым мощным вариантом новинки должен стать Ford Mustang, подготовленный по гоночному регламенту GT3 — автомобиль, над которым работает заводское подразделение Ford Performance, дебютирует на трассе только в 2024 году. А пока машину обкатывают на гоночном треке — в движении новую модель показали на американском автодроме «Себринг».
+За основу гоночной версии взят топовый дорожный вариант Dark Horse, который получил агрессивный аэродинамический обвес с массивным антикрылом, развитым диффузором и множеством воздухозаборников.
+Особенностью машины является полностью карбоновый кузов, оценить рельеф которого можно за счёт отсутствия какой-либо окраски, а также дополнительная оптика в решётке радиатора — для многочасовых гонок в темноте. Технические характеристики нового Ford Mustang GT3 пока не раскрыты.
+Известно, что в работе с шасси заводским специалистам помогала канадская инжиниринговая компания Multimatic Motorsports, а гоночный двигатель на базе 5,0-литрового V8 Coyote создавали специалисты британской фирмы M-Sport, которая готовит раллийные Ford. В гонках GT новое купе дебютирует в американском чемпионате IMSA WeatherTech SportsCar Championship в классе GT Daytona Pro в 2024 году.]]></text>
+</doc>

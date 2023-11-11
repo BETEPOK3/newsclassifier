@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Постер и тизер фильма «Sasaki to Miyano: Sotsugyou-hen»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[kaikaikitan]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[постер]]></keyword>
+    <keyword type="str"><![CDATA[тизер]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-10-08T20:17:23+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Завтра, послезавтра — хочу быть с тобой вечно. 17-го февраля 2023 на экраны кинотеатров Японии выйдет полнометражный фильм, продолжающий первый сезон аниме.   Режиссёр:  Синдзи Исихара ;   Shuumei Sasaki Сюмэй Сасаки  —  Yuusuke Shirai Юсукэ Сираи ;   Yoshikazu Miyano Ёсикадзу Мияно  —  Souma Saitou Сома Сайто ;   Akira Kagiura Акира Кагиура  —  Nobunaga Shimazaki Нобунага Симадзаки ;   Taiga Hirano Тайга Хирано  —  Yoshitsugu Matsuoka Ёсицугу Мацуока Адаптация одноимённой манги авторства  Shou Harusono Сё Харусоно . Параллельно  Studio DEEN  работает над выпуском ещё одного полнометражного фильма по франшизе — « Hirano to Kagiura Хирано и Кагиура », одноклассниках Сасаки. Премьера также запланирована на следующий год.]]></text>
+</doc>

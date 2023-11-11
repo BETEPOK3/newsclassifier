@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Флагманская видеокарта Intel Arc Alchemist отметилась в бенчмарке с частотой GPU 2400 МГц]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[geekbench]]></keyword>
+    <keyword type="str"><![CDATA[видеокарта]]></keyword>
+    <keyword type="str"><![CDATA[alchemist]]></keyword>
+    <keyword type="str"><![CDATA[intel arc]]></keyword>
+    <keyword type="str"><![CDATA[видеокарты]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-19T20:56:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В базе данных синтетического теста Geekbench засветился инженерный образец флагманского графического ускорителя Intel Arc Alchemist с 512 исполнительными блоками, работающими на частоте 2400 МГц.Видеокарта тестировалась в составе системы на базе 6-ядерного процессора Core i5-9600K (Coffee Lake) и, весьма вероятно, проводились инженерами самой Intel или одним из партнёров компании.Данные бенчмарка указывают, что в составе видеокарты используются 512 вычислительных блоков. Это говорит о том, что ускоритель основан на графическом процессоре Intel DG2-512, который ляжет в основу флагманской модели грядущей серии дискретных настольных видеокарт, релиз которых ожидается во втором квартале текущего года.Производительность видеокарты в тесте OpenCL оказалась невысокой — результат в 85 448 баллов ставит ускоритель на уровень моделей GeForce RTX 2060 и RTX 2070 поколения Turing. С другой стороны, на данный момент это не имеет никакого значения, поскольку Geekbench OpenCL не является игровым тестом.Ранние слухи, подкреплёнными утечками, пророчили флагманскому ускорителю Arc Alchemist игровую производительность уровня GeForce RTX 3070 Ti. Ниже представлены показатели производительности других видеокарт на фоне инженерного образца видеокарты Intel Arc.]]></text>
+</doc>

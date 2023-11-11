@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Twitter позволит закреплять диалоги всем пользователям, но с ограничениями]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[приложения для ios]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[приложения для android]]></keyword>
+    <keyword type="str"><![CDATA[программное обеспечение]]></keyword>
+    <keyword type="str"><![CDATA[twitter]]></keyword>
+    <keyword type="str"><![CDATA[сообщения]]></keyword>
+    <keyword type="str"><![CDATA[нововведение]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+    <keyword type="str"><![CDATA[социальные сети]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-18T00:49:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Twitter в настоящее время развёртывает функцию закрепления диалогов в личных сообщениях для всех пользователей. Раньше эта функция была доступна только платным подписчикам Twitter Blue, но в ближайшее время доступ к ней получат все пользователи веб-версии Twitter, а также мобильных приложений соцсети для Android и iOS.В мобильном приложении Twitter пользователи смогут провести пальцем вправо по любому из чатов, после чего слева появится кнопка с иконкой в виде булавки. После нажатия на неё беседа будет перемещена в новый раздел «Закреплённые диалоги» в верхней части экрана «Сообщения». Возможность закрепить избранные диалоги, доступная в большинстве популярных мессенджеров, безусловно, очень удобна, однако многих пользователей разочарует, что Twitter позволяет закрепить только шесть чатов.В данный момент закрепление диалогов доступно не всем пользователям, однако полномасштабное развёртывание функции будет завершено в ближайшее время.]]></text>
+</doc>

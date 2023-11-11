@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонс нового аниме-сериала от Tsuburaya Productions и Toei Animation]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Aeronus]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2019-11-15T16:47:16+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компании Tsuburaya Productions и Toei Animation занимаются производством нового аниме-сериала. Был анонсирован новый проект под названием «KAIJU DECODE» - мировой релиз состоится после выхода сериала в Японии. Сюжет аниме-сериала расскажет нам о парне по имени Кайдзю, а также о девушке - её имя не сообщалось. Эти две компании желают сделать максимально качественный аниме-сериал, который понравится не только японским зрителям, но и всему миру. Над проектом работает Коити Ногути из Toei Animation (также работал над Hepburn: Seikai Suru Kado и Hepburn: Rakuen Tsuihō) и Масахиро Онда из Tsubaraya Productions (он также работал над такими сериалами как (SSSS.GRIDMAN, Ultraman).  Подробная информация о «KAIJU DECODE» станет известна на церемонии открытия Tsubaraya Convention 2019.]]></text>
+</doc>

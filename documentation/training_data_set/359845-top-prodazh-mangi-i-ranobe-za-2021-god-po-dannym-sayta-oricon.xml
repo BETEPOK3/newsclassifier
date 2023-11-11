@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[ТОП продаж манги и ранобэ за 2021 год по данным сайта Oricon]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Twinqssly]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+    <category type="str"><![CDATA[Книги]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[топ]]></keyword>
+    <keyword type="str"><![CDATA[ранобэ]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-11-29T06:28:59+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В упорной борьбе с небольшим отрывом победу у « Kimetsu no Yaiba » смог вырвать « Jujutsu Kaisen ». Манга « Kimetsu no Yaiba » закончилась ещё в прошлом году, да и ход конём в виде нарезки полнометражного аниме в ТВ-формат продажам манги не очень помог. Что однако не помешало продаться финальному 23 тому более чем на 5 миллионов экземпляров.  Это всего на 2 миллиона меньше, чем все продажи « One Piece » в этом году. В прошлом бессменный флагман продаж манги в 2021-м упал ещё ниже — на 6 место, уступив не только тройке лидеров, значительно оторвавшейся вперёд от остальных на фоне популярности аниме-адаптаций, и « Shingeki no Kyojin », завершившейся в этом году, но и « Boku no Hero Academia ».  « Tokyo卍Revengers » лишь немного отстали от манг на первых двух местах, что не помешало делать хорошие продажи на аниме-адаптации.  Из необычного в этом году отметились попаданием в ТОП-10 сразу две манги, по которым ещё не стартовали аниме-адаптации: « Chainsaw Man » и « Spy x Family ».  Что касается топ по ранобэ, то в основном планку держат всё те же лица. Только « Sword Art Online » из пятёрки упало, а вместо него благодаря аниме-адаптации в ТОП-5 вошло « Tantei wa Mou, Shindeiru ». Также ранобэ по « Kimetsu no Yaiba » продалось значительно хуже, чем в прошлом году, всё равно сохранив своё первое место. Oricon  — японская компания, предоставляющая статистику и информацию о манге, ранобэ, музыкальной и прочей индустрии Японии.]]></text>
+</doc>

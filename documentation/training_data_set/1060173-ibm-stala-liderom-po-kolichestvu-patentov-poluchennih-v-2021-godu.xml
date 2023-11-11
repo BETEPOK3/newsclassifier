@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[IBM стала лидером по количеству патентов, полученных в США в 2021 году]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[samsung]]></keyword>
+    <keyword type="str"><![CDATA[рейтинг]]></keyword>
+    <keyword type="str"><![CDATA[uspto]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[патент]]></keyword>
+    <keyword type="str"><![CDATA[ibm]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-14T21:22:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Агрегатор патентных данных IFI Claims опубликовал рейтинг компаний по количеству патентов, полученных в США в 2021 году. По итогам прошлого года, больше всех расширила свой портфель интеллектуальной собственности IBM, которая с большим отрывом превзошла Samsung и Canon, занявших второе и третье места соответственно.По данным IFI Claims Patent Services, Ведомство по патентам и товарным знакам США (USPTO) выдало IBM за минувший год 8682 патента. Samsung и Canon получили 6366 и 3021 патент соответственно. В пятёрку лидеров также вошли TSMC и Huawei. Первой выдали 2798, а второй 2770 патентов. Шестое, седьмое, восьмое и девятое места заняли Intel, Apple, LG и Microsoft с 2615, 2541, 2478 и 2418 патентами соответственно. Десятку лидеров замыкает Qualcomm с 2149 патентами.Рейтинг IFI Claims 2021 Global 250 раскрывает крупнейших в мире владельцев патентов. В этом рейтинге лидирует Samsung с 90 416 активными патентами. Второе место принадлежит Китайской академии наук — 78 415 патентов. Тройку лидеров замыкает китайский производитель бытовой техники Midea с 58 495 патентами. В десятку крупнейших держателей патентов вошли такие известные технологические компании как Huawei (четвёртое место, 48 307 патентов), IBM (восьмое место, 41 937 патентов), Canon (девятое место, 40 706 патентов) и Panasonic (десятое место, 37 538 патентов).]]></text>
+</doc>

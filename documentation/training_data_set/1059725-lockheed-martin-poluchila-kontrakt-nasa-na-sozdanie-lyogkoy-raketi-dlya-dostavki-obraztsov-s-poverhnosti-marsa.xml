@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Созданием лёгкой ракеты для доставки образцов с Марса займётся Lockheed Martin]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Владимир Мироненко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[космос]]></keyword>
+    <keyword type="str"><![CDATA[nasa]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[lockheed martin]]></keyword>
+    <keyword type="str"><![CDATA[марс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-08T14:53:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Национальное управление по аэронавтике и исследованию космического пространства (NASA) США сообщило о заключении контракта с Lockheed Martin Space (подразделение Lockheed Martin) на создание Mars Ascent Vehicle (MAV) — небольшой ракеты для доставки образцов горных пород и атмосферы с поверхности Марса к находящемуся на орбите Красной планеты космическому кораблю.Посадочный модуль NASA Sample Retrieval Lander (SRL) должен будет доставить MAV на поверхность Марса, совершив посадку рядом с кратером Езеро или в самом кратере. Получив контейнер с образцами грунта, добытыми марсоходом Perseverance, посадочный модуль также выполнит роль стартовой платформы для ракеты MAV. Она доставит контейнер с образцами на орбиту, где его получит космический корабль Европейского космического агентства Earth Return Orbiter (ERO). После этого космический корабль «безопасно и надёжно» доставит образцы на Землю в начале–середине 2030-х годов.Запуск посадочного модуля SRL состоится не ранее 2026 года из Космического центра Кеннеди NASA во Флориде.Согласно контракту, Lockheed Martin Space должна предоставит NASA несколько тестовых образцов MAV и сам штатный летательный аппарат. Работы по контракту включают проектирование, разработку, испытания и оценку интегрированной системы MAV, а также проектирование и разработку наземного вспомогательного оборудования ракеты.Стоимость контракта Mars Ascent Vehicle Integrated System (MAVIS) с фиксированным вознаграждением оценивается в $194 млн. Контракт вступает в силу не позднее 25 февраля и продлится шесть лет.]]></text>
+</doc>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Volkswagen анонсировал премьеру автодома Multivan и нового Transporter]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Ильин]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[multivan]]></keyword>
+    <keyword type="str"><![CDATA[минивэны]]></keyword>
+    <keyword type="str"><![CDATA[volkswagen]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2023-03-25T15:15:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Volkswagen анонсировал премьеру автодома Multivan и нового Transporter. На ежегодной пресс-конференции коммерческого подразделения марки были объявлены краткосрочные планы. Официально подтверждено, что уже в этом году на рынок выйдут гибридный Caddy, длиннобазные и полноприводные электровэны ID.Buzz, а также автодом California на базе Multivan T7. В 2024-м гамма пополнится новейшим Transporter на базе Ford Transit.
+Подробностей о новом кемпере Volkswagen California нет, но похоже основой послужит заряжаемый гибрид Multivan T7. «Розеточная» версия скоро появится у нового «каблучка» Caddy, а ещё коммерческое подразделение готовит электрический Crafter следующего поколения.
+Что касается актуальной линейки электрических однообъёмников ID.Buzz, то её ждёт расширение. Скоро в гамму добавят трёхрядный минивэн, покупатели смогут выбрать длиннобазную версию, а альтернативой заднему приводу станет полный. В планах и «заряженный» вэн ID.Buzz GTX.
+Сотрудничеству Volkswagen и Ford в сегменте коммерческого транспорта ничего не угрожает, ведь «каблучки» Caddy/Tourneo Custom уже разработала немецкая сторона, а американский партнёр отвечает за «старшее» семейство Transit/Transporter.]]></text>
+</doc>

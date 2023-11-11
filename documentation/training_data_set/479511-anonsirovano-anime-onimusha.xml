@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсировано аниме «Onimusha»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-09-25T11:19:34+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[На мероприятии  Netflix Tudum Japan  объявили, что серия видеоигр  «Onimusha»  получит аниме-адаптацию, премьера которой состоится на платформе Netflix. СОСТАВ СОЗДАТЕЛЕЙ Производство:  Sublimation Режиссёр:  Takashi Miike  &  Синъя Сугай «Onimusha» — серия видеоигр, разработанная и изданная Capcom. В нем используются исторические личности, которые сформировали историю Японии, пересказывая их истории с сверхъестественными элементами. Большинство игр относятся к жанру приключенческий экшн, сочетающий элементы боя от третьего лица и головоломки. Главный герой игрока владеет силой Они, позволяя им сражаться с Генмой, главным врагом в серии. Сюжет основанный в основном на протяжении японского периода Сэнгоку. В качестве модели для персонажа  Миямото Мусаси  в сериале будет использован покойный выдающийся актер  Тосиро Мифунэ .]]></text>
+</doc>

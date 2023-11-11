@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсирован 2 сезон "Tiger & Bunny"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Wandering Violinist]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-04-02T20:48:30+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Премьера состоится в 2022 году. Сюжет развернется после фильма  Tiger & Bunny Movie 2: The Rising Режиссер:  Mitsuko Kase Дизайн персонажей:  Masakazu Katsura Производство: BN Pictures Сюжет первого сезона: Штернбилд — родной город для людей, зовущихся «Next» и использующих свои сверхъестественные способности, чтобы защищать других людей в качестве супергероев. Они раскрывают преступления, спасают человеческие жизни и по праву могут носить спонсорские логотипы, зарабатывая так называемые «очки героев». Всё, что они совершают, попадает прямиком в популярную телепередачу «Hero TV», которая каждый год выбирает «Короля героев». Герой-ветеран Дикий Тигр всегда предпочитал работать один, но теперь ему назначили в компаньоны новичка — Барнаби Брукса Младшего, который, став супергероем, имеет свою особую цель.]]></text>
+</doc>

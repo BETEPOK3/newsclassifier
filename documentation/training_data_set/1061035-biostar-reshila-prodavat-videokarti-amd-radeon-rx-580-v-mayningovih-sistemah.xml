@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Геймерам отказать: BIOSTAR начала продавать майнинговые системы на базе видеокарт AMD Radeon RX 580]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Павел Котов]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[biostar]]></keyword>
+    <keyword type="str"><![CDATA[майнинг]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[корпуса, настольные компьютеры]]></keyword>
+    <keyword type="str"><![CDATA[видеокарта]]></keyword>
+    <keyword type="str"><![CDATA[видеокарты]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-27T14:23:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Невзирая на очевидный дефицит видеокарт, тайваньская компания BIOSTAR решила продавать графические адаптеры семейства Radeon в качестве оборудования для майнинга криптовалют. Производитель анонсировал систему iMiner A588X8D2 с 8 видеокартами AMD Radeon RX 580 на борту. Компания заявила, что гарантирует доступность системы iMiner A588X8D2 в больших количествах для всех заинтересованных покупателей. Стоимость устройства и дата релиза пока не уточняются.Картину несколько омрачает тот факт, что Radeon RX 580 — это игровая, а не майнинговая модель. Версии для добычи криптовалют традиционно идут с менее качественными системами охлаждения, ограниченной гарантией и отсутствием дисплейных разъёмов.Согласно самой BIOSTAR, производительность iMiner A588X8D2 в майнинге Ethereum составляет около 232 Мхеш/с (±5 %). Система оснащена процессором Intel Celeron G4900 и 8 Гбайт оперативной памяти DDR4, что позволяет ей без проблем работать под управлением Windows, Linux или оптимизированной для майнинга платформы HiveOS.Устройство поддерживает добычу наиболее популярных криптовалют, в том числе Ethereum, Ethereum Classic, Ravencoin, Ergo и многих других. Простота исполнения, уточняет производитель, позволяет даже неопытным пользователям быстро произвести необходимые настройки и начать майнинг с минимальными трудозатратами.]]></text>
+</doc>

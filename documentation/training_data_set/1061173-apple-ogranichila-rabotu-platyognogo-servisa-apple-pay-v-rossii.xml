@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Apple ограничила работу платёжного сервиса Apple Pay в России]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Андрей Созинов]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[apple pay]]></keyword>
+    <keyword type="str"><![CDATA[iphone]]></keyword>
+    <keyword type="str"><![CDATA[по для мобильных устройств]]></keyword>
+    <keyword type="str"><![CDATA[приложения для ios]]></keyword>
+    <keyword type="str"><![CDATA[apple]]></keyword>
+    <keyword type="str"><![CDATA[россия]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-03-02T00:57:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Apple остановила работу платёжного сервиса Apple Pay в России. Связано это с актуальной геополитической ситуацией в нашем регионе. Помимо этого, компания остановила прямые поставки всей своей продукции в Россию.В заявлении компании по поводу всей ситуации кроме прочего говорится: «Apple Pay и прочие сервисы были ограничены». Что именно подразумевается под «прочими сервисами» — не уточняется. Например, на момент написания данной заметки, в России всё ещё можно было оформить подписку на Apple Music.Кроме того, компания Apple заявила, что отключила информацию о пробках и инцидентах в фирменных картах в Украине для обеспечения безопасности людей. И ещё в App Store за пределами России больше недоступны приложения RT News и Sputnik News.Заметим, что у клиентов некоторых банков проблемы с Apple Pay начались ещё несколько дней назад. В первую очередь это касается пяти банков России, попавших под наиболее жёсткие санкции: ВТБ, Новикомбанк, Открытие, Промсвязьбанк и Совкомбанк. Появлялись сообщения и о проблемах у клиентов других банков.]]></text>
+</doc>

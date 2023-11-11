@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Nintendo отключила оплату рублями в российском eShop]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Евгений Миркин]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[nintendo eshop]]></keyword>
+    <keyword type="str"><![CDATA[nintendo]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-28T20:35:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В российском регионе цифрового магазина Nintendo eShop перестали работать платежи. Компания Nintendo объявила о приостановке обработки транзакций в рублях.Тем не менее пользователи могут покупать игры и дополнения с помощью карт оплаты. Их можно приобрести, например, на сайте Qiwi (как рекомендует сама «Nintendo Россия»). В доступе есть карты двух номиналов: 600 и 1000 рублей. Их можно использовать на Nintendo Switch, а также Nintendo Wii U и Nintendo 3DS.Примечательно, что с конца марта 2023 года в Nintendo eShop будет невозможно совершать покупки для Nintendo Wii U и Nintendo 3DS по всему миру, а также загружать бесплатный контент. Скачивать приобретённые игры и прочий контент всё ещё будет можно.]]></text>
+</doc>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Мобильная видеокарта Intel Arc Alchemist DG2-256EU показала уровень производительности Radeon RX 580 в тесте Geekbench]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[geekbench]]></keyword>
+    <keyword type="str"><![CDATA[видеокарта]]></keyword>
+    <keyword type="str"><![CDATA[alchemist]]></keyword>
+    <keyword type="str"><![CDATA[видеокарты]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[intel arc]]></keyword>
+    <keyword type="str"><![CDATA[мобильная]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-27T06:33:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В базе данных синтетического теста Geekbench 5 появилась информация о графической производительности неизвестного ноутбука на базе процессора Core i5-12500H, оснащённого дискретным графическим процессором Intel DG2 серии Arc Alchemist с 256 исполнительными блоками и 6 Гбайт видеопамяти. По итогам двух тестовых прогонов бенчмарка OpenCL, видеокарта Intel продемонстрировала быстродействие уровня AMD Radeon RX 580 и NVIDIA GeForce GTX 1650 Super.В составе серии ускорителей Intel Arc Alchemist, по крайней мере согласно более ранним согласно утечкам, ожидается использование пяти графических процессоров DG2 с 512, 384, 256, 128 и 96 исполнительными блоками (Execution Units, EU). Видеокарты Intel на базе GPU с 256 EU в теории должны занять средний сегмент графических предложений компании.По данным Geekbench 5, инженерный образец этого ускорителя набрал в графическом тесте OpenCL от 45 483 до 46 540 баллов. Это ставит его в один ряд с такими моделями видеокарт, как Radeon RX 480, Radeon RX 580 и мобильной Radeon RX 5600M, а также GeForce GTX 1650 Ti и мобильной GeForce GTX 1080 Max-Q.По современным стандартам и с точки зрения чистой вычислительной производительности, этот представитель серии Intel Arc Alchemist продемонстрировал весьма посредственный уровень быстродействия. Однако следует также учитывать, что OpenCL — это не игровой тест, и во многих случаях он не отражает производительность видеокарт в реальных повседневных нагрузках.]]></text>
+</doc>

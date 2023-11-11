@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Intel показала компактный игровой десктоп Beast Canyon NUC 11 Extreme с видеокартой Arc Alchemist]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[nuc]]></keyword>
+    <keyword type="str"><![CDATA[barebone-системы, неттопы,  all-in-one pc,  медиацентры]]></keyword>
+    <keyword type="str"><![CDATA[alchemist]]></keyword>
+    <keyword type="str"><![CDATA[intel arc]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-18T15:32:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Глава графического подразделения Intel Раджа Кодури (Raja Koduri) показал компактный игровой настольный компьютер Beast Canyon NUC 11 Extreme, оснащённый дискретным графическим ускорителем Arc Alchemist. Демонстрация проводилась в рамках конференции Investor Meeting 2022.Кодури опубликовал в Twitter фотографию, на которой он стоит рядом с компактным игровым компьютером Beast Canyon NUC 11 Extreme, на котором запущена одна из игр серии Tomb Rider. Подпись к фотографии гласит, что игра использует фирменную технологию интеллектуального масштабирования Intel XeSS.Компактные игровые ПК Beast Canyon NUC 11 Extreme основаны на процессорах серии Tiger Lake. Система готова предложить Core i9-11900KB с частотой до 4,9 ГГц либо Core i7-11700B с частотой до 4,8 ГГц. Оба процессора восьмиядерные и поддерживают работу 16 виртуальных потоков. Система полностью совместима с интерфейсом PCIe 4.0 x16. Внутри Beast Canyon NUC 11 Extreme есть место под установку полноразмерных видеокарт. Единственное ограничение — их толщина не должна быть больше двах стандартных слотов расширения. Иными словами, внутрь этой компактной системы может поместиться, например, мощный графический ускоритель GeForce RTX 3080 в эталонном исполнении Founders Edition.Следует отметить, что NUC 11 Extreme является не последней разработкой Intel в сфере компактных ПК. На выставке CES 2022 в начале минувшего месяца компания представила систему NUC 12 Extreme с кодовым названием Dragon Canyon. Она предлагает настольные варианты новейших процессоров Alder Lake и, вероятно, также будет оснащаться графическими ускорителями Intel Arc Alchemist. Однако официальных заявлений по этому поводу от компании пока не поступало.Вчера Intel также подтвердила, что десктопные видеокарты Arc выйдут на рынок во втором квартале этого года.]]></text>
+</doc>

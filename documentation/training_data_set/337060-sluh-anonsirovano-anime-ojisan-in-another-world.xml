@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[[СЛУХ] Анонсировано аниме "Ojisan in Another World"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[адаптация]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-03-27T23:06:04+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Согласно новым слухам, аниме-адаптацию получит комедийная манга « Дядя в другом мире » (Ojisan in Another World или IsekaI Ojisan), которая выходит на сайте ComicWalker с июня 2018 года и сейчас собрана в 5 томов. 2017 год. Такафуми навещает в больнице своего дядю, который вышел из комы. 17 лет назад дядю сбил грузовик, и он оказался в больнице. Своему племяннику он рассказывает, что все эти годы провёл в мире меча и магии. Такафуми не верит родственнику, пока тот не показывает свои новые, магические способности, которым научился в другом мире. Когда дядя покидает больницу, Такафуми решает помочь ему адаптироваться к жизни в Японии в новом времени. А бывший попаданец, сохранивший магические способности, начинает рассказывать племяннику о своих приключениях в мире меча и магии.]]></text>
+</doc>

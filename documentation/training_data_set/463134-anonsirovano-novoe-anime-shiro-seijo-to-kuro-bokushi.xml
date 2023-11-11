@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсировано новое аниме  «Shiro Seijo to Kuro Bokushi»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-06-15T18:45:09+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Манга  « Shiro Seijo to Kuro Bokushi Святая Сесилия и пастор Лоуренс »  получает аниме-адаптацию. В честь анонса   Hazano Kazutake Хадзано Кадзутакэ   нарисовал иллюстрацию  СОСТАВ СОЗДАТЕЛЕЙ Производство:  Doga Kobo Режиссёр: Sumie Noro Дизайнер:  Hiromi Nakagawa Хироми Накагава  [персонажи] Святая Дева Сесилия — образец скромности и добронравия. Она смиренно выслушает печали каждого приходящего к ней за советом прихожанина и постарается помочь решить проблему или наставить на путь истинный... Но когда никого нет, в присутствии только пастора Лоуренса, Сесилия сбрасывает маску благочинности и ведёт себя совсем по-иному — крикливая, обжора и неряха, ленивица... Почему пастор Лоуренс терпит такое поведение девы?]]></text>
+</doc>

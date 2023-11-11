@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсирован новый аниме проект «Ranking of Kings: Treasure Chest of Courage»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[спецвыпуск]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-08-08T17:03:56+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Анонсирован новый аниме проект по  «Рейтинг короля» , под названием  «Ranking of Kings: Treasure Chest of Courage» .  Трансляция состоится в 2023 году. СОСТАВ СОЗДАТЕЛЕЙ Производство: Wit Studio Режиссёр:  Yousuke Hatta Ёсукэ Хатта Сценарист:  Taku Kishimoto Таку Кисимото Дизайнер персонажей:  Atsuko Nozaki Ацуко Нодзаки Композитор:  MAYUKO Новым проектом будет специальный эпизод, в котором расскажут про историю храбрости Бодзи, Кагэ и их друзей СЕЙЮ И ПЕРСОНАЖИ Minami Hinata Минами Хината  в роли  Bojji Бодзи Ayumu Murase Аюму Мурасэ  в роли  Kage Кагэ Yuuki Kaji Юки Кадзи  в роли  Daida Дайда Rina Satou Рина Сато  в роли  Hiling Хилинг Takuya Eguchi Такуя Эгути  в роли  Domas Домас Youji Ueda Ёдзи Уэда  в роли  Bebin Бебин Hiroki Yasumoto Хироки Ясумото  в роли  Apeas Апис Daiki Yamashita Дайки Ямасита  в роли  Hokuro Хокуро Takahiro Sakurai Такахиро Сакураи  в роли  Despa Деспа]]></text>
+</doc>

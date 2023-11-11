@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Google заблокировала приложения RT и Sputnik в Play Маркете]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Владимир Фетисов]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[russia today]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+    <keyword type="str"><![CDATA[play маркет]]></keyword>
+    <keyword type="str"><![CDATA[по для мобильных устройств]]></keyword>
+    <keyword type="str"><![CDATA[санкции]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[sputnik]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-03-02T15:40:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Alphabet, являющаяся владельцем Google, удалила приложения телеканала Russia Today и агентства Sputnik из магазина цифрового контента Play Маркет. Об этом сообщило информационное агентство Reuters со ссылкой на соответствующее заявление Alphabet.  Ранее подобной блокировке подверглись приложения и страницы российских СМИ на других зарубежных площадках. В начале недели европейское подразделение Google объявило о блокировке YouTube-каналов RT и Sputnik на территории Европы, объяснив это решение обострением между Россией и Украиной, а также обвинив СМИ в распространении дезинформации. До этого аккаунты RT и Sputnik были заблокированы социальной сетью Facebook* и сервисом коротких видео TikTok. Компания Apple также ограничила доступ к приложениям RT и Sputnik в своём магазине App Store за пределами России.Заместитель главного редактора RT Анна Белкина заявила, что западные технологические компании, которые ограничили доступ к приложению RT, не предоставили никаких доказательств того, что телеканал распространял недостоверную информацию. Представители агентства Sputnik пока воздерживаются от комментариев по данному вопросу.* Внесена в перечень общественных объединений и религиозных организаций, в отношении которых судом принято вступившее в законную силу решение о ликвидации или запрете деятельности по основаниям, предусмотренным Федеральным законом от 25.07.2002 № 114-ФЗ «О противодействии экстремистской деятельности».]]></text>
+</doc>

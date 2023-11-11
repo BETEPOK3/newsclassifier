@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Маск пообещал поделиться новостями о проекте Starship на следующей неделе — вероятно, будет анонсирован орбитальный полёт]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Наука]]></category>
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[spacex]]></keyword>
+    <keyword type="str"><![CDATA[starship]]></keyword>
+    <keyword type="str"><![CDATA[на острие науки]]></keyword>
+    <keyword type="str"><![CDATA[космос]]></keyword>
+    <keyword type="str"><![CDATA[ракета]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[наука]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-04T10:23:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Глава компании SpaceX, миллиардер Илон Маск (Elon Musk), сообщил о том, что в четверг на следующей неделе, 10 февраля, будет обнародована новая информация о проекте Starship.Напомним, космический корабль Starship в сочетании с ускорителем Super Heavy представляют собой многоразовую двухступенчатую ракету сверхтяжёлого класса. Она может применяться для доставки грузов и людей на низкую околоземную, солнечно-синхронную и геопереходную орбиты. Кроме того, в перспективе ракету планируется использовать по программе освоения Марса.Разработку Starship компания SpaceX на протяжении нескольких последних лет ведёт на своей базе в Бока-Чика (Техас, США). В рамках проекта уже осуществлены несколько тестовых запусков, но орбитальный полёт пока не выполнялся. Компания ждёт соответствующее разрешение от Федерального управления гражданской авиации США (Federal Aviation Administration, FAA).В последний раз Илон Маск проводил презентацию, посвящённую разработке Starship, более двух лет назад, в сентябре 2019-го. И вот теперь глава SpaceX готов поделиться новостями о проекте. О чём именно пойдёт речь в предстоящий четверг, не уточняется. Вероятно, господин Маск сообщит о планах по организации первого орбитального полёта аппарата. ]]></text>
+</doc>

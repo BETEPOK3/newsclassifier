@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA["Subarashiki Kono Sekai The Animation"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[KRXKZ]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Трейлер]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[дата_показа]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-11-23T14:30:34+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Аниме-адаптация популярной игры  Этот чудесный мир  получило дату выхода -  Апрель 2021 года.   Также представлен новый трейлер и постер. Адаптацией займутся две студии -  domerica  и  Shin-Ei-Animation Пятнадцатилетний Нэку Сакураба, увлекающийся музыкой и граффити, просыпается в странном месте, похожем на торговый район Сибуя в Токио. Не понимая, как он здесь оказался, Нэку обнаруживает у себя в руке необычный черный значок, да еще в придачу у него появлется способность читать мысли других людей. Вдруг на его мобильный телефон приходит странное сообщение: «Достигни 104. У тебя есть шестьдесят минут. Ошибешься и лишишься лица. Жнецы». Нэку не может удалить сообщение, а таймер в шестьдесят минут отпечатывается на его правой руке. Он здесь, чтобы сыграть в «Игру жнецов», которая длится в общей сложности семь дней, а у всех игроков есть черный значок с черепом.]]></text>
+</doc>

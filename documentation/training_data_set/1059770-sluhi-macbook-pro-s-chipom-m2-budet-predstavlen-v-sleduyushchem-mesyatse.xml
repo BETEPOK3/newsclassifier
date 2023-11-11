@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Слухи: MacBook Pro с чипом Apple М2 будет представлен в следующем месяце]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[компьютеры и ноутбуки apple]]></keyword>
+    <keyword type="str"><![CDATA[ноутбук]]></keyword>
+    <keyword type="str"><![CDATA[рынок it]]></keyword>
+    <keyword type="str"><![CDATA[apple]]></keyword>
+    <keyword type="str"><![CDATA[утечка]]></keyword>
+    <keyword type="str"><![CDATA[слухи]]></keyword>
+    <keyword type="str"><![CDATA[ноутбуки и нетбуки]]></keyword>
+    <keyword type="str"><![CDATA[разработка и производство электроники]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[macbook]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-08T22:03:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Apple представит первый MacBook Pro с фирменным Arm-процессором М2 на мероприятии в следующем месяце. Об этом сообщает издание DigiTimes, ссылаясь на источники в цепочке поставок «яблочной» компании.DigiTimes сообщает, что производственные партнёры Apple в Китае поддерживали работу производственных линий во время праздника Лунного Нового года, чтобы обеспечить своевременный выпуск на рынок новой модели MacBook Pro, презентация которого намечена на начало марта.DigiTimes предполагает, что новинка будет запущена на мартовском мероприятии, в ходе которого также будут представлены iPhone SE третьего поколения и новый iPad Air. Как сообщают источники, большинство компонентов нового MacBook Pro, за исключением однокристальной платформы, будут иметь почти те же характеристики, что и у существующей модели с чипом М1. Поскольку на базе «обыкновенного» М1 построен только MacBook Pro начального уровня, представленный в 2020 году, новинка, по всей видимости, станет его преемником.Не так давно аналитик Bloomberg Марк Гурман (Mark Gurman) заявил, что Apple представит обновлённую модель базового MacBook Pro с чипом М2 в текущем году, однако он предполагал, что устройство будет представлено несколько позже. Гурман считает, что диагональ экрана новинки увеличится с 13 до 14 дюймов, при этом матрица не предложит пользователям высокую частоту обновления, как дисплеи высококлассных 14- и 16-дюймовых Mac Book Pro 2021 года.]]></text>
+</doc>

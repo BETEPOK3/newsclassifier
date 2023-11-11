@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсировано полнометражное аниме «Drifting Home»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[новинки]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-09-25T16:42:34+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Состоялся анонс оригинального полнометражного аниме, под названием «Drifting Home» ( Дрейфующий дом ).  Показ состоится на сервисе Netflix в 2022 году. СОСТАВ СОЗДАТЕЛЕЙ Производство:  Studio Colorido   &  Twin Engine  Режиссёр:  Hiroyasu Ishida Сценарий:  Hayashi Mori   &   Minaka Sakamoto   &   Akihiro Nagae Художник:  Fumi Katou  ( персонажи ) Композитор:  Umitarou Abe Рассказ повествует о 4х учениках, что когда-то давно дружили, однако с возрастом их пути разошлись. И вот однажды, в летний период эта самая группа школьников встретилась в старом доме, где они все раннее жили. Однако детей поджидал неожиданный подарок, ибо дом оказался необычным, а детишки оказались на его верхушке и при этом по среди океана.]]></text>
+</doc>

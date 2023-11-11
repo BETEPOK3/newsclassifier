@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[General Motors возвращается в Европу]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Лиза Будрина]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[авторынок]]></keyword>
+    <keyword type="str"><![CDATA[cadillac]]></keyword>
+    <keyword type="str"><![CDATA[general motors]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2023-05-10T11:01:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Американский автоконцерн General Motors возвращается на европейский рынок с электрокарами. GM готовит для Европы сразу несколько батарейный моделей разных брендов: первыми американские электромобили получат жители скандинавски стран — Норвегии, Швеции, Дании и Финляндии. Как сообщает Automotive News, это будут машины на платформе Ultium. Список моделей пока не обнародован, но, по информации источников, в него точно войдет Cadillac Lyriq.
+General Motors сократил присутствие на европейских рынках после продажи брендов Opel и Vauxhall французской группе PSA в 2017 году. С прошествием лет модельная линейка GM в Европе сократилась до Сhevrolet Camaro, Corvette и Cadillac XT4, которые поставлялись небольшими партиями. А год назад появились слухи о том, что американский концерн может вернуться в Европу, но уже с электромобилями.
+Теперь эту информацию подтвердили официально: новый президент GM Europe Жаклин МакКуэйд в разговоре с Automotive News сообщила о намерениях концерна продавать в Европе электромобили. «Наша платформа Ultium вкупе с широкой модельной линейкой электрокаров позволяют предложить клиентам в Европе разнообразные продукты», — подчеркнула она. Штаб-квартира европейского подразделения General Motors будет базироваться в Цюрихе.
+Журналисты предполагают, что вместе Cadillac Lyriq на европейский рынок выйдут с компактный кроссовер Chevrolet Equinox EV и среднеразмерный Blazer EV. Список моделей, которые GM потенциально может представить в Европе, также включает Chevrolet Silverado EV, GMC Sierra EV и GMC Hummer EV. А вот Chevrolet Bolt EV и EUV в европейскую модельную линейку не войдут, так как их производство будет завершено в конце 2023 года.]]></text>
+</doc>

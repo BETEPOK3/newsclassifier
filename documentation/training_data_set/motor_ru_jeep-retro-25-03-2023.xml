@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Jeep готовит таинственный ретро-внедорожник и электрический Wrangler]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Александр Пономарёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[grand wagoneer]]></keyword>
+    <keyword type="str"><![CDATA[jeep]]></keyword>
+    <keyword type="str"><![CDATA[cherokee]]></keyword>
+    <keyword type="str"><![CDATA[wrangler]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2023-03-24T12:00:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Jeep анонсировала загадочный ретро-внедорожник и электрический Wrangler. В 2023 году в окрестностях городка Моаб в американском штате Юта с 1 по 9 апреля пройдёт традиционное Easter Jeep Safari. Мероприятие из года в год собирает на своей площадке не только поклонников американской марки с их автомобилями, но и яркие концептуальные внедорожники, подготовленные специалистами Jeep. На этот год запланированы премьеры сразу семи прототипов, в числе которых будут электрическая версия современного Wrangler и новинка в ретро-стиле.
+Новый Wrangler Magneto 3.0, как ясно из названия, станет уже третьей вариацией электромобиля на базе культового внедорожника. Первый Wrangler Magneto получил 285-сильный электромотор, а последовавший за ним Wrangler Magneto 2.0 оснащался уже 625-сильной силовой установкой.
+У него была увеличенная колёсная база, 6-ступенчатая механическая коробка передач от Dodge Charger SRT Hellcat, раздаточная коробка Rock-Trac и мосты Dana. Новинка должна стать ещё экстремальнее. О другой премьере данных почти нет.
+На тизере изображена передняя часть внедорожника, отсылающая к моделям Cherokee и Wagoneer 1960-1970-х годов. В облике концепт-кара угадываются черты современных Cherokee и Wagoneer, на основе которых и может быть сделан прототип. Но ждать осталось недолго — официальная информация о всех семи заводских концептах Jeep будет обнародована уже в ближайшее время.]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новый трейлер и подробности "Burning Kabaddi"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Трейлер]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-12-15T14:42:39+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Команда сериала представила новый трейлер и постер сериала  Shakunetsu Kabaddi . Аниме-сериал снимается по мотивам манги  Пылающий Кабадди , за авторством писателя  Хадзимэ Мусасино . СОСТАВ СОЗДАТЕЛЕЙ Производство: TMS Entertainment &  Domerica ( дебют ) Режиссёр:  Кадзуя Итикава Сценарист:  Юко Какихара  &  Мидори Гото Композитор:  Ken Itou  &  Сёдзи Хата Дизайн персонажей:  Мари Такада История посвящена спорту, который популярен в странах Юго-Восточной Азии, куда он пришел из Индии. У нас этот спорт практически неизвестен. Согласно источникам это древнейшая игра - помесь борьбы и пятнашек. В общем, судя по всему, команда на ограниченном пространстве пытается поймать других игроков. При этом все хором кричат слово "Kabaddi"]]></text>
+</doc>

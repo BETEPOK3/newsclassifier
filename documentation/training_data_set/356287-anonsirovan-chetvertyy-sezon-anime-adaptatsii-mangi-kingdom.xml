@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсирован четвертый сезон аниме-адаптации манги «Kingdom».]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Wandering Violinist]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[#kingdom]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-10-17T20:07:19+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[На официальном сайте состоялся анонс 4-го сезона аниме « Kingdom ». Показ состоится весной 2022 года. Синопсис: Итак, год 500 до рождества Христова. В древнем Китае идёт гражданская война, продолжающая уже около 5 веков, — Период Сражающихся царств. Два мальчика, Синь и Пяо, остались сиротами и живут в царстве Цинь. Несмотря на свою рабскую жизнь, они оба мечтают стать великими полководцами. Однажды, Пяо был взят во дворец министра. Но в жестокой борьбе за власть министра убивают, и едва живой Пяо возвращается в деревню. Синь же встречает мальчика по имени Чжэн Ин. Он — 13-летний принц царства Цинь, но, волею судьбы и с помощью друзей, у него есть возможность объединить Китай и стать его императором.]]></text>
+</doc>

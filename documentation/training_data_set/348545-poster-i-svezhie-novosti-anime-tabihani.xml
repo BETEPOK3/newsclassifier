@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Постер и свежие новости аниме "TabiHani"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[обновления]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-07-27T10:58:24+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Авторы оригинального аниме-сериала  "TabiHani"  про путешествие, представили первый постер. Дата премьеры аниме пока неизвестна.  Больше информации  о проекте расскажут на специальном ивенте, который пройдет 19 сентября. При этом стало лишь известно, что к созданию аниме привлекли ещё 2 студии. Напомню, 2 месяца назад  СОСТОЯЛСЯ АНОНС , сериала про путешествия, были названы сэйю и часть команды, которая работает над сериалом. СОСТАВ СОЗДАТЕЛЕЙ Производство: Studio HB'S & Liden Films & Kyoto Studio Режиссёр:  Kazuya Sakamoto Дизайн:  Hajime Mitsuda  ( персонажи ) Повествование  расскажет о девушках Акари и Наги, которые путешествуют по Японии.  ПЕРСОНАЖИ И СЭЙЮ Китаяма Наги: озвучивает  Мию Томита Ясима Акари: озвучивает  Каори Маэда]]></text>
+</doc>

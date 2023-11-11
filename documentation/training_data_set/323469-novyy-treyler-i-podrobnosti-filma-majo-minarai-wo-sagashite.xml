@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новый трейлер и подробности фильма "Majo Minarai wo Sagashite"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+    <category type="str"><![CDATA[Фильмы]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[фильм]]></keyword>
+    <keyword type="str"><![CDATA[тизер]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-11-06T21:08:43+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Вышел новый трейлер мувика " Majo Minarai wo Sagashite ".  Изначально премьера фильм должна была состояться в мае 2020 года, однако она была перенесена из-за  пандемии . Новая премьера состоится 13 ноября 2020 года. Полнометражное аниме, относится к франшизе " Ojamajo Doremi  ". Toei Animation выпустила четыре сезона аниме с 1999 по 2002 годы. СОСТАВ СОЗДАТЕЛЕЙ Студия:  Toei Animation Режиссёр:  Junichi Satou  &  Haruka Kamatani Сценарист: Midori Kuriyama Дизайн персонажей:  Yoshihiko Umakoshi Мире Ёситсуки, служащая 27 лет, Сора Ногасе - 22-летняя студентка педагогического, Рейка Каватани 29 лет, продавец. Всех трех девушек объединила волшебная жемчужина и они отправились в фантастическое путешествие.]]></text>
+</doc>

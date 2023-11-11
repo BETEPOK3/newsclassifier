@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Номинанты 42-й Премии Японской киноакадемии]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[kagerou]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[премия]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2019-01-17T19:45:14+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Недавно был опубликован список номинантов 42-й  Премии Японской киноакадемии  («японского "Оскара"») За звание лучшего анимационного фильма 2018 года будут бороться: Dragon Ball Super: Broly Драконий жемчуг: Супер — Броли Toei Animation Penguin Highway Тайная жизнь пингвинов Studio Colorido Detective Conan Movie 22: Zero the Enforcer Детектив Конан: Палач Зеро TMS Entertainment Mirai no Mirai Мирай из будущего Studio Chizu Wakaokami wa Shougakusei! Movie Гостиница Окко Madhouse   Церемония награждения состоится первого марта.  Премия Японской киноакадемии — это высшая кинонаграда Японии, присуждаемая за выдающиеся достижения в японском кинематографе. Она вручается с 1978 года и имеет множество номинаций, большинство из которых схожи с номинациями премии «Оскар». Номинация «Лучший анимационный фильм года» (единственная на данный момент номинация в области аниме) была введена в 2007 году. Официальный сайт Лауреаты и номинанты прошлых лет]]></text>
+</doc>

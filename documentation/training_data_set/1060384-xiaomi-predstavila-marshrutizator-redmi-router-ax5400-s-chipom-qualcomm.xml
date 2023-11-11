@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Xiaomi представила маршрутизатор Redmi Router AX5400 с чипом Qualcomm]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[роутер]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[wi-fi]]></keyword>
+    <keyword type="str"><![CDATA[redmi]]></keyword>
+    <keyword type="str"><![CDATA[xiaomi]]></keyword>
+    <keyword type="str"><![CDATA[сети и коммуникации]]></keyword>
+    <keyword type="str"><![CDATA[маршрутизатор]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-17T06:45:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Китайская компания Xiaomi анонсировала маршрутизатор Redmi Router AX5400 с возможностью использования в ячеистых беспроводных сетях. Новинка соответствует стандарту Wi-Fi 6, или IEEE 802.11ax.Роутер построен на процессоре Qualcomm IPQ5018 с двумя вычислительными ядрами и блоком NPU (Neural Processing Unit) для ускорения операций, связанных с искусственным интеллектом и машинным обучением. Объём оперативной памяти составляет 512 Мбайт.Новинка относится к игровому классу. Во фронтальной части имеется подсветка с возможностью воспроизведения 16 млн цветовых оттенков. Есть четыре внешние антенны.Устройство снабжено сетевым портом 2.5GbE, тремя разъёмами 1GbE LAN и портом 1GbE WAN. Допускается подключение до 248 клиентов. Новинка автоматически распознаёт мобильные игровые сценарии и уменьшает задержку на 20%.Реализованы средства безопасности WPA-PSK/WPA2-PSK/WPA3-SAE. Упомянута поддержка технологий OFDMA (многопользовательская версия цифровой модуляции OFDM) и MU-MIMO (многопользовательский множественный вход / множественный выход).Приобрести маршрутизатор Redmi Router AX5400 можно будет по ориентировочной цене 95 долларов США. ]]></text>
+</doc>

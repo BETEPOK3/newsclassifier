@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Материнские платы Gigabyte получили BIOS с поддержкой будущего Ryzen 7 5800X3D]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[ryzen 5000]]></keyword>
+    <keyword type="str"><![CDATA[bios]]></keyword>
+    <keyword type="str"><![CDATA[gigabyte]]></keyword>
+    <keyword type="str"><![CDATA[материнские платы]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[обновление]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-28T17:48:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Gigabyte выпустила обновление BIOS для материнских плат на чипсетах AMD 400-й и 500-й серий. Новая прошивка добавляет поддержку грядущего процессора Ryzen 7 5800X3D. В основе новой версии BIOS используется свежая библиотека AGESA ComboPI V2 1.2.0.6 Patch-b.В пояснении к обновлению указано, что другой ключевой особенностью новой версии является возвращение функции Max CPU Boost Clock Override в настройки BIOS. Она отвечает за разгон процессора. Обновление получили платы на чипсетах AMD 400-й и 500-й серий.Напомним, что Ryzen 7 5800X3D представляет собой 8-ядерный и 16-поточный процессор на архитектуре Zen 3, работающий на частоте до 4,5 ГГц. Он содержит дополнительную микросхему памяти AMD 3D Vertical Cache (3D V-Cache), которая увеличивает общий объём кеш-памяти третьего уровня до 96 Мбайт.AMD заявляет, что за счёт увеличенного объёма кеша игровая производительность процессора достигает уровня шестнадцатиядерного Intel Core i9-12900K поколения Alder Lake и оказывается примерно на 15 % выше, чем у двенадцатиядерного Ryzen 9 5900X.В продаже  Ryzen 7 5800X3D должен появиться весной этого года. О рекомендованной стоимости чипа компания пока не сообщала.]]></text>
+</doc>

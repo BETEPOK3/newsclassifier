@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Acer представила мини-десктоп с процессором Intel Core i5-1135G7 и Windows 11]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[компьютер]]></keyword>
+    <keyword type="str"><![CDATA[десктоп]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[barebone-системы, неттопы,  all-in-one pc,  медиацентры]]></keyword>
+    <keyword type="str"><![CDATA[acer]]></keyword>
+    <keyword type="str"><![CDATA[неттоп]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-08T14:54:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В ассортименте Acer появился настольный компьютер небольшого форм-фактора с обозначением RN96-F58Y, построенный на аппаратной платформе Intel Tiger Lake. Устройство подходит для решения повседневных задач дома или в офисе.Мини-десктоп заключён в корпус с габаритами 178,0 × 33,5 × 181 мм. Допускается вертикальное и горизонтальное расположение на столе, а при помощи крепления VESA новинку можно подвесить на задней панели монитора.Использован процессор Core i5-1135G7 с четырьмя ядрами (до восьми потоков инструкций) и максимальной частотой 4,2 ГГц в турбо-режиме. Чип содержит графический акселератор Intel Iris Xe.Объём оперативной памяти DDR4-3200 в стандартной комплектации составляет 8 Гбайт (расширяется до 32 Гбайт). Установлен твердотельный модуль NVMe M.2 на 512 Гбайт; дополнительно можно задействовать 2,5-дюймовый накопитель.В оснащение входят адаптеры беспроводной связи Wi-Fi 802.11a/b/g/n/ac/ax и Bluetooth 5.1, сетевой контроллер Gigabit Ethernet. На фронтальную панель выведены порты USB 3.2 Gen2 Type-C и USB 3.2 Gen2 Type-A, комбинированное 3,5-мм аудиогнездо. Сзади находятся интерфейсы HDMI и DisplayPort, по два разъёма USB 3.2 Gen1 Type-A и USB 2.0, гнездо для сетевого кабеля. Операционная система — Windows 11. ]]></text>
+</doc>

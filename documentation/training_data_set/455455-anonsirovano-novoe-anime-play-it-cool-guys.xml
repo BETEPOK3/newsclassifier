@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсировано новое аниме  «Play It Cool, Guys»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-04-22T15:33:17+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Студия Pierrot объявила в пятницу, что она выпускает телевизионную аниме-адаптацию манги  Коконэ Ната  «Сыграйте круто,ребята».Эпизоды будут длится по 15 минут.   Премьера состоится в октябре 2022 года СОСТАВ СОЗДАТЕЛЕЙ: Студия: Pierrot Режиссер:  Chiaki Kon Эти парни крутые, и к ним сложно подступиться. Но при этом они... Неуклюжие! Вам знакомы ситуации, когда вы забываете вещи, совершаете дурацкие поступки, и конечно же потом со стыдом вспоминаете об этом? Главным героям это знакомо не понаслышке. Это история о жизнях парней, которые умудряются оставаться крутыми даже несмотря на свою рассеянность! ПЕРСОНАЖИ И СЭЙЮ: Chiaki Kobayashi  в роли Хаятэ Итикура Kouki Uchiyama  в роли Сюн Футами Yuuichirou Umehara  в роли Такаюки Мима Сёя Тиба  в роли Сома Сики]]></text>
+</doc>

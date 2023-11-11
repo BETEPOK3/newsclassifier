@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Biostar выпустила ускоритель Radeon RX 6500 XT для игровых ПК начального уровня]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[biostar]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[видеокарта]]></keyword>
+    <keyword type="str"><![CDATA[графические ускорители]]></keyword>
+    <keyword type="str"><![CDATA[radeon]]></keyword>
+    <keyword type="str"><![CDATA[видеокарты]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-02T07:23:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Biostar анонсировала графический ускоритель VA65X6RA46 на основе Radeon RX 6500 XT. Новинка предназначена для применения в относительно недорогих игровых системах.Видеокарта выполнена на архитектуре RDNA 2. Задействован графический процессор Navi 24, производящийся по 6-нанометровой технологии TSMC. В составе чипа присутствуют 16 исполнительных блоков с 1024 потоковыми процессорами и 16 блоков аппаратного ускорения трассировки лучей.Видеоадаптер несёт на борту 4 Гбайт памяти GDDR6 с 64-битной шиной. Базовая частота чипа составляет 2310 МГц, игровая частота — 2610 МГц, турбо-частота — 2815 МГц. Используется интерфейс PCI Express 4.0 x16.Карта получила систему охлаждения с двумя вентиляторами: в компьютерном корпусе решение займёт два слота расширения. Общие габариты составляют 200 × 130 × 40 мм, вес — 437 г. Для подключения мониторов доступны разъёмы HDMI 2.1 и DisplayPort 1.4.Реализованы технологии AMD FreeSync и AMD FidelityFX, программный интерфейс DirectX 12. Цена новинки — приблизительно 260 долларов США. ]]></text>
+</doc>

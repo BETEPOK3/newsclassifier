@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Премьера и детали "Dance Dance Danseur"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+    <keyword type="str"><![CDATA[премьера]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-08-31T09:51:33+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Издательство "Shogakukan", объявило о премьере адаптации " Танцуй, танцуй, танцор ", также был представлен постер, но команда так и не названа. Будучи ребёнком, Дзюмпэй ни за что не подумал бы, что начнёт интересоваться балетом. Однако, поприсутствовав на выступлении сестры, он понимает, что вышедший на сцену танцор глубоко впечатлил его и что он полностью заворожён этим видом искусства. Окрыленный идеей заняться балетом, Дзюмпэй начинает тренироваться. К сожалению, всё в жизни не даётся легко, и из-за непредвиденных обстоятельств Дзюмпэй вынужден отказаться от мечты. Проходит несколько лет, и Дзюмпэй встречает девушку по имени Мияко, которая предлагает ему возобновить занятия балетом. Страсть к балету всё ещё тлеет в душе Дзюмпэя,]]></text>
+</doc>

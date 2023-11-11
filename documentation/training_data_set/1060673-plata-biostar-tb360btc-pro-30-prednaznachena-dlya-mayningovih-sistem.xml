@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Biostar представила материнскую плату TB360-BTC Pro 3.0 для создания майнинговых систем]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[материнские платы]]></keyword>
+    <keyword type="str"><![CDATA[biostar]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[материнская плата]]></keyword>
+    <keyword type="str"><![CDATA[плата]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-21T16:28:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Biostar выпустила материнскую плату TB360-BTC Pro 3.0, предназначенную для построения станций для добычи криптовалют. Отличительной особенностью новинки является то, что в ней для подключения видеокарт, отвечающих за добычу криптовалют, имеется одиннадцать слотов PCIe 3.0 x1. Кроме того, есть полноразмерный разъём PCIe 3.0 x16.Несмотря на то, что в названии новинки фигурирует чипсет B360, согласно официальным спецификациям в ней всё же использован набор системной логики Intel H370. Поддерживаются процессоры Intel Coffee Lake и Coffee Lake Refresh в исполнении LGA 1151: это могут быть чипы Core i9, i7, i5, i3, Pentium и Celeron.Плата выполнена в формате ATX с размерами 295 × 210 мм. Возможно применение двух модулей оперативной памяти DDR4-1866/2133/2400/2666 суммарным объёмом 32 Гбайт.Есть четыре порта SATA 3.0 и разъём для твердотельного накопителя M.2 формата 2242/2260/2280. Последний может использовать интерфейс SATA с пропускной способностью до 6 Гбит/с.Интерфейсный блок содержит гнёзда PS/2 для клавиатуры и мыши, четыре порта USB 3.1 (Gen1) и два порта USB 2.0, коннекторы HDMI и D-Sub для подключения мониторов, гнездо для сетевого кабеля и набор аудиогнёзд. ]]></text>
+</doc>

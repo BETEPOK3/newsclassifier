@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Слухи: Apple MacBook Pro начального уровня получит чип M2, но останется без дисплея ProMotion]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[компьютеры и ноутбуки apple]]></keyword>
+    <keyword type="str"><![CDATA[компьютер]]></keyword>
+    <keyword type="str"><![CDATA[macbook pro]]></keyword>
+    <keyword type="str"><![CDATA[ноутбук]]></keyword>
+    <keyword type="str"><![CDATA[apple]]></keyword>
+    <keyword type="str"><![CDATA[ноутбуки и нетбуки]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[лэптоп]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-07T12:00:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Аналитик Bloomberg Марк Гурман (Mark Gurman) раскрыл новую информацию о будущем портативном компьютере MacBook Pro начального уровня, который готовит к выпуску компания Apple. Он получит фирменный процессор Apple нового поколения, но в то же время будет лишён продвинутого экрана, как у старших MacBook Pro.В основу ноутбука ляжет фирменный процессор Apple M2. Устройство не получит панель управления Touch Bar, а вместимость встроенного накопителя окажется меньше по сравнению с нынешними моделями MacBook Pro, оборудованными экраном с диагональю 14,2 и 16,2 дюйма. У этих лэптопов ёмкость твердотельного модуля составляет от 512 Гбайт.Отмечается также, что MacBook Pro начального уровня может остаться без дисплея ProMotion с адаптивной частотой обновления, достигающей 120 Гц. Кроме того, не предусмотрено использование подсветки Mini-LED.Марк Гурман сообщает, что на текущий год Apple наметила выпуск как минимум четырёх компьютеров на аппаратной платформе M2. Помимо упомянутого MacBook Pro, это новый ноутбук MacBook Air, 24-дюймовый десктоп iMac и компьютер небольшого форм-фактора Mac Mini.Между тем 8 марта, как ожидается, Apple анонсирует смартфон iPhone SE третьего поколения, который получит поддержку 5G. «Сердцем» аппарата послужит процессор A15 Bionic. ]]></text>
+</doc>

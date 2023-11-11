@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Видео: электрокар BMW i7 сразился в гонке с Mercedes-AMG EQS и Porsche Taycan Turbo S]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Александр Пономарёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[eqs]]></keyword>
+    <keyword type="str"><![CDATA[bmw]]></keyword>
+    <keyword type="str"><![CDATA[taycan]]></keyword>
+    <keyword type="str"><![CDATA[turbo s]]></keyword>
+    <keyword type="str"><![CDATA[7-series]]></keyword>
+    <keyword type="str"><![CDATA[mercedes-amg]]></keyword>
+    <keyword type="str"><![CDATA[porsche]]></keyword>
+    <keyword type="str"><![CDATA[дрэг-рейсинг]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2023-05-05T15:00:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Блогеры устроили битву BMW i7 с Mercedes-AMG EQS и Porsche Taycan Turbo S. Электромобили постепенно захватывают рынок, но чистокровных спорткаров пока с электрической силовой установкой нет. Несмотря на преимущество в крутящем моменте и выдающейся разгонной динамике, масса аккумуляторов пока делает электромоторы неоптимальным выбором для спорткаров. Зато их можно устанавливать на премиальные седаны, которые при этом получают спорткаровскую динамику, что и доказала гонка YouTube-канала Carwow.
+Самая горячая новинка в трио — BMW i7 50. 545-сильный электромобиль выдаёт крутящий момент 745 Нм, а весит такой седан 2600 килограммов. Аналогичный по массе Mercedes-AMG EQS 53 в своём арсенале имеет уже 658 сил и 950 Нм.
+Что касается первого премиального немецкого электромобиля — Porsche Taycan — то ветеран сегмента представлен в гонке версией Turbo S, что подразумевает 761 силу и 1050 Нм при массе «всего» 2300 килограммов.
+В итоге получилось сражение трёх примерно равных по стоимости и позиционированию электромобилей, которые при этом существенно отличаются по своим характеристикам. А значит, что предсказать исход такой гонки сложно. Конечно, от этого она становится лишь интереснее.]]></text>
+</doc>

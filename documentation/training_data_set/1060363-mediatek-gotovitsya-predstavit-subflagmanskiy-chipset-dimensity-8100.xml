@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Слухи: в марте MediaTek представит субфлагманскую платформу Dimensity 8100]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[dimensity]]></keyword>
+    <keyword type="str"><![CDATA[рынок it]]></keyword>
+    <keyword type="str"><![CDATA[смартфон]]></keyword>
+    <keyword type="str"><![CDATA[утечка]]></keyword>
+    <keyword type="str"><![CDATA[soc и микросхемы-контроллеры]]></keyword>
+    <keyword type="str"><![CDATA[mediatek]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[процессоры]]></keyword>
+    <keyword type="str"><![CDATA[мобильные телефоны, смартфоны, сотовая связь, коммуникаторы, кпк]]></keyword>
+    <keyword type="str"><![CDATA[чипсет]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-16T20:40:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[MediaTek поделилась первыми тизерами однокристальной платформы Dimensity 8000 ещё в декабре. Тогда же было заявлено, что он будет производиться по нормам 5-нм техпроцесса TSMC. Чип почти готов к запуску, но авторитетный китайский техноблог Digital Chat Station сообщает, что он будет запущен под названием Dimensity 8100.Новый чип будет представлен в марте. Он получит восьмиядерный центральный процессор, который будет совмещать четыре высокопроизводительных ядра Cortex-A78 с частотой до 2,75 ГГц и четыре энергоэффективных Cortex-A55. За обработку графики будет отвечать GPU Mali-G510, который ещё не использовался ни в одной однокристальной платформе.Сообщается, что новая система-на-кристалле заменит в модельном ряду MediaTek Dimensity 1100. Чип будет стоять на ступеньку ниже флагманского Dimensity 9000.По слухам, первые устройства на новой платформе появятся уже в марте. Ожидается, что их выпустят Redmi и Realme. Сообщается, что Dimensity 8100 ляжет в основу одного из смартфонов серии Redmi K50.]]></text>
+</doc>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Американский регулятор изучит сделку по покупке Microsoft компании Activision Blizzard]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Владимир Фетисов]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[microsoft]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[регулирование]]></keyword>
+    <keyword type="str"><![CDATA[activision blizzard]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-01T14:06:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Стало известно, что Федеральная торговая комиссия (FTC) США проверит сделку по поглощению Activision Blizzard корпорацией Microsoft на предмет нарушения антимонопольного законодательства. Об этом пишет издание Bloomberg со ссылкой на собственные осведомлённые источники.Изначально предполагалось, что упомянутая сделка будет рассматриваться сотрудниками Министерства юстиции США, но, похоже, что изучением данного вопроса займётся FTC. Согласно имеющимся данным, в первую очередь регулятора будет интересовать возможные последствия поглощения для конкурентов Microsoft в сфере игровой индустрии. Предполагается, что софтверный гигант может ограничить доступ конкурентов к крупным играм Activision. Официальные представители Microsoft и FTC пока воздерживаются от комментариев по данному вопросу.Отметим, что глава FTC Лина Хан (Lina Khan) давно заявляла о необходимости более жёсткого регулирования крупных сделок, особенно проводимых технологическими гигантами. Она считает, что крупные IT-компании могут использовать своё доминирующее положение в одном из направлений бизнеса для усиления собственных позиций на других рынках. Под её руководством агентство начало два крупных судебных разбирательства с целью блокировки сделки по покупке NVIDIA компании Arm, а также поглощения Lockheed Marin компании Aerojet Rocketdyne.  Напомним, в прошлом месяце Microsoft объявила о намерении купить Activision Blizzard за $68,7 млрд. Если эта сделка будет осуществлена, то она станет крупнейшей за всю историю игровой индустрии, а команда игрового подразделения Microsoft пополнится разработчиками Call of Duty, Warcraft, Diablo, Overwatch, Starcraft и др.]]></text>
+</doc>

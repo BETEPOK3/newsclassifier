@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Вышел планшет TCL Tab Max с процессором Snapdragon 665 и экраном 2К]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[tcl]]></keyword>
+    <keyword type="str"><![CDATA[планшетный компьютер]]></keyword>
+    <keyword type="str"><![CDATA[планшет]]></keyword>
+    <keyword type="str"><![CDATA[планшетные компьютеры и смартбуки]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-16T15:55:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания TCL с 21 февраля начнёт продажи нового планшетного компьютера Tab Max под управлением операционной системы Android 11. В основу гаджета положена аппаратная платформа Qualcomm.Компьютер оборудован 10,4-дюймовым дисплеем формата 2К с разрешением 2000 × 1200 точек. Взаимодействовать с экраном можно при помощи опционального пера T-Pen. Спереди установлена 8-мегапиксельная камера, сзади — 13-мегапиксельная (со светодиодной вспышкой).Применён процессор Snapdragon 665, объединяющий восемь вычислительных ядер Kryo 260 с тактовой частотой до 2,0 ГГц и графический ускоритель Adreno 610. Объём оперативной памяти составляет 6 Гбайт, вместимость флеш-накопителя — 256 Гбайт. Дополнительно можно задействовать карту microSD.В арсенале планшета — адаптеры Wi-Fi 802.11a/b/g/n/ac и Bluetooth 5.0, приёмник GPS, стереофонические динамики и порт USB Type-C. Гнездо для наушников на 3,5 мм не предусмотрено.За питание отвечает аккумуляторная батарея ёмкостью 8000 мА·ч с 18-ваттной зарядкой. Цена составляет приблизительно 220 долларов. ]]></text>
+</doc>

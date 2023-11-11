@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[AlphaCool выпустила активные задние панели для СЖО видеокарт GeForce RTX 3080/3090]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[система охлаждения]]></keyword>
+    <keyword type="str"><![CDATA[сжо]]></keyword>
+    <keyword type="str"><![CDATA[система жидкостного охлаждения]]></keyword>
+    <keyword type="str"><![CDATA[системы охлаждения]]></keyword>
+    <keyword type="str"><![CDATA[alphacool]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-04T08:52:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания AlphaCool анонсировала тыльные пластины семейства Eisblock Aurora GPX-N Acrylic Active Backplate, предназначенные для применения в составе систем жидкостного охлаждения (СЖО) графических ускорителей NVIDIA GeForce RTX 3080 и GeForce RTX 3090.Пластины обеспечивают активное жидкостное охлаждение компонентов на обратной стороне видеокарты. Это, в частности, расположенные сзади микросхемы памяти. Благодаря специальным термопанелям обеспечивается эффективный отвод тепла от этих элементов, что повышает стабильность работы ускорителя.Пластины подходят для систем охлаждения Alphacool Eisblock Aurora Acrylic/Acetal GPX-N и Alphacool Eiswolf 2. Применяются стандартные фитинги G1/4".Новинки оснащены многоцветной подсветкой D-RGB на основе шести адресуемых светодиодов. Настраивать и синхронизировать эффекты можно при помощи специального контроллера или через совместимую материнскую плату.Использовать активные тыльные пластины можно с графическими ускорителями GeForce RTX 3080 и GeForce RTX 3090 различных производителей, включая ASUS, Aorus, Gigabyte, MSI и др. Цена составляет приблизительно 80 евро (без НДС). ]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Игра по арке «SAO:Alicization»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Sticks]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true"/>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2019-12-08T23:02:30+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[По SAO выйдет игра под названием «SAO:Alicization: Lycoris». Игра выйдет 22 мая 2020 года на PS4, XBOX, PC. Информация об игре: — В игре имеются 2 типа битв, против монстров и гуманоидов. — Кирито и сопровождающих его персонажей можно менять по желанию, и даже когда игроки ими не управляют, им можно давать команды. — В боевой системе игры имеются обычные атаки, использование навыков, а также тайное искусство. — Команды включают в себя активацию навыков и атаки. Когда неконтролируемый персонаж использует навыки одновременно с персонажем, которым управляет игрок, активируется цепочка навыков. — Тайное искусство включает использование элементов огня и многих других. — Смена времени суток в игре происходит в режиме реального времени.]]></text>
+</doc>

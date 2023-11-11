@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Gigabyte представила плату H610I DDR4 формата Mini-ITX с поддержкой чипов Intel Alder Lake]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[материнские платы]]></keyword>
+    <keyword type="str"><![CDATA[gigabyte]]></keyword>
+    <keyword type="str"><![CDATA[материнская плата]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[плата]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-11T10:52:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Gigabyte выпустила материнскую плату H610I DDR4 для настольных компьютеров небольшого форм-фактора. Новинка выполнена на наборе системной логики Intel H610 Express.Поддерживаются процессоры Intel Core двенадцатого поколения (Alder Lake) в исполнении LGA 1700. Плата рассчитана на работу с оперативной памятью DDR4-3200, объём которой может достигать 64 Гбайт в конфигурации 2 × 32 Гбайт.Для подключения накопителей имеются четыре SATA-порта. Может быть также установлен твердотельный модуль М.2 2280 с интерфейсом PCIe 3.0 x4/x2. Есть единственный слот PCI Express 4.0 х16 для видеокарты.В оснащение входят гигабитный Ethernet-контроллер и звуковой кодек Realtek формата 7.1. Материнская плата имеет типоразмер Mini-ITX с габаритами 170 × 170 мм.Интерфейсный блок содержит гнездо PS/2 для мыши/клавиатуры, два порта USB 3.2 Gen1 и четыре порта USB 2.0/1.1, разъёмы D-Sub, DisplayPort (×2) и HDMI 2.0 для мониторов, гнездо RJ45 для сетевого кабеля и набор аудиогнёзд.Плата изготовлена по фирменной технологии Ultra Durable, которая обеспечивает повышенную надёжность и продолжительный срок службы. ]]></text>
+</doc>

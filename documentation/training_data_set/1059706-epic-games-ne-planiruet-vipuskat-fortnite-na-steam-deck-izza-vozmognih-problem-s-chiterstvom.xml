@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Epic Games не планирует выпускать Fortnite на Steam Deck из-за возможных проблем с читерством]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Игнатий Колыско]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[игры для android]]></keyword>
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[игры для ios]]></keyword>
+    <keyword type="str"><![CDATA[шутер]]></keyword>
+    <keyword type="str"><![CDATA[steam deck]]></keyword>
+    <keyword type="str"><![CDATA[xbox]]></keyword>
+    <keyword type="str"><![CDATA[playstation]]></keyword>
+    <keyword type="str"><![CDATA[valve]]></keyword>
+    <keyword type="str"><![CDATA[fortnite]]></keyword>
+    <keyword type="str"><![CDATA[nintendo]]></keyword>
+    <keyword type="str"><![CDATA[epic games]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-08T11:26:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Многопользовательский экшен Fortnite не войдёт в библиотеку проектов, совместимых с портативной системой Steam Deck. Об этом заявил исполнительный директор Epic Games Тим Суини (Tim Sweeney) у себя в микроблоге, отвечая на вопрос пользователя.«У нас нет уверенности, что мы сможем вести полноценную борьбу с читерством при наличии широкого спектра конфигураций ядра, включая пользовательские варианты», — ответил Тим Суини на вопрос о добавлении поддержки в Fortnite ядра Linux, собранного для Steam Deck. В ответ на слова Тима Суини пользователь Twitter с ником Stormy178 напомнил, что античит Easy Anti-Cheat (EAC) был запущен на Linux и maсOS в сентябре 2021 года. Данный набор инструментов для борьбы с недобросовестными геймерами получил совместимость с программной оболочкой Proton, которая используется в Steam Deck.В прошлом месяце стало известно, что карманный ПК от Valve получил полную поддержку античитов BattleEye и EAC. Последний как раз используется в Fortnite — информация об этом есть на официальном сайте EAC. В связи с этим слова Тима Суини по поводу невозможности добавления Fortnite в библиотеку Steam Deck из-за проблем с читерами вызывают недоумение.Напомним, 25 февраля Valve начнёт рассылать пользователям, ранее оформившим бронирование, электронные письма со ссылками, при переходе по которым можно будет приобрести Steam Deck. При этом на совершение покупки у клиентов будет 72 часа. Если пользователь не успеет купить консоль в отведённый срок, эта возможность перейдёт к следующему человеку в очереди. Первые Steam Deck отправятся к покупателям 28 февраля.]]></text>
+</doc>

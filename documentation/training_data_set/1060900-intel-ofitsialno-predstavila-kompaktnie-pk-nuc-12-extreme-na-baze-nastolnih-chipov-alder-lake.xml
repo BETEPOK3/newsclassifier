@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Intel представила компактные игровые ПК NUC 12 Extreme на настольных чипах Alder Lake]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[компьютер]]></keyword>
+    <keyword type="str"><![CDATA[intel nuc]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[alder lake]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-24T18:33:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Intel официально представила платформу NUC 12 Extreme Compute Element (Eden Bay) и компактный модульный игровой ПК NUC 12 Extreme (Dragon Canyon) на её основе. Впервые для серии NUC в составе NUC 12 Extreme используются настольные варианты процессоров Intel Core 12-го поколения и предлагается поддержка установки полноразмерных видеокарт длиной до 300 мм. Кроме того, система предлагает поддержку широкого набора внешних интерфейсов, включая Thunderbolt 4.Производитель позиционирует NUC 12 Extreme как самую мощную систему подобного рода. Она готова предложить настольные процессоры Alder Lake вплоть до моделей Core i9, в составе которых присутствуют восемь высокопроизводительных P-ядер и восемь энергоэффективных E-ядер с поддержкой 24 виртуальных потоков, работающих на частоте до 5,1 ГГц в режиме автоматического разгона. Кроме того, эти чипы оснащены интегрированной графикой Intel UHD Graphics 770 с 32 исполнительными блоками.Компактный ПК Intel NUC 12 Extreme поддерживает установку до 64 Гбайт двухканальной оперативной памяти DDR4-3200 формата SO-DIMM, графических ускорителей с поддержкой интерфейса PCIe 5.0, а также до трёх твердотельных NVMe-накопителей с интерфейсом PCIe 4.0.Среди прочего отмечается наличие двух разъёмов Thunderbolt 4, беспроводного контроллера Intel AX211 с поддержкой Wi-Fi 6E, одного разъёма LAN с поддержкой скорости передачи данных до 10 Гбит/с, а также дополнительного 2,5-гигабитного сетевого разъёма на моделях NUC 12 Extreme с процессорами Intel Core i9.В продаже системы Intel NUC 12 Extreme появятся во втором квартале текущего года. Цены на них будут варьироваться от 1150 до 1450 долларов за модели с процессорами Core i7 и Core i9 соответственно.]]></text>
+</doc>

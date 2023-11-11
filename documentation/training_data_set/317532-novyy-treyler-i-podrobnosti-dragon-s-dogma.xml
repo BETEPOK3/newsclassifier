@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новый трейлер и подробности "Dragon's Dogma"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Трейлер]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-08-25T07:32:48+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Представлен новый постер, трейлер, и состав команды, сериала " Dragon's Dogma " по  мотивам игры  от разработчика  Capcom  для PlayStation, Xbox 360, Windows . Премьера состоится 17 сентября 2020 года, на сервисе  NETFLIX . При этом будут выпущены 7 эпизодов. История человека, осознавшего себя избранным. Только Аристен может убить дракона и остановить апокалипсис. Но дракон высосал его сердце и теперь герой бродит по свету, одолеваемый демонами, в поисках мести. СОСТАВ СОЗДАТЕЛЕЙ Студия:  Sublimation  и  Capcom Режиссер:  Синья Сугаи  (Вечноцветущая сакура) Сценарист:  Курасуми Сунаяма  (Гуррен-Лаганн, Темнее чёрного) Дизайнер персонажей:   Ику Нишимура  (Покемон: Поколения) Продюсер:  Тайки Сакурай]]></text>
+</doc>

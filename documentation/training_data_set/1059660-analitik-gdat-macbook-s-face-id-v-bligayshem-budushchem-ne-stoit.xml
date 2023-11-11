@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Слухи: первым компьютером с Face ID станет Apple iMac, а вовсе не MacBook]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[компьютеры и ноутбуки apple]]></keyword>
+    <keyword type="str"><![CDATA[face id]]></keyword>
+    <keyword type="str"><![CDATA[ноутбук]]></keyword>
+    <keyword type="str"><![CDATA[рынок it]]></keyword>
+    <keyword type="str"><![CDATA[apple]]></keyword>
+    <keyword type="str"><![CDATA[слухи]]></keyword>
+    <keyword type="str"><![CDATA[ноутбуки и нетбуки]]></keyword>
+    <keyword type="str"><![CDATA[разработка и производство электроники]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[прогноз]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-07T20:00:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Первым компьютером Apple с технологией идентификации пользователя Face ID вряд ли будет MacBook, заявил аналитик Марк Гурман (Mark Gurman) из Bloomberg. Всё дело в том, что компания до сих пор не разработала технологию, позволяющую уместить все датчики, необходимые для распознавания лица, в тонкую верхнюю крышку ноутбука.Гурман поделился информацией о возможном запуске компьютера Apple с Face ID в своём еженедельном информационном бюллетене Power On. Аналитик говорит, что Apple изначально планировала внедрить Face ID в оригинальный iMac на базе чипа M1, который дебютировал в прошлом году. К сожалению, компания решила отказаться от этих планов, сосредоточив усилия на дизайне компьютера.Гурман утверждает, что Face ID в компьютерах Apple дебютирует в iMac или внешнем мониторе, поскольку толщина корпуса этих устройств позволит без проблем разместить все необходимые датчики. Сообщается, что компания в данный момент не располагает технологиями, позволяющими разместить систему распознавания лица True Depth в тонкую дисплейную крышку ноутбука.Ходят слухи, что Apple протестировала Face ID в составе грядущего iMac Pro на базе фирменного Arm-чипсета, однако на данный момент это неподтверждённая информация, и неясно, будет ли следующий профессиональный моноблок компании оснащён системой распознавания лиц.В дополнение к информации о Face ID в iMac, Гурман подтвердил, что Apple планирует провести виртуальное мероприятие по запуску новых продуктов 8 марта. Напомним, что компания, как ожидается, в этот день представит новые iPhone SE и iPad Air на базе чипсета М1, а также, вероятно, новый компьютер Mac на базе фирменного Arm-процессора.]]></text>
+</doc>

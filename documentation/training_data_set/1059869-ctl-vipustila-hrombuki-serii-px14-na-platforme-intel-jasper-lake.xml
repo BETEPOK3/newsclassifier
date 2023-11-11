@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[CTL выпустила хромбуки серии PX14 на платформе Intel Jasper Lake]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[хромбук]]></keyword>
+    <keyword type="str"><![CDATA[ноутбук]]></keyword>
+    <keyword type="str"><![CDATA[chromebook]]></keyword>
+    <keyword type="str"><![CDATA[ноутбуки и нетбуки]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[ctl]]></keyword>
+    <keyword type="str"><![CDATA[лэптоп]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-10T08:46:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания CTL начала приём заказов на портативные компьютеры Chromebook PX14-E и Chromebook PX14-EX под управлением операционной системы Chrome OS. Устройства предназначены для использования в образовательной сфере.Ноутбуки оснащены дисплеем с диагональю 14 дюймов. При этом разрешение у первой модели составляет 1366 × 768 пикселей (формат HD), у второй — 1920 × 1080 точек (Full HD).Лэптоп Chromebook PX14-E получил процессор Celeron N4500 с двумя ядрами (1,1–2,8 ГГц) и графическим ускорителем Intel UHD Graphics. Объём оперативной памяти составляет 4 Гбайт, вместимость флеш-накопителя — 64 Гбайт.Версия Chromebook PX14-EX несёт на борту чип Celeron N5100 с четырьмя ядрами, также работающими на частоте от 1,1 до 2,8 ГГц. Объём ОЗУ увеличен до 8 Гбайт, а ёмкость флеш-модуля осталась прежней — 64 Гбайт.Хромбуки наделены адаптерами беспроводной связи Intel AX201 Wi-Fi 6  и Bluetooth 5.2, двумя портами USB 3.1 Gen1 Type-C, разъёмом USB 3.1 Gen1 Type-A, веб-камерой HD и стереофоническими динамиками мощностью 2 Вт каждый.Цена Chromebook PX14-E составляет около 300 долларов США, а модификация Chromebook PX14-EX обойдётся в 370. Начало поставок запланировано на апрель. ]]></text>
+</doc>

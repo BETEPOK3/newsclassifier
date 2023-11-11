@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Магазин приложений Samsung приостановил приём платежей в России]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Руслан Авдеев]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[samsung]]></keyword>
+    <keyword type="str"><![CDATA[игры для android]]></keyword>
+    <keyword type="str"><![CDATA[санкции]]></keyword>
+    <keyword type="str"><![CDATA[россия]]></keyword>
+    <keyword type="str"><![CDATA[вирусы, трояны, уязвимости в по, вопросы безопасности]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[galaxy store]]></keyword>
+    <keyword type="str"><![CDATA[по для мобильных устройств]]></keyword>
+    <keyword type="str"><![CDATA[приложения для android]]></keyword>
+    <keyword type="str"><![CDATA[программное обеспечение]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-03-03T10:33:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Обновлено:Samsung прокомментировала данную новость: Galaxy Store в России работает в обычном режиме, включая прием и обработку онлайн-платежей.Основной материал:Согласно последним данным, в России была частично ограничена работа фирменного магазина приложений Samsung. Владельцы смартфонов корейского производителя больше не могут пользоваться всеми функциями фирменной площадки Galaxy Store.Сообщается, что при попытке воспользоваться платными сервисами появляется уведомление о перерыве в обслуживании пользователей Galaxy Store. При этом пока сохраняется возможность загружать обновления и бесплатные программы, магазин продолжает работу.Как гласит уведомление, «пользователи не могут совершать покупки внутри Galaxy Store». По данным «Коммерсанта», в российском подразделении Samsung от комментариев отказались. На российской версии сайта компании какие-либо оповещения также отсутствуют. По некоторым данным оповещения пока появляются не у всех пользователей. Между тем южнокорейский портал Yonhap сообщает, что «в Министерстве торговли США подтвердили, что смартфоны, машины, посудомойки и другие потребительские товары» являются исключением из санкционного списка, если не предназначены для использования военными — сейчас, по имеющимся данным, представители южнокорейских властей намерены просить у США послабления санкционного режима. ]]></text>
+</doc>

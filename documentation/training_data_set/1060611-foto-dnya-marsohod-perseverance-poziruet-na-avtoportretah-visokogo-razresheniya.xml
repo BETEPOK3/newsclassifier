@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Фото дня: марсоход Perseverance позирует на автопортретах высокого разрешения]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Наука]]></category>
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[марсоход]]></keyword>
+    <keyword type="str"><![CDATA[фото, видео, фраза дня]]></keyword>
+    <keyword type="str"><![CDATA[на острие науки]]></keyword>
+    <keyword type="str"><![CDATA[космос]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[perseverance]]></keyword>
+    <keyword type="str"><![CDATA[наука]]></keyword>
+    <keyword type="str"><![CDATA[марс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-20T08:00:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Национальное управление по воздухоплаванию и исследованию космического пространства США (NASA) предлагает полюбоваться селфи-снимками ровера «Настойчивость» (Perseverance) на фоне марсианских просторов.Perseverance, напомним, успешно совершил посадку на Красной планете 18 февраля прошлого года. Вместе с аппаратом на Марс прибыл вертолёт Ingenuity. Ровер оборудован комплексом научных приборов, камерами и специальной системой для забора образцов марсианского грунта.Представленные автопортреты получены ещё в сентябре 2021-го около валуна под названием «Рошетт» (Rochette). На поверхности этого камня видны два буровых отверстия, которые проделал Perseverance с целью изучения пород.Автопортреты получены при помощи камеры WATSON (Wide Angle Topographic Sensor for Operations and eNgineering), установленной на двухметровом роботизированном манипуляторе.На фотографиях видны следы от ровера на фоне марсианского пейзажа. Поверхность ровера покрыта частицами бурой пыли. ]]></text>
+</doc>

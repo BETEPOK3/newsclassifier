@@ -122,8 +122,10 @@ async def get_article_page(request: Request, article_id: int):
 @app.get("/article/create", response_class=HTMLResponse)
 async def create_article(request: Request):
     try:
+        categories = await queries.get_all_categories()
+        content = {"categories": categories}
         return templates.TemplateResponse("pages/article_create.html",
-                                          {"request": request},
+                                          {"request": request, "content": content},
                                           status.HTTP_200_OK)
     except Exception as e:
         logger.error(e)

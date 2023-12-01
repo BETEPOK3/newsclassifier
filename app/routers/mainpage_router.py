@@ -122,8 +122,10 @@ async def get_article_page(request: Request, article_id: int):
 @app.get("/article/create", response_class=HTMLResponse)
 async def create_article(request: Request):
     try:
+        categories = await queries.get_all_categories()
+        content = {"categories": categories}
         return templates.TemplateResponse("pages/article_create.html",
-                                          {"request": request},
+                                          {"request": request, "content": content},
                                           status.HTTP_200_OK)
     except Exception as e:
         logger.error(e)
@@ -171,7 +173,8 @@ async def update_article(request: Request, article_id: int):
             article["article_date"] = date_str
             return JSONResponse(content["article"])
         content["keywords"] = ";".join(article["article_keywords"])
-        content["categories"] = ";".join([dct["category_name"] for dct in article["categories"]])
+        content["all_categories"] = await queries.get_all_categories()
+        content["categories"] = [dct["category_name"] for dct in article["categories"]]
         return templates.TemplateResponse("pages/article_update.html",
                                           {"request": request, "content": content},
                                           status.HTTP_200_OK)

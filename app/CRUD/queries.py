@@ -23,6 +23,21 @@ async def get_data(data_id):
         logger.error(e)
 
 
+async def get_all_categories():
+    try:
+        query = (
+            select(
+                [
+                    Category
+                ]
+            )
+        )
+        categories = await database.fetch_all(query)
+        return categories
+    except Exception as e:
+        logger.error(e)
+
+
 async def get_all_data():
     try:
         query = (

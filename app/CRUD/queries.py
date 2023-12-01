@@ -248,9 +248,9 @@ def check_article_none(article: Record, params: dict) -> Article:
         date = datetime.strptime(date_str, "%Y-%m-%d")
         new_article.article_date = date
     else:
-        date_str = article.get("article_date")
-        date = datetime.strptime(date_str, "%Y-%m-%d")
-        new_article.article_date = date
+        # date_str = article.get("article_date")
+        # date = datetime.strptime(date_str, "%Y-%m-%d")
+        new_article.article_date = None
 
     if params.get("article_text") is not None:
         new_article.article_text = params.get("article_text")

@@ -48,7 +48,15 @@
                                     <div class="col-4">
                                         <h5>{{ article.article_title }}</h5>
                                         <p>{{ article.article_author }}</p>
-                                        <p>{{ article.article_date.strftime('%d.%m.%Y') }}</p>
+                                        {% if article.article_date %}
+                                            <p>
+                                                {{article.article_date.strftime('%d.%m.%Y')}}
+                                            </p>
+                                        {% else %}
+                                            <p>
+                                                Дата не указана
+                                            </p>
+                                        {% endif %}
                                         <p class="col-4">{% for category in article.categories %}{{category.category_name}}{{ ", " if not loop.last }}{% endfor %}</p>
                                     </div>
                                     <div class="col-8">

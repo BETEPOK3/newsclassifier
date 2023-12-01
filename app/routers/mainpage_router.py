@@ -5,7 +5,7 @@ from fastapi.responses import HTMLResponse, RedirectResponse, JSONResponse
 
 from fastapi import FastAPI, Request, status, Form, Body, Depends
 from pydantic import BaseModel, Field
-from typing import List
+from typing import List, Optional
 
 from app.CRUD import queries
 from app.CRUD.queries import *
@@ -22,7 +22,7 @@ class ArticleSchema(BaseModel):
     article_author: str = Field(default=None)
     article_categories: List[str]
     article_keywords: List[str] = Field(default=[])
-    article_date: date
+    article_date: Optional[date] = None
     article_text: str
 
 
@@ -85,7 +85,10 @@ async def get_article_list(request: Request, search_params: ArticlesRequestSchem
         accept_header = request.headers.get('accept')
         if accept_header == "application/json":
             for article in articles["articles"]:
-                date_str = article["article_date"].isoformat()
+                if article["article_date"] is not None:
+                    date_str = article["article_date"].isoformat()
+                else:
+                    date_str = None
                 article["article_date"] = date_str
             return JSONResponse(articles)
         content["articles"] = articles["articles"]
@@ -108,7 +111,10 @@ async def get_article_page(request: Request, article_id: int):
         content["article"] = article
         accept_header = request.headers.get('accept')
         if accept_header == "application/json":
-            date_str = article["article_date"].isoformat()
+            if article["article_date"] is not None:
+                date_str = article["article_date"].isoformat()
+            else:
+                date_str = None
             article["article_date"] = date_str
             return JSONResponse(content["article"])
         return templates.TemplateResponse("pages/article_text.html",
@@ -169,7 +175,10 @@ async def update_article(request: Request, article_id: int):
         content["article"] = article
         accept_header = request.headers.get('accept')
         if accept_header == "application/json":
-            date_str = article["article_date"].isoformat()
+            if article["article_date"] is not None:
+                date_str = article["article_date"].isoformat()
+            else:
+                date_str = None
             article["article_date"] = date_str
             return JSONResponse(content["article"])
         content["keywords"] = ";".join(article["article_keywords"])
@@ -187,11 +196,15 @@ async def update_article(request: Request, article_id: int):
 async def update_article(request: Request, article_id: int, params: dict):
     try:
         content = dict()
+        logger.info(f"params: {params}")
         article = await queries.update_article(article_id=article_id, params=params)
         content["article"] = article
         accept_header = request.headers.get("accept")
         if accept_header == "application/json":
-            date_str = article["article_date"].isoformat()
+            if article["article_date"] is not None:
+                date_str = article["article_date"].isoformat()
+            else:
+                date_str = None
             article["article_date"] = date_str
             return JSONResponse(content["article"])
         return templates.TemplateResponse("pages/article_text.html",

@@ -41,9 +41,15 @@
                             <h4 style="text-align: center;">{{content.article.article_title}}</h4>
                             <div>
                                 <p>{{content.article.article_text}}</p>
-                                <p style="text-align: right; padding-right: 50px">
-                                    {{content.article.article_date.strftime('%d.%m.%Y')}}
-                                </p>
+                                {% if content.article.article_date %}
+                                    <p style="text-align: right; padding-right: 50px">
+                                        {{content.article.article_date.strftime('%d.%m.%Y')}}
+                                    </p>
+                                {% else %}
+                                    <p style="text-align: right; padding-right: 50px">
+                                        Дата не указана
+                                    </p>
+                                {% endif %}
                             </div>
                         </div>
                         <div>

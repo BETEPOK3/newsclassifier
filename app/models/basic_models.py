@@ -12,7 +12,7 @@ class Article(Base):
     article_title = Column(String(), nullable=False)
     article_author = Column(String())
     article_keywords = Column(ARRAY(String))
-    article_date = Column(Date(), nullable=False)
+    article_date = Column(Date())
     article_text = Column(String(), nullable=False)
 
 

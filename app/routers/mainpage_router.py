@@ -5,7 +5,7 @@ from fastapi.responses import HTMLResponse, RedirectResponse, JSONResponse
 
 from fastapi import FastAPI, Request, status, Form, Body, Depends
 from pydantic import BaseModel, Field
-from typing import List
+from typing import List, Optional
 
 from app.CRUD import queries
 from app.CRUD.queries import *
@@ -22,7 +22,7 @@ class ArticleSchema(BaseModel):
     article_author: str = Field(default=None)
     article_categories: List[str]
     article_keywords: List[str] = Field(default=[])
-    article_date: date
+    article_date: Optional[date] = None
     article_text: str
 
 
@@ -137,6 +137,8 @@ async def create_article(request: Request, article: ArticleSchema):
     try:
         if (len(article.article_categories) == 0):
             raise Exception("Количество категорий не может быть равно нулю")
+        if article.article_date is None:
+            article.article_date = datetime.now().date()
         article_id = await queries.create_article(article)
         accept = request.headers["accept"]
         if (accept == "application/json"):
@@ -187,6 +189,8 @@ async def update_article(request: Request, article_id: int):
 async def update_article(request: Request, article_id: int, params: dict):
     try:
         content = dict()
+        if params["article_date"] is None:
+            params["article_date"] = datetime.now().date().isoformat()
         article = await queries.update_article(article_id=article_id, params=params)
         content["article"] = article
         accept_header = request.headers.get("accept")

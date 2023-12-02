@@ -71,15 +71,6 @@ async function send() {
     } else {
         document.querySelector(".keywords-error").innerHTML = "";
     }
-//    if (date == null) {
-//        document.querySelector(".date-error").innerHTML = "Поле 'Дата' должно быть заполнено";
-//        document.querySelector(".date-error").style.display = "inline";
-//        document.querySelector(".date-error").style.fontSize = "20px";
-//        document.querySelector(".date-error").style.color = "red";
-//        isValid = false;
-//    } else {
-//        document.querySelector(".date-error").innerHTML = "";
-//    }
     if (text == undefined) {
         document.querySelector(".text-error").innerHTML = "Поле 'Текст' не может быть пустым";
         document.querySelector(".text-error").style.display = "inline";
@@ -106,10 +97,6 @@ async function send() {
     keywords_input.addEventListener('change', function() {
         document.querySelector(".keywords-error").innerHTML = "";
     });
-//    const date_input = document.querySelector("div input[name='article_date']");
-//    date_input.addEventListener('change', function() {
-//        document.querySelector(".date-error").innerHTML = "";
-//    });
     const text_input = document.querySelector("div input[name='article_text']");
     text_input.addEventListener('change', function() {
         document.querySelector(".text-error").innerHTML = "";

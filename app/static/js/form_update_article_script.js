@@ -107,10 +107,6 @@ async function send() {
     keywords_input.addEventListener('change', function() {
         document.querySelector(".keywords-error").innerHTML = "";
     });
-//    const date_input = document.querySelector("div input[name='article_date']");
-//    date_input.addEventListener('change', function() {
-//        document.querySelector(".date-error").innerHTML = "";
-//    });
     const text_input = document.querySelector("div input[name='article_text']");
     text_input.addEventListener('change', function() {
         document.querySelector(".text-error").innerHTML = "";

@@ -61,3 +61,23 @@ p {
 .selector-for-some-widget {
   box-sizing: content-box;
 }
+
+table.data-form td {
+  text-align: left;
+  vertical-align: top;
+  height: 2em;
+}
+
+table.data-form td.button-cell {
+  text-align: center;
+  vertical-align: top;
+  height: 2em;
+}
+
+table.data-form input[type=text], table.data-form input[type=date] {
+  width: 50em;
+}
+
+div.row select, div.row {
+  max-width: 50em;
+}

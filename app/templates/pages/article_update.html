@@ -15,78 +15,131 @@
         <div id="content" class="main-div">
             {% include 'shared/top_nav.html' %}
             <div align="center">
-                <div>
-                    <label for="" style="font-size:18px">Название:</label>
-                    <input class="col-8" name="article_title" id="article_title"
-                           value="{{content.article.article_title}}" type="text"/>
-
-                    <br>
-                    <p class="error title-error"></p>
-                </div>
-                <div>
-                    <label for="" style="font-size:18px">Автор:</label>
-                    <input class="col-8" name="article_author" id="article_author"
-                           value="{{content.article.article_author}}" type="text"/>
-                    <br>
-                    <p class="error author-error"></p>
-                </div>
-                <div class="row">
-                     <label for="" class="col-2" style="font-size:18px;  text-align: right;  padding-right: 0px; margin-right: 0px">Категории:</label>
-                     <div class="form_label col-8" style="padding-left: 0px; margin-left: 5px">
-                        <div class="multiselect_block">
-                           <label for="categories_select" class="field_multiselect">Категории</label>
-                           <input id="checkbox-2" class="multiselect_checkbox" type="checkbox">
-                           <label for="checkbox-2" class="multiselect_label"></label>
-                           <select id="categories_select" class="field_select" name="categories" multiple style="@media (min-width: 768px) { height: calc(4 * 38px)}">
-                              {% for category in content.all_categories %}
-                                 {% if category.category_name in content.categories %}
-                                    <option id="category-{{category.category_id}}" selected>
-                                       {{category.category_name}}
-                                    </option>
-                                 {% else %}
-                                    <option id="category-{{category.category_id}}">
-                                       {{category.category_name}}
-                                    </option>
-                                 {% endif %}
-                              {% endfor %}
-                           </select>
-                        </div>
-                     </div>
-                    <span class="error_text"></span>
-                    <script src="/static/js/multiselect_script.js"></script>
-                    <br>
-                </div>
-                <p class="error categories-error"></p>
-                <div>
-                    <label for="" style="font-size:18px">Ключевые слова:</label>
-                    <input class="col-8" name="article_keywords" id="article_keywords"
-                           value="{{content.keywords}}"
-                           type="text"/>
-                    <br>
-                    <p class="error keywords-error"></p>
-                </div>
-                <div>
-                    <label for="" style="font-size:18px">Дата создания:</label>
-                    <input class="col-8" name="article_date" id="article_date"
-                           value={{content.article.article_date}}
-                           min="1970-01-01" max="2023-12-31" type="date"/>
-                    <br>
-                    <p class="error date-error"></p>
-                </div>
-                <div>
-                    <label for="" style="font-size:18px">Текст:</label>
-                    <input class="col-8" name="article_text" id="article_text"
-                           value="{{content.article.article_text}}" type="list"/>
-                    <br>
-                    <p class="error text-error"></p>
-                </div>
-                <div>
-                    <button onclick="send()">Изменить</button>
-                </div>
-                <script src="/static/js/form_update_article_script.js"></script>
-                <form action="/index/0" method="get">
-                    <button type="submit" class="btn btn-info mt-4">Отмена</button>
-                </form>
+                <table class="data-form">
+                    <tr>
+                        <td>
+                            <label for="" style="font-size:18px">Название:</label>
+                        </td>
+                        <td>
+                            <input class="col-8" name="article_title" id="article_title"
+                                   value="{{content.article.article_title}}" type="text"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p class="error title-error"></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="" style="font-size:18px">Автор:</label>
+                        </td>
+                        <td>
+                            <input class="col-8" name="article_author" id="article_author"
+                                   value="{{content.article.article_author}}" type="text"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p class="error author-error"></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="" style="font-size:18px">Категории:</label>
+                        </td>
+                        <td>
+                            <div class="row">
+                                <div class="form_label col-8" style="padding-left: 0px; margin-left: 5px">
+                                    <div class="multiselect_block">
+                                        <label for="categories_select" class="field_multiselect">Категории</label>
+                                        <input id="checkbox-2" class="multiselect_checkbox" type="checkbox">
+                                        <label for="checkbox-2" class="multiselect_label"></label>
+                                        <select id="categories_select" class="field_select" name="categories" multiple
+                                                style="@media (min-width: 768px) { height: calc(4 * 38px)}">
+                                            {% for category in content.all_categories %}
+                                            {% if category.category_name in content.categories %}
+                                            <option id="category-{{category.category_id}}" selected>
+                                                {{category.category_name}}
+                                            </option>
+                                            {% else %}
+                                            <option id="category-{{category.category_id}}">
+                                                {{category.category_name}}
+                                            </option>
+                                            {% endif %}
+                                            {% endfor %}
+                                        </select>
+                                    </div>
+                                </div>
+                                <span class="error_text"></span>
+                                <script src="/static/js/multiselect_script.js"></script>
+                                <br>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p class="error categories-error"></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="" style="font-size:18px">Ключевые слова:</label>
+                        </td>
+                        <td>
+                            <input class="col-8" name="article_keywords" id="article_keywords"
+                                   value="{{content.keywords}}"
+                                   type="text"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p class="error keywords-error"></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="" style="font-size:18px">Дата создания:</label>
+                        </td>
+                        <td>
+                            <input class="col-8" name="article_date" id="article_date"
+                                   value={{content.article.article_date}}
+                                   min="1970-01-01" max="2023-12-31" type="date"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p class="error date-error"></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="" style="font-size:18px">Текст:</label>
+                        </td>
+                        <td>
+                            <input class="col-8" name="article_text" id="article_text"
+                                   value="{{content.article.article_text}}" type="text"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p class="error text-error"></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="button-cell" colspan="2">
+                            <button onclick="send()">Изменить</button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="button-cell" colspan="2">
+                            <script src="/static/js/form_update_article_script.js"></script>
+                            <form action="/index/0" method="get">
+                                <button type="submit" class="btn btn-info mt-4">Отмена</button>
+                            </form>
+                        </td>
+                    </tr>
+                </table>
             </div>
         </div>
     </div>

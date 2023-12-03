@@ -4,6 +4,7 @@
       <meta charset="utf-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1"/>
       {% include 'shared/links.html' %}
+      <link rel="stylesheet" href="/static/css/multi-select-styles.css">
       <meta http-equiv="Content-Type" content="text/html; Charset=UTF-8"/>
       <title>Index</title>
    </head>
@@ -26,14 +27,27 @@
                      <br>
                      <p class="error author-error"></p>
                   </div>
-                  <div>
-                     <label for="" style="font-size:18px">Категории:</label>
-                     <input class="col-8" name="article_categories" id="article_categories"
-                        placeholder="Категории (указываются через точку с запятой)"
-                        type="text"/>
+                  <div class="row">
+                     <label for="" class="col-2" style="font-size:18px;  text-align: right;  padding-right: 0px; margin-right: 0px">Категории:</label>
+                     <div class="form_label col-8" style="padding-left: 0px; margin-left: 5px">
+                        <div class="multiselect_block">
+                           <label for="categories_select" class="field_multiselect">Категории</label>
+                           <input id="checkbox-2" class="multiselect_checkbox" type="checkbox">
+                           <label for="checkbox-2" class="multiselect_label"></label>
+                           <select id="categories_select" class="field_select" name="categories" multiple style="@media (min-width: 768px) { height: calc(4 * 38px)}">
+                              {% for category in content.categories %}
+                                 <option id="category-{{category.category_id}}">
+                                    {{category.category_name}}
+                                 </option>
+                              {% endfor %}
+                           </select>
+                        </div>
+                     </div>
+                     <span class="error_text"></span>
+                     <script src="/static/js/multiselect_script.js"></script>
                      <br>
-                     <p class="error categories-error"></p>
                   </div>
+                  <p class="error categories-error"></p>
                   <div>
                      <label for="" style="font-size:18px">Ключевые слова:</label>
                      <input class="col-8" name="article_keywords" id="article_keywords"

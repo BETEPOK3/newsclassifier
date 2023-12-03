@@ -4,12 +4,16 @@ async function send() {
     title = title == "" ? undefined : title;
     let author = document.getElementById("article_author").value;
     author = author == "" ? undefined : author;
-    const categories = document.getElementById("article_categories").value;
-    const categories_list = categories.split(";").map((category) => category.trim());
+    let categories_selected_options = document.getElementById("categories_select").selectedOptions;
+    let categories_list = new Array();
+    for(let i=0; i<categories_selected_options.length; i++){
+        let op = categories_selected_options[i];
+        categories_list.push(op.value);
+    }
     const keywords = document.getElementById("article_keywords").value;
     const keywords_list = keywords.split(";").map((keyword) => keyword.trim());
     let date = document.getElementById("article_date").value;
-    date = date == "" ? undefined : date;
+    date = date == "" ? null : date;
     let text = document.getElementById("article_text").value;
     text = text == "" ? undefined : text;
 
@@ -17,6 +21,7 @@ async function send() {
     let categoriesIsValid = true;
     let keywordsIsValid = true;
 
+    if (categories_list.length == 0) categoriesIsValid = false;
     for (category of categories_list) {
         if (category == "") {
             categoriesIsValid = false;
@@ -50,7 +55,7 @@ async function send() {
         document.querySelector(".author-error").innerHTML = "";
     }
     if (categoriesIsValid == false) {
-        document.querySelector(".categories-error").innerHTML = "Поле 'Категории' должно быть заполнено, категории должны быть указаны через точку с запятой";
+        document.querySelector(".categories-error").innerHTML = "Выберите хотя бы одну категорию";
         document.querySelector(".categories-error").style.display = "inline";
         document.querySelector(".categories-error").style.fontSize = "20px";
         document.querySelector(".categories-error").style.color = "red";
@@ -67,15 +72,15 @@ async function send() {
     } else {
         document.querySelector(".keywords-error").innerHTML = "";
     }
-    if (date == undefined) {
-        document.querySelector(".date-error").innerHTML = "Поле 'Дата' должно быть заполнено";
-        document.querySelector(".date-error").style.display = "inline";
-        document.querySelector(".date-error").style.fontSize = "20px";
-        document.querySelector(".date-error").style.color = "red";
-        isValid = false;
-    } else {
-        document.querySelector(".date-error").innerHTML = "";
-    }
+//    if (date == null) {
+//        document.querySelector(".date-error").innerHTML = "Поле 'Дата' должно быть заполнено";
+//        document.querySelector(".date-error").style.display = "inline";
+//        document.querySelector(".date-error").style.fontSize = "20px";
+//        document.querySelector(".date-error").style.color = "red";
+//        isValid = false;
+//    } else {
+//        document.querySelector(".date-error").innerHTML = "";
+//    }
     if (text == undefined) {
         document.querySelector(".text-error").innerHTML = "Поле 'Текст' не может быть пустым";
         document.querySelector(".text-error").style.display = "inline";
@@ -94,18 +99,18 @@ async function send() {
     author_input.addEventListener('change', function() {
         document.querySelector(".author-error").innerHTML = "";
     });
-    const categories_input = document.querySelector("div input[name='article_categories']");
-    categories_input.addEventListener('change', function() {
+    const categories_select = document.getElementById("categories_select");
+    categories_select.addEventListener('change', function() {
         document.querySelector(".categories-error").innerHTML = "";
     });
     const keywords_input = document.querySelector("div input[name='article_keywords']");
     keywords_input.addEventListener('change', function() {
         document.querySelector(".keywords-error").innerHTML = "";
     });
-    const date_input = document.querySelector("div input[name='article_date']");
-    date_input.addEventListener('change', function() {
-        document.querySelector(".date-error").innerHTML = "";
-    });
+//    const date_input = document.querySelector("div input[name='article_date']");
+//    date_input.addEventListener('change', function() {
+//        document.querySelector(".date-error").innerHTML = "";
+//    });
     const text_input = document.querySelector("div input[name='article_text']");
     text_input.addEventListener('change', function() {
         document.querySelector(".text-error").innerHTML = "";

@@ -1,85 +1,141 @@
 <!DOCTYPE html>
 <html lang="ru">
-   <head>
-      <meta charset="utf-8"/>
-      <meta name="viewport" content="width=device-width, initial-scale=1"/>
-      {% include 'shared/links.html' %}
-      <link rel="stylesheet" href="/static/css/multi-select-styles.css">
-      <meta http-equiv="Content-Type" content="text/html; Charset=UTF-8"/>
-      <title>Index</title>
-   </head>
-   <body id="page-top">
-      <div id="wrapper">
-         {% include 'shared/left_nav.html' %}
-         <div class="d-flex flex-column" id="content-wrapper">
-            <div id="content" class="main-div">
-               {% include 'shared/top_nav.html' %}
-               <div align="center">
-                  <div>
-                     <label for="" style="font-size:18px">Название:</label>
-                     <input class="col-8" name="article_title" id="article_title" placeholder="Название" type="text"/>
-                     <br>
-                     <p class="error title-error"></p>
-                  </div>
-                  <div>
-                     <label for="" style="font-size:18px">Автор:</label>
-                     <input class="col-8" name="article_author" id="article_author" placeholder="Автор" type="text"/>
-                     <br>
-                     <p class="error author-error"></p>
-                  </div>
-                  <div class="row">
-                     <label for="" class="col-2" style="font-size:18px;  text-align: right;  padding-right: 0px; margin-right: 0px">Категории:</label>
-                     <div class="form_label col-8" style="padding-left: 0px; margin-left: 5px">
-                        <div class="multiselect_block">
-                           <label for="categories_select" class="field_multiselect">Категории</label>
-                           <input id="checkbox-2" class="multiselect_checkbox" type="checkbox">
-                           <label for="checkbox-2" class="multiselect_label"></label>
-                           <select id="categories_select" class="field_select" name="categories" multiple style="@media (min-width: 768px) { height: calc(4 * 38px)}">
-                              {% for category in content.categories %}
-                                 <option id="category-{{category.category_id}}">
-                                    {{category.category_name}}
-                                 </option>
-                              {% endfor %}
-                           </select>
-                        </div>
-                     </div>
-                     <span class="error_text"></span>
-                     <script src="/static/js/multiselect_script.js"></script>
-                     <br>
-                  </div>
-                  <p class="error categories-error"></p>
-                  <div>
-                     <label for="" style="font-size:18px">Ключевые слова:</label>
-                     <input class="col-8" name="article_keywords" id="article_keywords"
-                        placeholder="Ключевые слова (указываются через точку с запятой)"
-                        type="text"/>
-                     <br>
-                     <p class="error keywords-error"></p>
-                  </div>
-                  <div>
-                     <label for="" style="font-size:18px">Дата создания:</label>
-                     <input class="col-8" name="article_date" id="article_date" placeholder="Дата создания"
-                        min="1970-01-01" max="2023-12-31" type="date"/>
-                     <br>
-                     <p class="error date-error"></p>
-                  </div>
-                  <div>
-                     <label for="" style="font-size:18px">Текст:</label>
-                     <input class="col-8" name="article_text" id="article_text" placeholder="Текст" type="text"/>
-                     <br>
-                     <p class="error text-error"></p>
-                  </div>
-                  <div>
-                     <button onclick="send()">Добавить</button>
-                  </div>
-                  <script src="/static/js/form_create_article_script.js"></script>
-                  <form action="/index" method="get">
-                     <button type="submit" class="btn btn-info mt-4">Отмена</button>
-                  </form>
-               </div>
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    {% include 'shared/links.html' %}
+    <link rel="stylesheet" href="/static/css/multi-select-styles.css">
+    <meta http-equiv="Content-Type" content="text/html; Charset=UTF-8"/>
+    <title>Index</title>
+</head>
+<body id="page-top">
+<div id="wrapper">
+    {% include 'shared/left_nav.html' %}
+    <div class="d-flex flex-column" id="content-wrapper">
+        <div id="content" class="main-div">
+            {% include 'shared/top_nav.html' %}
+            <div align="center">
+                <table class="data-form">
+                    <tr>
+                        <td>
+                            <label for="" style="font-size:18px">Название:</label>
+                        </td>
+                        <td>
+                            <input class="col-8" name="article_title" id="article_title" placeholder="Название"
+                                   type="text"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p class="error title-error"></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="" style="font-size:18px">Автор:</label>
+                        </td>
+                        <td>
+                            <input class="col-8" name="article_author" id="article_author" placeholder="Автор"
+                                   type="text"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p class="error author-error"></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="" style="font-size:18px">Категории:</label>
+                        </td>
+                        <td>
+                            <div class="row">
+                                <div class="form_label col-8" style="padding-left: 0px; margin-left: 5px">
+                                    <div class="multiselect_block">
+                                        <label for="categories_select" class="field_multiselect">Категории</label>
+                                        <input id="checkbox-2" class="multiselect_checkbox" type="checkbox">
+                                        <label for="checkbox-2" class="multiselect_label"></label>
+                                        <select id="categories_select" class="field_select" name="categories" multiple
+                                                style="@media (min-width: 768px) { height: calc(4 * 38px)}">
+                                            {% for category in content.categories %}
+                                            <option id="category-{{category.category_id}}">
+                                                {{category.category_name}}
+                                            </option>
+                                            {% endfor %}
+                                        </select>
+                                    </div>
+                                </div>
+                                <span class="error_text"></span>
+                                <script src="/static/js/multiselect_script.js"></script>
+                                <br>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p class="error categories-error"></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="" style="font-size:18px">Ключевые слова:</label>
+                        </td>
+                        <td>
+                            <input class="col-8" name="article_keywords" id="article_keywords"
+                                   placeholder="Ключевые слова (указываются через точку с запятой)"
+                                   type="text"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p class="error keywords-error"></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="" style="font-size:18px">Дата создания:</label>
+                        </td>
+                        <td>
+                            <input class="col-8" name="article_date" id="article_date" placeholder="Дата создания"
+                                   min="1970-01-01" max="2023-12-31" type="date"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p class="error date-error"></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="" style="font-size:18px">Текст:</label>
+                        </td>
+                        <td>
+                            <input class="col-8" name="article_text" id="article_text" placeholder="Текст" type="text"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <p class="error text-error"></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="button-cell" colspan="2">
+                            <button onclick="send()">Добавить</button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="button-cell" colspan="2">
+                            <script src="/static/js/form_create_article_script.js"></script>
+                            <form action="/index" method="get">
+                                <button type="submit" class="btn btn-info mt-4">Отмена</button>
+                            </form>
+                        </td>
+                    </tr>
+                </table>
             </div>
-         </div>
-      </div>
-      {% include 'shared/scripts.html' %}
-   </body>
+        </div>
+    </div>
+</div>
+{% include 'shared/scripts.html' %}
+</body>
 </html>

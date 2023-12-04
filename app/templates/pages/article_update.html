@@ -6,7 +6,7 @@
     {% include 'shared/links.html' %}
     <link rel="stylesheet" href="/static/css/multi-select-styles.css">
     <meta http-equiv="Content-Type" content="text/html; Charset=UTF-8"/>
-    <title>Index</title>
+    <title>{{content.article.article_title}}</title>
 </head>
 <body id="page-top">
 <div id="wrapper">
@@ -84,7 +84,8 @@
                     <button onclick="send()">Изменить</button>
                 </div>
                 <script src="/static/js/form_update_article_script.js"></script>
-                <form action="/index/0" method="get">
+                <form action="/article" method="get">
+                    <input type="hidden" name="article_id" value="{{content.article.article_id}}" />
                     <button type="submit" class="btn btn-info mt-4">Отмена</button>
                 </form>
             </div>

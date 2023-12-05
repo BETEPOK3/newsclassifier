@@ -24,6 +24,11 @@
                        </form>
                        <script>
                            $("#delete-form").submit(function(e) {
+                                result = confirm("Вы уверены, что хотите удалить данную статью7");
+                                if (!result) {
+                                    return;
+                                }
+
                                 $.ajax({
                                   url: '/article/' + $("#article-id").val(),
                                   type: 'DELETE',

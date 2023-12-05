@@ -1,3 +1,21 @@
+window.onload = function() {
+  const hidden_tags = document.getElementById("hidden-tags").innerHTML;
+    console.log("hidden_tags " + hidden_tags)
+    console.log("hidden_tags length " + hidden_tags.length)
+    if (hidden_tags.length > 0) {
+        const tags = document.getElementById('tags');
+        hidden_tags_list = hidden_tags.split(";");
+        console.log("hidden_tags_list " + hidden_tags_list)
+        hidden_tags_list.map(hidden_tag => {
+            const tag = document.createElement('li');
+            tag.innerText = hidden_tag;
+            console.log("innerText " + hidden_tag)
+            tag.innerHTML += '<button class="delete-button">X</button>';
+            tags.appendChild(tag);
+        });
+    }
+};
+
 async function send() {
     let my_article_id = location.href.substring(location.href.lastIndexOf('/') + 1, location.href.length - 1);
     let title = document.getElementById("article_title").value;
@@ -6,12 +24,12 @@ async function send() {
     author = author == "" ? undefined : author;
     let categories_selected_options = document.getElementById("categories_select").selectedOptions;
     let categories_list = new Array();
-    for(let i=0; i<categories_selected_options.length; i++){
+    for (let i = 0; i < categories_selected_options.length; i++) {
         let op = categories_selected_options[i];
         categories_list.push(op.value);
     }
-    const keywords = document.getElementById("article_keywords").value;
-    const keywords_list = keywords.split(";").map((keyword) => keyword.trim());
+    const keywords = document.getElementById("tags").getElementsByTagName("li");
+    const keywords_list = Array.prototype.slice.call(keywords).map((keyword_li_element) => keyword_li_element.innerText.substring(0, keyword_li_element.innerText.length - 1));
     let date = document.getElementById("article_date").value;
     date = date == "" ? null : date;
     let text = document.getElementById("article_text").value;
@@ -19,20 +37,11 @@ async function send() {
 
     let isValid = true;
     let categoriesIsValid = true;
-    let keywordsIsValid = true;
 
     if (categories_list.length == 0) categoriesIsValid = false;
     for (category of categories_list) {
         if (category == "") {
             categoriesIsValid = false;
-        }
-    }
-
-    if (keywords_list.length > 1) {
-        for (keyword of keywords_list) {
-            if (keyword == "") {
-                keywordsIsValid = false;
-            }
         }
     }
 
@@ -63,15 +72,6 @@ async function send() {
     } else {
         document.querySelector(".categories-error").innerHTML = "";
     }
-    if (keywordsIsValid == false) {
-        document.querySelector(".keywords-error").innerHTML = "Ключевые слова должны быть указаны через точку с запятой";
-        document.querySelector(".keywords-error").style.display = "inline";
-        document.querySelector(".keywords-error").style.fontSize = "20px";
-        document.querySelector(".keywords-error").style.color = "red";
-        isValid = false;
-    } else {
-        document.querySelector(".keywords-error").innerHTML = "";
-    }
     if (text == undefined) {
         document.querySelector(".text-error").innerHTML = "Поле 'Текст' не может быть пустым";
         document.querySelector(".text-error").style.display = "inline";
@@ -83,23 +83,19 @@ async function send() {
     }
 
     const title_input = document.querySelector("div input[name='article_title']");
-    title_input.addEventListener('change', function() {
+    title_input.addEventListener('change', function () {
         document.querySelector(".title-error").innerHTML = "";
     });
     const author_input = document.querySelector("div input[name='article_author']");
-    author_input.addEventListener('change', function() {
+    author_input.addEventListener('change', function () {
         document.querySelector(".author-error").innerHTML = "";
     });
     const categories_select = document.getElementById("categories_select");
-    categories_select.addEventListener('change', function() {
+    categories_select.addEventListener('change', function () {
         document.querySelector(".categories-error").innerHTML = "";
     });
-    const keywords_input = document.querySelector("div input[name='article_keywords']");
-    keywords_input.addEventListener('change', function() {
-        document.querySelector(".keywords-error").innerHTML = "";
-    });
     const text_input = document.querySelector("div input[name='article_text']");
-    text_input.addEventListener('change', function() {
+    text_input.addEventListener('change', function () {
         document.querySelector(".text-error").innerHTML = "";
     });
 

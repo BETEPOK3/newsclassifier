@@ -78,6 +78,6 @@ table.data-form input[type=text], table.data-form input[type=date] {
   width: 50em;
 }
 
-div.row select, div.row {
+div.row_selector select, div.row_selector {
   max-width: 50em;
 }

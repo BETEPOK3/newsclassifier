@@ -6,7 +6,7 @@
     {% include 'shared/links.html' %}
     <link rel="stylesheet" href="/static/css/multi-select-styles.css">
     <meta http-equiv="Content-Type" content="text/html; Charset=UTF-8"/>
-    <title>Index</title>
+    <title>{{content.article.article_title}}</title>
 </head>
 <body id="page-top">
 <div id="wrapper">
@@ -49,7 +49,7 @@
                             <label for="" style="font-size:18px">Категории:</label>
                         </td>
                         <td>
-                            <div class="row">
+                            <div class="row row_selector">
                                 <div class="form_label col-8" style="padding-left: 0px; margin-left: 5px">
                                     <div class="multiselect_block">
                                         <label for="categories_select" class="field_multiselect">Категории</label>
@@ -134,7 +134,8 @@
                     <tr>
                         <td class="button-cell" colspan="2">
                             <script src="/static/js/form_update_article_script.js"></script>
-                            <form action="/index/0" method="get">
+                            <form action="/article" method="get">
+                                <input type="hidden" name="article_id" value="{{content.article.article_id}}" />
                                 <button type="submit" class="btn btn-info mt-4">Отмена</button>
                             </form>
                         </td>

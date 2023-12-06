@@ -81,9 +81,12 @@
                             <label for="" style="font-size:18px">Ключевые слова:</label>
                         </td>
                         <td>
-                            <input class="col-8" name="article_keywords" id="article_keywords"
-                                   placeholder="Ключевые слова (указываются через точку с запятой)"
-                                   type="text"/>
+                            <div class="tags-input">
+                                <ul id="tags"></ul>
+                                <input type="text" id="input-tag"
+                                       placeholder="Введите название тега, после завершения ввода нажмите Enter"/>
+                            </div>
+                            <script src="/static/js/keywords_tags.js"></script>
                         </td>
                     </tr>
                     <tr>

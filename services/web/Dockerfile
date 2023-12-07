@@ -4,10 +4,7 @@ ARG path=services/web
 ENV PYTHONDONTWRITEBYTECODE 1
 ENV PYTHONUNBUFFERED 1
 
-WORKDIR /code
-ADD schema ./schema
-
-WORKDIR ./$path
+WORKDIR code/$path
 COPY ./$path/requirements.txt .
 RUN pip install -r requirements.txt
 

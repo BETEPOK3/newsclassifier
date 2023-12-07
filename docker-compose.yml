@@ -25,7 +25,19 @@ services:
     environment:
       - TZ=Europe/Moscow
       - DATABASE_URL=postgresql://POSTGRES_USER:POSTGRES_PASSWORD@db:5432/POSTGRES_DB
-      - PYTHONPATH=/code/services/web
+      - PYTHONPATH=/code
     ports:
       - "8034:8000"
 
+  # Классификатор.
+  classifier:
+    build:
+      context: .
+      dockerfile: services/classifier/Dockerfile
+    command: python main.py
+    volumes:
+      - .:/code
+    environment:
+      - PYTHONPATH=/code
+    ports:
+      - "8035:8001"

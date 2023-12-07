@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-// CategoryPrediction - сущность предсказания категории.
-message CategoryPrediction {
-    // category - название категории.
-    string category = 1;
-    // prediction - шанс принадлежности категории к данной статье.
-    float prediction = 2;
-}

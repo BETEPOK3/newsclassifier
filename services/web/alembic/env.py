@@ -1,7 +1,7 @@
 import os
 import sys
 from logging.config import fileConfig
-from app.models import basic_models
+from services.web.app.models import basic_models
 from alembic import context
 from dotenv import load_dotenv
 from sqlalchemy import engine_from_config

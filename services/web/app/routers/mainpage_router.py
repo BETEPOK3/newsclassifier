@@ -14,6 +14,11 @@ from fastapi.staticfiles import StaticFiles
 from services.web.logger.custom_logging import CustomizeLogger
 from pathlib import Path
 
+import grpc
+from schema123.gen.types_pb2 import CategoryPrediction
+from schema123.gen.categories_pb2 import PredictCategoriesRequest, PredictCategoriesResponse
+from schema123.gen.categories_pb2_grpc import CategoriesStub
+
 templates = Jinja2Templates(directory="app/templates")
 
 
@@ -202,6 +207,30 @@ async def update_article(request: Request, article_id: int, params: dict):
                                           {"request": request, "content": content},
                                           status.HTTP_200_OK)
 
+    except Exception as e:
+        logger.error(e)
+        return get_error_page(request, e)
+
+
+@app.get("/article/predict", response_class=HTMLResponse)
+async def predict_article(request: Request):
+    try:
+        return templates.TemplateResponse("pages/article_predict.html",
+                                          {"request": request},
+                                          status.HTTP_200_OK)
+    except Exception as e:
+        logger.error(e)
+        return get_error_page(request, e)
+
+
+@app.post("/article/predict", response_class=JSONResponse)
+async def predict_article(request: Request, article_text):
+    try:
+        with grpc.insecure_channel("localhost:8035") as channel:
+            stub = CategoriesStub(channel)
+            response: PredictCategoriesResponse = stub.PredictCategories(PredictCategoriesRequest(text=article_text))
+
+        return '\n'.join(["{}: {:.2f}".format(x.category, x.prediction) for x in response.result])
     except Exception as e:
         logger.error(e)
         return get_error_page(request, e)

@@ -124,3 +124,11 @@ div.row_selector select, div.row_selector {
      cursor: pointer;
      margin-left: 5px;
 }
+
+textarea {
+    width:55%;
+    overflow-y: scroll;
+    height:350px;
+    max-height:350px;
+    resize: none; /* Remove this if you want the user to resize the textarea */
+}

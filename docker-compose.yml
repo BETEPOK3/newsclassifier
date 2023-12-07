@@ -1,6 +1,7 @@
 version: "3"
 
 services:
+  # База данных.
   db:
     image: postgres:11
     ports:
@@ -9,8 +10,12 @@ services:
       - POSTGRES_USER=POSTGRES_USER
       - POSTGRES_PASSWORD=POSTGRES_PASSWORD
       - POSTGRES_DB=POSTGRES_DB
+
+  # Веб-приложение.
   web:
-    build: .
+    build:
+      context: .
+      dockerfile: services/web/Dockerfile
     command: bash -c "alembic upgrade head && gunicorn main:app -b 0.0.0.0:8000
       --worker-class=uvicorn.workers.UvicornH11Worker --workers=4"
     volumes:
@@ -20,6 +25,23 @@ services:
     environment:
       - TZ=Europe/Moscow
       - DATABASE_URL=postgresql://POSTGRES_USER:POSTGRES_PASSWORD@db:5432/POSTGRES_DB
+      - PYTHONPATH=/code
     ports:
       - "8034:8000"
 
+  # Классификатор.
+  classifier:
+    build:
+      context: .
+      dockerfile: services/classifier/Dockerfile
+    command: python main.py
+    volumes:
+      - .:/code
+    environment:
+      - PYTHONPATH=/code
+    ports:
+      - "8035:8001"
+
+networks:
+  dev-network:
+    driver: bridge

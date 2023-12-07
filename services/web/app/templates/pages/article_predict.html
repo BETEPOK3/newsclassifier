@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    {% include 'shared/links.html' %}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; Charset=UTF-8"/>
+    <title>Index</title>
+</head>
+<body id="page-top">
+<div id="wrapper">
+    {% include 'shared/left_nav.html' %}
+    <div class="d-flex flex-column" id="content-wrapper">
+        <div id="content" class="main-div">
+            {% include 'shared/top_nav.html' %}
+            <div align="center">
+                <textarea id="text_for_predict"></textarea>
+                <br>
+                <script src="/static/js/prediction_script.js"></script>
+                <button onclick="send()">Предсказать категории</button>
+                <br>
+                <br>
+                <p id="predicted_categories"></p>
+            </div>
+        </div>
+    </div>
+</div>
+{% include 'shared/scripts.html' %}
+</body>
+</html>

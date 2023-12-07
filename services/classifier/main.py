@@ -70,8 +70,9 @@ class Categories(CategoriesServicer):
 
         predict_text = [(CATEGORIES_LIST[i], x[0][1]) for i, x in enumerate(predict)]
         filtered_predict = list(filter(lambda x: (x[1] >= 0.5), predict_text))
+        ordered_predict = list(sorted(filtered_predict, key=lambda x: x[1]))[::-1]
 
-        return PredictCategoriesResponse(result=[CategoryPrediction(category=x[0], prediction=x[1]) for x in filtered_predict])
+        return PredictCategoriesResponse(result=[CategoryPrediction(category=x[0], prediction=x[1]) for x in ordered_predict])
 
     # Векторизация текста.
     def vectorize(self, text):

@@ -7,11 +7,11 @@ from fastapi import FastAPI, Request, status, Form, Body, Depends
 from pydantic import BaseModel, Field
 from typing import List, Optional
 
-from app.CRUD import queries
-from app.CRUD.queries import *
-import database
+from services.web.app.CRUD import queries
+from services.web.app.CRUD.queries import *
+from services.web import database
 from fastapi.staticfiles import StaticFiles
-from logger.custom_logging import CustomizeLogger
+from services.web.logger.custom_logging import CustomizeLogger
 from pathlib import Path
 
 templates = Jinja2Templates(directory="app/templates")

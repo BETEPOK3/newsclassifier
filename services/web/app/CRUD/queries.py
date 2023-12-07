@@ -1,7 +1,7 @@
 from datetime import datetime
 from databases.backends.postgres import Record
-from app.models.basic_models import *
-from database import database
+from services.web.app.models.basic_models import *
+from services.web.database import database
 from sqlalchemy import select, insert, delete, update, or_, and_, func, desc
 import logging
 

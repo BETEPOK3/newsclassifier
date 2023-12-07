@@ -41,3 +41,7 @@ services:
       - PYTHONPATH=/code
     ports:
       - "8035:8001"
+
+networks:
+  dev-network:
+    driver: bridge

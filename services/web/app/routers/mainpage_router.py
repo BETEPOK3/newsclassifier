@@ -224,13 +224,13 @@ async def predict_article(request: Request):
 
 
 @app.post("/article/predict", response_class=JSONResponse)
-async def predict_article(request: Request, article_text):
+async def predict_article(request: Request, article_text: dict):
     try:
-        with grpc.insecure_channel("localhost:8035") as channel:
+        with grpc.insecure_channel("classifier:8035") as channel:
             stub = CategoriesStub(channel)
-            response: PredictCategoriesResponse = stub.PredictCategories(PredictCategoriesRequest(text=article_text))
+            response: PredictCategoriesResponse = stub.PredictCategories(PredictCategoriesRequest(text=article_text["article_text"]))
 
-        return '\n'.join(["{}: {:.2f}".format(x.category, x.prediction) for x in response.result])
+        return {"categories123": '; '.join(["{}: {:.2f}".format(x.category, x.prediction) for x in response.result])}
     except Exception as e:
         logger.error(e)
         return get_error_page(request, e)

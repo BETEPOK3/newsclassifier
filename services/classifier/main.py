@@ -72,6 +72,8 @@ class Categories(CategoriesServicer):
         filtered_predict = list(filter(lambda x: (x[1] >= 0.5), predict_text))
         ordered_predict = list(sorted(filtered_predict, key=lambda x: x[1]))[::-1]
 
+        print(ordered_predict)
+
         return PredictCategoriesResponse(result=[CategoryPrediction(category=x[0], prediction=x[1]) for x in ordered_predict])
 
     # Векторизация текста.

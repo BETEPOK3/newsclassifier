@@ -229,8 +229,16 @@ async def predict_article(request: Request, article_text: dict):
         with grpc.insecure_channel("classifier:8035") as channel:
             stub = CategoriesStub(channel)
             response: PredictCategoriesResponse = stub.PredictCategories(PredictCategoriesRequest(text=article_text["article_text"]))
+            result = list(filter(lambda x: (x.prediction >= 0.5), response.result))
 
-        return {"categories123": '; '.join(["{}: {:.2f}".format(x.category, x.prediction) for x in response.result])}
+            if len(result) == 0:
+                max_prediction = max(response.result, key=lambda x: x.prediction)
+                if max_prediction.prediction < 0.01:
+                    return {"categories123": "Категории для данного текста не были распознаны."}
+                result.append(max_prediction)
+
+            return {"categories123": '\n'.join(["{}: {:.2f}".format(x.category, x.prediction) for x in result])}
+
     except Exception as e:
         logger.error(e)
         return get_error_page(request, e)

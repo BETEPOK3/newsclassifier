@@ -94,7 +94,7 @@ async function send() {
     categories_select.addEventListener('change', function () {
         document.querySelector(".categories-error").innerHTML = "";
     });
-    const text_input = document.querySelector("div input[name='article_text']");
+    const text_input = document.querySelector("div textarea[name='article_text']");
     text_input.addEventListener('change', function () {
         document.querySelector(".text-error").innerHTML = "";
     });

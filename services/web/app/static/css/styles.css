@@ -132,3 +132,13 @@ textarea {
     max-height:350px;
     resize: none; /* Remove this if you want the user to resize the textarea */
 }
+
+.article_textarea {
+    width: 100.00%;
+    height: 30px;
+	transition: 400ms;
+
+	&:focus {
+		height: 200px;
+	}
+}

@@ -24,7 +24,7 @@ templates = Jinja2Templates(directory="app/templates")
 
 class ArticleSchema(BaseModel):
     article_title: str
-    article_author: str = Field(default=None)
+    article_author: str
     article_categories: List[str]
     article_keywords: List[str] = Field(default=[])
     article_date: Optional[date] = None

@@ -311,9 +311,7 @@ async def update_article(article_id: int, params: dict):
                 category = await database.fetch_one(query)
 
                 if category is None:
-                    query = (insert(Category).values(category_name=new_category))
-                    category = await database.fetch_one(query)
-                    result_categories.append(category)
+                    raise Exception("Нельзя добавить новую категорию при обновлении статьи")
 
                 else:
                     result_categories.append(category)

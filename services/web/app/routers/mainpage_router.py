@@ -196,6 +196,8 @@ async def update_article(request: Request, article_id: int, params: dict):
         content = dict()
         if params["article_date"] is None:
             params["article_date"] = datetime.now().date().isoformat()
+        if len(params["article_categories"]) == 0:
+            raise Exception("Количество категорий не может быть равно нулю")
         article = await queries.update_article(article_id=article_id, params=params)
         content["article"] = article
         accept_header = request.headers.get("accept")

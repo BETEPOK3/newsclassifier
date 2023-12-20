@@ -10,7 +10,7 @@ class Article(Base):
     metadata = metadata
     article_id = Column(Integer(), primary_key=True, autoincrement=True)
     article_title = Column(String(), nullable=False)
-    article_author = Column(String())
+    article_author = Column(String(), nullable=False)
     article_keywords = Column(ARRAY(String))
     article_date = Column(Date(), nullable=False)
     article_text = Column(String(), nullable=False)

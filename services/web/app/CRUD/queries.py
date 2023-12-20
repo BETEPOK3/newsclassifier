@@ -197,11 +197,9 @@ async def create_article(article):
             for category in article.article_categories:
                 query = (select(Category.category_id).where(Category.category_name == category))
                 resultCategory = await database.fetch_one(query)
-                if (resultCategory is None):
-                    query = (
-                        insert(Category).values(category_name=category)
-                    )
-                    resultCategory = await database.fetch_one(query)
+                if resultCategory is None:
+                    raise Exception("Нельзя добавить новую категорию при создании статьи.\n"
+                                    "Необходимо указать уже существующую")
                 query = (
                     insert(ArticleCategory).values(article_id=resultArticle.article_id,
                                                    category_id=resultCategory.category_id)
@@ -311,10 +309,8 @@ async def update_article(article_id: int, params: dict):
                 category = await database.fetch_one(query)
 
                 if category is None:
-                    query = (insert(Category).values(category_name=new_category))
-                    category = await database.fetch_one(query)
-                    result_categories.append(category)
-
+                    raise Exception("Нельзя добавить новую категорию при обновлении статьи.\n"
+                                    "Необходимо указать уже существующую")
                 else:
                     result_categories.append(category)
 

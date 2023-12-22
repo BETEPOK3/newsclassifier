@@ -1,5 +1,6 @@
 from datetime import date
 
+from fastapi.exceptions import RequestValidationError
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse, RedirectResponse, JSONResponse
 
@@ -63,6 +64,15 @@ def create_app() -> FastAPI:
 app = create_app()
 
 app.mount("/static", StaticFiles(directory="app/static"), name="static")
+
+
+@app.exception_handler(RequestValidationError)
+async def validation_exception_handler(request, exc):
+    content = dict()
+    content["error"] = exc
+    return templates.TemplateResponse("pages/error_page.html",
+                                      {"request": request, "content": content},
+                                      status_code=status.HTTP_400_BAD_REQUEST)
 
 
 @app.on_event("startup")

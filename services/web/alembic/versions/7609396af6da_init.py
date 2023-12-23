@@ -27,10 +27,9 @@ def upgrade():
         column("category_name", String),
     )
 
-    for category_id, category in enumerate(CATEGORY_LIST, 1):
-        insert_stmt = insert(categories_table).values({"category_id": op.inline_literal(category_id),
-                                                       "category_name": op.inline_literal(category["category_name"])})
-        do_nothing_stmt = insert_stmt.on_conflict_do_nothing(index_elements=["category_id"])
+    for category in CATEGORY_LIST:
+        insert_stmt = insert(categories_table).values({"category_name": op.inline_literal(category["category_name"])})
+        do_nothing_stmt = insert_stmt.on_conflict_do_nothing(index_elements=["category_name"])
         op.execute(do_nothing_stmt)
     # ### end Alembic commands ###
 

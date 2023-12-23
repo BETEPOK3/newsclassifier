@@ -11,7 +11,6 @@ from sqlalchemy import table, column, Integer, String
 from sqlalchemy.dialects.postgresql import insert
 from services.web.settings import CATEGORY_LIST
 
-
 # revision identifiers, used by Alembic.
 revision = '7609396af6da'
 down_revision = '52f68d935fbc'
@@ -28,14 +27,10 @@ def upgrade():
         column("category_name", String),
     )
 
-    op.execute("DELETE FROM category")
-
-    for category_id, category in enumerate(CATEGORY_LIST):
-
+    for category_id, category in enumerate(CATEGORY_LIST, 1):
         insert_stmt = insert(categories_table).values({"category_id": op.inline_literal(category_id),
                                                        "category_name": op.inline_literal(category["category_name"])})
         do_nothing_stmt = insert_stmt.on_conflict_do_nothing(index_elements=["category_id"])
-
         op.execute(do_nothing_stmt)
     # ### end Alembic commands ###
 

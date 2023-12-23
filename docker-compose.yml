@@ -28,6 +28,7 @@ services:
       - PYTHONPATH=/code
     ports:
       - "8034:8000"
+    restart: always
 
   # Классификатор.
   classifier:

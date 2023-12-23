@@ -16,7 +16,11 @@
                     {% include 'shared/top_nav.html' %}
                     <div style="padding: 10px">
                         <div style="padding: 10px">
-                           <form class="row" action="/index" method="get">
+                            <div>
+                                <label>Общее количество статей: {{ content.articles_count }}</label>
+                            </div>
+                            <br>
+                            <form class="row" action="/index" method="get">
                                <div class="col-3">
                                    <label>Категория: </label>
                                    <select id="category_select" name="category">

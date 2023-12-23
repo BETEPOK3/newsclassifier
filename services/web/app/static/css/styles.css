@@ -135,10 +135,6 @@ textarea {
 
 .article_textarea {
     width: 100.00%;
-    height: 30px;
-	transition: 400ms;
+    height: 800px;
 
-	&:focus {
-		height: 200px;
-	}
 }

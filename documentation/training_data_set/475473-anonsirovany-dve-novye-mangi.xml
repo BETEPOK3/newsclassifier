@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсированы две новые манги]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-08-29T19:43:23+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[39-м выпуске журнала  Shonen Jump(Weekly)  сообщили, что в сентябре в журнале запустят две новые манги. Мангака  Тадаити Накама  запустит первую мангу под названием  «Dai Tōkyō Oni Yome Den»  ( «The Legend of the Greater Tokyo Demon Bride» ) в следующем выпуске журнала, который выйдет  5-го сентября . У манги будет цветная первая страница, а первая глава будет состоять из 52-х страниц. Боевая комедия, которая расскажет о пареньке живущем в Токио и которому свезло получить каким-то образом непростую невесту, а именно демонессу. А вот  Watanabe  запустит вторую мангу под названием  «Ginka to Ryūna»  в 41-м выпуске журнала, который выйдет  12-го сентября .  Превью первой манги по средине на изображении, а второй внизу слева.]]></text>
+</doc>

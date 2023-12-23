@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсированы новые аниме-проекты во вселенной «Gundam»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[gundam]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-09-15T10:44:07+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Состоялся  анонс  новых аниме-проектов во вселенной « Gundam ». Так например: Компания "Sunrise", впервые за 7 лет  анонсировала сериал  под названием «Gundam: The Witch From Mercury» ( Гандам: Ведьма с Меркурия ), а также полнометражное аниме «Gundam: Cucuruz Doan's Island» ( Гандам: Остров Дюана Кукуруза ). Стоит отметить, что фильм, о котором идёт речь, создадут на основе 15 эпизода оригинального "Гандама". Расскажет он о пилоте Зеона, что отказался выполнять приказы и бросил свой пост. Также с анонсом были показаны постеры и названа команда что будут работать над фильмом. Однако информацию о новом сериале расскажут позже. Также отмечу, что к новому сериалу вернётся старая гвардия дизайнеров. Самое интересное ожидает весной, так как там запустят компиляцию « Железнокровных Сирот ». Состоять она будет из 9 частей, куда также обещают поместить подкат к какому-то новому проекту, который позиционируется как спин-офф.  Показы новых проектов стартуют в 2022 году. СОСТАВ СОЗДАТЕЛЕЙ (ФИЛЬМ) Производство: Sunrise  &  Kusanagi Studio Режиссёр:  Yoshikazu Yasuhiko Ёсикадзу Ясухико  ( автор оригинала ) Сценарий:  Yoshikazu Yasuhiko Ёсикадзу Ясухико   &   Hajime Kamoshida Хадзимэ Камосида  ( автор ранобэ   S.B.Y.W.B.G.S.N.Y.W.M ) Художник  Michinori Chiba  (персонажи)  &   Naohiro Washio   &   Kanetake Ebikawa   &   Ippei Gyoubu   &   Kenji Teraoka   Композитор:  Masaru Yokoyama]]></text>
+</doc>

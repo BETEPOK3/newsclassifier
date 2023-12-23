@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Microsoft добавит в Windows 11 дизайн интерфейса в стиле Windows 7]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Владимир Фетисов]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[microsoft]]></keyword>
+    <keyword type="str"><![CDATA[операционные системы]]></keyword>
+    <keyword type="str"><![CDATA[windows 11]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+    <keyword type="str"><![CDATA[обновление]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-14T17:50:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[С появлением Windows 8 и её преемницы в лице Windows 10 разработчики из Microsoft отказались от использования закруглённых углов окон и Aero Glass в оформлении пользовательского интерфейса. Однако с выходом Windows 11 в операционной системе вновь появились закруглённые углы, и похоже, что в скором времени пользователи смогут задействовать дизайн интерфейса, который напоминает эффект Aero из Windows 7.Прозрачные панели заголовков для приложений Windows, как предполагается, появятся после запуска крупного обновления Windows 11 (22H2) или Sun Valley 2, которое должно стать общедоступным во второй половине этого года. Похоже, что Microsoft намерена изменить внешний вид окон верхнего уровня, а также всплывающих окон приложений, добавив эффект прозрачности, напоминающий то, что в прошлом мы видели в Windows 7.По данным источника, в ближайшие несколько недель в тестовых сборках Windows 11 появится больше нововведений. Это касается возможности создания папок в меню «Пуск», поддержки размещения ярлыков приложений и других элементов на панели задач, улучшения инструмента «Быстрые действия» и многого другого. На данном этапе нововведения будут доступны участникам программы предварительной оценки Windows, а позднее в этом году многие из них станут общедоступными вместе с выходом обновления Sun Valley 2.]]></text>
+</doc>

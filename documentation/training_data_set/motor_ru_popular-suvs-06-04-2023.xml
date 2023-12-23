@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Самые популярные кроссоверы России: Lada Niva уступила «китайцу»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Мария Руцкая]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[кроссоверы]]></keyword>
+    <keyword type="str"><![CDATA[внедорожники]]></keyword>
+    <keyword type="str"><![CDATA[россия]]></keyword>
+    <keyword type="str"><![CDATA[продажи]]></keyword>
+    <keyword type="str"><![CDATA[авторынок]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2023-04-05T18:00:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Самым продаваемым кроссовером России стал Chery Tiggo 7 Pro. Об этом говорит статистика Ассоциации европейского бизнеса (АЕБ), опирающаяся на количество отгруженных производителями автомобилей в марте 2023 года. Китайскому вседорожнику уступила даже отечественная Lada Niva: Tiggo 7 Pro разошелся в количестве 6874 штук, а обе «Нивы» — Legend и Travel — купили 6424 раза. Примечательно, что замыкает тройку лидеров тоже Chery с Tiggo 4 Pro, результат которого — 6018 проданных единиц.
+За Tiggo 4 Pro следует Omoda C5 — пока единственная модель дочки Chery на российском рынке. Ее купили 5605 россиян. Пятое место досталось Haval Jolion, заметно отстающий с 3373 реализованными экземплярами. Далее расположились Chery Tiggo 8 Pro (3223 штуки), Geely Coolray (2422 шт.), Chery Tiggo 4 (2374 шт.), Exeed LX (2152 шт.) и TXL (1931 шт.). Таким образом, помимо «Нивы» в топ-10 числятся только китайские автомобили.
+С 11 по 15 строчки заняли Geely Altas Pro (1591 шт.), Exeed VX (1522 шт.), Haval F7x (1360 шт.), Haval F7 (1009 шт.) и Geely Tugella (973 шт.). На 16 месте оказался еще один отечественный внедорожник — УАЗ «Патриот», на котором в марте остановили выбор 943 покупателя.
+Далее идут еще две китайские модели, Haval Dargo (758 шт.) и Changan CS35 Plus (673 шт.), а за ними следует единственная иномарка не из КНР — Kia Sportage, нашедший только 446 покупателей. Завершают рейтинг Chery Tiggo 8 (438 шт.), FAW Bestune T77 (299 шт.), Changan UNI-V (297 шт.) и Haval H9 (280 шт.).
+Авторынок России за первый месяц весны сократился на 11,4 процента до 69 913 машин. В общем зачете по данным «Автостата», который учитывает регистрации в ГИБДД, Lada лидирует: она продала 24 252 автомобиля. За ней следуют Chery, Haval, Geely и премиальный Exeed.]]></text>
+</doc>

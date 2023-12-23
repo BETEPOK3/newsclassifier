@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Audio-Technica выпустила беспроводные наушники ATH-CKS50TW с шумоподавлением за $220]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[audio-technica]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[tws]]></keyword>
+    <keyword type="str"><![CDATA[беспроводные наушники]]></keyword>
+    <keyword type="str"><![CDATA[наушники]]></keyword>
+    <keyword type="str"><![CDATA[аудио/видео периферия, наушники, веб-камеры]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-16T09:38:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Audio-Technica анонсировала полностью беспроводные наушники погружного типа ATH-CKS50TW с большим временем автономной работы. Новинка уже доступна для заказа по цене около $220.Вкладыши оборудованы 9-мм динамическими излучателями с диапазоном воспроизводимых частот от 5 Гц до 20 кГц. Разработчик обещает высококачественное звучание с насыщенными басами.Реализована система активного шумоподавления. При этом функция Hear-Through позволяет слышать некоторые внешние звуки, например, объявления на вокзале или в аэропорту.Заявленное время автономной работы от батареи достигает 20 часов (15 часов с шумоподавлением). Зарядный футляр позволяет довести это значение до 50 часов. Функция быстрой зарядки даёт возможность за 10 минут накопить энергию для 90 минут прослушивания аудиоматериалов.Наушники оснащены контроллером Bluetooth 5.2. Говорится о сертификации Sony 360 Reality Audio и поддержке aptX. Модули защищены от влаги и пыли по стандарту IPX4. Новинка доступна в белом, черном и синем вариантах исполнения. ]]></text>
+</doc>

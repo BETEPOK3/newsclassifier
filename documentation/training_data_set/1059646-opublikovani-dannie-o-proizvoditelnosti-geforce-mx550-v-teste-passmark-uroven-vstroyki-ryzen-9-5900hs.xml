@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Мобильная GeForce MX550 оказалась примерно равна встроенной графике Ryzen 9 5900HS в тесте PassMark]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[geforce mx550]]></keyword>
+    <keyword type="str"><![CDATA[видеокарта]]></keyword>
+    <keyword type="str"><![CDATA[ноутбуки]]></keyword>
+    <keyword type="str"><![CDATA[мобильные]]></keyword>
+    <keyword type="str"><![CDATA[видеокарты]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-07T15:25:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В базе данных синтетического теста PassMark появилась информация о производительности новой мобильной видеокарты начального уровня GeForce MX550. Данный ускоритель NVIDIA представила ещё в декабре, пообещав его появление в составе ноутбуков весной этого года. Никакой информации об уровне его производительности компания не предоставила.Запись о тестировании обнаружил интернет-детектив Tum_Apisak. К настоящему моменту известные далеко не все технические характеристики GeForce MX550. Карта построена на графическом чипе TU117 поколения Turing и оснащается 2 Гбайт видеопамяти стандарта GDDR6. Поддержки технологий NVIDIA DLSS и RTX ускоритель не имеет, однако предлагает поддержку технологий Resizable BAR и Optimus (не последней версии). Карта будет использоваться в тонких и компактных лэптопах и не претендует на звание игровой.По данным PassMark, производительность GeForce MX550 находятся на уровне встроенной графики Vega 8 мобильного процессора AMD Ryzen 9 5900HS. Если последняя набирает в указанном графическом тесте 4968 очков, то GeForce MX550 демонстрирует результат всего на 0,9 % больше — 5014 очков.На фоне мобильной Radeon RX 5500M карта GeForce MX550 набирает на 26 % больше баллов. Однако в сравнении с мобильной же GeForce GTX 1650 заметно проигрывает.]]></text>
+</doc>

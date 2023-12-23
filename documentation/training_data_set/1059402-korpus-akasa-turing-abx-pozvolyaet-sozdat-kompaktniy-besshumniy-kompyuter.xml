@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Представлен корпус Akasa Turing ABX для создания компактного и бесшумного компьютера]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[akasa]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[корпуса, настольные компьютеры]]></keyword>
+    <keyword type="str"><![CDATA[корпус]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-03T13:22:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Akasa анонсировала корпус Turing ABX, предназначенный для построения настольных компьютеров небольшого форм-фактора и домашних мультимедийных центров.Новинка предполагает безвентиляторную конструкцию. Ребристая алюминиевая поверхность выполняет функции радиатора для отвода тепла. Компьютер на базе Turing ABX сможет похвастаться нулевым уровнем шума при работе.Допускается установка материнских плат формата 4" × 4". В частности, говорится о совместимости с устройствами серии Gigabyte Ryzen BRIX: GB-BRR3-4300, GB-BRR5-4500, GB-BRR7-4700 и GB-BRR7-4800.Внутри корпуса есть место для одного накопителя типоразмера 2,5 дюйма — жёсткого диска или твердотельного модуля. Общие габариты решения составляют 118,5 × 95 × 248,2 мм.Во фронтальной части предусмотрены прорези для трёх портов USB 3.2 Gen 1 Type-A, разъёма USB 3.2 Gen 2 Type-C и 3,5-мм аудиогнезда. На тыльную панель могут быть выведены два порта USB 3.2 Gen 1 Type-A, гнездо RJ45 для сетевого кабеля, порт USB 3.2 Gen Type-C, интерфейсы HDMI и Mini DisplayPort. Кроме того, есть гнёзда для подключения антенны Wi-Fi. ]]></text>
+</doc>

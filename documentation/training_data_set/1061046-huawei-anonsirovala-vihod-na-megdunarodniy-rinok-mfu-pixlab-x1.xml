@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Huawei анонсировала выход на международный рынок МФУ PixLab X1]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Владимир Фетисов]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[принтеры, принт-серверы, сканеры, копиры, мфу]]></keyword>
+    <keyword type="str"><![CDATA[мфу]]></keyword>
+    <keyword type="str"><![CDATA[pixlab x1]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[huawei]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-28T00:34:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Huawei анонсировала для международного рынка своё первое многофункциональное устройство PixLab X1, которое объединяет в себе возможности монохромного лазерного принтера, сканера и копира. Ранее это устройство было представлено на китайском рынке. Сроки появления МФУ в розничной продаже за пределами Китая озвучены не были.МФУ имеет современный внешний облик и полностью лишено физических кнопок. Для взаимодействия с устройством предусмотрена сенсорная панель. Поддерживаются разные варианты взаимодействия PixLab X1 с другими устройствами, для подключения которых можно использовать интерфейс USB или же беспроводные адаптеры Wi-Fi, Bluetooth или NFC.Устройство функционирует под управлением HarmonyOS, универсальной программной платформы Huawei, которая используется в устройствах разных категорий. PixLab X1 может печатать до 28 страниц в минуту, а также поддерживает функцию автоматической двухсторонней печати. Одного картриджа с тонером достаточно для того, чтобы напечатать 1500 страниц.Вместе с этим Huawei также анонсировала международную версию устройства категории 2-в-1 MateBook E на базе Intel Tiger Lake, моноблок MateStation X на базе Ryzen 5 5600H, ноутбук MateBook X Pro на базе Intel Tiger Lake-U и планшетный компьютер MatePad Paper с дисплеем E-Ink.]]></text>
+</doc>

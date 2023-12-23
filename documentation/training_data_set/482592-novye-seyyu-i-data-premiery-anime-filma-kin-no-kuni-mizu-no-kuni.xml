@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новые сейю и дата премьеры аниме-фильма «Kin no Kuni Mizu no Kuni»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[дата_показа]]></keyword>
+    <keyword type="str"><![CDATA[сейю]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-10-17T11:18:36+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Официальный сайт аниме-фильма  «Страна золота, страна воды»  представил новых актеров и огласил дату премьеры.  Премьера фильма в Японии состоится 27-го января 2023 года. Действие разворачивается в двух соперничающих королевствах, которые долгое время находились в плохих отношениях. По воле случая принцесса Сара и молодой человек из другого королевства Наранбаяр должны притворяться парой, чтобы оба королевства не оказались ввергнуты в войну. Тем не менее, они обнаруживают, что постепенно влюбляются друг в друга. СЕЙЮ И ПЕРСОНАЖИ Hiroshi Kamiya Хироси Камия  в роли Saladin Miyuki Sawashiro Миюки Савасиро  в роли Lailala Subaru Kimura Субару Кимура  в роли Jauhara Keiko Toda Кэйко Тода  в роли Leopoldine Chafurin  в роли Piripappa Masaki Terasoma Масаки Тэрасома  в роли Oduni Banjou Ginga Бандзё Гинга  в роли Rastavan III]]></text>
+</doc>

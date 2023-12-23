@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новый трейлер и подробности фильма "Aya to Majo"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Трейлер]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-12-23T09:02:44+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Команда полнометражного аниме " Aya to Majo ", представили новый трейлер. Премьера полнометражного фильма от студии  Ghibli  под названием  Aya to Majo , состоится 30 декабря 2020 на NHK General. Фильм снимается, по мотивам сказки "Earwig and the Witch", за авторством  Дианы Уинн Джонс . Это новая работа  Gorou Miyazaki , которая полностью выполнена в 3DCG. При этом продолжительность фильма составит 82 минуты. СОСТАВ СОЗДАТЕЛЕЙ Производство: Studio Ghibli Режиссёр:  Горо Миядзаки Сценарист:  Хаяо Миядзаки Продюсер:  Тосио Судзуки Эрвиг сирота - ее оставили на пороге детского дома. Однажды ведьмы, замаскированные под приемных родителей, забирают девочку в свой таинственный и удивительный дом. Но Эрвиг там очень нравится!]]></text>
+</doc>

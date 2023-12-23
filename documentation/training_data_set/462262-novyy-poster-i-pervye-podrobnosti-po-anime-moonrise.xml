@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новый постер и первые подробности по аниме «Moonrise»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[постер]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-06-09T11:15:04+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Netflix  представили новый постер, режиссера и автора предстоящего проекта  « Moonrise »  во время прямой трансляции  Geeked Week  в среду.  СОСТАВ СОЗДАТЕЛЕЙ Производство:  Wit Studio Автор оригинала:  Tow Ubukata То Убуката Режиссер:  Masashi Koizuka Масаси Коидзука «Восход луны» расскажет о жизни двух мужчин, Джека и Ала, о том как они сталкиваются с различными трудностями в огромном мире космического пространства. Убуката  (автор оригинала  Mardock Scramble Мэрдок Скрэмбл , сценарист проектов:  Koukaku Kidoutai Arise: Ghost in the Shell - Border:3 Ghost Tears Призрак в доспехах: Вознесение — Призрачные слёзы ,  Heroic Age Эпоха героев ,  Soukyuu no Fafner: Dead Aggressor Небесный Фафнир: Мёртвый агрессор ) бесплатно выпустил роман-пролог на английском языке на  Amazon в декабре 2018 года , также названный  Moonrise .   Matt Treyvaud  перевел роман.]]></text>
+</doc>

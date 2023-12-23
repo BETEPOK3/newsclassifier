@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Ролик-концепт полнометражного аниме Rakka-sei от художника loundraw и Flat Studio]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[люблю супер сонико]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+    <category type="str"><![CDATA[Фильмы]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[фильм]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-01-13T12:30:58+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Песню «slumber» из ролика исполнил японский певец  Eve . Сюжет  расскажет о старшекласснике Каэдэ из Токио, которого мучают таинственные сны. Там в мире снов, где обитают монстры, парень встречает свое другое я. И по мере того, как этот духовный мир разрушается, Каэдэ раскрывает секрет своих эмоций. Loundraw  — художник и основатель Flat Studio — еще подростком дебютировал в качестве иллюстратора. К настоящему времени он уже успел поработать над дизайном персонажей аниме  Tsuki ga Kirei Прекрасна, как Луна   (Какая красивая луна!) , поучаствовать в создании манги  Aozora to Kumorizora Небо голубое и небо облачное   (Небо голубое и небо облачное) , выступить иллюстратором романа Kimi no Suizou wo Tabetai (Я хочу съесть твою поджелудочную), а также создать дизайн персонажей для его  аниме-адаптации .]]></text>
+</doc>

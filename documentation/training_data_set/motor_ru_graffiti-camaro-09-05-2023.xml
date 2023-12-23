@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Граффити-художник сделал особый Chevrolet Camaro для Японии]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Александр Пономарёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[chevrolet]]></keyword>
+    <keyword type="str"><![CDATA[camaro]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2023-05-08T10:30:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Популярный художник сделал эксклюзивный спорткар Chevrolet Camaro для Японии. В 2024 году привычный Camaro прекратит своё существование — модель снимут с производства из-за низких продаж, чтобы впоследствии возродить в новом виде. На лето 2023 года запланирован выход прощальной модификации Collector's Edition, но пока создан лимитированный Chevrolet Camaro Vivid Orange Edition — особый вариант для рынка Японии, который выпустят лимитированной партией в 20 автомобилей. За основу взяли Camaro SS с 447-сильным 6,2-литровым V8.
+Технически спецверсия ничем не отличается от прочих вариантов автомобиля, предложенных в Стране восходящего солнца. Все особенности сводятся к особому декору кузова, который ранее не был доступен на японском рынке.
+Совместно с граффити-художником Number-D был создан автомобиль в цвете Vivid Orange, дополненным серебристой продольной полосой на кузове. На контрасте с ярким экстерьером салон выполнен в угольно-чёрном цвете и отличается спортивными креслами Recaro.
+Всего будет сделано лишь 20 экземпляров Chevrolet Camaro Vivid Orange Edition, публичный дебют которого состоится в рамках Chevrolet Fan Day на гоночной трассе Fuji Speedway. Всем прошедшим тест-драйв новинки обещают некие памятные подарки от художника Number-D.]]></text>
+</doc>

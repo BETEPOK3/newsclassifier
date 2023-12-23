@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[В этом году выставка Tokyo Game Show впервые с начала коронавируса пройдёт в обычном формате]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Рудь]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[tgs 2022]]></keyword>
+    <keyword type="str"><![CDATA[tokyo game show 2022]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-28T11:14:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Портал Gematsu со ссылкой на организаторов Tokyo Game Show 2022 из Computer Entertainment Supplier's Association (CESA) сообщил подробности предстоящей японской игровой выставки.Как стало известно, Tokyo Game Show 2022 (TGS 2022) пройдёт с 15 по 19 сентября текущего года в выставочном комплексе Makuhari Messe на территории города Тиба неподалёку от Токио.Напомним, с 2020 года в связи с пандемией COVID-19 выставки Tokyo Game Show проходили либо в онлайновом, либо в смешанном форматах. TGS 2022 же станет возвращением к традиционной модели проведения.Главная тема TGS 2022 — «Ничто не остановит игры». В CESA объясняют, что на протяжении двух последних лет весёлые мероприятия исчезали из нашей повседневной жизни, но игры продолжали радовать геймеров. И так будет всегда.Как и в прошлые годы, Tokyo Game Show 2022 предложит официальные трансляции событий (стримы будут вестись на японском с английским переводом), включая презентации крупных компаний.]]></text>
+</doc>

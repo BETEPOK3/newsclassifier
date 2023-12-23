@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Biostar представила плату B660MX-E Pro для процессоров Intel Alder Lake в формате Micro-ATX]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[материнские платы]]></keyword>
+    <keyword type="str"><![CDATA[biostar]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[материнская плата]]></keyword>
+    <keyword type="str"><![CDATA[плата]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-16T10:43:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Biostar анонсировала материнскую плату B660MX-E Pro, подходящую для создания компактных настольных компьютеров и домашних мультимедийных центров.Новинка имеет формат Micro-ATX. Применён набор системной логики Intel B660: поддерживаются процессоры Core двенадцатого поколения в исполнении LGA 1700 (семейство Alder Lake). Для модулей оперативной памяти DDR4-4600 доступны четыре слота: в системе можно задействовать до 128 Гбайт ОЗУ.В оснащение входят четыре порта SATA 3.0, разъём M.2 для твердотельного модуля с интерфейсом PCIe, гигабитный сетевой контроллер Intel I219V и звуковой кодек формата 7.1. Может быть установлен графический ускоритель с интерфейсом PCIe 4.0 х16. Кроме того, есть ещё один слот PCIe х16 и разъём PCIe х1.Интерфейсный блок объединяет гнездо PS/2 для мыши/клавиатуры, разъёмы HDMI, D-Sub и DVI для подключения мониторов, два порта USB 2.0 и четыре порта USB 3.2 (Gen1), гнездо для сетевого кабеля и аудиогнёзда. Плюс к этому предусмотрены разъёмы для антенны Wi-Fi.Сроки начала продаж и ориентировочная цена материнской платы Biostar B660MX-E Pro пока не раскрываются. ]]></text>
+</doc>

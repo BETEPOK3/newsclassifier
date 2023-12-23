@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[В Nintendo Switch может появиться поддержка технологии масштабирования AMD FidelityFX Super Resolution]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[amd fidelityfx]]></keyword>
+    <keyword type="str"><![CDATA[nintendo switch]]></keyword>
+    <keyword type="str"><![CDATA[игровые консоли]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-16T21:53:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Технология масштабирования изображения AMD FidelityFX Super Resolution доберётся до игровой приставки Nintendo Switch. Это следует из утечки пользовательского соглашения, в котором указывается, что готовящийся к выходу сборник спортивных игр Nintendo Switch Sports имеет лицензию AMD FidelityFX и FidelityFX Super Resolution.Подробностей о том, как будет реализована поддержка AMD FSR на системе Nintendo, в документе не содержится. Можно предположить, что технология будет активироваться при подключении к телевизору, когда консоли нужно выводить изображение в Full HD вместо разрешения HD в портативном режиме.В Nintendo Switch используется процессор NVIDIA Tegra X1 с графической подсистемой на основе 256 ядер CUDA архитектуры Maxwell. Поддержки технологии DLSS (альтернативы FSR) у данной платформы нет. AMD FSR при этом может поддерживаться без проблем, поскольку это открытый стандарт, не имеющий каких-то особых требований к аппаратному обеспечению.Напомним, что поддержка технологии AMD FSR ранее появилась в портативном компьютере Steam Deck. Технология встроена в саму операционную систему SteamOS, на базе которой работает гаджет. Иными словами, AMD FSR можно будет активировать для всех игр из библиотеки Steam, совместимых с игровым устройством от Valve.]]></text>
+</doc>

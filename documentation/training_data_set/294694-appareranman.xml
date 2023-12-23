@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Appareranman]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Xarlamov]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2019-10-11T18:53:26+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Студия  P.A.WORKS  анонсировала аниме  Appareranman , по оригинальному сценарию. Режиссёр и автор сценария:   Masakazu Hashimoto Дизайн персонажей:    Ahndongshik ,  Yurie Ootou Музыка:   Evan Call  Самый конец 19-го века. Двое японцев,  Soran Appare  - гениальный, но крайне необщительный инженер и  Isshiki Kosame  - проницательный, но трусоватый самурай, вследствие несчастного случая попадают в САСШ. Единственный найденный ими способ вернуться на родину - получить главный приз в проходящих в это время американских трансконтинентальных гонках Лос Анджелес - Нью-Йорк. На собственной паровой машине, по пустыне, соревнуясь с сумасшедшими соперниками и попутно защищаясь от преступников и представителей дикой флоры и фауны. Офсайт]]></text>
+</doc>

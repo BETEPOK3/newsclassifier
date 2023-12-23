@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Трейлер и подробности по проекту «Modern Love»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[лайв-экшн]]></keyword>
+    <keyword type="str"><![CDATA[эпизод]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-09-21T10:39:01+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания  Amazon Prime Video Japan  опубликовала новый трейлер проекта  «Modern Love: Tokyo ~Samazama na Ai no Katachi~»  ( «Various Forms of Love» ). В видео показаны отрывки из каждого эпизода и конечно оригинального аниме эпизода  Наоко Ямады  под названием  «Kare ga Kanaderu Futari no Shirabe»  (тайм код 0:43), также представлен саундтрек проекта.   Премьера состоится на их платформе 21-го октября 2022 года. Современная любовь — это антология историй, действие которых происходит в Токио на тему современной любви. Тот кто отвечает за лайв-экшн серии, хочет показать сегодняшнюю Японии, связавшись с зрителем через универсальную тему любви. СЕЙЮ Haru Kuroki Хару Куроки Masataka Kubota САУНДТРЕК Awesome City Club  исполняют  «Setting Sail ~Modern Love Tokyo~»]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Блич получает официальную RPG игру для смартфонов с использованием GPS.]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Jeka^]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true"/>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2017-07-28T17:16:25+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В этом году в 35-ом выпуске журнала  Weekly Shonen Jump Shueisha , объявили что следующая игра будет вдохновленная мангой  Tite Kubo   Bleach . В этом году игра под названием "Bleach: Paradise Lost" будет запущена для iOS и Android-устройств. Игра будет бесплатной. В игре игроки станут Шинигами, чтобы защитить реальный мир от пустых. Игра будет использовать данные местоположения GPS, чтобы игроки могли защищать свои окрестности от пустых. Режим сюжета воссоздает знаменитые сцены, созданные в городе Каракура и Обществе душ. Сражения будут проходить пошагово, а игроки смогут использовать свои собственные уникальные колоды и персональные навыки в битве. Напомним, в Японии летом 2018 года ожидается лайв-экшен по манге  Тайто Кубо .]]></text>
+</doc>

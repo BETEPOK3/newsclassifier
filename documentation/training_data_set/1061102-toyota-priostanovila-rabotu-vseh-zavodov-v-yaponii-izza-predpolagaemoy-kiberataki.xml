@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Toyota приостановит с 1 марта работу всех заводов в Японии из-за предполагаемой кибератаки]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[автомобили, мотоциклы, транспортные средства]]></keyword>
+    <keyword type="str"><![CDATA[toyota]]></keyword>
+    <keyword type="str"><![CDATA[автомобиль]]></keyword>
+    <keyword type="str"><![CDATA[кибератака]]></keyword>
+    <keyword type="str"><![CDATA[производство]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-28T23:23:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Автопроизводитель Toyota Motor приостановит с 1 марта всё производство машин в Японии после того, как один из её поставщиков сообщил о предполагаемой кибератаке на свою внутреннюю сеть, пишет издание Reuters. В Toyota сообщили, что компания приостановит работу всех своих 14 заводов в стране. Представители японского бренда пояснили, что пока не ясно, сколько времени предприятия будут оставаться закрыты. В компании все ещё анализирует проблему.По данным Reuters, с проблемой безопасности столкнулся поставщик электронных компонентов. В Kojima Industries Corp, которая занимается поставками указанных частей японскому автопроизводителю, сообщили, что столкнулись «с чем-то вроде кибератаки».В самой Toyota также добавили, что из-за приостановки производства компания может недопоставить на рынок 13 000 автомобилей. ]]></text>
+</doc>

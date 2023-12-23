@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Аниме-сериал Гумма получит 2-й сезон]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Pё Хазуки]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[продолжение]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-04-17T11:37:05+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Произведственная аниме-компания Ascension объявила в субботу, 16 апреля 2022 года, что она начала производство второго сезона  Gunma-chan Гумма , основанного на персонаже-талисмане префектуры Гумма  Gunma-chan Гумма . Компания Ascension также набирает персонал для производства сериала. Премьера  Gunma-chan Гумма  состоялась на каналах Tokyo MX, TV Kanagawa, TV Saitama, Chiba TV, Gunma TV, Tochigi TV, Sun TV и KBS Kyoto в октябре 2021 года. Префектура Гумма ранее заявляла, что планирует транслировать аниме-сериал онлайн по всему миру с японским дубляжом и английскими, французскими и китайскими субтитрами после окончания показа сериала. В первом сезоне было 39 серий, каждая из которых длилась семь минут, и он транслировался по телевидению по 3 коротких серии в одном эпизоде (аналогично тому, как транслируется  Sazae-san Садзаэ-сан ). Последняя серия первого сезона вышла в эфир 26 декабря 2021 года. Mitsuru Hongou Мицуру Хонго  ( Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Власть книжного червя ,  Seihou Bukyou Outlaw Star Звёздные рыцари со звезды изгоев ,  World Trigger Импульс мира ,  Deltora Quest В поисках Дельторы ) снял и написал сценарий  Gunma-chan Гумма  на студии Ascension ( Kyouryuu Shoujo Gauko Девочка-динозавр Гауко ).  Karin Takahashi Карин Такахаси  озвучила главного персонажа  Gunma-chan Гумма .  Aya Uchida Ая Утида  и  Yui Ogura Юи Огура  озвучили друзей Гуммы, Аому и Мими. Нынешний талисман впервые появился под именем «Юма-тян» на спортивных соревнованиях в 1994 году и стал талисманом Гумма-тян префектуры Гумма в 2008 году. Он заменил собой более ранний дизайн талисамана Гумма-тяна, который префектура использовала с 1980-х годов.]]></text>
+</doc>

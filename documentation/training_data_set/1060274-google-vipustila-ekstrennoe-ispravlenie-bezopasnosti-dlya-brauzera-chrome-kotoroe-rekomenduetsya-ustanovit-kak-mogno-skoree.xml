@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Google выпустила экстренное исправление для Chrome, в котором закрыла ряд серьёзных уязвимостей]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[google]]></keyword>
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[браузеры]]></keyword>
+    <keyword type="str"><![CDATA[моды, патчи, дополнения]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[вирусы, трояны, уязвимости в по, вопросы безопасности]]></keyword>
+    <keyword type="str"><![CDATA[chrome]]></keyword>
+    <keyword type="str"><![CDATA[браузер]]></keyword>
+    <keyword type="str"><![CDATA[исправление]]></keyword>
+    <keyword type="str"><![CDATA[программное обеспечение]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-16T00:06:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Google выпустила новую версию браузера Chrome под номером 98.0.4758.102 для Windows, Linux и macOS и рекомендует установить это обновление как можно скорее, поскольку оно содержит несколько важных исправлений безопасности. В том числе экстренный патч, закрывающий уязвимость нулевого дня, которая, по словам Google, активно используется хакерами.Эта уязвимость обозначена как CVE-2022-0609. В данный момент о ней очень мало информации, поскольку Google часто не раскрывает подробности о существующих уязвимостях, пока большая часть пользователей не установит обновление. Эксплойт Use After Free in Animation был обнаружен членами группы по анализу угроз Google.В общей сложности последнее обновление включает 11 исправлений безопасности, более половины из которых имеют высокий уровень важности. Часть исправляемых обновлением ошибок была обнаружена сторонними исследователями безопасности, которые получили за свою работу $29 тысяч.Часть из закрытых уязвимостей относится к типу Use After Free, которые используют обращения к памяти после её освобождения. Они затрагивают файловый менеджер, API интернет-магазина Chrome, работу GPU и анимации.]]></text>
+</doc>

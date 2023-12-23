@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Представлен бесшумный ASIC для добычи Ethereum — 65 Мхеш/с при потреблении всего 30 Вт за $1449]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Павел Котов]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[майнинг]]></keyword>
+    <keyword type="str"><![CDATA[цифровые финансы]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[ethereum]]></keyword>
+    <keyword type="str"><![CDATA[asic]]></keyword>
+    <keyword type="str"><![CDATA[soc и микросхемы-контроллеры]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-16T14:18:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В продажу поступило устройство Jasminer X4 Etchash Brick, предназначенное для майнинга Ethereum и ему подобных криптовалют. В отличие от большинства ASIC-систем данное устройство лишено шумной активной системы охлаждения, а исполненный по технологии 3D TSV чип Jasminer X4 от Sunlune Technology потребляет всего до 30 Вт, сочетая в себе процессор и память.При габаритах чипа около 45 × 45 мм площадь кристалла составляет 678 мм². На борту присутствуют 5 Гбайт памяти с пропускной способностью до 1 Тбайт/с. Производительность Jasminer X4 Etchash Brick составляет до 65 Мхеш/с при работе с Ethereum, а потребление энергии не превышает 23 Вт. Видеокарта Radeon RX 6800 выдаёт примерно столько же, но при 170 Вт.Не исключено, что уже через четыре месяца в сети Ethereum будет запущена модель Proof-of-Stake, при которой майнинг станет невыгодным, но у Jasminer X4 на этот случай есть несколько запасных вариантов. Поддерживая популярные алгоритмы Ethash и Etchash, устройство может работать с широким ассортиментом криптовалют: Ethereum Classic (ETC), Ethereum (ETH), Metaverse ETP (ETP), Expanse (EXP), Pirl (PIRL), DubaiCoin (DBIX), RESOC, EtherGem (EGEM), Ellaism (ELLA), Atheios (ATH), MixMarvel (MIX), Callisto (CLO), Mother of All Chains (MOAC), Ether-1 (ETHO) и EthereumX (ETX). Самым прибыльным и надёжным из списка сейчас остаётся Ethereum. На сайте дистрибьютора Jingle Mining новое устройство продаётся по цене $1449. При теперешних курсах криптовалют оно будет приносить около $2,95 в день, то есть окупится более чем 500 дней — но при условии, что событие The Merge в сети Ethereum, с которым ожидается переход от модели Proof-of-Work (PoW) к Proof-of-Stake (PoS), будет в очередной раз отложено. В противном случае срок окупаемости рискует вырасти вдвое.При габаритах 257 × 100 × 200 мм устройство весит 4,8 кг — такими можно легко заставить всю комнату, тем более, что для работы ему достаточно только Ethernet-подключения и розетки. ASIC отличается и привлекательным дизайном в духе Sony PlayStation 2.]]></text>
+</doc>

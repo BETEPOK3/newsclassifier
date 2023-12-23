@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Qualcomm и Ferrari объявили о стратегическом партнёрстве]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[комментарии последних событий]]></keyword>
+    <keyword type="str"><![CDATA[сотрудничество]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[ferrari]]></keyword>
+    <keyword type="str"><![CDATA[автомобили, мотоциклы, транспортные средства]]></keyword>
+    <keyword type="str"><![CDATA[рынок it]]></keyword>
+    <keyword type="str"><![CDATA[автомобиль]]></keyword>
+    <keyword type="str"><![CDATA[qualcomm]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-08T20:47:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Qualcomm и Ferrari объявили сегодня о стратегическом партнёрстве, направленном на повышение технологичности автомобилей итальянского бренда. В рамках сотрудничества Qualcomm будет поставлять Ferrari системные решения для будущих потребительских автомобилей. Кроме того, чипмейкер станет премиальным партнёром команды «Формулы-1» Scuderia Ferrari и Ferrari eSports.Сотрудничество позволит Ferrari «внедрить последние достижения цифровых автомобильных технологий» в свои машины для дорог общего пользования. Цифровая платформа Snapdragon, которая будет применяться в новых авто итальянской компании, включает в себя цифровую кабину, средства безопасности и ряд других возможностей, полагающихся на масштабируемые облачные платформы. В рамках соглашения Qualcomm и её партнёры будут участвовать в проектировании и разработке цифровых кабин для авто совместно с Ferrari.Qualcomm начнёт выступать в качестве премиум-партнёра команды «Формулы-1» Scuderia Ferrari с начала гоночного сезона 2022 года. Киберспортивная деятельность итальянской команды также будет важной частью официального сотрудничества.]]></text>
+</doc>

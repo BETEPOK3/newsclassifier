@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[MediaTek выпустит 6-нм платформу для доступных смартфонов]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[helio]]></keyword>
+    <keyword type="str"><![CDATA[рынок it]]></keyword>
+    <keyword type="str"><![CDATA[утечка]]></keyword>
+    <keyword type="str"><![CDATA[процессор]]></keyword>
+    <keyword type="str"><![CDATA[soc и микросхемы-контроллеры]]></keyword>
+    <keyword type="str"><![CDATA[разработка и производство электроники]]></keyword>
+    <keyword type="str"><![CDATA[mediatek]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[процессоры]]></keyword>
+    <keyword type="str"><![CDATA[чипсет]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-17T23:20:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[MediaTek работает над новой однокристальной платформой MediaTek Helio G-серии, которая принесёт передовые технологии в относительно доступные смартфоны, сообщает GSMArena со ссылкой на надёжные источники. Сообщается, что в разработке находится чип, основанный на 6-нм техпроцессе, который придёт на смену 12-нм Helio G96.Чип, о котором идёт речь, упоминается в документах MediaTek как Next-G, поскольку он ещё не получил официального маркетингового названия. Он использует ту же конфигурацию центрального процессора, что и Helio G96, совмещая два производительных ядра Cortex-A76 и шесть энергоэффективных Cortex-A55. Графика также останется прежней — Mali G57 MC2.Новая платформа сможет работать с камерами разрешением до 108-Мп, записывать видео в разрешении до 2К со скоростью 30 кадров в секунду и обеспечит поддержку дисплеев Full HD+ с частотой обновления до 120 Гц. Чип не будет предлагать возможность работы в сетях 5G, что, вероятно, что и сделает его решением для доступных смартфонов.Сообщается, что новинка дебютирует во второй половине года, а первой компанией, которая построит смартфон на её основе, станет китайская Doogee.]]></text>
+</doc>

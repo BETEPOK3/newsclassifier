@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсировано аниме «Unnamed Memory»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[адаптация]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-12-13T14:20:32+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Ранобэ  «Безымянная память»  получит аниме-адаптацию.  Трансляция запланирована на 2023 год. СОСТАВ СОЗДАТЕЛЕЙ Производство:  ENGI Режиссёр:  Kazuya Miura Кадзуя Миура Сценарист:  Deko Akao (Хитоми Миэно) Дизайнер персонажей:  Chika Noumi Тика Ноуми Композитор:  Akito Matsuda Акито Мацуда История о юном рыцаре Оскаре, который с младенчества был проклят бесплодием. В двадцать лет он обратился к величайшей ведьме Тинаше, чтобы она помогла ему разбить чары. Та взялась сопровождать его и обещала помочь в течение года, но при одном условии: когда-нибудь парню придётся её убить. Вот только узы крепнут... Сможет ли он выполнить договорённость? СЭЙЮ И ПЕРСОНАЖИ Yoshiki Nakajima Ёсики Накадзима  в роли  Оскара Atsumi Tanezaki Ацуми Танэдзаки  в роли  Тинаши]]></text>
+</doc>

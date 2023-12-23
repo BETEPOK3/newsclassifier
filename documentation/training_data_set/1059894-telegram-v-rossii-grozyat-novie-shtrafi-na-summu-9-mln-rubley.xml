@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Telegram в России грозят новые штрафы на сумму 9 млн рублей]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[мессенджер]]></keyword>
+    <keyword type="str"><![CDATA[im-клиенты]]></keyword>
+    <keyword type="str"><![CDATA[российский интернет]]></keyword>
+    <keyword type="str"><![CDATA[штраф]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[запрещённая информация]]></keyword>
+    <keyword type="str"><![CDATA[telegram]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-10T11:37:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В России против мессенджера Telegram заведены два новых исполнительных производства о принудительном взыскании штрафов в связи с нежеланием удалить запрещённую информацию.Как сообщает «Интерфакс», ссылаясь на банк данных Федеральной службы судебных приставов (ФССП), дела возбуждены 8 февраля на основании решения Таганского суда Москвы.В рамках исполнительных производств Telegram грозят штрафы на сумму 3 и 6 млн рублей. Таким образом, общая сумма взысканий составит 9 млн рублей.Нужно отметить, что в течение последних месяцев Telegram погасил в России ряд штрафов за неудаление запрещённого контента. Так, в декабре прошлого года мессенджер выплатил в общей сложности 15 млн рублей в рамках шести производств. А недавно Telegram закрыл ещё три штрафа на сумму 11 млн рублей.Отмечается также, что на основании вступивших в силу и переданных в ФССП постановлений судов сейчас ведутся дела о взыскании штрафов с социальной сети Twitter: общая сумма составляет 34,7 млн рублей. ]]></text>
+</doc>

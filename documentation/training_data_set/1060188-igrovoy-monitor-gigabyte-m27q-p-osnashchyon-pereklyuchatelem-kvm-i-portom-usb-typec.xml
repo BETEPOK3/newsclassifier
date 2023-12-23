@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Игровой монитор Gigabyte M27Q P оснащён переключателем KVM и портом USB Type-C]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[gigabyte]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[монитор]]></keyword>
+    <keyword type="str"><![CDATA[мониторы, проекторы, тв-тюнеры, телевизоры]]></keyword>
+    <keyword type="str"><![CDATA[игровой монитор]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-15T07:46:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Gigabyte анонсировала игровой монитор M27Q P на матрице SS IPS с диагональю 27 дюймов. Панель имеет формат QHD — 2560 × 1440 пикселей при соотношении сторон 16:9.Новинка получила сертификацию VESA Display HDR400: яркость достигает 400 нит. Контрастность равна 1000:1; углы обзора по горизонтали и вертикали — до 178 градусов. Обеспечивается 98-процентный охват цветового пространства DCI-P3.Монитор имеет время отклика GTG в 1 мс. Частота обновления составляет 165 Гц в обычном режиме и 170 Гц в режиме ОС. Технология AMD FreeSync Premium повышает плавность игрового процесса, а функция Black Equalizer отвечает за улучшение видимости тёмных участков изображения.Встроенный KVM-переключатель позволяет использовать одну клавиатуру и мышь для двух разных компьютеров. Есть порт USB Type-C с возможностью подачи до 18 Вт энергии на подсоединённое устройство. В оснащение также входят интерфейсы HDMI 2.0 (×2) и Displayport 1.4, концентратор USB 3.0 и гнездо для наушников. Монитор оборудован стереофоническими динамиками мощностью 3 Вт каждый.Упомянут набор игровых инструментов — перекрестие прицела, таймер и секундомер. Подставка допускает регулировку угла наклона экрана и высоты. ]]></text>
+</doc>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Xiaomi представила мини-ПК на процессоре Intel Jasper Lake по цене от $170]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[компьютер]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[barebone-системы, неттопы,  all-in-one pc,  медиацентры]]></keyword>
+    <keyword type="str"><![CDATA[xiaomi]]></keyword>
+    <keyword type="str"><![CDATA[неттоп]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-14T15:17:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Xiaomi анонсировала компактный десктоп под названием Ningmei Mini Computer CR80: устройство подходит для решения повседневных задач дома или в офисе.Новинка заключена в корпус с габаритами примерно 120 × 120 × 25 мм, а вес составляет 250 г. В основу положена платформа Intel Jasper Lake с четырёхъядерным процессором Celeron N5105. Базовая тактовая частота составляет 2,0 ГГц, максимальная частота — 2,9 ГГц. Имеется встроенный контроллер Intel UHD Graphics.Компьютер может нести на борту 6 или 8 Гбайт оперативной памяти DDR4. Вместимость твердотельного накопителя М.2 в первом случае составляет 128 Гбайт, во втором — 256 Гбайт.В оснащение входит адаптер беспроводной связи Wi-Fi с возможностью работы в частотных диапазонах 2,4 и 5 ГГц: применён чип Intel Dual Band Wireless-AC 7265. Кроме того, есть Bluetooth-контроллер.Среди доступных интерфейсов упомянуты порты USB 3.0 Type-A и коннектор D-Sub для вывода изображения. Корпус имеет перфорацию, способствующую циркуляции воздушных потоков.Младшая версия Xiaomi Ningmei Mini Computer CR80 оценена в 170 долларов США, старшая — в 200 долларов. ]]></text>
+</doc>

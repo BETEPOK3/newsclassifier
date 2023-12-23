@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Франшиза «JoJo's Bizarre Adventure» празднует своё тридцатипятилетие выпуском нового журнала ]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Twinqssly]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[юбилей]]></keyword>
+    <keyword type="str"><![CDATA[журнал]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-12-27T19:10:01+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Выпуск журнала приурочен к празднованию тридцатипятилетие франшизы « JoJo's Bizarre Adventure », который выйдет 19 марта 2022 года.  По мере продолжения широкого спектра проектов, таких как аниме-адаптация « Stone Ocean », дорама по манге « Kishibe Rohan wa Ugokanai » и новые истории со спин-оффами, «JOJO magazine» будет издаваться с целым томом, посвящённым франшизе о невероятных приключениях ДжоДжо!  Хирохико Араки  сам нарисовал иллюстрацию для обложки и новый 71-страничный ваншот «Kishibe Rohan wa Ugokanai», который выйдет в первом номере журнала, который также включает новый рассказ, специальную статью о последнем сезоне аниме и интервью с  Иссэй Такахаси , актёром, играющим  Рохана  в дораме.  Журнал посвящён всем любителям и поклонникам франшизы « JoJo ». Цена одного тома составит 1650 иен в формате B5, мягкая обложка. Также планируется цифровая версия журнала.]]></text>
+</doc>

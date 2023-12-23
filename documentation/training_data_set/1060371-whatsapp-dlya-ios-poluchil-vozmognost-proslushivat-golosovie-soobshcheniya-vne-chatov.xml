@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[WhatsApp для iOS теперь позволяет прослушивать голосовые сообщения вне чатов]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[мессенджер]]></keyword>
+    <keyword type="str"><![CDATA[iphone]]></keyword>
+    <keyword type="str"><![CDATA[приложения для ios]]></keyword>
+    <keyword type="str"><![CDATA[обновление]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[по для мобильных устройств]]></keyword>
+    <keyword type="str"><![CDATA[ios]]></keyword>
+    <keyword type="str"><![CDATA[программное обеспечение]]></keyword>
+    <keyword type="str"><![CDATA[whatsapp]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-16T23:21:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Около месяца назад WhatsApp начал тестировать возможность прослушивания голосовых сообщений вне чата, в котором они были получены. Сегодня мессенджер предоставил доступ к этой функции всем пользователям WhatsApp для iOS.Версия приложения 22.4.75 позволяет воспроизводить голосовые сообщения и аудиофайлы вне чатов. При этом пользователь может начать слушать аудиосообщение, переключиться на другой чат и вести беседу в нём, не прерывая прослушивание звукового файла. При этом мини-плеер будет закреплён в верхней части экрана. Он позволит приостановить, возобновить или завершить прослушивание сообщения.Ещё одним нововведением WhatsApp 22.4.75 стала функция отображения фото профиля отправителя сообщения в уведомлении на заблокированном экране iOS. Эта возможность уже давно доступна пользователям таких приложений, как Twitter и SlackWhatsApp 22.4.75 уже доступен в App Store для всех пользователей. Отмечается, что описанные возможности могут быть доступны не сразу, поскольку WhatsApp развёртывает их постепенно.]]></text>
+</doc>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Для запуска Android-приложений в Windows 11 потребуется компьютер с SSD]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Руслан Авдеев]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[android]]></keyword>
+    <keyword type="str"><![CDATA[приложения для android]]></keyword>
+    <keyword type="str"><![CDATA[операционные системы]]></keyword>
+    <keyword type="str"><![CDATA[windows 11]]></keyword>
+    <keyword type="str"><![CDATA[windows]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-18T15:05:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Недавно компания Microsoft выпустила первое крупное обновление для Windows 11, которое привнесло в операционную систему поддержку маркетплейса Amazon Appstore и возможность запускать приложения для ОС Android. Сейчас стали известны технические требования к ПК, предъявляемые данной функцией.Сервис Amazon Appstore доступен в магазине Microsoft Store, пока — только владельцам Windows 11 из США. Компания опубликовала системные требования для запуска Android-приложений: пользователям рекомендуется иметь компьютер с SSD-накопителем.В список минимальных требований входят: наличие SSD, оперативная память не менее 8 Гбайт (рекомендуется 16 Гбайт), процессоры Intel Core i3 восьмого поколения, AMD Ryzen 3000, Qualcomm Snapdragon 8c или выше. Допустимая архитектура процессоров — x64 или Arm64. Для запуска Android-приложений необходима аппаратная поддержка средств виртуализации.Недавно собственный инструмент для запуска Android-программ на ПК начала тестировать Google. Решение Play Games for PC проходит стадию бета-тестирования и позволяет запускать на компьютере игры для Android.]]></text>
+</doc>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Бюджетный четырёхъядерный Athlon Gold PRO 4150GE оказался быстрее Core i3-9100F в тесте CPU-Z]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[zen 2]]></keyword>
+    <keyword type="str"><![CDATA[процессоры]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[amd athlon]]></keyword>
+    <keyword type="str"><![CDATA[процессор]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-01T17:07:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В базе данных синтетического бенчмарка CPU-Z были обнаружены данные о производительности ещё не вышедшего четырёхъядерного процессора Athlon Gold Pro 4150GE от компании AMD. По имеющимся данным, чип относится к серии Renoir и оснащён встроенным графическим ядром Radeon Vega с 320 потоковыми процессорами.Athlon Gold PRO 4150GE набрал 460 баллов в однопоточном тесте CPU-Z и 1785 баллов в многопоточном. На сравнительной таблице видно, что по показателю многопоточной производительности он оказался быстрее четырёхъядерного Intel Core i3-9100F. А по показателю одноядерной производительности процессор AMD достиг уровня Core i5-10400F, что является весьма неплохим результатом для бюджетного чипа.Процессор Athlon Gold PRO 4150GE основан на 7-нм техпроцессе и использует архитектуру Zen 2. Диапазон рабочих частот чипа составляет от 3,3 до 3,8 ГГц. Его встроенное графическое ядро Vega 5 работает на частоте 1500 МГц. Сам процессор поддерживает стандарт оперативной памяти DDR4-3200.Пару недель назад инсайдер @ExecuFix делился фотографиями Athlon Gold PRO 4150GE.Как и остальные модели гибридных процессоров AMD Pro новинка Athlon Gold Pro 4150GE получит поддержку технологий, призванных повысить безопасность, а также расширить функции управления для самых ресурсоёмких корпоративных вычислительных сред.]]></text>
+</doc>

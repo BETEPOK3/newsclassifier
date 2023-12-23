@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Смартфонам Google Pixel 7 приписывают использование чипа Tensor второго поколения]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[google]]></keyword>
+    <keyword type="str"><![CDATA[pixel]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[смартфон]]></keyword>
+    <keyword type="str"><![CDATA[мобильные телефоны, смартфоны, сотовая связь, коммуникаторы, кпк]]></keyword>
+    <keyword type="str"><![CDATA[слухи]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-19T11:42:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Ресурс 9to5Google обнародовал предварительную информацию о смартфонах Pixel 7 и Pixel 7 Pro, которые компания Google, как ожидается, анонсирует осенью нынешнего года.Упоминания проектируемых новинок обнаружились в коде операционной системы Android 13 Developer Preview. Аппарат Pixel 7 фигурирует под именем Cheetah, модификация Pixel 7 Pro — Panther.По предварительным данным, в основу смартфонов ляжет фирменная платформа Google Tensor второго поколения. Речь идёт о процессоре с индексом GS201. Кроме того, говорится о применении сотового модема Samsung Exynos 5300, характеристики которого пока не раскрываются.Аппараты придут на смену моделям Pixel 6 и Pixel 6 Pro (на изображениях), которые дебютировали в октябре прошлого года. Эти устройства несут на борту чип Google Tensor GS101 и модем Exynos 5123.По всей видимости, презентация Pixel 7 и Pixel 7 Pro также состоится в октябре. Вероятно, в ближайшие месяцы станут публиковаться технические подробности смартфонов. ]]></text>
+</doc>

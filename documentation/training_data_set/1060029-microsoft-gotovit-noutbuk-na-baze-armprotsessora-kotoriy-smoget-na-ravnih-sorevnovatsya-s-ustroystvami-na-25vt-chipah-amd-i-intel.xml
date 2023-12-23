@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Microsoft готовит ноутбук Surface на чипе Qualcomm, который сможет потягаться с мобильными процессорами AMD и Intel]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[microsoft]]></keyword>
+    <keyword type="str"><![CDATA[рынок it]]></keyword>
+    <keyword type="str"><![CDATA[разгон и замеры производительности системы]]></keyword>
+    <keyword type="str"><![CDATA[тестирование]]></keyword>
+    <keyword type="str"><![CDATA[qualcomm snapdragon]]></keyword>
+    <keyword type="str"><![CDATA[утечка]]></keyword>
+    <keyword type="str"><![CDATA[soc и микросхемы-контроллеры]]></keyword>
+    <keyword type="str"><![CDATA[ноутбуки и нетбуки]]></keyword>
+    <keyword type="str"><![CDATA[разработка и производство электроники]]></keyword>
+    <keyword type="str"><![CDATA[процессоры]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[производительность]]></keyword>
+    <keyword type="str"><![CDATA[планшетные компьютеры и смартбуки]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-11T18:08:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Microsoft готовит ноутбук Surface на процессоре Qualcomm. Это следует из свежей записи в базе данных бенчмарка Geekbench, которая раскрывает интересные подробности о грядущем устройстве Microsoft. Протестированный ноутбук основан на флагманском Arm-чипсете Qualcomm для компьютеров — Snapdragon 8cx Gen 3 и может похвастаться высокой своего класса производительностью.Название модели в базе данных Geekbench соответствует форме кодовых названий предыдущих Surface. Сочетание EV2, как сообщает ресурс GSMArena, предполагает, что продукт вошёл в стадию тестирования оборудования (EVT). На этом этапе производитель убеждается, что всё аппаратное обеспечение функционирует правильно, прежде чем перейти к финальным этапам работы над дизайном и внутренней компоновкой устройства.Однако самое интересное то, что результаты тестирования устройства в Geekbench показывают, что Snapdragon 8cx Gen 3 может на равных конкурировать с 25-Вт процессорами Intel и AMD, когда речь идёт о многоядерной производительности. По этому параметру чип превосходит даже Intel Core i7-1165G7. Однако одноядерная производительность всё же выше у процессоров Intel и AMD.К сожалению, пока неясно, какое именно устройство тестирует Microsoft. До момента его выходя на рынок, вероятно, пройдёт немало времени, поскольку устройство только недавно вошло в стадию тестирования оборудования.]]></text>
+</doc>

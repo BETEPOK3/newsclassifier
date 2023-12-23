@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Бренд Land Rover прекратит свое существование]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Анастасия Мельник]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[land rover]]></keyword>
+    <keyword type="str"><![CDATA[jaguar land rover]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2023-04-19T20:44:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Jaguar Land Rover сменит название и откажется от одного из брендов. Это станет часть масштабного преобразования производителя. Так, британцы откажутся от бренда Land Rover, а наименование Jaguar Land Rover, появившееся после покупки марок концерном Tata, преобразуется в JLR, без расшифровки. Также планируется отказаться от длинных названий моделей, например, Land Rover Range Rover Velar, а марку Jaguar переориентировать на производство люксовых электромобилей.
+Вместо Land Rover британский концерн будет выпускать автомобили под самостоятельными брендами Range Rover, Defender и Discovery. Флагманами останутся недавно сменившие поколения вседорожники Range Rover и Range Rover Sport, а до конца года в гамму будет добавлена электрическая версия Рэйндж Ровера.
+Марка Jaguar после смены концепции займется производством электромобилей. В 2024 году появится спортивный электрический седан с запасом хода 700 километров, построенный на новейшей архитектуре Jaguar Electrified Architecture (JEA). Всего у бренда будет три новых модели, которые появятся в течение пяти лет.
+Кроссоверы Range Rover Evoque, Range Rover Velar и Discovery Sport, а также пока секретный преемник Defender перейдут на новую полностью электрическую архитектуру. Сам концерн Jaguar Land Rover после смены названия на JLR перейдет на систему прямых продаж. Клиенты смогут заказывать автомобили напрямую с завода. При этом автосалоны будут лишь демонстрировать модельный ряд и выдавать машины покупателям.
+В конце января концерн Jaguar Land Rover приостановил сервисную поддержку для автовладельцев из России. Теперь клиенты британской компании не смогут воспользоваться официальным сервисом.]]></text>
+</doc>

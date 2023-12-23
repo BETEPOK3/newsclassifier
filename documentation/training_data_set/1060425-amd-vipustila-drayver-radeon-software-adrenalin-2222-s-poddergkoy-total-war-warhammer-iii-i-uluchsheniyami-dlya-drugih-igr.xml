@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[AMD выпустила драйвер Radeon Software Adrenalin 22.2.2 с поддержкой Total War: Warhammer III и улучшениями для других игр]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Владимир Фетисов]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[драйвер]]></keyword>
+    <keyword type="str"><![CDATA[драйверы]]></keyword>
+    <keyword type="str"><![CDATA[программное обеспечение]]></keyword>
+    <keyword type="str"><![CDATA[видеокарта]]></keyword>
+    <keyword type="str"><![CDATA[amd]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-17T13:54:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания AMD выпустила графический драйвер Radeon Software Adrenalin 22.2.2. В этой версии реализована поддержка Total War: Warhammer III, вышедшей 17 февраля, а также оптимизирована работа технологии AMD Smart Access Memory для ряда игр.Технология AMD Smart Access Memory позволяет центральному процессору сразу использовать весь массив имеющейся в наличии видеопамяти, а не обращаться только к её части объёмом не более 256 Мбайт. Такой подход позволяет добиться значительного прироста производительности в некоторых современных играх.В Radeon Software Adrenalin 22.2.2 технология AMD Smart Access Memory оптимизирована для следующих игр:Также AMD озвучила список известных проблем, которые будут устранены в будущих выпусках драйвера Adrenalin:]]></text>
+</doc>

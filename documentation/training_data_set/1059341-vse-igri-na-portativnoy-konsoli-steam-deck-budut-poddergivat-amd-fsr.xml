@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Valve наделит консоль Steam Deck поддержкой масштабирования AMD FSR абсолютно во всех играх]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[консоли]]></keyword>
+    <keyword type="str"><![CDATA[steam deck]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[valve]]></keyword>
+    <keyword type="str"><![CDATA[игры]]></keyword>
+    <keyword type="str"><![CDATA[программное обеспечение]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-02T20:19:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Valve сообщила, что после запуска консоли Steam Deck в конце этого месяца она получит обновление ПО, которое обеспечит поддержку AMD FidelityFX Super Resolution (FSR) абсолютно во всех играх из библиотеки Steam. Это означает, что технологию можно будет использовать даже там, где она поддерживалась изначально.Как сообщает Valve, на момент запуска Steam Deck технология FSR будет доступна только в играх, которые уже её поддерживают. Однако уже после вывода консоли на рынок будет развёрнуто обновление прошивки, которое реализует поддержку FSR во всех играх.«FSR уже доступна для некоторых приложений, которые её поддерживают. Игры, которые уже включают FSR, будут работать как есть, но поддержка FSR для всех продуктов будет включена в будущий выпуск ОС. Как только это произойдет, игры потенциально смогут использовать FSR, даже если они не поддерживают её изначально», — сообщила Valve. Точные сроки, правда, не называются.AMD FidelityFX Super Resolution — это технология, позволяющая повысить частоту кадров почти без ущерба для качества графики. Она визуализирует кадры с более низким разрешением, а затем масштабирует их с помощью специального алгоритма, что позволяет затрачивать меньше вычислительной мощности.]]></text>
+</doc>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Дорожная карта разработки Star Citizen стала менее информативной, чтобы фанаты не расстраивались из-за переносов]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Рудь]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[cloud imperium games]]></keyword>
+    <keyword type="str"><![CDATA[star citizen]]></keyword>
+    <keyword type="str"><![CDATA[симулятор]]></keyword>
+    <keyword type="str"><![CDATA[космический симулятор]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-04T09:44:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Студия Cloud Imperium Games объявила о решении внести изменения в отображение планов команды на публичной дорожной карте разработки краудфандингового космического симулятора Star Citizen.Напомним, обновлённая в конце 2020 года дорожная карта Star Citizen разделена на две части: Progress Tracker позволяет следить, чем занимаются команды, а в Release View указываются примерные сроки выхода тех или иных нововведений.До недавнего времени в Release View можно было посмотреть планы разработчиков на год вперёд. В студии признали, что это было ошибкой — такой подход привлекал чересчур много внимания к функциям, у которых был большой шанс переноса.Как отмечают в Cloud Imperium Games, ситуация усложняется тем, что «многие из наиболее увлечённых» фанатов смотрели на сроки выхода в Release View как на обещания и расстраивались, когда очередное нововведение задерживалось.Чтобы избавить таких поклонников от лишних поводов для разочарования, Cloud Imperium Games решила ограничить Release View отображением планов не далее одного квартала вперёд.Тех, кто интересуется процессом разработки Star Citizen, Cloud Imperium Games призывает обратить внимание на Progress Tracker — именно этот раздел дорожной карты студия считает основным.Star Citizen до сих пор не имеет сроков релиза. В ноябре 2021-го сумма пожертвований на разработку перевалила за $400 млн. Одиночный режим игры — Squadron 42 — не выйдет ещё год-два.]]></text>
+</doc>

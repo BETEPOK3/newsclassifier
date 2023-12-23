@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Глава игрового направления Microsoft получит награду за вклад в индустрию]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Рудь]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[microsoft]]></keyword>
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[фил спенсер]]></keyword>
+    <keyword type="str"><![CDATA[xbox]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-04T09:30:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Академия интерактивных искусств и наук (Academy of Interactive Arts & Sciences, AIAS) объявила лауреата премии AIAS Lifetime Achievement Award, которую выдают за вклад в игровую индустрию.Как стало известно, престижную награду в рамках предстоящей церемонии D.I.C.E. Awards получит Фил Спенсер (Phil Spencer) — с недавних пор генеральный директор игрового направления Microsoft.В AIAS отмечают, что более чем за 30 лет в Microsoft Спенсер провёл компанию через несколько консольных запусков и поглощений, повлиял на ряд игровых франшиз и возглавил продвижение Game Pass, кроссплатформенного и облачного гейминга.В прошлом награду за достижения в игровой индустрии получали, например, создатель PlayStation Кен Кутараги (Ken Kutaragi) и бывший президент компании Nintendo Сатору Ивата (Satoru Iwata).Церемония награждения D.I.C.E. Awards пройдёт утром 25 февраля в Лас-Вегасе в рамках мероприятия D.I.C.E. Summit. По количеству номинаций в лидеры выбились Ratchet & Clank: Rift Apart и Deathloop.]]></text>
+</doc>

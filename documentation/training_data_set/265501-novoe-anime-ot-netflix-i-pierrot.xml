@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новое аниме от Netflix и Pierrot]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[S_K]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true"/>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2018-11-02T12:19:59+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В эту пятницу студия  Pierrot  анонсировала оригинальное аниме  «Hero Mask»  эксклюзивно для сервиса Netflix, премьера ожидается 3 декабря. Сэйю и авторы:    Yasuyuki Kase - James Blood   Yuki Kaida - Sarah Sinclair   Junpei Morita - Lennox Gallagher   Кентаро Такано- Edmond Chandler   Kouki Uchiyama - Harry Creighton   Юзуру Аояма- Geffrey Connor   Takayuki Sugou - Steven Martland   Yutaka Nakano - Richard Burner   Haruka Shibuya - Monica Campbell   Tomoyuki Shimura - Fred Faraday   Yuichi Karasuma - Grimm   Yukiyo Fujii - Eve Palmer  Tomoko Miyadera - Anna Winehouse Хироясу Аоки ( X-Men ,  Нет игры — нет жизни ,  Hunter × Hunter  ) режиссер и главный сценарист студии Pierrot, Такахиса Катагири ( Blood-C ,  FLCL Progressive Фури-кури 2 ) дизайн персонажей, а Хисаки Като пишет музыку, и также другие сотрудники: Katsuya Yamada - фоны Юки Сонода,  Takashi Nakamura - арт директора  Кейсукэ Янаги- редактор Souichirou Kubo - звукорежиссер Производство: HeroMask.Project www.animenewsnetwork.com]]></text>
+</doc>

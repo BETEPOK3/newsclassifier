@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Подробности по аниме «Boku no Hero Academia (ONA)»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[дата_показа]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-06-04T18:43:21+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Официальный сайт аниме   Boku no Hero Academia Моя геройская академия  в пятницу раскрыл детали и  постер второго эпизода, который будет показан и транслироваться в  спецвыпуске  этим летом.  Трансляция начнется 16 июня и закончится 19 июня 2022 года. Второй эпизод называется  «Warae! Jigoku no Yō ni» . Эпизод будет происходить во время арки  «Internship at Endeavor's Agency»   из  пятого сезона .  Во время зимних каникул в юрисдикции Endeavour происходит вандализм, а конкретно рисовка граффити и виновником является самопровозглашенный художник по имени Mr. Smiley. Благодаря способности Mr. Smiley он может избегать захвата полицией. Полиция просит Endeavor о помощи, но, поскольку он считает это незначительным правонарушением, он просит полицию разобраться с этим самостоятельно. То есть, пока Mr. Smiley не осквернит собственный дом Endeavora, это не значительная проблема. На счет первого эпизода можно узнать из этой статьи.]]></text>
+</doc>

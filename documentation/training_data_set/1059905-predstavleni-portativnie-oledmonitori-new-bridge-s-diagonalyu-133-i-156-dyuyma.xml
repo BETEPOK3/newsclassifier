@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Представлены портативные OLED-мониторы New Bridge с диагональю 13,3 и 15,6 дюйма]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[монитор]]></keyword>
+    <keyword type="str"><![CDATA[мониторы, проекторы, тв-тюнеры, телевизоры]]></keyword>
+    <keyword type="str"><![CDATA[oled-дисплей]]></keyword>
+    <keyword type="str"><![CDATA[oled]]></keyword>
+    <keyword type="str"><![CDATA[портативный]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-10T13:06:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Бренд New Bridge анонсировал портативные мониторы NB-EL133BL и NB-EL156BL на органических светодиодах (OLED). Новинки могут использоваться в качестве вспомогательного дисплея для ноутбука или настольного ПК.Устройства имеют диагональ соответственно 13,3 и 15,6 дюйма. Разрешение одинаково — 1920 × 1080 пикселей, или Full HD. Благодаря матрице OLED обеспечиваются глубокий чёрный свет и высокая контрастность (100 000:1).Мониторы способны воспроизводить более 1 млрд цветовых оттенков. Яркость достигает 360 нит, углы обзора по горизонтали и вертикали — 178 градусов. Частота обновления составляет 60 Гц, время отклика — 1 мс.Модель New Bridge NB-EL133BL оборудована стереофоническими динамиками мощностью 1,5 Вт каждый. Габариты составляют 309 × 203 × 7 мм, вес — приблизительно 600 г.Версия New Bridge NB-EL156BL получила аудиосистему с 1-ваттными излучателями. Устройство весит около 730 г, имея размеры 358 × 233 × 7 мм.У обеих версий предусмотрены два симметричных порта USB Type-C и интерфейс mini-HDMI. Кроме того, упомянута поддержка HDR+. Сведений об ориентировочной цене пока нет. ]]></text>
+</doc>

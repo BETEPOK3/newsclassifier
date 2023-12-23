@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Постер и подробности фильма «Soukyuu no Fafner: Behind the Line»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[kataneer]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-07-04T13:48:39+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Вышел постер фильма  «Soukyuu no Fafner: Behind the Line» . Также была объявлена команда по производству. Режиссер:  Takashi Noto Сценарий:  Tow Ubukata Дизайн персонажей:  Hisashi Hirai Дизайн мех:  Naohiro Washio Музыка:  Tsuneyoshi Saitou Студия:  Production I.G Новая часть  крупной меха-франшизы  скоро будет предпоказана в японских кинотеатрах, пока без подробностей о дате. В отдалённом будущем большая часть человечества уничтожена внеземными существами, именуемыми «Фестумы». Выжившие ведут жестокую борьбу с пришельцами, стремящимися объединить всё живое в единую сущность. Однако в таком мире существует и спокойный уголок — используя особые укрытия, жители острова Тацумия пытаются обеспечить своим детям беззаботное взросление. Но однажды и эта защита пала, после чего на войну с Фестумами вышли сами дети, которых долгие эксперименты с генной инженерией сделали главной надеждой людей — только они способны управлять огромными боевыми машинами Фафнирами.]]></text>
+</doc>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[VESA начала сертифицировать оборудование по стандарту DisplayPort UHBR для DisplayPort 2.0]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[разработка и производство электроники]]></keyword>
+    <keyword type="str"><![CDATA[vesa]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[displayport]]></keyword>
+    <keyword type="str"><![CDATA[кабель]]></keyword>
+    <keyword type="str"><![CDATA[стандартизация]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-03-01T20:19:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Ассоциация стандартизации видеоэлектроники (VESA) сообщила о начале программы сертификации устройств по стандарту DisplayPort UHBR (Ultra-high Bit Rate). Соответствие оборудования указанному стандарту будет означать, что оно поддерживает сверхвысокие скорости передачи видеосигнала.В рамках указанной программы производители техники могут отправлять свои продукты в специальные испытательные центры DisplayPort для тестирования и сертификации. Предполагается, что устройство, соответствующее стандартам VESA DisplayPort UHBR, способно поддерживать воспроизведение или передачу контента в 8K при 60 Гц с HDR, 4K при 240 Гц с HDR, в виде двух потоков 4K при 120 Гц с HDR или четырёх потоков 4K при 60 Гц с HDR посредством одного кабеля.Помимо запуска программы DisplayPort UHBR ассоциация стандартизации видеоэлектроники представила первые кабели, соответствующие новым стандартам — DP40 и DP80. Их максимальная пропускная способность составляет 40 и 80 Гбит/c соответственно. Производить кабели DP40 и DP80 будут компании Accell, BizLink и WIZEN. Ожидается, что в ближайшем будущем список поставщиков расширится.Кабели DP40 и DP80 будут доступны как в виде полноразмерной конфигурации разъёма DisplayPort, так и в виде формата Mini DisplayPort. Они полностью обратно совместимы с устройствами, поддерживающими скорость передачи данных определённых спецификациями DisplayPort. Также указывается, что в случае альтернативного режима DisplayPort (DisplayPort через разъем USB Type-C) полнофункциональные пассивные кабели USB Type-C уже поддерживают скорость передачи данных UHBR, а кабели-преобразователи из USB Type-C в DisplayPort, сертифицированные VESA для соответствия требованиям стандартам UHBR, скоро станут доступны.]]></text>
+</doc>

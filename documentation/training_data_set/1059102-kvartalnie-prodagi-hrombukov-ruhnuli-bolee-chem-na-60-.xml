@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[К концу 2021 года продажи хромбуков рухнули более чем на 60 %]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[хромбук]]></keyword>
+    <keyword type="str"><![CDATA[аналитика]]></keyword>
+    <keyword type="str"><![CDATA[ноутбук]]></keyword>
+    <keyword type="str"><![CDATA[idc]]></keyword>
+    <keyword type="str"><![CDATA[ноутбуки и нетбуки]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[анализ рынка]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-01-31T12:28:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания International Data Corporation (IDC) обнародовала статистику по глобальному рынку портативных компьютеров под управлением операционной системы Chrome OS. Квартальные отгрузки таких устройств резко сократились, но по итогам 2021 года в целом зарегистрирован рост.В период с октября по декабрь включительно в мире было реализовано приблизительно 4,8 млн хромбуков. Это на 63,6 % меньше по сравнению с последней четвертью 2020-го, когда продажи равнялись 13,1 млн единиц.Крупнейшим поставщиком по итогам четвёртого квартала 2021 года стала Acer Group с долей около 26,3 %. На втором месте располагается Dell Technologies с 20,3 %, а замыкает тройку Lenovo с 16,1 %. Кроме того, в первую пятёрку вошли Samsung и НР, доли которых составили соответственно 12,3 % и 9,9 %. Все прочие поставщики хромбуков сообща заняли 15,2 % отрасли.По итогам прошлого года в целом отгрузки ноутбуков на базе Chrome OS поднялись на 13,5 %, достигнув 37,0 млн штук. Для сравнения: в 2020-м поставки равнялись 32,6 млн единиц.Пятёрка крупнейших игроков рынка в 2021 году выглядит следующим образом: HP — 27,7 %, Lenovo — 22,4 %, Acer Group — 17,3 %, Dell Technologies — 14,6 %, Samsung — 8,8 %. ]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Премьера и другие новости сериала "RE-MAIN"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[премьера]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-05-10T07:22:39+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Команда только что показала обновлённый постер и сообщила дату показа. В основе сериала оригинальный сюжет, написанный  Масафуми Нисида  - ( " Тигр и кролик " ). СОСТАВ СОЗДАТЕЛЕЙ Производство: MAPPA Режиссер:  Киёси Мацуда Сценарий:  Масафуми Нисида Дизайн персонажей: Сино Танака Музыка:  Кана Утатэ История расскажет нам, о старшекласснике Минато, который занимался водным поло, но в конце средней школы спорт забросил из-за некоего инцидента. Но, поступив в старшую школу, парень вновь занялся водным поло и даже вступил в команду. Но для победы команде необходимо сплотиться. ПЕРСОНАЖИ И СЭЙЮ Минато Киоумизу: озвучивает  Yuuto Uemura Эйтаро Ока: озвучивает  Koutarou Nishiyama Джоу Дзёдзима: озвучивает  Subaru Kimura Чину Кавакубо: озвучивает  Lynn Показ состоится 3 июля в программном блоке  NUMAnimation TV Asahi]]></text>
+</doc>

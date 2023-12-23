@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[В Роскомнадзоре опровергли слухи о блокировке YouTube в России]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[сервис]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[рунет]]></keyword>
+    <keyword type="str"><![CDATA[россия]]></keyword>
+    <keyword type="str"><![CDATA[youtube]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-03-02T21:28:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В Роскомнадзоре опровергли появившуюся в Сети информацию о блокировке видеохостинга YouTube на территории Российской Федерации. Об этом сообщает издание ТАСС со ссылкой на российское ведомство.«Решение о блокировке на территории России видеохостинга YouTube не принималось», — сообщили информационному агентству в пресс-службе Роскомнадзора в среду.Ранее в СМИ появилась информация, что некоторые российские пользователи YouTube стали сталкиваться с проблемами в работе популярного видеосервиса, о чём свидетельствовали данные мониторингового сайта Downdetector. Жалобы были связаны с проблемой работы сайта, мобильным приложением и просмотром медиаконтента.Разные источники выдвинули предположения о возможном начале блокировки YouTube в России.]]></text>
+</doc>

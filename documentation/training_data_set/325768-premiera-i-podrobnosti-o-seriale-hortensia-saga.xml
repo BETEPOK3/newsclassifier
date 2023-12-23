@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Премьера и подробности о сериале "Hortensia Saga"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[премьера]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-12-05T18:44:03+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Команда сериала  Hortensia Saga (TV) , представила новый трейлер, постер и огласила дату показа. " Hortensia Saga " - игра для мобильных устройств Android, iOS  в жанре фентези. Премьера сериала состоится  6 января 2021 года . СОСТАВ СОЗДАТЕЛЕЙ  Производство: Linden Films Режиссёр:  Yasuto Nishikata Сценарист:  Rintarou Ikeda Композитор: Zenta Дизайн персонажей:  Takayuki Onoda Действие разворачивается в условном средневековье. Это история о кровопролитной войне и хаосе. Три года назад король был предан и убит одним из своих слуг, который захватил власть в королевстве. Но тот не учёл, что истинная наследница престола достигла своего совершеннолетия. И это позволит ей взойти на престол. Прячась в обличье мужчины, она и её верные спутники начинают тернистый и опасный путь ради спасения своей родины. ЗАКРЫВАЮЩАЯ ТЕМА  "Yasou to Hakuchuumu" исполняет  Mafumafu .]]></text>
+</doc>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Плата для майнинга Biostar TZ590-BTC получила восемь слотов PCIe 3.0 x1]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[материнские платы]]></keyword>
+    <keyword type="str"><![CDATA[biostar]]></keyword>
+    <keyword type="str"><![CDATA[майнинг]]></keyword>
+    <keyword type="str"><![CDATA[материнская плата]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[плата]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-11T17:25:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Biostar анонсировала материнскую плату TZ590-BTC, на базе которой можно сформировать платформу для добычи криптовалют. Модель выполнена в формате ATX с размерами 305 × 244 мм.В основу лёг набор логики Intel Z590. Поддерживаются процессоры Intel Core десятого и одиннадцатого поколений в исполнении LGA 1200. Система может быть оборудована 128 Гбайт оперативной памяти DDR4-3600(OC)/…/ 2133 в конфигурации 4 × 32 Гбайт.Новинка, по сути, представляет собой упрощённую модификацию платы TZ590-BTC Duo, которая дебютировала в сентябре прошлого года. Так, количество портов SATA 3.0 сократилось с десяти до шести, а вместо двух коннекторов для твердотельных модулей M.2 теперь доступен только один.Для установки карт, отвечающих за майнинг, предусмотрены восемь разъёмов PCIe 3.0 x1. Кроме того, есть один слот PCIe 4.0 x16. В оснащения включены звуковой кодек ALC887 формата 7.1 и гигабитный сетевой контроллер Intel I219V.Интерфейсная панель содержит следующие разъёмы: PS/2, HDMI, D-Sub, четыре порта USB 3.2 и два порта USB 2.0, гнездо RJ45 для сетевого кабеля и набор аудиогнёзд.Говорится о совместимости с операционными системами Windows 10 и Windows 11. Цена не называется. ]]></text>
+</doc>

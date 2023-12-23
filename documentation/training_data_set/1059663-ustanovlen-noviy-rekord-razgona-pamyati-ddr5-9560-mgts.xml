@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Установлен новый рекорд разгона памяти DDR5 — 9560 МГц]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[модули озу, карты памяти, флеш-накопители, кардридеры]]></keyword>
+    <keyword type="str"><![CDATA[разгон]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[разгон и замеры производительности системы]]></keyword>
+    <keyword type="str"><![CDATA[ddr5]]></keyword>
+    <keyword type="str"><![CDATA[оперативная память]]></keyword>
+    <keyword type="str"><![CDATA[озу]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-07T20:07:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Гонконгский оверклокер с псевдонимом lupin_no_musume установил новый абсолютный рекорд разгона оперативной памяти. Он добился от модуля памяти работы в режиме DDR5-9560 — иными словами, он разогнал память до эффективной частоты 9560 МГц.Для эксперимента энтузиаст использовал материнскую плату ASUS ROG Maximus Z690 APEX, процессор Intel Core i9-12900K и модуль памяти G.Skill Trident Z DDR5.Для охлаждения модуля памяти при работе на такой высокой частоте оверклокер использовал жидкий азот. С ростом частоты также очень сильно были завышены задержки памяти. Тайминги составили 120-120-120-120-127-2.Любопытно, что несколькими неделями ранее тот же оверклокер, используя тот же набор оборудования, разогнал такой же модуль памяти до эффективной частоты 8888 МГц.Преодоление психологического барьера в виде эффективной частоты 10000 МГц для ОЗУ стало на шаг ближе к реальности.]]></text>
+</doc>

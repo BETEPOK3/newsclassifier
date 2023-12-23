@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[The Last of Us Part II оказалась самой продаваемой игрой российской розницы за 2021 год по версии «М.Видео-Эльдорадо»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Рудь]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[боевик]]></keyword>
+    <keyword type="str"><![CDATA[the legend of zelda: breath of the wild]]></keyword>
+    <keyword type="str"><![CDATA[шутер]]></keyword>
+    <keyword type="str"><![CDATA[cyberpunk 2077]]></keyword>
+    <keyword type="str"><![CDATA[xbox]]></keyword>
+    <keyword type="str"><![CDATA[playstation]]></keyword>
+    <keyword type="str"><![CDATA[marvel’s spider-man: miles morales]]></keyword>
+    <keyword type="str"><![CDATA[the last of us part ii]]></keyword>
+    <keyword type="str"><![CDATA[rpg, jrpg]]></keyword>
+    <keyword type="str"><![CDATA[приключение]]></keyword>
+    <keyword type="str"><![CDATA[nintendo]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+    <keyword type="str"><![CDATA[продажи игр]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-03T20:10:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Торговая группа «М.Видео-Эльдорадо» подвела итоги 2021 года для российского рынка консольных игр на физических носителях и рассказала, какие проекты пользовались в отечественной рознице наибольшей популярностью.Как стало известно, самой продаваемой игрой года в целом (и конкретно для PS4) оказался приключенческий экшен The Last of Us Part II. Рейтинг PS5 возглавил супергеройский боевик Marvel's Spider-Man: Miles Morales.PlayStation 4PlayStation 5На консолях Xbox (игры для Xbox One, Xbox Series X и S считаются вместе) не знал себе равных ролевой шутер Cyberpunk 2077, тогда как на Nintendo Switch первенствовала нестареющая The Legend of Zelda: Breath of the Wild.XboxNintendo SwitchСуммарно за 2021 год было продано около 1,8 млн копий игр, что сопоставимо с результатами 2019-го. При этом более 65 % от приведённого показателя пришлось на PS4, 20 % — на Nintendo Switch и примерно по 7,5 % — на PS5 и Xbox.]]></text>
+</doc>

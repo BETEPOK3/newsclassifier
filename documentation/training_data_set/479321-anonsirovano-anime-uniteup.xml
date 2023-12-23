@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсировано аниме «UniteUp!»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-09-24T11:11:38+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Анонсирован аниме-проект от  Sony Music Group's . Опубликован тизер и дата. Производством занимается студия  CloverWorks .   Премьера состоится в январе 2023 года. СЕЙЮ И ПЕРСОНАЖИ Protostar: Kikunosuke Toya Кикуносукэ Тоя  в роли Akira Kiyose Ryoutarou Yamaguchi Рётаро Ямагути  в роли Banri Naoe Amon Hirai в роли Chihiro Isuzugawa Legit: Magura Sukegawa в роли Daiki Takao Shinnosuke Morikage в роли Eishiro Nijo Ryuichiro Sakata в роли Fuga Togo Jaxx Jaxx: masa в роли Gakuto Haruka Yuuki Shimomae в роли Homare Katsura Takumi Magoshi в роли Izumi Kashii Kosei Tsubokura в роли Jun Wakasa Gaku Takumoto в роли Kanata Morinomiya AneLa: Souma Saitou Сома Сайто  в роли Lin Otsuki Yoshiki Nakajima Ёсики Накадзима  в роли Maoto Tsujido]]></text>
+</doc>

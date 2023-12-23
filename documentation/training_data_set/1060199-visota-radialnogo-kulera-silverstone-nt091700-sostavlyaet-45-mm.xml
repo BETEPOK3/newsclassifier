@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Высота радиального кулера SilverStone NT09-1700 составляет 45 мм]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[кулер]]></keyword>
+    <keyword type="str"><![CDATA[охлаждение]]></keyword>
+    <keyword type="str"><![CDATA[silverstone]]></keyword>
+    <keyword type="str"><![CDATA[системы охлаждения]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-15T09:06:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания SilverStone анонсировала низкопрофильный кулер NT09-1700 для компактных компьютеров. Изделие рассчитано на процессоры Intel Alder Lake (Core двенадцатого поколения) в исполнении LGA 1700.Новинка имеет радиальную конструкцию с алюминиевым радиатором и вентилятором диаметром 92 мм. Общая высота охладителя составляет всего 45 мм, что позволяет устанавливать его в корпуса небольшого форм-фактора с ограниченным внутренним пространством.Частота вращения крыльчатки с семью лопастями регулируется методом широтно-​импульсной модуляции (ШИМ) в диапазоне от 500 до 2500 оборотов в минуту. Создаётся воздушный поток объёмом до 79 кубометров в час. Статическое давление достигает 3,14 мм водяного столба. Уровень шума не превышает 32,5 дБА.Вентилятор построен на гидравлическом подшипнике со сроком службы не менее 30 тыс. часов. Общие габариты кулера составляют 96 × 45 × 96 мм, вес — 225 г. Информации об ориентировочной цене пока нет. ]]></text>
+</doc>

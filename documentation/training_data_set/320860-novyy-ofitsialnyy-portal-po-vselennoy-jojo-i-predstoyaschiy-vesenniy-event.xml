@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новый официальный портал по вселенной JoJo и предстоящий весенний эвент]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[nickelpower]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[эвент]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[jojo]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-10-04T17:16:30+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[На днях стало известно, что Warner Bros. зарегистрировали домен  jojo-portal.com , и спустя какое-то время сайт был официально запущен.  Площадка представляет из себя большой центральный медиа-портал по вселенной JoJo, где можно будет найти информацию по любому интересующему вас сегменту вселенной и приобрести сопутствующие товары. Также стало известно чуть больше информации относительно весеннего эвента  JoJo's Bizarre Adventure The Animation Special Event ~ Joestar's Inherited Soul~ , который пройдёт  4 апреля 2021 года (день рождения Джонатана). На нем соберутся сейю пяти протагонистов -  Казуюки Окитсу  ( Джонатан Джостар ),  Томоказу Сугита  ( Джозеф Джостар ),  Дайсукэ Оно  ( Джотаро Куджо ),  Юки Оно  ( Джоске Хагашиката ) и  Кэншо Оно   ( Джорно Джованна ). Был так же показан key visual эвента. To be continued...]]></text>
+</doc>

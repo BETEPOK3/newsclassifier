@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Bookwalker издательства  Kadokawa бесплатно предлагает мангу о войне и мире для сбора пожертвований в Японии]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Ангел_]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[индустрия]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-05-12T19:47:12+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Японская версия веб-сайта японского магазина электронных книг BookWalker издательства Kadokawa сделала девять работ на сайте доступными бесплатно со вторника, 10 мая 2022 года, по понедельник, 16 мая 2022 года, в рамках информационной кампании, которую Kadokawa называет «Ima Koso Senso ni Tsuite, Kangaeyo» («Давно пора подумать о Войне):   bookwalker.jp/ex/feature/kadokawa19490503/ На время кампании BookWalker будет принимать пожертвования, которые планируется направить посольству Украины в Японии, организации «Врачи без границ» и Верховному комиссару ООН по делам беженцев. Работы, доступные бесплатно, включат в себя: У войны не женское лицо   Кэйто Коумэ , манга-адаптацию исторической книги Светланы Алексиевич У войны не женское лицо; Первые 4 тома   Босоногий Гэн   Кэйдзи Накадзава ,   Каменные цветы   Хисаси Сакагути ; Манга Дневник Анны Франк   Ё Сина ;   Роман 1984 Джорджа Оруэлла; Ранобэ Ogon Ressha Аки Сато; Ранобэ Ai Ota's Karera wa Sekai ni Hanarebanare ni Tatteiru Ай Оты; Книга для детей Taiyo no Ko Кэндзиро Хайтани; Книга Демократия MEXT.]]></text>
+</doc>

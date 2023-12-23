@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[HP представила моноблоки EliteOne 800 G9 — Alder Lake, GeForce RTX и станция беспроводной зарядки гаджетов]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[компьютер]]></keyword>
+    <keyword type="str"><![CDATA[barebone-системы, неттопы,  all-in-one pc,  медиацентры]]></keyword>
+    <keyword type="str"><![CDATA[hp]]></keyword>
+    <keyword type="str"><![CDATA[десктоп]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[моноблок]]></keyword>
+    <keyword type="str"><![CDATA[all-in-one]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-08T16:01:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания HP предстоящей весной начнёт продажи настольных компьютеров «всё в одном» серии EliteOne 800 G9: покупатели смогут выбирать между моделями, оборудованными экраном с диагональю 23,8 и 27 дюймов.Дисплей в обоих случаях обладает разрешением Full HD — 1920 × 1080 пикселей. В подставку опционально может быть интегрирована станция беспроводной подзарядки гаджетов, таких как смартфоны и умные часы.Основой служит процессор Intel Core двенадцатого поколения из состава платформы Alder Lake. Объём оперативной памяти DDR5 в максимальной конфигурации достигает 64 Гбайт, а суммарная вместимость твердотельных накопителей М.2 PCIe — 6 Тбайт.Компьютеры наделены веб-камерой, которая поможет организовать удалённую работу или дистанционное обучение. Предусмотрены адаптеры беспроводной связи Wi-Fi 6E и Bluetooth 5.2.Допускается установка дискретного графического ускорителя NVIDIA GeForce RTX 3050 Ti. Возможна регулировка положения экрана по высоте, а крепление VESA позволяет подвесить панель на стену.Моноблоки станут доступны в мае; цена пока не раскрывается. Новинки будут поставляться с операционной системой Windows 11. ]]></text>
+</doc>

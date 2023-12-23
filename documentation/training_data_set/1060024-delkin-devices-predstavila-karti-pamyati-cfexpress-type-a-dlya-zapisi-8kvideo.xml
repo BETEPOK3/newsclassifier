@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Delkin Devices представила карты памяти CFexpress Type A для записи 8К-видео]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[модули озу, карты памяти, флеш-накопители, кардридеры]]></keyword>
+    <keyword type="str"><![CDATA[карта памяти]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[cfexpress]]></keyword>
+    <keyword type="str"><![CDATA[флеш-карта]]></keyword>
+    <keyword type="str"><![CDATA[delkin]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-11T17:59:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Delkin Devices анонсировала карты памяти стандарта CFexpress Type A, предназначенные для применения в камерах высокого разрешения. Дебютировали изделия серий Black и Power.Новинки доступны в модификациях вместимостью 80 и 160 Гбайт. Заявленная скорость чтения информации достигает 880 Мбайт/с, скорость записи — 790 Мбайт/с (730 Мбайт/с у младшей версии). Для обмена данными задействован интерфейс PCI Express 3.0.Карты подходят для съёмки видеоматериалов ультравысокого разрешения 8К с частотой 30 кадров в секунду. Кроме того, может осуществляться последовательная фотосъёмка в формате RAW без задержек.На все новинки предоставляется пожизненная гарантия. При этом для моделей семейства Black предусмотрена дополнительная гарантия обмена в течение 48 часов в случае выявления любых дефектов. Эти карты также имеют уникальные серийные номера, что упрощает идентификацию и проведение инвентаризаций.Изделия обладают защитой от магнитных полей, рентгеновского и ультрафиолетового излучений, физических воздействий. Информации об ориентировочной цене пока, к сожалению, нет. ]]></text>
+</doc>

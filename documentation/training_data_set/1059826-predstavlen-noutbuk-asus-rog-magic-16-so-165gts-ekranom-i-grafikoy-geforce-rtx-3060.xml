@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Представлен ноутбук ASUS ROG Magic 16 со 165-Гц экраном и графикой GeForce RTX 3060]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[ноутбуки и нетбуки]]></keyword>
+    <keyword type="str"><![CDATA[rog]]></keyword>
+    <keyword type="str"><![CDATA[asus]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[ноутбук]]></keyword>
+    <keyword type="str"><![CDATA[лэптоп]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-09T15:53:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания ASUS анонсировала портативный компьютер ROG Magic 16 версии 2022 года с процессором Intel поколения Alder Lake и дискретным графическим ускорителем NVIDIA. На ноутбук установлена операционная система Windows 11.Новинка получила 16-дюймовый дисплей с разрешением 2560 × 1600 пикселей и соотношением сторон 16:10. Охват цветового пространства DCI-P3 достигает 100 %, яркость — 500 кд/м2. Реализована поддержка Dolby Vision. Панель обладает частотой обновления 165 Гц.Установлен процессор Core i7-12700H. Он содержит 14 ядер, в том числе шесть производительных и восемь энергоэффективных. Максимальная тактовая частота в турбо-режиме составляет 4,7 ГГц. Лэптоп несёт на борту видеокарту GeForce RTX 3060, 16 Гбайт оперативной памяти DDR5 и твердотельный накопитель M.2 вместимостью 512 Гбайт с интерфейсом PCIe 4.0. Аккумуляторная батарея обладает ёмкостью 90 Вт·ч.Прочее оснащение включает аудиосистему Dolby Atmos, адаптер Wi-Fi 6E с поддержкой трёх частотных диапазонов (2,4, 5 и 6 ГГц), слот microSD, два порта USB 3.2 Gen 2 Type-A, интерфейсы HDMI и Thunderbolt 4. Система охлаждения Glacier Cooling 2.0 использует шесть тепловых трубок и два вентилятора.Цена ASUS ROG Magic 16 составляет около 1570 долларов США. ]]></text>
+</doc>

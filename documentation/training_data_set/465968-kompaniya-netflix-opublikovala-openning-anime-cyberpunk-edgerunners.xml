@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Компания Netflix опубликовала опеннинг аниме «Cyberpunk: Edgerunners»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[опенинг]]></keyword>
+    <keyword type="str"><![CDATA[сейю]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-07-03T14:45:37+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания  Netflix  опубликовала превью вступительной музыкальной темы аниме  «Киберпанк: Бегущие по краю» , а также объявила нового актера.  Премьера на платформе Netflix состоится в сентябре 2022 года Найт-Сити — город будущего, оснащённый всевозможными новейшими технологиями. Город, где модификация тела не просто мечты безумных учёных, а реальность сродни обычной покупке. Именно там живёт наш юный герой, для которого этот город не является чем-то невообразимым, он знает всю его настоящую суть, где выживание не просто слово, а истинное лицо этого мира. В один миг, потеряв всё, что имел, парень не опускает рук и в борьбе за выживание становится наёмником по прозвищу Киберпанк. СЕЙЮ И ПЕРСОНАЖИ Zach Aguilar Зак Агилар  в роли David Martinez ВСТУПИТЕЛЬНАЯ ТЕМА Рок-группа  Franz Ferdinand  исполнят  «This Fffire»]]></text>
+</doc>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Назван предполагаемый перечень смартфонов Xiaomi, которые обновятся до Android 13]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[смартфон]]></keyword>
+    <keyword type="str"><![CDATA[poco]]></keyword>
+    <keyword type="str"><![CDATA[слухи]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[redmi]]></keyword>
+    <keyword type="str"><![CDATA[xiaomi]]></keyword>
+    <keyword type="str"><![CDATA[мобильные телефоны, смартфоны, сотовая связь, коммуникаторы, кпк]]></keyword>
+    <keyword type="str"><![CDATA[android 13]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-19T08:26:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В распоряжении сетевых источников оказался список смартфонов Xiaomi, а также созданных этой компанией брендов Redmi и Poco, которые в перспективе получат обновление операционной системы до версии Android 13.Платформа Android 13 предложит новые темы оформления, дополнительные функции конфиденциальности, инструменты управления языками и др. Финальная версия ОС, как ожидается, дебютирует во второй половине текущего года.Ресурс Xiaomiui.net, ссылаясь на информацию от инсайдеров, сообщает, что апдейт до Android 13 будет выпущен для большого количества аппаратов как самой Xiaomi, так и дочерних марок. Это будут, в частности, следующие модели Xiaomi:Под брендами Redmi и Poco будут обновлены следующие устройства:Возможно, обновление также будет доступно обладателям смартфонов Redmi K30 Pro / Zoom Edition, Redmi K30S Ultra, POCO F2 Pro, Mi 10 / Pro / Ultra, Mi 10T / Pro и Redmi Note 8 2021.Вместе с тем без апдейта до Android 13 останутся следующие аппараты:]]></text>
+</doc>

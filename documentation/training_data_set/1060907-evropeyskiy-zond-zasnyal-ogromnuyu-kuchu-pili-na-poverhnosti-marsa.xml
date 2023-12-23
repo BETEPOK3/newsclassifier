@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Европейский зонд заснял огромную кучу пыли на поверхности Марса]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Владимир Фетисов]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[космос]]></keyword>
+    <keyword type="str"><![CDATA[mars express]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[марс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-24T20:41:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Автоматическая межпланетная станция Mars Express Европейского космического агентств (ЕКА) недавно запечатлела на поверхности Красной планеты крупное геологическое образование в виде формации борозд Медузы (MFF). Она представляет собой огромный пылевой массив протяжённостью около 5 тыс. км, который сформировался под воздействием сильных марсианских ветров и расположился между Тарсисом и Элизиумом, крупными вулканическими областями планеты.]]></text>
+</doc>

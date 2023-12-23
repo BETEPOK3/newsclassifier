@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Покупателям Hyundai Ioniq 6 подарят два года бесплатной зарядки]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Мария Руцкая]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[электрокары]]></keyword>
+    <keyword type="str"><![CDATA[ioniq 6]]></keyword>
+    <keyword type="str"><![CDATA[сша]]></keyword>
+    <keyword type="str"><![CDATA[hyundai]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2023-03-21T15:23:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Американцы смогут два года бесплатно заряжать электрокар Hyundai Ioniq 6. Свои зарядные станции для пользования владельцам Ioniq 6 предоставит крупная сеть Electrify America, которая ранее уже сотрудничала с Hyundai и другими крупными брендами, продвигая электрокары. Она позволит провести неограниченное количество получасовых сеансов зарядки в течение двух лет. Обратный отсчет стартует с даты покупки электроседана.
+Получасового сеанса для Hyundai Ioniq 6 должно быть достаточно: от зарядки Electrify America мощностью 350 киловатт-часов запас энергии седана с 800-вольтовой батареей можно увеличить с 10 до 80 процентов всего за 18 минут. Все станции занесены в карту в фирменном приложении, через которое можно отслеживать и процесс зарядки.
+За отдельную плату компания предоставляет устройство для дома — HomeStation, обеспечивающее максимальную скорость зарядки в 9,6 киловатт. Станция «дружит» с Wi-Fi для интеграции с приложением.
+Первым электрокаром, которому Electrify America подарила возможность бесплатной зарядки, стал Porsche Taycan — ему достались три года 30-минутных сеансов. EA успела посотрудничать с целым рядом крупных производителей «электричек», включая китайские: Audi, BMW, Mercedes, Volvo, Polestar, Ford, Genesis, Volkswagen, Jeep, Harley-Davidson, Kia, Byton, VinFast и Fisker-Ocean.
+В России число автозарядок для электромобилей растет быстрыми темпами, хоть и значительно отстает от США. При этом сами электрокары за ними не поспевают, говорят эксперты, а операторы ЭЗС жалуются на слишком дорогое подключение к сети и недостаток клиентов.]]></text>
+</doc>

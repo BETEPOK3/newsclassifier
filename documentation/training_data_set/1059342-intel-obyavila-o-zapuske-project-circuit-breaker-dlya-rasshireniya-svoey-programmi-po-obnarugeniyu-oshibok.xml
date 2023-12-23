@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Intel объявила о запуске Project Circuit Breaker — расширенной программы по обнаружению дыр в чипах]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[поиск уязвимостей]]></keyword>
+    <keyword type="str"><![CDATA[хакеры]]></keyword>
+    <keyword type="str"><![CDATA[intel]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+    <keyword type="str"><![CDATA[исследователи]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-02T20:50:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Сегодня Intel объявила о запуске Project Circuit Breaker — расширении своей программы по обнаружению ошибок для «элитных хакеров». Участники Project Circuit Breaker помогут обнаружить в программных и аппаратных продуктах компании области, требующие улучшения.«Project Circuit Breaker дополнит существующую открытую программу Intel Bug Bounty, которая вознаграждает исследователей за впервые обнаруженные уязвимости в любых продуктах и ​​технологиях различных брендов. Эта программа помогает Intel выявлять, устранять и раскрывать уязвимости. В 2021 году 97 из 113 обнаруженных внешними специалистами уязвимостей были выявлены в рамках программы Intel Bug Bounty. Компания вкладывает значительные средства в поиск уязвимостей и исследования в области безопасности для постоянного улучшения своих продуктов», — гласит пресс-релиз Intel.Project Circuit Breaker включает в себя ограниченные по времени события, в рамках которых исследователи безопасности будут работать с конкретными продуктами. Первая сессия, в рамках которой 20 хакеров изучают процессор Intel Core i7 Tiger Lake, уже началась.]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Продажа билетов в тематический парк студии Ghibli начнётся 10 августа]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Nyuusu Meikaa]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[парк]]></keyword>
+    <keyword type="str"><![CDATA[студия]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-08-02T12:21:59+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В честь этого студия показала рекламный ролик от  Хаяо Миядзаки  с музыкой  Дзё Хисаиси , текст которого прочёл  Тосио Судзуки . Тематический парк планируют открыть в Японии 1 ноября. Оригинальную версию этого ролика показали ещё в 2001 году в качестве рекламы музея студии  Ghibli . 1 ноября для посетителей станут доступны секции Ghibli no Daisouko, в которой воссоздадут ресторанный район из аниме « Унесённые призраками », аттракцион «Кошачий Офис», созданный по мотивам аниме « Возвращение кота », а также «Лес Дондоко», в которой воссоздадут священную тропу из аниме « Мой сосед Тоторо ». Секцию Mononoke no Sato по аниме « Принцесса Мононоке » планируют открыть во второй половине 2023 года, а секцию Majo no Tani по аниме « Ведьмина служба доставки » — в марте 2024 года. Кроме того, в парке обещали построить Ходячий замок из одноимённого аниме.]]></text>
+</doc>

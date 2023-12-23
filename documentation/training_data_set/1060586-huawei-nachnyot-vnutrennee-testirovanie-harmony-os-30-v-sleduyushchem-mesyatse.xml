@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Huawei начнёт внутреннее тестирование Harmony OS 3.0 в следующем месяце]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Владимир Фетисов]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[harmony os 3.0]]></keyword>
+    <keyword type="str"><![CDATA[huawei]]></keyword>
+    <keyword type="str"><![CDATA[операционные системы]]></keyword>
+    <keyword type="str"><![CDATA[harmony os]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-19T15:16:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Первая предварительная версия Harmony OS 3.0 для разработчиков была представлена широкой публике в октябре прошлого года на ежегодной конференции Huawei Developer Conference 2021. Теперь же стало известно, что китайская компания готовится к запуску этапа внутреннего тестирования новой версии программной платформы, которое должно начаться в марте этого года.Это подтверждает информация, опубликованная на официальном сайте Huawei. Согласно имеющимся данным, производитель планировал приступить к тестированию операционной системы Harmony OS 3.0 в период с января по март. Поскольку февраль постепенно подходит к концу, а тестирование так и не началось, становится всё более очевидным, что процесс будет запущен в марте.Ранее также сообщалось, что стабильная версия Harmony OS 2.0 станет доступна пользователям за пределами Китая в начале 2022 года. По данным производителя, смартфоны с Harmony OS функционируют на 10 % быстрее по сравнению с аналогами, работающими под управлением Android. По состоянию на конец 2021 года пользовательская аудитория Harmony OS в Китае составляла более 100 млн человек. Очевидно, в скором времени Harmony OS 2.0 станет доступна пользователям за пределами Поднебесной, а на домашнем рынке начнётся тестирование Harmony OS 3.0.]]></text>
+</doc>

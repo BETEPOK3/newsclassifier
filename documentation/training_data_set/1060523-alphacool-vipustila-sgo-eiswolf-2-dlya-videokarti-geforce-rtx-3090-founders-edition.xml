@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Alphacool выпустила СЖО Eiswolf 2 для эталонной видеокарты GeForce RTX 3090 Founders Edition]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[система охлаждения]]></keyword>
+    <keyword type="str"><![CDATA[сжо]]></keyword>
+    <keyword type="str"><![CDATA[система жидкостного охлаждения]]></keyword>
+    <keyword type="str"><![CDATA[системы охлаждения]]></keyword>
+    <keyword type="str"><![CDATA[alphacool]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-18T13:55:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Alphacool анонсировала систему жидкостного охлаждения «всё в одном» Eiswolf 2, спроектированную специально для графического ускорителя GeForce RTX 3090 Founders Edition. Новинка уже доступна для заказа по ориентировочной цене 245 евро (без НДС).Изделие объединяет водоблок Alphacool GPX Eisblock Aurora GPX, помпу и полностью медный радиатор NexXxoS ST30 формата 360 мм. Последний обдувается тремя вентиляторами Alphacool Aurora Rise диаметром 120 мм. Предусмотрено использование усиливающей металлической пластины в тыльной части.Радиатор имеет размеры 395 × 124 × 30 мм. Скорость работы помпы достигает 2600 оборотов в минуту (+/-10 %). Применяются стандартные фитинги G1/4".Вентиляторы построены на подшипнике скольжения. Частота вращения крыльчатки регулируется методом широтно-​импульсной модуляции (ШИМ) в диапазоне от 0 до 2500 оборотов в минуту. Поток воздуха достигает 119,8 кубометра в час, статическое давление — 3,17 мм водяного столба.Вентиляторы снабжены многоцветной адресуемой подсветкой Digital RGB, контролировать работу которой можно через совместимую материнскую плату. ]]></text>
+</doc>

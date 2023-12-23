@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Samsung Galaxy Book2 Pro получит дискретную видеокарту Intel Arc Alchemist]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Павел Котов]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[samsung]]></keyword>
+    <keyword type="str"><![CDATA[ноутбуки и нетбуки]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[intel]]></keyword>
+    <keyword type="str"><![CDATA[слухи]]></keyword>
+    <keyword type="str"><![CDATA[intel arc alchemist]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-27T16:38:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Samsung готовится представить на выставке MWC 2022 ноутбуки серии Galaxy Book2 Pro на базе центральных и графических процессоров от Intel. Ультратонкие и ультралёгкие лэптопы с 13,3 и 15,6-дюймовыми экранами получат увеличенное до 21 часа время автономной работы. Информацию о мобильных компьютерах прямо перед их анонсом опубликовал ресурс 91 Mobiles.Новые ноутбуки Samsung выполнены на новейшей платформе Intel EVO с процессорами Alder Lake и интегрированной графикой Iris Xe. Старшая 15,6-дюймовая модель будет также предлагаться с дискретным графическим адаптером Arc Alchemist. Эта привилегия потребует некоторых жертв, к счастью, незначительных: отдельная видеокарта предполагает дополнительную систему охлаждения, поэтому в данном варианте ноутбук потяжелеет с 1,11 до 1,17 кг.Ноутбуки серии Samsung Galaxy Book2 Pro относятся к устройствам с постоянным подключением к Сети — здесь есть поддержка новейших стандартов 5G и Wi-Fi 6E. Подача питания производится через интерфейс USB Type-C с рабочей мощностью 65 Вт, а это значит, что для компьютера не потребуется громоздкий адаптер.В дополнение к Book2 Pro корейский производитель готовится представить модель Galaxy Book Pro 360 — трансформер с поворотным сенсорным дисплеем. Подробности о новых моделях станут доступны в ближайшее время после официального анонса.]]></text>
+</doc>

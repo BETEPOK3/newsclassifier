@@ -1,0 +1,28 @@
+
+  /* pagination position styling */
+  .pagination_section {
+    position: relative;
+    text-align: center;
+    padding: 20px;
+  }
+
+  /* pagination styling */
+  .pagination_section a {
+    color: black;
+    padding: 10px 18px;
+    text-decoration: none;
+  }
+
+   body.dark-theme .pagination_section  a {
+    color: white;
+    padding: 10px 18px;
+    text-decoration: none;
+  }
+  .active {
+      background-color: green;
+  }
+  /* pagination hover effect on non-active */
+  .pagination_section a:hover:not(.active) {
+    background-color: #1e7e34;
+    color: white;
+  }

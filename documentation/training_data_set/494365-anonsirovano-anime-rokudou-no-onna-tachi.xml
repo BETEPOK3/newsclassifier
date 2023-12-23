@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсировано аниме «Rokudou no Onna-tachi»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[адаптация]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2023-01-18T12:55:10+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Манга  «Плохие девчонки Рокудо»  получит аниме-адаптацию.  Трансляция начнется в апреле этого года. СОСТАВ СОЗДАТЕЛЕЙ Производство:  Satelight Режиссёр: Keiya Saito Сценарист:  Yuuichirou Momose Юитиро Момосэ Дизайнер персонажей:  Shinya Segawa Синъя Сэгава  & Hideaki Onishi Рокудо — неудачник, и все об этом знают. В школе над ним постоянно издеваются, все смотрят на него свысока. Но всё, что он может, — это жаловаться друзьям на свои несчастья. Пытаясь как-то исправить свою жизнь, он использует старинный артефакт, передававшийся в его семье из поколения в поколение: свиток, способный подчинить себе всех демонов. Однако в наше время, он вызывает другой эффект: все плохие девчонки влюбляются в Рокудо. СЭЙЮ И ПЕРСОНАЖИ Gen Satou Гэн Сато  —  Tousuke Rokudou Тосукэ Рокудо Sumire Uesaka Сумирэ Уэсака  —  Ranna Himawari Ранна Химавари Naomi Oozora Наоми Одзора  —  Sayuri Osanada Саюри Осанада Yuki Yomichi Юки Ёмити  —  Azami Himeno Адзами Химэно Misato Matsuoka Мисато Мацуока  —  Tsubaki Tachibana Цубаки Татибана Hitomi Sekine Хитоми Сэкинэ  —  Mizue Tsuyukusa Мидзуэ Цуюкуса Haruki Ishiya Харуки Исия  —  Haruya Iinuma Харуя Инума]]></text>
+</doc>

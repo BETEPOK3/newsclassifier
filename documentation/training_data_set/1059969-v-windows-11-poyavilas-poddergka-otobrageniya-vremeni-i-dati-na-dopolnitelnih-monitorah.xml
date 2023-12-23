@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Windows 11 скоро сможет отображать время и дату на дополнительных мониторах]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Владимир Фетисов]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[microsoft]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+    <keyword type="str"><![CDATA[операционные системы]]></keyword>
+    <keyword type="str"><![CDATA[windows 11]]></keyword>
+    <keyword type="str"><![CDATA[обновление]]></keyword>
+    <keyword type="str"><![CDATA[операционная система]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-11T07:33:29+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[На этой неделе Microsoft выпустила очередную предварительную сборку Windows 11 под номером 22000.526 (KB5010414) для участников программы предварительной оценки Windows на каналах Beta и Release Preview. Разработчики добавили в Windows 11 поддержку отображения даты и времени на дополнительных мониторах, а также внесли множество исправлений известных проблем.Помимо появления поддержки возможности отображения даты и времени на дополнительных мониторах, чего не было с самого запуска Windows 11, крупных изменений не так много. Отметим некоторые наиболее заметные:Ознакомиться с полным списком исправлений новой сборки Windows 11 можно в официальном блоге разработчиков. Отметим, что Microsoft обещала выпустить в феврале более крупное обновление для Windows 11 по сравнению с предыдущим пакетом. Это может означать, что широкому кругу пользователей станут доступны предварительная версия системы запуска Android-приложений, а также переработанные приложения «Блокнот» и Media Player.]]></text>
+</doc>

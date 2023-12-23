@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Apple выпустила iOS 15.3.1, в которой устранила возможность взлома iPhone через браузер]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[шифрование и защита данных]]></keyword>
+    <keyword type="str"><![CDATA[iphone]]></keyword>
+    <keyword type="str"><![CDATA[операционные системы]]></keyword>
+    <keyword type="str"><![CDATA[обновление]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[операционная система]]></keyword>
+    <keyword type="str"><![CDATA[по для мобильных устройств]]></keyword>
+    <keyword type="str"><![CDATA[ios]]></keyword>
+    <keyword type="str"><![CDATA[программное обеспечение]]></keyword>
+    <keyword type="str"><![CDATA[ipados]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-10T22:38:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Сегодня Apple выпустила iOS 15.3.1 и iPadOS 15.3.1. Эти обновления мобильных операционных систем, выпущенные через две недели после запуска iOS 15.3 и iPadOS 15.3, направлены на исправление ошибок, обнаруженных в предыдущих версиях ОС.Обновления содержат важные исправления безопасности для iPhone и iPad. В сопроводительном документе Apple поясняет, что свежее ПО устраняет ошибку WebKit, которая может позволить вредоносному веб-содержимому запустить выполнение произвольного кода на устройстве. Apple заявляет, что ей известно о том, что уязвимость могла активно использоваться злоумышленниками, поэтому пользователям важно как можно скорее обновить свои устройства до iOS 15.3.1 и iPadOS 15.3.1.Также согласно примечаниям к выпуску, iOS 15.3.1 и iPadOS 15.3.1 устраняют проблему, из-за которой дисплеи Брайля, предназначенные для вывода информации в виде, удобном для людей с нарушениями зрения, могли перестать отвечать на запросы.iOS 15.3.1 и iPadOS 15.3.1 можно загрузить и установить на все совместимые устройства, воспользовавшись пунктом «Обновление ПО» в разделе «Основные» приложения «Настройки».]]></text>
+</doc>

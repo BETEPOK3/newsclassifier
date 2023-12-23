@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Подробности по аниме «Seiken Densetsu: Legend of Mana - The Teardrop Crystal»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[дата_показа]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-08-19T11:20:30+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Официальный сайт аниме  «Легенда о святом мече: Легенда маны — Каплевидный кристалл»  опубликовал рекламный ролик, представил новых актеров, персонажей и огласил дату премьеры.  Трансляция начнется 8-го октября 2022 года. Сюжет состоит в том, что Великое Древо Маны было уничтожено во время Войн Маны и теперь главному герою предстоит обеспечить его рост и «очищение», собирая по всему миру артефакты, являющиеся «законсервированными» землями, подземельями, замками и прочее.  СЕЙЮ И ПЕРСОНАЖИ Wataru Takagi Ватару Такаги  в роли Никиты Minami Takahashi Минами Такахаси  в роли Рэйчел Hiroshi Yanaka Хироси Янака  в роли Nuvel Makoto Yasumura Макото Ясумура  в роли Марка Chitose Morinaga Титосэ Моринага  в роли Kusabito Shinpachi Tsuji Симпати Цудзи  в роли Inspector Boyd Misaki Kuno Мисаки Куно  в роли Юки-чан]]></text>
+</doc>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Nintendo поделится свежими новостями о Pokemon в день 26-летия франшизы]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Рудь]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[the pokemon company]]></keyword>
+    <keyword type="str"><![CDATA[pokemon]]></keyword>
+    <keyword type="str"><![CDATA[nintendo]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-24T19:02:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Издательство Nintendo и The Pokemon Company в официальном японском микроблоге франшизы Pokemon анонсировали следующий выпуск своей информационной передачи Pokemon Presents.Как стало известно, трансляция грядущего эпизода Pokemon Presents начнётся 27 февраля текущего года в 17:00 по московскому времени. Следить за ходом мероприятия можно будет на YouTube-канале Pokemon.На 27 февраля выбор организаторов Pokemon Presents пал потому, что именно на этот день в 1996 году приходится японский релиз Pokemon Red и Green — первых игр серии. Таким образом, шоу будет приурочено к 26-летию франшизы.Хронометраж предстоящей программы составит 14 минут. За это время Nintendo и The Pokemon Company пообещали поделиться «новейшей информацией» о франшизе. О каких именно играх расскажут, на данный момент неясно.Предыдущий эпизод Pokemon Presents прошёл в августе 2021 года и стал ареной анонса даты выхода условно-бесплатной Pokemon Unite, а также показа новых трейлеров Pokemon Legends: Arceus, Pokemon Brilliant Diamond и Pokemon Shining Pearl.]]></text>
+</doc>

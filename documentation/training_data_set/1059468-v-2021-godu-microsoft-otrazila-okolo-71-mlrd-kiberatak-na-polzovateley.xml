@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[В 2021 году Microsoft отразила около 71 млрд кибератак на пользователей]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Руслан Авдеев]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[шифрование и защита данных]]></keyword>
+    <keyword type="str"><![CDATA[microsoft]]></keyword>
+    <keyword type="str"><![CDATA[вирусы, трояны, уязвимости в по, вопросы безопасности]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[безопасность данных]]></keyword>
+    <keyword type="str"><![CDATA[антивирусы, брандмауэры, антишпионы]]></keyword>
+    <keyword type="str"><![CDATA[статистика]]></keyword>
+    <keyword type="str"><![CDATA[программное обеспечение]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-04T08:51:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Microsoft анонсировала выпуск нового онлайн-журнала Cyber Signals, посвящённого обеспечению кибербезопасности — он будет рассказывать о новейших исследованиях Microsoft, а также об актуальных угрозах в киберпространстве. Журнал будет выпускаться ежеквартально, и, как сообщается в блоге компании, Microsoft только в прошлом году удалось блокировать десятки миллиардов киберугроз, используя разработанные компанией инструменты.Всего по данным Microsoft в 2021 году заблокировано около 71 млрд кибератак благодаря использованию Microsoft Defender для конечной точки, Microsoft Defender для Office 365 и Microsoft Azure Active Directory (AD).Основные угрозы распределились следующим образом:С января по декабрь 2021 года Microsoft Defender для конечной точки заблокировал более 9,6 млрд угроз заражения вредоносным ПО корпоративных и пользовательских устройств.Microsoft Defender для Office 365 заблокировал более 35,7 млрд фишинговых и прочих вредоносных посланий, целью которых были корпоративные клиенты и обычные пользователи.Microsoft (Azure Active Directory) зарегистрировал и заблокировал более 25,6 млрд попыток перехватить управление аккаунтами пользователей с попытками использовать «брутфорс» для взлома систем.При этом в Microsoft выразили озабоченность в связи с явно недостаточным распространением технологий вроде многофакторной аутентификации и «беспарольных» решений. Как сообщили в компании, хотя число угроз в последние два года продолжает расти, методы сильной аутентификации по-прежнему мало распространены. Проведённое компанией исследование в многочисленных отраслях показало, что только 22 % пользователей Microsoft Azure Active Directory (Azure AD) и Cloud Identity Solution по данным на декабрь 2021 года применяли сильные методы аутентификации.С PDF-версией первого выпуска Cyber Signals можно ознакомиться здесь.]]></text>
+</doc>

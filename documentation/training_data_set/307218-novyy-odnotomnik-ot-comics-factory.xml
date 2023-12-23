@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новый однотомник от Comics Factory]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Aniki]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-04-10T06:45:29+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Новая лицензия: манга "Хана-чан и форма мира" Японское название: は な ち ゃ ん と, 世界 の か た ち (Hanachan To Sekai No Katachi) Англ. название: Hana-Chan and the Shape of the World Автор: Ueda Ryotaro Рейтинг: 16+ Подробнее:  www.mangaupdates.com Дебютная работа молодого мангаки Рётаро Уеда. Сэйнэн-манга, сборник из шести коротких историй о девочке Хане. В качестве описания Фабрика комиксов предлагает почитать комментарий гугл-переводчика: Когда идет дождь, форма мира меняется. Горячий новый дебют! Хана, которая живет в сельском городе, постепенно растет, касаясь фрагментов мира, которые иногда опасны и нежны. История "того времени", которая бесконечна и дерзка. Долгожданный первый комикс от самого горячего новичка.]]></text>
+</doc>

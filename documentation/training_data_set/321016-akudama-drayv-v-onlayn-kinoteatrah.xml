@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[«Акудама Драйв» в онлайн-кинотеатрах.]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Tedeika³]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[россия]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-10-07T00:38:26+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания «Русский Репортаж» выпустит в российских онлайн-кинотеатрах аниме-сериал «Акудама Драйв». Совместный проект студии Pierrot и компании Too Kyo Games, которую основали создатели игр Danganronpa и Zero Escape. Начиная с 8 октября, сериал будет выходить одновременно с Японией в онлайн-кинотеатрах «КиноПоиск HD», «Wink», «МТС ТВ» и стриминговом сервисе Wakanim. Это первый случай, когда официальный онлайн-показ аниме-сериала пройдёт не только на Wakanim и Crunchyroll. В далекой древности между Канто и Кансаем вспыхнула война, разделившая Японию на две части. В конечном итоге Кансай проиграл и утратил самостоятельность. Постепенно его правительство и полиция стали уступать всё возрастающей преступности... Акудама — так стали называть злодеев, которые пытаются поставить мир с ног на голову.]]></text>
+</doc>

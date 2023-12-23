@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Mozilla объявила о прекращении разработки VR-браузера Firefox Reality]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Павел Котов]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[firefox reality]]></keyword>
+    <keyword type="str"><![CDATA[браузер]]></keyword>
+    <keyword type="str"><![CDATA[браузеры]]></keyword>
+    <keyword type="str"><![CDATA[mozilla]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-04T18:48:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Проект Mozilla официально объявил о закрытии проекта по разработке браузера Firefox Reality, предназначенного для систем виртуальной реальности. Продукт не исчезнет бесследно: все наработки будут переданы испанскому проекту Igalia, который выпустит на основе Firefox Reality собственный VR-браузер Wolvic.Браузер от Mozilla активно использовался в системах виртуальной реальности и был доступен в профильных магазинах приложений, из которых он вскоре исчезнет. Так, пользователи Firefox Reality под Oculus имели возможность не только просматривать веб-страницы, но и работать с другими функциями, например, голосовым поиском и 360-градусными панорамными видео.Команда Igalia уже анонсировала собственный VR-браузер Wolvic и даже запустила посвящённый данному проекту сайт, но пока не стала делиться техническими подробностями. Известно, что разработка продолжится с того места, на котором остановились в Mozilla, причём на эти цели уже выделено финансирование на два года вперёд. На начальных этапах браузер будет выпущен для систем на базе AOSP (общедоступный код Android), таких как HTC Vive Focus и Oculus, кроме того, он появится в Huawei AppGallery. В дальнейшем к проекту будут привлекаться крупные компании, среди которых упомянуты Lenovo и Qualcomm.]]></text>
+</doc>

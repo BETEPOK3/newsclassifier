@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Steam теперь показывает пользователям, какие игры в их библиотеке совместимы со Steam Deck]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Игнатий Колыско]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[valve]]></keyword>
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[steam]]></keyword>
+    <keyword type="str"><![CDATA[steam deck]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-23T15:06:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Valve запустила специальный раздел в магазине Steam, который будет показывать пользователю, какие игры из его библиотеки совместимы с портативным компьютером Steam Deck. Для этого достаточно авторизоваться под своей учётной записью и перейти по специальной ссылке.На странице нового раздела будут отображаться не только игры, полностью оптимизированные для Steam Deck, но также требующие дополнительной настройки проекты. Внизу страницы пользователю покажут игры из его библиотеки, которые не поддерживаются новой портативной консолью. Там же есть раздел с проектами, не протестированными на Steam Deck.Напомним, 25 февраля Valve начнёт рассылать пользователям, ранее оформившим бронирование, электронные письма со ссылками, при переходе по которым можно будет приобрести Steam Deck. При этом на совершение покупки у пользователей будет 72 часа. Первые Steam Deck отправятся к покупателям 28 февраля.]]></text>
+</doc>

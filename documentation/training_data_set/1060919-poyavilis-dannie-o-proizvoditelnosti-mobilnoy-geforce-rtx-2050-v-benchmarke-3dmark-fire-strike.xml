@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Мобильная GeForce RTX 2050 оказалась на 23 % быстрее GeForce GTX 1650 в тесте 3DMark Fire Strike]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[видеокарты]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[видеокарта]]></keyword>
+    <keyword type="str"><![CDATA[3dmark]]></keyword>
+    <keyword type="str"><![CDATA[geforce rtx 2050]]></keyword>
+    <keyword type="str"><![CDATA[мобильная]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-24T23:40:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Китайский производитель ноутбуков MechRevo опубликовал информацию о производительности мобильного графического ускорителя GeForce RTX 2050 в синтетическом бенчмарке 3DMark Fire Strike. Видеокарта оказалась примерно на 23 % быстрее модели GeForce GTX 1650 и на 134 % быстрее модели GeForce MX450.Ранее сообщалось, что мобильная GeForce RTX 2050 сможет предложить производительность уровня GeForce MX570 — также дискретной видеокарты, но начального уровня, предназначенной для тонких и лёгких ноутбуков.Несмотря на то, что GeForce RTX 2050 является моделью 20-й серии видеокарт GeForce RTX, в её основе используется графический процессор на актуальной архитектуре Ampere, в составе которого присутствуют 2048 ядер CUDA. Напомним, что таким же количеством ядер CUDA обладают видеокарты GeForce MX570 и GeForce RTX 3050.MechRevo также предоставила данные о производительности GeForce RTX 2050 в задачах по кодированию видео в разрешении FHD и 4K.Графика Intel Iris Xe MAX с 96 исполнительными блоками, участвовавшая в этих сравнительных тестах, показала себя хуже.]]></text>
+</doc>

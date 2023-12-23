@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новости об аниме-проекте «ChaoS;Child»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Itov]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true"/>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2016-08-01T18:47:02+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Официальный сайт аниме-адаптации игры Chaos;Child, производством которой занимается студия Silver Link, сообщил, что она выйдет в формате телевизионного аниме в январе 2017-го года. Так же сообщается, что режиссером проекта является  Masato Jinbo  ( Fate/kaleid ,  Shomin Sample ,  Nozo × Kimi ).  История рассказывает о событиях, разворачивающихся в Сибуе, спустя шесть лет после произошедшего 6 ноября 2009 года 7,8-бального землетрясения, в результате которого были ранены 30927 и погибли 3851 человек. Игра показывает восстановленную Сибую, где происходит ряд таинственных инцидентов, в результате которых гибнут люди. Обращает на себя внимание, что возникают они в тот же день, что и пятью годами ранее. События называют New Generation Madness (безумие нового поколения).  Релиз игры для Xbox One состоялся в 2014 году. www.animenewsnetwork.com]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Jump Festa 2022]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[KRXKZ]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[фестиваль]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-11-08T16:08:23+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Японская компания Shueisha сообщила о том, что 18 декабря на  мероприятии Jump Festa 2022  будут объявлены подробности аниме-сериалов « Блич: Тысячелетняя кровавая война » и  « Адский рай ». Кроме того, Shueisha анонсировала панели для грядущего фестиваля: • Bleach (Блич) • Spy x Family (Семья шпиона) • Chainsaw Man (Человек-Бензопила) • Platinum End (Платиновый предел) • World's End Harem (Тотальный гарем) • One Piece (Ван-Пис) • Boku No Hero Academia (Моя геройская академия) • Kimetsu no Yaiba (Клинок, рассекающий демонов) • Jujutsu Kaisen (Магическая битва) • Dr.STONE (Доктор Стоун) • MASHLE (Магия и мускулы) • Undead Unluck (Нежити не повезло) • Ayakashi Triangle (Треугольник Аякаси) • Haikyuu!! (Волейбол!)]]></text>
+</doc>

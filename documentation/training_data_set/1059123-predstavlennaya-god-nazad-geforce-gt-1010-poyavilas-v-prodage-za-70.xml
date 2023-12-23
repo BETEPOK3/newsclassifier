@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Представленная год назад GeForce GT 1010 появилась в продаже за $70]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[geforce gt 1010]]></keyword>
+    <keyword type="str"><![CDATA[pascal]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[рынок it]]></keyword>
+    <keyword type="str"><![CDATA[видеокарта]]></keyword>
+    <keyword type="str"><![CDATA[видеокарты]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-01-31T15:24:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Представленная год назад видеокарта GeForce GT 1010 начального уровня впервые показалась на фотографиях. На просторах китайской торговой онлайн-площадки Taobao обнаружены изображения видеокарты в исполнении компаний Lenovo.Напомним, что данная модель видеокарты построена на графическом процессоре NVIDIA GP108 поколения Pascal. В его составе присутствуют 256 ядер CUDA, работающих в диапазоне частот от 1228 до 1468 МГц. Карта получила 2 Гбайт памяти GDDR5 с эффективной частотой 6 ГГц и разрядностью шины 64 бит. Заявленный показатель энергопотребления устройства составляет 30 Вт.Ускоритель оснащён интерфейсом PCIe 3.0 x4, а из внешних разъёмов предлагает по одному HDMI и VGA. На торговой площадке Taobao видеокарта предлагается за 450 юаней, что примерно равно 70 долларам.Также изображениями GeForce GT 1010 в исполнении компании Leadtek поделился один из пользователей Сети.В отличие от карты Lenovo данная версия построена на синей печатной плате и оснащена двумя разъёмами HDMI.]]></text>
+</doc>

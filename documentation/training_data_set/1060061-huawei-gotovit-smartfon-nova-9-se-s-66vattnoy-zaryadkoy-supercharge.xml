@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Huawei готовит смартфон Nova 9 SE с 66-ваттной зарядкой SuperCharge]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[nova]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[huawei]]></keyword>
+    <keyword type="str"><![CDATA[смартфон]]></keyword>
+    <keyword type="str"><![CDATA[мобильные телефоны, смартфоны, сотовая связь, коммуникаторы, кпк]]></keyword>
+    <keyword type="str"><![CDATA[слухи]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-12T08:11:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Сетевые источники сообщают, что китайская компания Huawei в скором времени анонсирует смартфон Nova 9 SE среднего уровня, который придёт на смену модели Nova 8 SE (показана на изображениях).Готовящийся аппарат уже прошёл сертификацию в различных ведомствах, в том числе в организации WiFi Alliance, Национальной комиссии по вещанию и телекоммуникациям Таиланда (NBTC) и Евразийской экономической комиссии (EEC). Это означает, что устройство выйдет на международном рынке.Известно, что аппарат получит восьмиядерный процессор с тактовой частотой до 2,4 ГГц. Это может быть чип MediaTek Dimensity 900, содержащий графический ускоритель Arm Mali-G68 MC4 и модем 5G.Говорится о наличии 8 Гбайт оперативной памяти, флеш-накопителя вместимостью 256 Гбайт и аккумулятора ёмкостью 3900 мА·ч с поддержкой 66-ваттной быстрой зарядки SuperCharge. Кроме того, указаны габариты и вес — 164,64 × 75,55 × 7,94 мм и 191 г. Аппарат выйдет в белом, чёрном и синем цветах.По слухам, Nova 9 SE может быть построен на базе модели Honor 50 SE. В этом случае устройство получит 6,78-дюймовый дисплей Full HD+ с частотой обновления 120 Гц и тройную камеру со 108-мегапиксельным основным блоком. ]]></text>
+</doc>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[NVIDIA выпустила обновление безопасности для видеокарт серии Kepler]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[драйвер]]></keyword>
+    <keyword type="str"><![CDATA[драйверы]]></keyword>
+    <keyword type="str"><![CDATA[nvidia kepler]]></keyword>
+    <keyword type="str"><![CDATA[видеокарта]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-01-31T23:33:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Для графических ускорителей GeForce на архитектуре Kepler (GeForce GT/GTX 600, GT/GTX 700, GeForce GTX Titan, GTX Titan Z и GTX Titan Black), компания NVIDIA выпустила новую версию WHQL-драйвера. Обновление содержит исправления, касающиеся программной безопасности.Как известно, NVIDIA прекратила поддержку видеокарт Kepler осенью прошлого года. Выпущенный драйвер не относится к серии Game Ready, который обычно содержит поддержку новых видеокарт или игровые оптимизации. Речь идёт об обновлении драйвера безопасности. Компания ранее заявила, что видеокарты Kepler будут получать обновления безопасности как минимум до сентября 2024 года.Описание драйвера не содержит информации об исправленных или известных ошибках. В нём лишь указывается следующее:«NVIDIA выпустила программное обновление безопасности видеодрайвера для графических ускорителей GeForce серии Kepler, которые больше не поддерживаются драйверами Game Ready. Это обновление устраняет проблемы, которые могут потенциально привести к нарушению безопасности».Более подробную информацию об обновлении компания собирается опубликовать в феврале на странице бюллетеней безопасности.Загрузить обновление драйвера безопасности для видеокарт NVIDIA Kepler можно по следующим ссылкам: для операционных систем Windows 7, 8, 8.1 (версия драйвера 473.04); для Windows 10 64-бит, Windows 11 (версия драйвера 472.98) — стандартный и DCH-версия.]]></text>
+</doc>

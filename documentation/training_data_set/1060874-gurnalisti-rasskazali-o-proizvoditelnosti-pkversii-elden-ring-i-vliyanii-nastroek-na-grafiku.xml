@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Журналисты рассказали о производительности ПК-версии Elden Ring и влиянии настроек на графику]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Рудь]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[боевик]]></keyword>
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[ролевой экшен]]></keyword>
+    <keyword type="str"><![CDATA[elden ring]]></keyword>
+    <keyword type="str"><![CDATA[fromsoftware]]></keyword>
+    <keyword type="str"><![CDATA[bandai namco entertainment]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+    <keyword type="str"><![CDATA[rpg, jrpg]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-24T11:59:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В преддверии завтрашнего релиза ролевого экшена с открытым миром Elden Ring портал Rock Paper Shotgun опубликовал руководство к ПК-версии нового проекта FromSoftware и Bandai Namco Entertainment.По словам редактора «железного» раздела Rock Paper Shotgun Джеймса Арчера (James Archer), с Elden Ring «вполне справляются» разные конфигурации. Для повышения кадровой частоты игра предлагает более десятка графических настроек.В частности, на ПК с Intel Core i5-11600K, NVIDIA GeForce GTX 1060 на 6 Гбайт (в минимальных требованиях значится версия на 3 Гбайт) и 16 Гбайт оперативной памяти Elden Ring выдавала в разрешении 1080p (среднее значение):В 1440p на высших настройках GTX 1060 (6 Гбайт) может предложить 37 кадров/с, а на низких — 57 кадров/с. С RTX 3070 вместо GTX 1060 игра в том же разрешении работала при стабильных 60 кадрах/с, а в 4K — при 51 кадре/с.Арчер не советует опускать настройки до «Низких» и снижать «Тени» (см. галерею выше). Самой требовательной опцией оказалось «Качество травы» — 5 % влияния на производительность, — тогда как эффект от остальных не превышает 3 %.В ходе своей сессии Арчер также испытывал периодические падения кадровой частоты (она ограничена 60 кадрами/с) и подтормаживания в случайных местах по открытому миру. Предполагается, что эти проблемы исправит патч первого дня.Elden Ring поступит в продажу 25 февраля для PC (Steam), PS4, PS5, Xbox One, Xbox Series X и S. Ранее сообщалось, что ПК-версия предложит 4K разрешение, до 60 кадров/с, поддержку HDR и трассировку лучей (её добавят с патчем).]]></text>
+</doc>

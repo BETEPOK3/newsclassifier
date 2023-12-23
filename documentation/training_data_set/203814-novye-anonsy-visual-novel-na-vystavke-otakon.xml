@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новые анонсы Visual Novel на выставке Отакон.]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[NasuVers]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[визуальные_новеллы]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2016-08-14T08:39:43+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Sekai Project анонсировали англоязычную версию Fatal Twelwe — новой новеллы от авторов Shizuku no Oto. Она ещё даже не анонсирована в Японии! sekaiproject.com/products/fatal-twelve/ MangaGamer анонсировали англоязычную версию Hapymaher от Purple Software. (Анценз) (Новый партнер) youtube mangagamer.org/hapymaher/ MangaGamer анонсировали англоязычную версию Sono Hanabira ni Kuchizuke o - Nyuu Jene! (Анценз) youtube mangagamer.org/sonohana/ MangaGamer анонсировали англоязычную версию Sorcery Jokers. Планируется релиз как 18+ версии, так и версии для Steam(ну то есть 18+). (Анценз) (Новый партнер) youtube mangagamer.org/sorceryjokers/ MangaGamer анонсировали англоязычную версию Shiei no Sona-Nyl -What a Beautiful Memories-. Как и в случае с Ourai no Gahkthun, планируется релиз в Steam. Также планируется подтянуть новеллу до HD разрешения, если не возникнет технических проблем. youtube mangagamer.org/sona-nyl/ MangaGamer анонсировали англоязычные версии Rance 5D и Rance VI. (Анценз) Игры будут продаваться вместе, а помимо этого MangaGamer работают с Alice Soft над ремастером Rance VI. youtube youtube mangagamer.org/rance/ P.S. Анонсы...кончить можно. вывод: онгоинги не нужны, аниме теперь в лоу приорити по трате часов]]></text>
+</doc>

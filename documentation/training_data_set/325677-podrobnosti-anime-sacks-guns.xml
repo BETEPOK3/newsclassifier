@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Подробности аниме  "Sacks&Guns!!"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[дата_показа]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-12-04T18:57:09+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Команда сериала  Sacks&Guns!! , объявила новых сэйю и дату показа. Экранизация базируется на новелле "Sakugan Labyrinth Marker" за авторством Некотаро Инуи, которая была написана в рамках проекта Project Anima. Новелла эта стала победителем в номинации «Научная фантастика /робот» Project Anima.   Производство: Satelight. Режиссёр: Дзюндзи Вада Сценарист:  Yuri Shibamura Композитор:  Eriko Kimura Дизайн персонажей:  Yuji Iwahara Дизайн Меха: Станислас Брюне (Stanislas Brunet)  Главный дизайнер:  Kaho Kouda Действие разворачивается в странном Лабиринте, где живут отец и дочь. Время здесь течет бесконечно, ибо люди уже давно не пользуются календарем. Парочка пускается в далекое путешествие по этому странному и жестокому миру. ПОКАЗ СОСТОИТСЯ В ОСЕННЕМ СЕЗОНЕ, 2021 ГОДА.]]></text>
+</doc>

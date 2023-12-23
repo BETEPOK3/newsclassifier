@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Lenovo готовит игровой компьютер IdeaCentre Gaming на платформе Intel Alder Lake]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[компьютер]]></keyword>
+    <keyword type="str"><![CDATA[десктоп]]></keyword>
+    <keyword type="str"><![CDATA[игровой компьютер]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[корпуса, настольные компьютеры]]></keyword>
+    <keyword type="str"><![CDATA[lenovo]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-05T07:07:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Китайская компания Lenovo, по сообщениям сетевых источников, в скором времени начнёт продажи настольного компьютера IdeaCentre Gaming 5, разработанного с прицелом на любителей игр.Новинка (модель 17IAB7) построена на аппаратной платформе Intel Alder Lake с процессором Core двенадцатого поколения. В частности, может быть установлен чип Core i7-12700 с двенадцатью вычислительными ядрами и возможностью одновременной обработки до 20 потоков инструкций. Тактовая частота достигает 4,8 ГГц.Для графической подсистемы будет предлагаться выбор из различных дискретных ускорителей: это видеокарты AMD Radeon RX 6500 XT и Radeon RX 6400, а также NVIDIA GeForce RTX 3060, GeForce RTX 3060 Ti, GeForce GTX 1660 Super и GeForce GTX 1650.Говорится о поддержке оперативной памяти DDR4. Компьютер может быть оборудован твердотельным модулем формата М.2 и двумя накопителями типоразмера 3,5 дюйма.На фронтальную панель выведены два порта USB Type-A, разъём USB Type-C и стандартное аудиогнездо на 3,5 мм. Предусмотрена подсветка в виде вертикальной полосы. Сведений об ориентировочной цене пока нет. ]]></text>
+</doc>

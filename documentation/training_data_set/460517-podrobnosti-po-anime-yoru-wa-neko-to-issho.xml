@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Подробности по аниме «Yoru wa Neko to Issho»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[дата_показа]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-05-27T15:15:12+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания  Kadokawa  объявила актерский состав, исполнителя музыкальной темы и дату премьеры аниме   Yoru wa Neko to Issho Вечера с кошкой . Трансляция начнется 3 августа 2022 года. СОСТАВ СОЗДАТЕЛЕЙ Производство:  Studio Puyukai Режиссер / Сценарист:  Minoru Ashina Минору Асина Дизайн:   Minoru Takehara Минору Такэхара  [персонажи] Композитор:  Kana Utatane Кана Утаканэ   Звукорежиссер:  Fumiyuki Gou Фумиюки Го Когда Фута приходит домой усталым ночью, все, что он хочет сделать, это провести время со своей кошкой. Все таинственные повадки и манеры домашних кошек тщательно воспроизведены в этой непринужденной и милой комедии о жизни с очаровательным пушистым комочком! СЕЙЮ И ПЕРСОНАЖИ Ayahi Takagaki Аяхи Такагаки  в роли Kyuruga (Кот) Satoshi Hino Сатоси Хино  в роли  Футы Atsumi Tanezaki Ацуми Танэдзаки  в роли Пи-чан МУЗЫКАЛЬНАЯ ТЕМА Kashitarou Itou Каситаро Ито  исполнит муз.темы]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Трейлер и подробности к аниме «Rurouni Kenshin»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Трейлер]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-09-24T09:15:51+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Вышел новый трейлер аниме  «Бродяга Кэнсин» . Представили персонал, актерский состав и огласили год премьеры.  Трансляция начнется в 2023 году. СОСТАВ СОЗДАТЕЛЕЙ Производство:  LIDEN FILMS Режиссёр:  Hideyo Yamamoto Хидэё Ямамото Сценарист:  Hideyuki Kurata Хидэюки Курата Дизайнер персонажей:  Terumi Nishii Тэруми Ниси Композитор:  Yū Takami Кэнсин Химура — участник тайной войны эпохи Бахумацу. Когда-то он принёс много боли и зла в этот мир, а теперь пытается искупить свою вину. Мужчина ходит по стране в образе «простака» и помогает всем нуждающимся, которые встречаются на его пути. СЕЙЮ И ПЕРСОНАЖИ Souma Saitou Сома Сайто  в роли  Кэнсин Химуры Rie Takahashi Риэ Такахаси   в роли  Каору Камии]]></text>
+</doc>

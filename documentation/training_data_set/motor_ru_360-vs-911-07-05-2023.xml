@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Видео: Ferrari 360 Modena и Porsche 911 GT3 сравнили в гонке по прямой]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Александр Пономарёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[дрэг-рейсинг]]></keyword>
+    <keyword type="str"><![CDATA[911]]></keyword>
+    <keyword type="str"><![CDATA[суперкары]]></keyword>
+    <keyword type="str"><![CDATA[gt3]]></keyword>
+    <keyword type="str"><![CDATA[porsche]]></keyword>
+    <keyword type="str"><![CDATA[ferrari]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2023-05-06T12:00:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Блогеры устроили дуэль спорткаров Ferrari 360 Modena и Porsche 911 GT3. Американская команда Hoonigan, которая помимо подготовки автомобилей к гонкам ведёт и собственный блог, представила очередной эпизод своего онлайн-проекта This vs. That. В новой гонке по прямой авторы проекта устроили сравнение двух не самых привычных для этой дисциплины автомобилей — соперниками стали спорткары Ferrari 360 Modena и Porsche 911 GT3. Дело в том, что обе модели гораздо чаще можно увидеть на кольцевых трассах, чем на дрэг-стрипе.
+Немецкий спорткар представлен Porsche 911 GT3 поколения 997.2 — заднеприводное купе 2010 года оснащено атмосферным 3,8-литровым оппозитным 6-цилиндровым двигателем мощностью 450 лошадиных сил.
+Мотор сочетается с 6-ступенчатой механической коробкой передач, а весит модель около 1300 килограммов. Что касается Ferrari, то участвующая в гонке 360 Modena выпущена в 1999 году.
+Заднеприводный спорткар имеет в своём арсенале 400-сильный атмосферный 3,6-литровый V8 и 6-ступенчатую роботизированную коробку передач. Весит купе почти полторы тонны. В итоге получилась дуэль двух заднеприводных двухдверок, каждая из которых представляет разные школы автомобилестроения и разный подход к созданию спорткаров.]]></text>
+</doc>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Подробности об аниме-адаптации Splinter Cell]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Harvester of Sorrow]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[игра]]></keyword>
+    <keyword type="str"><![CDATA[netflix]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-04-24T22:28:17+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В январе 2021 Netflix сделал множество анонсов, связанных с аниме-адаптациями различных IP, таких как: Resident Evil, The Witcher, Tomb Raider, Assasin's Creed. Одной из таких стала адаптация Splinter Cell. Сценарий для сериала написал один из создателей фильма "Джон Уик" - Дерек Колстад. В инртервью для Collider он рассказал, что сценарий уже готов и написан для двух сезонов по 8 серий, каждая из которых будет длиться около 25 минут. Так же он объявил, что не стоит ждать аниме раньше середины 2022 года, так как сами Ubisoft, возможно, готовят софт-ребут серии. По мнению Колстада аниме-адаптация Splinter Cell будет лучшим анимированным экшеном, среди всего, что выпускал Netflix и всем любителям жанра точно стоит его посмотреть.]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Манга «Hunter x Hunter» возвращается ]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[дата]]></keyword>
+    <keyword type="str"><![CDATA[возвращение]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-09-19T23:31:18+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Официальный твиттер журнала  Shonen Jump  объявил, что 37-й том манги  Ёсихиро Тогаси   «Охотник х Охотник»  выйдет  4-го ноября 2022 года .  Охотники — это элитный класс, способный выслеживать магических существ, сокровища и даже других людей. Но такие почести возможны только после того, как вы получите особую лицензию, и только один из сотни тысяч человек получает ее из-за суперсложного экзамена. Те, кто успешно сдают экзамен, получают доступ к запретным территориям, закрытой информации и имеют право называть себя Охотниками. Главный герой, 12-летний мальчик Гон Фрикс как раз собирается сдать экзамен, чтобы найти своего отца. На его пути будет множество трудностей, преград, но также он встретит и много друзей.]]></text>
+</doc>

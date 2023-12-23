@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Steam Deck сравнили с другими приставками — консоль Valve оказалась настоящим гигантом]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[steam deck]]></keyword>
+    <keyword type="str"><![CDATA[портативная консоль]]></keyword>
+    <keyword type="str"><![CDATA[игровые консоли]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-04T22:50:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Консоль Steam Deck, которая поступит в продажу уже в этом месяце, оказалась самой габаритной игровой консолью среди себе подобных. Это следует из фотографий энтузиаста Кэри Голомба (Cary Golomb), получившего консоль Valve для тестирования, а также имеющего на руках множество различных портативных приставок из прошлого и настоящего.По сравнению с Nintendo Switch OLED, которая примерно на 3 см шире обычной Switch, приставка Steam Deck оказалась длиннее примерно на ширину двух с половиной контроллеров Joy Con. Кроме того, она заметно шире консоли Nintendo.Ближайшая по размеру к Steam Deck из современных консолей — это Aya Neo Next на процессоре Ryzen 7 5825U (Zen 3). Однако даже она проигрывает в габаритах решению Valve.]]></text>
+</doc>

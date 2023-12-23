@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[В Steam началась раздача приключения Dear Esther в честь его 10-летия]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Рудь]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[приключение]]></keyword>
+    <keyword type="str"><![CDATA[the chinese room]]></keyword>
+    <keyword type="str"><![CDATA[dear esther]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+    <keyword type="str"><![CDATA[secret mode]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-14T20:47:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Разработчики из британской студии The Chinese Room и издательство Secret Mode объявили о старте акции, в рамках которой можно присвоить себе Steam-версию приключения Dear Esther бесплатно.Чтобы стать гордым обладателем бесплатной копии Dear Esther: Landmark Edition (включает комментарии разработчиков) в цифровом магазине Valve, достаточно перейти на её страницу и нажать «Добавить на аккаунт».Раздача Steam-версии Dear Esther продлится 48 часов и закончится 16 февраля в 18:00 по московскому времени. Подарить игру решили в честь десятилетия с момента её самостоятельного релиза.Напомним, Dear Esther дебютировала в 2008-м в виде модификации для Half-Life 2, а вследствие своей популярности удостоилась отдельного издания — произошло это 14 февраля 2012 года.Dear Esther представляет собой так называемый симулятор ходьбы. Цель игрока — добраться до радиовышки, по пути выслушав отрывки из письма, адресованного некоей женщине по имени Эстер.]]></text>
+</doc>

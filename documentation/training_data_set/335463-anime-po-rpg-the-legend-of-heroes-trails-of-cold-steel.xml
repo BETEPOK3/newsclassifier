@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Аниме по РПГ "The Legend of Heroes: Trails of Cold Steel"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[адаптация]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-03-09T18:37:51+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[На ивенте в честь 40-летия Nihon Falcom Corporation прозвучал анонс аниме-адаптации игры "The Legend of Heroes: Trails of Cold Steel". Игра является часть более крупной игры "The Legend of Heroes", которая впервые была выпущена в 2013 году. Действие происходит в Империи Эрибониан, где две фракции - аристократы и реформисты, сошлись в схватке за власть. Реан Шварцер, главный герой, учится в военной академии в спецклассе, который не разделен по сословному признаку, здесь есть как аристократы, как и дети простых жителей. Класс оказывается втянут в противостояние между двумя фракциями, когда появляется третья сила - террористы. Всем им предстоит противостоять студентам академии и спецкласса. Выйдет аниме в 2022 году.]]></text>
+</doc>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Американский корабль Cygnus с 3,8 тонны грузов отправился к МКС]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Наука]]></category>
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[cygnus]]></keyword>
+    <keyword type="str"><![CDATA[мкс]]></keyword>
+    <keyword type="str"><![CDATA[на острие науки]]></keyword>
+    <keyword type="str"><![CDATA[космос]]></keyword>
+    <keyword type="str"><![CDATA[nasa]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[наука]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-20T07:46:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Национальное управление по воздухоплаванию и исследованию космического пространства США (NASA) сообщило об успешном запуске грузового корабля Cygnus по программе Международной космической станции (МКС).Аппарат Cygnus стартовал на борту одноразовой ракеты Antares производства Northrop Grumman. Запуск осуществлён 19 февраля 2022 года в 20:40 по московскому времени. Носитель стартовал с космодрома Уоллопс, расположенного на восточном побережье штата Вирджиния (США).До орбитального комплекса корабль доберётся в предстоящий понедельник, 21 февраля. Его захват осуществят астронавты NASA Раджа Чари (Raja Chari) и Кейла Бэррон (Kayla Barron) при помощи роботизированного манипулятора Canadarm2. Аппарат будет пристыкован к модулю Unity.Грузовой корабль Cygnus доставит на борт МКС приблизительно 3,8 тонны различных грузов. Это, в частности, оборудование и материалы для проведения различных научных экспериментов, в том числе направленных на изучение старения кожи в условиях космического пространства и влияния лекарственных препаратов на новообразования.Нынешний запуск стал 17-ой миссией Northrop Grumman по доставке грузов на МКС в рамках контракта с NASA. ]]></text>
+</doc>

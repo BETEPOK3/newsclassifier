@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[ADATA представила флеш-карту Premier Extreme SDXC SD7.0, которая быстрее доступных SSD]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[модули озу, карты памяти, флеш-накопители, кардридеры]]></keyword>
+    <keyword type="str"><![CDATA[sd-карта]]></keyword>
+    <keyword type="str"><![CDATA[карта памяти]]></keyword>
+    <keyword type="str"><![CDATA[sdxc]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[флеш-карта]]></keyword>
+    <keyword type="str"><![CDATA[adata]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-17T11:02:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания ADATA Technology объявила о выпуске карты памяти Premier Extreme SDXC SD7.0 Express Card — это перовое в мире изделие SD Express, получившее сертификат SD 7.0 от организации SD Association.Новинка прошла процедуру SD Express Verification Program (SVP), которая подтверждает, что флеш-карта соответствует строгим стандартам интерфейса SDA в отношении производительности и надёжности. Решение может применяться в персональных компьютерах, а также камерах для съёмки материалов с разрешением Ultra HD / 4K.Использован контроллер SMI SM2708AB. Для обмена данными задействован интерфейс PCIe 3.0 x1 (спецификация NVMe). Заявленная скорость чтения информации достигает 800 Мбайт/с, скорость записи — 700 Мбайт/с. Это примерно в полтора раза выше, чем у твердотельных накопителей с интерфейсом SATA 3.0. По сравнению с SD-картами UHS-II и SD-картами UHS-I достигается увеличение производительности в 2,7 и 8 раз соответственно. Обеспечивается обратная совместимость со стандартом UHS-I.Изделие имеет код исправления ошибок для обеспечения точности данных. Флеш-карта ударопрочна, устойчива к рентгеновским лучам, статическому электричеству и не боится воды. Она протестирована для оптимальной работы при высоких и низких температурах.Карты Premier Extreme SDXC Express Card будут предлагаться в модификациях вместимостью 256 и 512 Гбайт. О цене не сообщается. ]]></text>
+</doc>

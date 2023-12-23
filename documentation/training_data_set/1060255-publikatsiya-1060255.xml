@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Intel Sapphire Rapids с 48 ядрами сравнили с флагманскими AMD Milan-X — победитель не определился]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[intel]]></keyword>
+    <keyword type="str"><![CDATA[epyc]]></keyword>
+    <keyword type="str"><![CDATA[amd]]></keyword>
+    <keyword type="str"><![CDATA[процессоры]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[sapphire rapids]]></keyword>
+    <keyword type="str"><![CDATA[сравнение]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-15T19:05:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Инсайдер YuuKi_AnS поделился более подробной информацией о производительности системы на базе двух инженерных образцов серверного 48-ядерного и 96-поточного процессора Intel Xeon Scalable 4-го поколения (Sapphire Rapids) в различных синтетических тестах. Ранее тот же источник сообщил о быстродействии этих процессоров в тестах AIDA64 и Cinebench R15.Инсайдер сравнил систему на базе двух процессоров Sapphire Rapids с системами на базе двух Xeon Platinum 8380 (Ice Lake-SP) и двух AMD Epyc 7773X (Milan-X). Заметим, что в отличие от последних протестированные 48-ядерные чипы не являются флагманами — таковыми станут 56-ядерными чипы. Ещё заметим, что тесты образцов Sapphire Rapids проводились с отключённой поддержкой инструкций AVX-512. По данным инсайдера, в этой модели поддержка этих инструкций будет предлагаться в качестве дополнительной платной опции. Также отмечается, что BIOS для материнской платы, на которой испытывались чипы Sapphire Rapids, пока не оптимизирован.Платформа AMD Epyc использовала ОЗУ стандарта DDR4-2800. Напомним, что для них официально заявлена поддержка DDR4-3200. Информации о стандарте используемой памяти у платформ Sapphire Rapids и Ice Lake-SP информатор не предоставил. Однако отметим, что Sapphire Rapids официально поддерживают стандарт DDR5-4800. Разница в используемом стандарте памяти вряд ли будет заметна в тестах Cinebench, но в других случаях она может оказать влияние на результат, что следует из бенчмарков CPU-Z и V-Ray. Производительность систем проверялась в бенчмарках Cinebench R20, Cinebench R23, V-Ray, CPU-Z и AIDA64.Как можно заметить на изображении выше, результаты получились смешанными. Разница между Ice Lake-SP и Sapphire Rapids в одноядерном и многоядерном тестах Cinebench R23 оказалась минимальной. В идеальных условиях система на базе двух процессоров Sapphire Rapids могла бы показать результат ближе к 80 тыс. баллов, то есть гораздо ближе к показателю AMD Epyc 7773X. Однако этому могла помешать неоптимизированная прошивка BIOS платформы Intel. В тестах на быстродействие кеш-памяти L2 и L3 система на базе двух Milan-X оказалась ожидаемо лучше, поскольку каждый CPU оснащён 768 Мбайт буферной памяти 3D V-Cache. В то же время задержки основного стека памяти у платформы AMD оказались выше, чем у конкурентов — 126 нc против 106,4 нс у Sapphire Rapids и 84 нс у Ice Lake-SP.]]></text>
+</doc>

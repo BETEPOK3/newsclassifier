@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Розничное издание Sifu получило название и дату выхода]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Рудь]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[боевик]]></keyword>
+    <keyword type="str"><![CDATA[sifu]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+    <keyword type="str"><![CDATA[экшен]]></keyword>
+    <keyword type="str"><![CDATA[microids]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[playstation]]></keyword>
+    <keyword type="str"><![CDATA[sloclap]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-04T20:01:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Издательство Microids и разработчики из независимой французской студии Sloclap (Absolver) раскрыли название, дату выхода и наполнение розничной версии предстоящего рукопашного боевика Sifu.О том, что ближайшей весной Sifu удостоится выпуска на дисках благодаря усилиям со стороны Microids, объявили ещё в декабре 2021 года, однако дополнительные подробности релиза до недавнего времени не поступали.Как стало известно, розничное издание Sifu называется Vengeance Edition и поступит в продажу 3 мая текущего года для PS4 и PS5. К анонсу приурочили отдельный 40-секундный трейлер.Что касается наполнения Sifu: Vengeance Edition, то в него, помимо копии игры, входит стилбук, 48-страничный артбук, три литографии и цифровой саундтрек. Предзаказы набора пока доступны только через британский интернет-магазин Game (£45).Релиз Sifu в цифровом формате ожидается уже 8 февраля на PC (Epic Games Store), PS4 и PS5. По сюжету герой — студент кунг-фу — владеет волшебным амулетом, который возрождает его после смерти, отнимая несколько лет жизни.]]></text>
+</doc>

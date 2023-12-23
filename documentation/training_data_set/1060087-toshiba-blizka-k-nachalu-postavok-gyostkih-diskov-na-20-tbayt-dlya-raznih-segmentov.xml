@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Toshiba близка к началу поставок жёстких дисков на 20 Тбайт для разных сегментов, включая ПК]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[toshiba]]></keyword>
+    <keyword type="str"><![CDATA[жесткие диски, системы хранения данных, интерфейсы, nas]]></keyword>
+    <keyword type="str"><![CDATA[hdd]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[жёсткий диск]]></keyword>
+    <keyword type="str"><![CDATA[накопитель]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-13T09:13:05+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В организации SATA-IO (Serial ATA International Organization), которая занимается развитием и стандартизацией технологии SATA, прошли тесты на совместимость жёсткие диски Toshiba нового поколения. Речь идёт о Nearline-устройствах, которые войдут в серию MG10.Ёмкость накопителей составит до 20 Тбайт. В основу ляжет технология FC-MAMR, или Flux Control Microwave Assisted Magnetic Recording. Это система магнитной записи с микроволновой поддержкой с управляемым потоком — фирменная реализация MAMR от Toshiba.Конструкция MG10 предусматривает наличие десяти пластин и герметичной зоны с заполнением гелием. Применение гелия позволяет добиться низкого энергопотребления и повысить плотность хранения данных.Сообщается, что анонс Nearline-дисков Toshiba на 20 Тбайт состоится до конца текущего финансового года, который у компании длится до 31 марта 2022-го. Иными словами, устройства дебютируют в ближайшие недели.Для MG-решений предусмотрено использование интерфейсов SATA и SAS. Форм-фактор — 3,5". Скорость вращения шпинделя составляет 7200 оборотов в минуту.Кроме того, готовятся жёсткие диски Toshiba вместимостью 20 Тбайт серий MN10 и MD10. Первые найдут применение в сетевых хранилищах данных (NAS), вторые — в настольных компьютерах. ]]></text>
+</doc>

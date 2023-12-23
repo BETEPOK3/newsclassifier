@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Lenovo оснастила ультрабук N7 китайским процессором Zhaoxin и экраном 2.2K]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[ноутбуки и нетбуки]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[ноутбук]]></keyword>
+    <keyword type="str"><![CDATA[lenovo]]></keyword>
+    <keyword type="str"><![CDATA[ультрабук]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-19T16:45:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Lenovo подготовила к выпуску портативный компьютер Kaitian N7 с любопытными техническими характеристиками. Дело в том, что в основу ультрабука лёг китайский процессор Zhaoxin KaiXian KX-6600MA4 на микроархитектуре LuJiaZui.Названный чип содержит четыре вычислительных ядра. Он изготавливается на предприятии TSMC по 16-нм технологии. Дополнительно установлен специализированный чип Lenovo, который отвечает за работу системных функций: анализ освещённости, быструю зарядку, управление энергопотреблением и пр.Компьютер оснащён 14-дюймовым дисплеем формата 2,2К, но при этом по общим габаритам сравним с 13,3-дюймовыми моделями. Масса составляет около 1,29 кг, толщина корпуса — до 14,6 мм.Ультрабук несёт на борту 16 Гбайт оперативной памяти DDR4, твердотельный накопитель NVMe вместимостью 512 Гбайт, адаптеры беспроводной связи Wi-Fi 6 и Bluetooth 5. Есть интерфейс HDMI, два порта USB Type-C и разъём USB Type-A.Среди прочего упомянуты сканер отпечатков пальцев, система охлаждения с двумя тепловыми трубками и двумя вентиляторами, аккумулятор на 61 Вт·ч. Цена новинки не называется. ]]></text>
+</doc>

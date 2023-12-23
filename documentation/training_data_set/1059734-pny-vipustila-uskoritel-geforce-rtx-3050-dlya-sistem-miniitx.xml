@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[PNY выпустила компактную видеокарту GeForce RTX 3050 для систем Mini-ITX]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[geforce]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[видеокарта]]></keyword>
+    <keyword type="str"><![CDATA[pny]]></keyword>
+    <keyword type="str"><![CDATA[графические ускорители]]></keyword>
+    <keyword type="str"><![CDATA[видеокарты]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-08T15:56:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания PNY анонсировала компактный графический ускоритель с длинным названием GeForce RTX 3050 8GB XLR8 Gaming Revel Epic-X RGB Single Fan Edition. Новинка ориентирована на настольные компьютеры небольшого форм-фактора и домашние мультимедийные центры.Видеокарта выполнена на чипе Ampere, который включает 2560 ядер CUDA, ядра трассировки лучей второго поколения и тензорные ядра третьего поколения. В оснащение входят 8 Гбайт памяти GDDR6 со 128-битной шиной. Базовая тактовая частота графического чипа составляет 1552 МГц, тактовая частота с ускорением — 1777 МГц.Новинка рассчитана прежде всего на компьютеры, построенные на материнских платах типоразмера Mini-ITX. Длина графического ускорителя равна 170 мм. При этом для установки необходимы два слота расширения.Система охлаждения содержит один вентилятор с девятилопастной крыльчаткой. Надпись GeForce RTX в торцевой части кожуха снабжена многоцветной подсветкой RGB.Устройство использует интерфейс PCI Express 4.0 x16. Для подключения мониторов доступны три разъёма DisplayPort 1.4a и коннектор HDMI 2.1. Общие габариты составляют 170 × 125 × 40 мм. Для подачи дополнительного питания служит один 8-контактный разъём. ]]></text>
+</doc>

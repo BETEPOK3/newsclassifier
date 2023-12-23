@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Ford Ranger Raptor стал машиной безопасности кольцевых гонок]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Александр Пономарёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[пикапы]]></keyword>
+    <keyword type="str"><![CDATA[ranger]]></keyword>
+    <keyword type="str"><![CDATA[ford]]></keyword>
+    <keyword type="str"><![CDATA[raptor]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2023-04-29T13:00:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Пикап Ford Ranger Raptor стал машиной безопасности кольцевых гонок Repco Supercars. Как практически нереально увидеть спортивное купе на пересечённой местности, так и маловероятно встретить подготовленный для бездорожья пикап на кольцевой гоночной трассе. Но недаром говорят, что в Австралии всё наоборот — устроители национального кольцевого чемпионата Repco Supercars Championship в качестве автомобиля безопасности для своей серии выбрали новейший пикап Ford Ranger Raptor. Так подразделение Ford Performance решило использовать популярные гонки для продвижения своего нового продукта.
+Технически автомобиль безопасности ничем не отличается — под капотом у него 400-сильный бензиновый 3,0-литровый турбомотор V6, который сочетается с 10-ступенчатой автоматической коробкой передач и постоянным полным приводом с межосевым дифференциалом, блокировками переднего и заднего дифференциалов.
+Пикап получил флуоресцентную жёлтую окраску с синими и зелёными акцентами в честь компании BP, которая является поставщиком топлива для Repco Supercars Championship. Дополнительное оборудование включает в себя проблесковые маячки и радиостанцию.
+Новый Ford Ranger Raptor будет официальным автомобилем безопасности на всех этапах чемпионата в 2023 году, а прежний Ford Mustang GT станет играть роль резервного сейфти-кара. Медицинской же машиной станет кроссовер Ford Escape ST-Line.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Подробности по аниме «Buddy Daddies»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-10-22T14:30:45+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания  Aniplex  поделилась подробностями по новому проекту студии P.A. Works. Раскрыто название, а именно  «Дружные отцы» , опубликован тизер, постер, представлен персонал, основной актерский состав, дизайн персонажей и оглашена дата премьеры.  Трансляция начнется в январе 2023 года. СОСТАВ СОЗДАТЕЛЕЙ Производство:  P.A. Works Режиссёр:  Yoshiyuki Asai Ёсиюки Асаи Сценарист:  Vio Shimokura Баё Симокура  &  Yuuko Kakihara Юко Какихара Дизайнер персонажей:  Katsumi Enami Кацуми Энами Композитор:  Katsutoshi Kitagawa Кацутоси Китагава Самой главной целью наемных убийц является... маленькая девочка!? СЕЙЮ И ПЕРСОНАЖИ Toshiyuki Toyonaga Тосиюки Тоёнага  в роли Кадзуки Курусы Kouki Uchiyama Коки Утияма  в роли Рэя Сувы Hina Kino Хина Кино  в роли Мири Унасаки]]></text>
+</doc>

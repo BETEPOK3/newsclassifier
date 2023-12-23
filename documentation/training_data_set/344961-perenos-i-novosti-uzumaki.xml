@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Перенос и новости "Uzumaki" ]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[обновления]]></keyword>
+    <keyword type="str"><![CDATA[перенос]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-06-16T09:24:24+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[На фестивале в Анси, Adult Swim представила новый тизер к аниме  Спираль , однако сообщили что экранизация переносится на октябрь 2022 год. СОСТАВ СОЗДАТЕЛЕЙ Производство: Production I.G  Режиссёр:  Hiroshi Nagahama Сценарий: Аки Итами Композитор: Колин Стетсон Курозу - маленький туманный городок на побережье Японии. Сюити Сайто утверждает, что этот город проклят, но не человеком, а узором - Спираль - Спиралью, тайной формой этого мира, которая обладает способностью гипнотизировать людей. И это проявляется в мельчайших деталях: морские раковины, папоротник, водовороты, ураганы. Но сильнее всего спирали проявляются в человеческих телах, навязчивой идее отца Сюити, голосе в улитке уха. Жителей Курозу охватывает безумие. Они словно попадают в водоворот, из которого нет выхода]]></text>
+</doc>

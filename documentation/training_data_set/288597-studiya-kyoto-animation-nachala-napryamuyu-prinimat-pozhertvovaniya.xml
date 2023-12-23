@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Студия Kyoto Animation начала напрямую принимать пожертвования]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Makise]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[закрыт]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2019-07-24T23:28:54+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Это следует из заявления на сайте компании. Ниже приведён перевод текста с сайта: "Что касается инцидента, произошедшего в четверг 18 июля, мы получили голоса поддержки от людей со всего мира. Спасибо вам большое. Наша компания сделает все возможное для восстановления работы (студии — прим. ред). [...] Мы хотели бы сообщить вам, что мы подготовили депозитный счет для финансовой поддержки. Мы приносим свои извинения за задержку с предоставлением информации, так как мы получили так много запросов (от СМИ и пока не готовы их предоставить — прим.ред)." Ранее Sentai Filmworks объявила о сборе средств на поддержку Kyoto Animation. Эта инициатива  уже собрала более 2.1 млн долларов . Ссылка на новость:  www.kyotoanimation.co.jp/information/?id=3075 Спасибо за наводку:  Gachaponster]]></text>
+</doc>

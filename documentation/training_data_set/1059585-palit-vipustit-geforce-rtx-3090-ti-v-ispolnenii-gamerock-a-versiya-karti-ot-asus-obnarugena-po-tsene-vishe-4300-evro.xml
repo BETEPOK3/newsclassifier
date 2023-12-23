@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Palit выпустит GeForce RTX 3090 Ti в исполнении GameRock, а карту ASUS оценили в €4300]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[видеокарта]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[geforce rtx 3090 ti]]></keyword>
+    <keyword type="str"><![CDATA[видеокарты]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-06T08:42:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Palit собирается выпустить видеокарту GeForce RTX 3090 Ti в исполнении GameRock. Информация о ней была обнаружена на турецкой версии сайта производителя. Вскоре она была удалена, но сохранилась в кеше Google, пишет портал VideoCardz.Согласно имеющимся данным, графический процессор Palit GeForce RTX 3090 Ti GameRock OC будет работать на частоте 1890 МГц, что примерно на 30 МГц выше, чем у эталонной версии ускорителя. Ожидается, что новинка получит заявленный TDP в 460 Вт, что на 10 Вт больше, чем у версии Founders Edition.Модель GeForce RTX 3090 Ti от Palit — лишь одна из многих нерефересных версий данного ускорителя, которые планируются к выпуску. Ранее мы уже видели вариант EVGA Kingpin, версии от MSI и ASUS. К слову, последняя в различных исполнениях была обнаружена в базах данных некоторых европейских ретейлеров, у которых цена на неё варьируется от 4332 до 4577 евро, что значительно выше актуальных цен на обычную GeForce RTX 3090.Сама NVIDIA пока не сообщала, когда собирается выпустить GeForce RTX 3090 Ti, а также не говорила о её рекомендованной стоимости.]]></text>
+</doc>

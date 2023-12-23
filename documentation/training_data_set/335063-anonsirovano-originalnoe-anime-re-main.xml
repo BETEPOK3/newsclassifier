@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсировано оригинальное аниме "Re-Main"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[kataneer]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-03-05T09:26:53+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Анонсировано новое аниме "Re-Main" по оригинальному сценарию от студии MAPPA ( Атака титанов: Финал ,  Юри на льду ). Режиссер:  Kiyoshi Matsuda Компоновка серий и сценарий: Masafumi Nishida Дизайн персонажей: Shino Tanaka Музыка: Kana Utatane Minato Kiyoumizu:  Yuuto Uemura Eitarou Oka:  Koutarou Nishiyama Jou Joujima:  Subaru Kimura Chinu Kawakubo:  Lynn Премьера новоиспеченного убийцы  Free!  состоится в этом году. История разворачивается вокруг Минато Киемизу - талантливого ученика, бросившего водное поло из-за инцидента, произошедшего с ним на третьем году средней школы. Перейдя в старшую школу, Минато обещает себе вернуться в спорт и присоединяется к школьной команде вместе со своими друзьями. Но свежесобранная команда вновь сталкивается с проблемами...]]></text>
+</doc>

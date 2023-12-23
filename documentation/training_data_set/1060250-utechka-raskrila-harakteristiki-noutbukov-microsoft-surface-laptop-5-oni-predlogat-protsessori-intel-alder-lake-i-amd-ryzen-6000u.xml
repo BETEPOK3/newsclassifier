@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Ноутбуки Microsoft Surface Laptop 5 получат мощные процессоры Intel Alder Lake и AMD Ryzen 6000U]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[ноутбуки и нетбуки]]></keyword>
+    <keyword type="str"><![CDATA[microsoft surface]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[alder lake]]></keyword>
+    <keyword type="str"><![CDATA[rembrandt]]></keyword>
+    <keyword type="str"><![CDATA[ноутбуки]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-15T17:13:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Преемники ноутбуков серии Surface Laptop 4 получат новые энергоэффективные процессоры Intel Alder Lake и AMD Ryzen 6000U (Rembrandt), говорят данные утечки, предоставленные порталом MyLaptopGuide. Ноутбуки Surface Laptop 5 будут предлагаться в двух основных конфигурациях — с 13,5-дюймовым и 15-дюймовым экранами. В обоих случаях дисплеи получат соотношение сторон 3:2, контрастность 1500:1, а также частоту обновления 120 Гц.Пятнадцатидюймовая версия ноутбука сможет предложить либо 14-ядерный и 20-поточный Core i7-1280P либо 8-ядерный и 16-поточный Ryzen 7 6980U на архитектуре Zen 3+. Напомним, что актуальная версия лэптопа Surface Laptop 4 предлагает Core i7-1187G7 (Tiger Lake) или Ryzen 7 4980U (Renoir).Младшая 13,5-дюймовая модель Surface Laptop 5 будет оснащаться 6-ядерным и 12-поточным Ryzen 5 6680U серии Rembrandt либо 12-ядерным и 16-поточным Intel Core i5-1240P или Core i7-1280P с таким же количеством ядер и потоков. Все лэптопы серии Surface 5 получат поддержку интерфейса Thunderbolt 4. Предшественник оснащается только разъёмами USB 3.1 Gen2 Type-C с альтернативным режимом работы DisplayPort 1.4.Согласно имеющейся информации, модель ноутбука на базе Ryzen 7 6980U получит поддержку ОЗУ стандарта LPDDR4X, что весьма любопытно. До настоящего момента все анонсированные модели лэптопов на базе процессоров Rembrandt имели поддержку памяти стандартов DDR5 или LPDDR5. Иными словами, либо Ryzen 7 6980U и Ryzen 5 6680U являются первыми процессорами Rembrandt с поддержкой памяти LPDDR4X или в слитых спецификациях Surface Laptop 5 есть ошибки.]]></text>
+</doc>

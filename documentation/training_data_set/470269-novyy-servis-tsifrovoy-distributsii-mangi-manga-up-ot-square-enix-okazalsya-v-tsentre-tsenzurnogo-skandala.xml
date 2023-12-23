@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новый сервис цифровой дистрибуции манги Manga Up! от Square Enix оказался в центре «цензурного» скандала]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Nyuusu Meikaa]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[цензура]]></keyword>
+    <keyword type="str"><![CDATA[скандал]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-07-31T14:02:22+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Около недели назад компания  Square Enix  (которая известна не только как игровой издатель, но и как издатель манги) запустила для западной аудитории сервис  Manga Up! , где можно читать электронные версии разнообразных манга-серий издательства, как классических, так и актуальных. Вскоре после запуска появились сообщения о неподобающей цензуре. Издательство  Square Enix , боясь оскорбить международную аудиторию, принялось закрывать чёрными плашками не только изображения, содержащие наготу, но и элементы одежды, в то время как японская аудитория наслаждается чтением работ в первозданном виде. Впоследствии  Square Enix  выпустили заявление, в котором назвали некоторые модификации  «неизбежными»  ввиду выпуска приложения за пределами Японии.]]></text>
+</doc>

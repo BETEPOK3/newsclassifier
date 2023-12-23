@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Тизер и подробности фильма «Bokura no Yoake»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[kataneer]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[тизер]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-07-04T22:38:37+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Создатели фильма  «Наш рассвет»  объявили подробности о дате выхода и команду по производству. Также вышли новый постер и тизер. Режиссер:  Tomoyuki Kurokawa Сценарий:  Dai Satou Оригинальный дизайн персонажей:  pomodorosa Дизайн персонажей, режиссер анимации:  Takahiko Yoshida Музыка:  Masaru Yokoyama Студия:  Zero-G Yuma -  Hana Sugisaki Nanako -  Aoi Yuuki Аниме выйдет в японских кинотеатрах в октябре этого года. История началась в 2038 году, когда  родители принесли подарок юному и смышлёному Юме Саватари, который всерьёз любит всё, что связано с космосом и астрономией. Этим подарком оказалась девушка-робот по имени Нанако, и Юма был рад сюрпризу ровно до тех пор, пока не узнал, что это обычная помощница по хозяйству. Разочарованный Юма всё же предпринял попытку пообщаться с Нанако о космосе, но случилось нечто непредвиденное! У робота происходит сбой системы, а затем его тело захватывает нечто, утверждающее, что является инопланетным кораблём, которому необходима помощь Юмы, чтобы вернуться обратно на просторы галактики!]]></text>
+</doc>

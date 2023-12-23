@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсировано новое аниме  «Junji Ito Maniac: Japanese Tales of the Macabre»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[ужасы]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-06-09T10:59:47+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Netflix  объявили во время прямой трансляции  Geeked Week  в среду, что разрабатывает новый проект под названием  «Junji Ito Maniac: Japanese Tales of the Macabre» .  Премьера запланирована на 2023 год.   Аниме основанное на различных историях ужасов мангаки   Junji Itou Дзюндзи Ито , в аниме будет  20 историй из творчества Ито, которые будут анимированы «впервые». За основу берутся манги  « Tomie Томиэ », « Itou Junji Kyoufu Manga Collection: Souichi no Tanoshii Nikki Соити », « Itou Junji Kyoufu Manga Collection: Kao Dorobou Похититель лиц » . Ранее  Ито  сообщил, что в его коллекции манги  « Itou Junji Kyoufu Manga Collection: Kao Dorobou Похититель лиц »  есть новый аниме-проект. Сборник манги включает в себя некоторые из наиболее известных произведений  Ито  и состоит из 11 томов, опубликованных в период с 2011 по 2013 год.]]></text>
+</doc>

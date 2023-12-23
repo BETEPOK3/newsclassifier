@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Образец флагманского процессора Intel Raptor Lake отметился в первом игровом тесте и почти догнал Core i9-12900K]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[ashes of the singularity]]></keyword>
+    <keyword type="str"><![CDATA[raptor lake]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[процессоры]]></keyword>
+    <keyword type="str"><![CDATA[intel]]></keyword>
+    <keyword type="str"><![CDATA[бенчмарк]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-11T22:22:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Образец будущего флагманского 24-ядерного, 32-поточного процессора Intel Core i9-13900K поколения Raptor Lake впервые отметился в игровом тесте. Информация о его производительности была обнаружена в базе данных игрового бенчмарка Ashes of The Singularity.Хотя в тесте очевидно принимал участие очень ранний инженерный образец Raptor Lake, уровень его производительности оказался наравне с 16-ядерным и 24-поточным Intel Core i9-12900KF серии Alder Lake, что весьма впечатляет. В бенчмарке Intel Core 13-го поколения набрал 13 400 баллов. Актуальный флагман Alder Lake там же показывает результаты в 13 300–14 000 баллов. Также он оказался быстрее актуального флагмана AMD в лице 16-ядерного, 32-поточного Ryzen 9 5950X.Поскольку бенчмарк Ashes of The Singularity до сих пор не может отличать большие и малые ядра гибридной архитектуры чипов Intel, он приписывает процессору Intel Core i9-13900K наличие 32 ядер. На самом деле этот процессор, если верить слухам, получит 8 больших ядер с поддержкой многопоточности и 16 малых ядер без поддержки технологии Hyper-Threading. Таким образом общее количество физический ядер у данной модели составит 24 штуки, а количество поддерживаемых виртуальных потоков будет равно 32. В дополнение к большему числу ядер процессоры Raptor Lake будут отличаться от моделей Alder Lake большим объёмом кеш-памяти. Весьма вероятно, что у флагманской модели общий объём кеш-памяти составит 68 Мбайт.Чип тестировался в составе системы с 32 Гбайт оперативной памяти и графическим ускорителем GeForce RTX 3090.]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Фанаты выбрали 5 лучших песен из аниме 2016 зимнего сезона]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Concorde]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true"/>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2016-03-05T17:06:42+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В прошлом месяце портал Mora.jp  запустил  голосование на выбор лучших музыкальных тем зимнего сезона 2016 года. 3 марта голосование закончилось и были подведены результаты. Всего в опросе участвовало более 5000 пользователей. Результаты голосования 1. "Niji wo Ametara" by fhána ( HaruChika  OP) youtube 2. "Ten Kakeru Hoshi" by Suara ( Utawarerumono: Itsuwari no Kamen  OP2) youtube 3. "fantastic dreamer" by Machico ( Kono Subarashii Sekai ni Shukufuku wo!  OP) youtube 4. "Orphans no Namida" by MISIA ( Mobile Suit Gundam: Iron-Blooded Orphans  ED) youtube 5. "Yoru wa Nemureru kai?" by flumpool ( Ajin  OP) youtube Согласны ли вы с этим списком? Какие музыкальные темы из этого сезона понравились именно вам?]]></text>
+</doc>

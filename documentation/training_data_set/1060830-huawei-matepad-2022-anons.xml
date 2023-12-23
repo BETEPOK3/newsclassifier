@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новая статья: Huawei MatePad (2022): скромный и массовый планшет с богатой функциональностью]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[3DNews Team]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[harmonyos 2.0]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[huawei]]></keyword>
+    <keyword type="str"><![CDATA[планшет]]></keyword>
+    <keyword type="str"><![CDATA[планшетные компьютеры и смартбуки]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-23T18:29:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Huawei недавно представила новый планшет — Huawei MatePad на базе HarmonyOS 2.0. Это модель среднего уровня с вполне неплохими характеристиками, а также богатой функциональностью, которую обеспечивает поддержка различных аксессуаров.Huawei MatePad обладает 10,4-дюймовым дисплеем с разрешением 2000 × 1200 точек, а в качестве аппаратной платформы использует не самый мощный чип HiSilicon Kirin 710A в сочетании с 4 Гбайт оперативной и 64 или 128 Гбайт флеш-памяти.Отдельно стоит заметить, что у новинки есть поддержка и чехла-клавиатуры, и пера для сенсорного ввода, и четыре встроенных динамика. По сути, Huawei MatePad — это упрощённая версия более дорогой модели MatePad 11 с акцентом на рабочих и учебных задачах. Подробнее о новинке — в нашем обзоре.]]></text>
+</doc>

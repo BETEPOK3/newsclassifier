@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонс и подробности полнометражного аниме "Bright"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+    <category type="str"><![CDATA[Фильмы]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[фильм]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-06-11T08:32:02+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Команда анонсировала анимационный фильм "Bright: Samurai Soul", который создаётся мотивам игрового художественного фильма "Bright". Фильм является сиквелом и создан эксклюзивно для стримингого сервиса Netflix. Фильм " Яркость " ( Bright ) вышел в 2017 году. В главной роли был Уилл Смит. Действие происходило в альтернативной реальности, где в Лос-Анджелесе бок о бок с людьми живут орки, гоблины и эльфы. Смит играл полицейского, которому в напарники достался грубый орк. СОСТАВ СОЗДАТЕЛЕЙ Производство: Arect Режиссёр:  Кёхей Исигуро Сценарий:  Митико Ёкотэ Дизайн персонажей:  Ацуси Ямагата Ронин Изо и орк Райден пытаются доставить эльфийку, которая владеет магическим артефактом, в город ее народа.]]></text>
+</doc>

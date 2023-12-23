@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Аниме от студентов и выпускников Токийского анимационного колледжа]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[короткометражка]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-07-20T14:11:40+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Короткометражное аниме  «Nanashi Kaidan»,  в котором будет всего 10 серий, покажут в рамка детской эстрадной программы  Oha Suta  по будням с  8 по 19 августа . СОСТАВ СОЗДАТЕЛЕЙ Производство: Shogakukan-Shueisha Productions Авторы оригинала и дизайн персонажей: студенты и выпускники  Токийского анимационного колледжа . Аниме представляет из себя сборник коротких историй ужасов на тему тревожных чувств детей, которые они ощущают в своей жизни.  СЕЙЮ И ПЕРСОНАЖИ Subaru Kimura Субару Кимура  в роли Mukuroji-kō (консьерж супермаркета, у которого по слухам есть скрытая сторона) Yoshino Aoyama Ёсино Аояма  в роли Bon (девушка, у которой семья обезвреживала опасных существ) Madoka Asahina Мадока Асахина  в роли Koko (не общительный, тихий мальчик, который открыт только для Bon)]]></text>
+</doc>

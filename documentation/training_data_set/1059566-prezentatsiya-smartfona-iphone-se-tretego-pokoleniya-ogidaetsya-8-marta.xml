@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Презентация смартфона iPhone SE третьего поколения ожидается 8 марта]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[iphone]]></keyword>
+    <keyword type="str"><![CDATA[смартфон]]></keyword>
+    <keyword type="str"><![CDATA[apple]]></keyword>
+    <keyword type="str"><![CDATA[планшет]]></keyword>
+    <keyword type="str"><![CDATA[ipad]]></keyword>
+    <keyword type="str"><![CDATA[слухи]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[мобильные телефоны, смартфоны, сотовая связь, коммуникаторы, кпк]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-05T11:13:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Apple наметила презентацию новых продуктов на первую декаду марта. Об этом сообщает Bloomberg, ссылаясь на информацию, полученную от осведомлённых лиц, которые пожелали остаться неизвестными.Анонс состоится 8 марта или близко к этой дате. Одной из новинок станет смартфон iPhone SE третьего поколения, который, по слухам, уже запущен в массовое производство. Устройство унаследует дизайн модели 2020 года (на изображениях), но при этом получит улучшенную техническую часть: процессор A15 Bionic, модем для работы в сетях 5G, усовершенствованная камера.Кроме того, на мартовском мероприятии ожидается дебют обновлённого планшетного компьютера iPad Air, который также получит поддержку 5G. В первой половине марта может состояться и релиз операционной системы iOS 15.4. Она обзаведётся улучшенной функцией Face ID, позволяющей идентифицировать пользователей по лицу даже во время ношения маски.В июне Apple проведёт традиционную конференцию для разработчиков Worldwide Developers Conference (WWDC 2022), посвящённую новым программным продуктам. А на осень нынешнего года компания наметила крупнейшую в своей истории презентацию. О готовящихся новинках можно узнать в нашем материале.]]></text>
+</doc>

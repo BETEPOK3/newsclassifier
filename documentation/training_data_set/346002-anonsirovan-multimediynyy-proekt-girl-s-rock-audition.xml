@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Анонсирован мультимедийный проект "Girl's Rock Audition"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Трейлер]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-06-28T06:56:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Продюсерский центр AgehaSprings анонсировал мультимедийный проект "Girl's Rock Audition". Данный проект будет состоять из выпуска аниме и выступления музыкальных групп на живых концертах.  На данный момент, объявлено о начале прослушивания для кандидаток. Девушки, музыканты и певицы, не только сформируют группы, но и озвучат героинь аниме. Компании принимают веб-заявки до 31 июля от женщин-жителей Японии в возрасте от 15 до 25 лет. К прослушиванию допускаются представители всех национальностей, и никакого опыта работы с группой не требуется, хотя у соискателей не должно быть действующих контрактов с конкретными звукозаписывающими компаниями и агентствами.  СОСТАВ СОЗДАТЕЛЕЙ Производство: Toei Animation & Universal Music]]></text>
+</doc>

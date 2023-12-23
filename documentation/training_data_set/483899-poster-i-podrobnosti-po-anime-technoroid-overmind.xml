@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Постер и подробности по аниме «Technoroid: Overmind»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[постер]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-10-29T16:26:39+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Официальный твиттер аниме  «Технороид: Сверхразум»  опубликовал новый постер, представил новых актеров и огласил дату премьеры.  Трансляция начнется в январе 2023 года. Действия в «Технороид: Сверхразум» происходят в развлекательной башне Babel, в одной из последних надежд людей, поскольку жизнь человечества ограничилась из-за масштабного изменения климата, вызванного увеличением солнца. Уникальные юниты и персонажи сражаются между собой за вершину башни Babel, добиваясь эмоций, которые движут людьми и андроидами в ходе выступлений. СЕЙЮ И ПЕРСОНАЖИ Mutsumi Tamura Муцуми Тамура  в роли  Эсоры Asami Seto Асами Сэто  в роли  Элизы Daiki Hamano Дайки Хамано  в роли  Бора Kenji Nojima Кэндзи Нодзима  в роли  Нобеля Takuya Kirimoto Такуя Киримото  в роли  Хакуси]]></text>
+</doc>

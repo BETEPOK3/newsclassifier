@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Неанонсированный патч для Cyberpunk 2077 на ПК добавил настройки трассировки лучей]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Владимир Куншин]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[боевик]]></keyword>
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[моды, патчи, дополнения]]></keyword>
+    <keyword type="str"><![CDATA[cyberpunk 2077]]></keyword>
+    <keyword type="str"><![CDATA[xbox]]></keyword>
+    <keyword type="str"><![CDATA[playstation]]></keyword>
+    <keyword type="str"><![CDATA[cd projekt red]]></keyword>
+    <keyword type="str"><![CDATA[steamdb]]></keyword>
+    <keyword type="str"><![CDATA[патч]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-20T19:42:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Вчера студия CD Projekt RED выпустила исправление патча 1.5 для Cyberpunk 2077 на PlayStation 4. В нём была исправлена ошибка с запуском дисковой версии экшена. Через некоторое время после выхода патча игра также обновилась и на ПК. Разработчики не сообщили о выходе хотфикса на компьютерах, поэтому игроки были удивлены новому патчу в 10,4 Гбайт в Steam (около 5 Гбайт в GOG).После установки патча в меню были обнаружены новые настройки трассировки лучей — появилась возможность отдельно выключать трассировку для локальных источников света. У рейтрейсинга также появилась новая настройка «минимальное качество». Пользователи отметили небольшой прирост производительности на ПК со слабым железом.Игроки отметили, что минимальный угол обзора в фоторежиме был повышен с 1 до 15 градусов. В базе данных SteamDB были обнаружены изменения в файлах озвучки и перевода на нескольких языках, включая русский. После обновления некоторые сторонние моды перестали работать.Масштабное обновление для Cyberpunk 2077 вышло 15 февраля на всех платформах, а также были выпущены версии для PS5 и Xbox Series X и S. Разработчики исправили множество багов и ошибок, а также добавили возможность покупать апартаменты. Сама игра была выпущена в декабре 2020 года на PC (Steam, GOG, EGS), PS4, Xbox One и в Google Stadia. ]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Трейлер и другие новости "Getter Robo Arc"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Трейлер]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[дата_показа]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-04-09T09:41:47+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[На  официальном  сайте сериала  Робот Геттер Арк , авторы представили новый трейлер, свежий постер и сообщили дату премьеру. При этом авторы подчеркнули, что экранизация выйдет в формате сериала. Также по оригинальной манге вышла целая  фпаншиза . Манга - финальная часть "Getter Robo".  СОСТАВ СОЗДАТЕЛЕЙ Студия:  Bee Media Режиссёр:  Дзюн Кавагоэ Сценарий: Тадаси Хаякава Композитор: Сихо Терада Дизайн персонажей: Хидеюки Мотохаси  &  Ёситика Курияма Действие в ней происходит через несколько лет после Getter Robo Go. Земля превратилась в постапокалиптический мир. Хаято, ныне стареющий ученый, завершил шедевр профессора Саотоме «Getter Robo Arc». Пилоты - сын Риомы, Такума, человеческий динозавр Камуи и младший брат Тайеля, Баку. Вместе с реформированной Империей динозавров они сражаются с планетой из потока Андромеды, населенной насекомыми. ПЕРСОНАЖИ И СЭЙЮ Такума Нагае: озвучивает  Yuuma Uchida Сё Камуи: озвучивает Арихиро Мукаино  Баку Ямагаси: озвучивает  Kazuhiro Sunseki Дзин Хаято: озвучивает  Naoya Uchida]]></text>
+</doc>

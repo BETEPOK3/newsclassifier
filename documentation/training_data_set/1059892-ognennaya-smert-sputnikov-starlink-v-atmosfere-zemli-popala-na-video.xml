@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Видео дня: «огненная смерть» спутников Starlink в атмосфере Земли]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Руслан Авдеев]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[космос]]></keyword>
+    <keyword type="str"><![CDATA[spacex]]></keyword>
+    <keyword type="str"><![CDATA[происшествия]]></keyword>
+    <keyword type="str"><![CDATA[интересности из мира хай-тек]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[спутники]]></keyword>
+    <keyword type="str"><![CDATA[starlink]]></keyword>
+    <keyword type="str"><![CDATA[окружающая среда]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-10T11:03:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания SpaceX отправила 3 февраля на орбиту Земли партию из 49 спутников Starlink, но большинство из них никогда не примут и не отправят данные из-за геомагнитной бури — аппараты уже начали гореть в атмосфере Земли. Процесс гибели объектов засняла камера некоммерческой организации Sociedad de Astronomia del Caribe.Как сообщалось накануне, солнечная вспышка привела к геомагнитной буре, значительно увеличившей плотность земной атмосферы, в результате чего до 40 из 49 спутников из новой партии, как ожидаются, сойдут с орбиты в ближайшие дни. Часть из них уже начала падать, сгорая в атмосфере.Распад спутников был зарегистрирован камерой общества Sociedad de Astronomia del Caribe над Пуэрто-Рико 7 февраля. Судя по высказываниям Марко Лангбрека (Marco Langbroek), отслеживающего спутники в Нидерландах, вероятно на записи именно партия объектов Starlink, поражённых геомагнитной бурей — некоторые уже перестали существовать.]]></text>
+</doc>

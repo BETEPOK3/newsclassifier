@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[WAO Corporation представила новый аниме-фильм с участием собаки о катастрофе на Фукусиме в 2011 году]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Ничего]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+    <category type="str"><![CDATA[Фильмы]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[фильм]]></keyword>
+    <keyword type="str"><![CDATA[студия]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-03-09T17:04:03+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[WAO Corporation 8 марта 2021 года сообщила о продюсировании нового театрального аниме-фильма под названием «Tongari Atama no Gonta: Futatsu no Namae o Ikita Fukushima Hisai Inu no Monogatari» (Гонта с острой головой: История Собаки с Двумя Именами во время катастрофы на Фукусиме). Фильм, являющийся адаптацией книги писателя Такеши Накамото Fukushima Yomei 1-ka Getsu no Hisai Inu Tongari Atama no Gonta, выйдет в 2022 году. Для съемок нового фильма вернутся сотрудники предыдущих аниме-фильмов WAO Corporation ( Nitaboh Нитабо: Слава создавшего цугару-дзямисэн ,  Furusato Japan Япония, наше Отечество ,  8-gatsu no Symphony: Shibuya 2002-2003 Симфония августа ), в том числе режиссер  Akio Nishizawa Акио Нисидзава , арт-директор  Tadashi Kudou Тадаси Кудо , музыкальный директор Макото Курия и анимационная студия WAO World. Фукусима Минпо, ратуша города Намиэ и издательство Kobunsha ответственны за производственное сотрудничество. Книга Накамото посвящена главноу персонажу, собаке Гонте, и ее владельцам. После того, как Гонту вынужденно оставила его семья в городе Намиэ, префектуре Фукусима, во время эвакуации из-за землетрясения и цунами в Японии в 2011 году, семья Гонты собирает команду спасателей, чтобы спасти всех оставленных домашних животных.]]></text>
+</doc>

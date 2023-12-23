@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новости об аниме-фильмах.]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[KRXKZ]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+    <category type="str"><![CDATA[Фильмы]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[фильм]]></keyword>
+    <keyword type="str"><![CDATA[перенос]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-05-10T16:43:13+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[• По данным портала The Numbers  Клинок, рассекающий демонов: Бесконечный поезд  стал самой кассовой картиной в мировом прокате за 2020-й, обойдя китайскую военную драму «Восемь сотен» с $474,6 млн. •  Детектив Конан. Фильм 24: Алая пуля  собрал 5,9 миллиарда иен (около 54,3 миллиона долларов США) и продал 4,23 миллиона билетов. Фильм занимает 1-е место четвертый уик-энд подряд •  Евангелион: 3.0+1.0  продал 5,46 миллиона билетов на общую сумму 8,3 миллиарда иен (около 76,3 миллиона доллара США) по состоянию на воскресенье. Фильм занял 3-е место в свой девятый уик-энд. • Премьера полнометражного фильма   Рыцари Сидонии 3  переносится с 14-го мая на 4 июня. • Фильм  Этот крокодил умрёт через сто дней  был перенесен на неопределённый срок.]]></text>
+</doc>

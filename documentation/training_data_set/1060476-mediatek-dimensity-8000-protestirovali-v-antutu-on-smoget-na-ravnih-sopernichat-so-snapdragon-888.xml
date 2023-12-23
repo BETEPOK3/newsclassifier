@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[MediaTek Dimensity 8000 протестировали в AnTuTu — он сможет на равных соперничать со Snapdragon 888]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[dimensity]]></keyword>
+    <keyword type="str"><![CDATA[рынок it]]></keyword>
+    <keyword type="str"><![CDATA[разгон и замеры производительности системы]]></keyword>
+    <keyword type="str"><![CDATA[бенчмарк]]></keyword>
+    <keyword type="str"><![CDATA[тестирование]]></keyword>
+    <keyword type="str"><![CDATA[soc и микросхемы-контроллеры]]></keyword>
+    <keyword type="str"><![CDATA[mediatek]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[процессоры]]></keyword>
+    <keyword type="str"><![CDATA[чипсет]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-18T00:43:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В конце прошлого года MediaTek выпустила флагманский процессор Dimensity 9000, который способен составить достойную конкуренцию Qualcomm Snapdragon 8 Gen 1. Ожидается, что компанию ему в ближайшее время составит несколько более доступных чипов. Один из них, который выйдет на рынок под названием Dimensity 8000, был протестирован в AnTuTu, где показал результат, сравнимый с предыдущим флагманом Qualcomm Snapdragon 888.Результатами теста поделился инсайдер Digital Chat Station. Согласно опубликованному им изображению, тестовая платформа на базе Dimensity 8000 набирает в бенчмарке 820 230 баллов. Для сравнения, устройства на базе Snapdragon 888 набирают от 750 до 880 тысяч баллов.Dimensity 8000 — это 5-нм чипсет, поэтому его можно сравнить с прошлогодним флагманом Qualcomm. По данным Digital Chat Station, новый чип MediaTek будет оснащён четырьмя высокопроизводительными ядрами Cortex-A78 c частотой 2,75 ГГц и четырьмя Cortex-A55. За графику будет отвечать совершенно новый GPU Mali-G510. Arm заявляет, что этот графический процессор в два раза быстрее и на 22 % энергоэффективнее, чем её предыдущие разработки. Не совсем понятно, к каким «предыдущим разработкам» относятся слова Arm, однако результат в 315 тысяч балов в AnTuTu выглядит достойно. Для сравнения, Adreno 660 в составе Snapdragon 888 и 888+ набирает от 300 до 325 тысяч баллов. GPU в Snapdragon 870 и вовсе показывает результата в 250 тысяч «попугаев».Сообщается, что Dimensity 8000 будет нацелен на конкуренцию со Snapdragon 870. Со Snapdragon 888 будет соревноваться Dimensity 8100. Инсайдер ранее сообщал, что под этим названием выйдет чип который изначально должен был называться Dimensity 8000, однако теперь сообщает, что речь идёт о двух разных продуктах. Dimensity 8100 предложит пользователям ту же конфигурацию вычислительных и графических ядер, что и младший чип, однако сможет похвастаться более высокими тактовыми частотами.]]></text>
+</doc>

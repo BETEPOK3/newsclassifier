@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Вышла игровая гарнитура Razer Blackshark V2 X White с излучателями TriForce]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[наушники]]></keyword>
+    <keyword type="str"><![CDATA[гарнитура]]></keyword>
+    <keyword type="str"><![CDATA[razer]]></keyword>
+    <keyword type="str"><![CDATA[аудио/видео периферия, наушники, веб-камеры]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-19T11:21:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Razer выпустила полноразмерные наушники накладного типа Blackshark V2 X White: модель, получившая белоснежное исполнение с чёрными элементами, уже доступна для заказа по цене около $60.В устройстве применены 50-мм излучатели Razer TriForce с возможностью индивидуальной передачи высоких, средних и низких частот. Установленный на гибкой штанге микрофон Razer HyperClear Cardioid Mic обеспечивает улучшенную передачу речи и шумоподавление.Для подключения служит аналоговый разъём 3,5 мм. Применять гарнитуру можно с персональными компьютерами, совместимыми игровыми консолями и различными мобильными гаджетами, такими как смартфоны и планшеты.Заявленный диапазон воспроизводимых частот — от 12 Гц до 28 кГц. На платформе Windows поддерживается виртуальное объёмное звучание формата 7.1.Реализовано пассивное шумоподавление. Высокий уровень комфорта достигается благодаря более толстому оголовью и улучшенным амбушюрам из пены с эффектом памяти и покрытием из дышащей ткани и мягкой искусственной кожи. Масса составляет около 240 г. ]]></text>
+</doc>

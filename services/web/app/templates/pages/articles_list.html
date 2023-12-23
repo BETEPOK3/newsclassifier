@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="ru">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        {% include 'shared/links.html' %}
+        <link rel="stylesheet" href="/static/css/pagination.css" type="text/css">
+        <meta http-equiv="Content-Type" content="text/html; Charset=UTF-8">
+        <title>Статьи</title>
+    </head>
+    <body id="page-top">
+        <div id="wrapper">
+            {% include 'shared/left_nav.html' %}
+            <div class="d-flex flex-column" id="content-wrapper">
+                <div id="content" class="main-div">
+                    {% include 'shared/top_nav.html' %}
+                    <div style="padding: 10px">
+                        <div style="padding: 10px">
+                            <div>
+                                <label>Общее количество статей: {{ content.articles_count }}</label>
+                            </div>
+                            <br>
+                            <form class="row" action="/index" method="get">
+                               <div class="col-3">
+                                   <label>Категория: </label>
+                                   <select id="category_select" name="category">
+                                       <option value="-1" selected>Все</option>
+                                       {% for category in content.categories %}
+                                            <option value="{{category.category_id}}">{{category.category_name}}</option>
+                                       {% endfor %}
+                                   </select>
+                               </div>
+                               <div class="col-3">
+                                   <label>Сортировать по: </label>
+                                   <select id="sort_by_select" name="sort_by">
+                                       <option selected value="title">Названию</option>
+                                       <option value="date">Дате</option>
+                                       <option value="author">Автору</option>
+                                   </select>
+                               </div>
+                               <div class="col-6">
+                                    <input id="search_text" name="search_text" type="text" />
+                                    <input type="submit" value="Искать" />
+                                    <script src="/static/js/form_storing_script.js"></script>
+                               </div>
+                           </form>
+                       </div>
+                        <div>
+                            <div style="height: 4px; background-color: black"></div>
+                            {% for article in content.articles %}
+                                <div class="row" style="cursor: pointer;" onclick="window.location='/article?article_id={{article.article_id}}'">
+                                    <div class="col-4">
+                                        <h5>{{ article.article_title }}</h5>
+                                        <p>{{ article.article_author }}</p>
+                                        <p>{{ article.article_date.strftime('%d.%m.%Y') }}</p>
+                                        <p class="col-4">{% for category in article.categories %}{{category.category_name}}{{ ", " if not loop.last }}{% endfor %}</p>
+                                    </div>
+                                    <div class="col-8">
+                                        <p>{{ article.article_text[:300] }}...</p>
+                                    </div>
+                                </div>
+                                <div style="height: 4px; background-color: black"></div>
+
+                            {% endfor %}
+                        </div>
+                        <div id="pagination" class="pagination_section">
+                        </div>
+                        <script src="/static/js/pagination_script.js"></script>
+                        <script>
+                                let ac = {{content.articles_count}};
+                                let curPage = {{content.cur_page}};
+                                setPag(ac, curPage);
+                        </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% include 'shared/scripts.html' %}
+    </body>
+</html>

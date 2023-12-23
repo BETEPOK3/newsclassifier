@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Xiaomi готовит смартфон Redmi Note 11E Pro с чипом Snapdragon 695 и 120-Гц экраном]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[redmi]]></keyword>
+    <keyword type="str"><![CDATA[смартфон]]></keyword>
+    <keyword type="str"><![CDATA[xiaomi]]></keyword>
+    <keyword type="str"><![CDATA[слухи]]></keyword>
+    <keyword type="str"><![CDATA[мобильные телефоны, смартфоны, сотовая связь, коммуникаторы, кпк]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-11T07:50:53+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В базе поддерживаемых устройств Google Play появилась информация о новом смартфоне Xiaomi. Аппарат фигурирует под кодовым обозначением 2201116SC, а на коммерческий рынок он, как ожидается, выйдет под именем Redmi Note 11E Pro.Сообщается, что в основу новинки может лечь модель Redmi Note 11 Pro 5G, не так давно дебютировавшая на международном рынке. Устройству приписывают наличие 6,67-дюймового дисплея OLED FHD+ с частотой обновления до 120 Гц.«Сердцем» послужит процессор Qualcomm Snapdragon 695, в состав которого входят восемь вычислительных ядер Kryo 660 с тактовой частотой до 2,2 ГГц, графический ускоритель Adreno 619 и сотовый модем Snapdragon X51 5G.Информация о модели Redmi Note 11E Pro уже появилась на сайте Китайского центра сертификации телекоммуникационного оборудования (TENAA). Говорится о наличии до 16 Гбайт оперативной памяти и флеш-накопителя вместимостью до 512 Гбайт. Для сравнения: у Redmi Note 11 Pro 5G объём ОЗУ составляет 6 или 8 Гбайт, а ёмкость флеш-модуля — 64 или 128 Гбайт.Питание обеспечит аккумуляторная батарея на 5000 мА·ч с поддержкой 67-ваттной зарядки. Официальная презентация смартфона ожидается в ближайшее время. ]]></text>
+</doc>

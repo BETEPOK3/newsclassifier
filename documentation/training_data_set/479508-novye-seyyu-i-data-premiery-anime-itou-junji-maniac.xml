@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новые сейю и дата премьеры аниме «Itou Junji: Maniac»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[сейю]]></keyword>
+    <keyword type="str"><![CDATA[дата]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-09-25T10:57:40+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[На трансляции  Netflix Tudum Japan  представили новых актеров и огласили дату премьеры аниме  «Дзюндзи Ито: Маньяк» .  Премьера состоится на платформе Netflix 19-го января 2023 года. СЕЙЮ И ПЕРСОНАЖИ История «The Hanging Balloons»: Riho Sugiyama Рихо Сугияма  в роли Kazuko Morinaka  Daisuke Kishio Дайсукэ Кисио  в роли Shinya Shiraishi  Iori Nomizu Иори Номидзу  в роли Kagumi Fujino  История «Tomie: Photo»: Rie Suegara Риэ Суэгара  в роли Tomie  Yumiri Hanamori Юмири Ханамори  в роли Tsukiko Izumisawa  Taku Yashiro Таку Ясиро  в роли Yamazaki  Tomokazu Sugita Томокадзу Сугита  в роли Tachi  Hiroyuki Yoshino Хироюки Ёсино  в роли Kimata  История «The Room With 4 Walls»: Yuuji Mitsuya Юдзи Мицуя  в роли Sōichi  Yoshimasa Hosoya Ёсимаса Хосоя  в роли Kōichi  Yuka Saitou Юка Сайто  в роли Sayuri  Yutaka Aoyama Ютака Аояма  в роли Tagaisu  История «Intruder»: Hiro Shimono Хиро Симоно  в роли Oshikiri]]></text>
+</doc>

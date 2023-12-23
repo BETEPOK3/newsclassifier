@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Intel продемонстрировала работу инженерного образца 24-ядерного процессора Raptor Lake]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[raptor lake]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[процессоры]]></keyword>
+    <keyword type="str"><![CDATA[intel]]></keyword>
+    <keyword type="str"><![CDATA[процессор]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-18T06:24:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[На конференции ежегодном собрании акционеров компания Intel продемонстрировала работу инженерного образца 24-ядерного и 32-поточного процессора грядущей серии Raptor Lake. Ведущие конференции также подтвердили, что наследники актуальной серии Alder Lake смогут предложить прирост производительности на двузначное число процентов.В ходе презентации Intel сообщила, что новое поколение процессоров на базе гибридной архитектуры сможет предложить до 8 производительных и до 16 энергоэффективных ядер. Иными словами, чипы Intel Core 13-го поколения получат в два раза больше энергоэффективных ядер по сравнению с моделями Alder Lake.Как и актуальная серия процессоров, новые Raptor Lake будут использовать технологический процесс Intel 7 (бывший улучшенный 10 нм). Для новых чипов заявляется совместимость с актуальным процессорным разъёмом LGA 1700 и материнскими платами для Alder Lake. Кроме того, компания пообещала наделить Raptor Lake продвинутыми функциями разгона.Для демонстрации работы инженерного образца Raptor Lake компания использовала программное обеспечение Blender и Adobe Premiere, показав загрузку всех имеющихся у чипа ядер.Запуск процессоров Intel Core 13-го поколения ожидается во второй половине 2022 года. Производитель пока не подтвердил точную дату анонса.]]></text>
+</doc>

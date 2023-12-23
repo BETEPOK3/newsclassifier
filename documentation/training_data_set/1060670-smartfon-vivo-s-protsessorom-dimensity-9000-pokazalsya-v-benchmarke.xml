@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Vivo выпустит флагманский смартфон с процессором Dimensity 9000]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[vivo]]></keyword>
+    <keyword type="str"><![CDATA[смартфон]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[мобильные телефоны, смартфоны, сотовая связь, коммуникаторы, кпк]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-21T15:00:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В распоряжении сетевых источников оказалась информация о новом смартфоне Vivo, который фигурирует под обозначением PD2186X. Ожидается, что презентация этого аппарата состоится в ближайшее время.Бенчмарк AnTuTu говорит об использовании процессора Dimensity 9000 разработки MediaTek. Этот флагманский чип содержит восемь вычислительных ядер: одно высокопроизводительное Cortex-X2 с частотой 3,05 ГГц, три Cortex-A710 с частотой до 2,85 ГГц и четыре энергоэффективных Cortex-A510 с частотой 1,8 ГГц. Изделие также объединяет акселератор Arm Mali-G710 и модем 5G.Смартфон, как ожидается, получит до 12 Гбайт оперативной памяти LPDDR5 и флеш-накопитель UFS 3.1 вместимостью до 512 или 256 Гбайт.Говорится об использовании дисплея с частотой обновления до 120 Гц. В качестве программной платформы будет применяться операционная система Android 12. Информации о системе камер на данный момент, к сожалению, нет. ]]></text>
+</doc>

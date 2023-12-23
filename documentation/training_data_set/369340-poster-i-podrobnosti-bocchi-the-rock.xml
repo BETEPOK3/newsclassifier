@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Постер и подробности «Bocchi the Rock!»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[обновления]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-03-18T20:09:14+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[На  официальном сайте  был представлен новый постер к сериалу « Одинокий рокер! ».  Трансляция в 2022 году. СОСТАВ СОЗДАТЕЛЕЙ Производство:  CloverWorks   Режиссёр:  Кэйитиро Сайто Сценарий:  Эрика Ёсида Мечтающая в будущем играть в музыкальной группе, старшеклассница Хитори Гото взялась за уроки игры на гитаре. Ничего не мешает исполнению её мечты, кроме самой Хитори, которая настолько застенчива и зажата, что не смогла завести ни одного друга, чего уж говорить о создании собственного музыкального коллектива. Сама судьба решает помочь Хитори, и та, на своё счастье, встречает Нидзику Идзити, которая играет на ударных в собственной группе и как раз подыскивает гитаристку! НОВЫЕ ПЕРСОНАЖИ И СЭЙЮ Икуо Рита: озвучивает  Хасэгава Икуми]]></text>
+</doc>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Тюнеры сделали из Ford F-150 шестиколёсный 700-сильный пикап]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Александр Пономарёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[ford]]></keyword>
+    <keyword type="str"><![CDATA[hennessey]]></keyword>
+    <keyword type="str"><![CDATA[пикапы]]></keyword>
+    <keyword type="str"><![CDATA[f-150]]></keyword>
+    <keyword type="str"><![CDATA[тюнинг]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2023-04-28T20:00:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Американское тюнинг-ателье Hennessey Performance из штата Техас славится своими проектами и наряду со сверхмощными автомобилями делает могучие трёхосные пикапы, которые фирма строит на базе стандартных четырёхколёсных моделей. Самой горячей новинкой этого класса стал новейший Hennessey VelociRaptoR 6x6, созданный на базе экстремальной заводской модели Ford Raptor R. И это один из самых сумасшедших автомобилей, которые выпускаются в наши дни.
+Кузов VelociRaptoR 6x6 повторяет VelociRaptor 6x6, в основе которого лежит Ford F-150 Raptor третьего поколения. Грузовая платформа увеличена до 2,4 метра, на 76 миллиметров увеличен дорожный просвет, в подвеске появились амортизаторы Fox и межколёсные блокировки дифференциалов в обеих из задних осей.
+Геометрическую проходимость призваны улучшить 20-дюймовые колёса, обутые в шины внешним диаметром 37 дюймов. При этом двигатель остался стандартным — под капотом монструозного пикапа расположен 710-сильный мотор Predator V8 объемом 5,2 литра от суперкара Mustang Shelby GT500, который и устанавливается на Ford Raptor R.
+В остальном же автомобиль не поменялся представляет собой фактически более мощную версию Hennessey VelociRaptor 6x6. Но отличия в цене более существенные. Если за VelociRaptor 6x6 американские тюнеры просят 400 тысяч долларов, то VelociRaptoR 6x6 обойдётся покупателям минимум в 500 тысяч долларов, включая стоимость исходного Ford Raptor R.]]></text>
+</doc>

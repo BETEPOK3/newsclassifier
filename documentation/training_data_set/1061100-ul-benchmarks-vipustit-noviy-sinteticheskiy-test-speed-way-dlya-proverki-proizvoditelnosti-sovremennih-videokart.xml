@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Вышел бенчмарк 3DMark Speed Way для тестов современных видеокарт во всех нагрузках DirectX 12 Ultimate]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[тест]]></keyword>
+    <keyword type="str"><![CDATA[3dmark]]></keyword>
+    <keyword type="str"><![CDATA[видеокарта]]></keyword>
+    <keyword type="str"><![CDATA[ul benchmarks]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-28T23:20:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания UL Benchmarks работает над новым синтетическим тестом 3DMark, который позволит оценить производительность новейших графических технологий, которые предлагаются в составе программного интерфейса DirectX 12 Ultimate.3DMark уже предлагает отдельные сценарии тестирования для измерения производительности при работе с технологиями трассировки лучей, сетчатых шейдеров и других с использованием API DirectX 12 Ultimate. Новый сценарий 3DMark Speed Way, представляет собой комплексный тест, позволяющий нагрузить систему всеми этими технологиями одновременно.Как отмечает разработчик, 3DMark Speed Way создаётся при спонсорской поддержке компании Lenovo, поэтому в сценах будет часто встречаться логотип бренда Legion, под которым выпускается игровая продукция компании.3DMark Speed Way станет доступен в Steam в конце этого года.]]></text>
+</doc>

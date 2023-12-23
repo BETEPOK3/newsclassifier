@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[В Linux 5.18 появится поддержка Intel Thread Director для управления гибридной архитектурой процессоров Alder Lake]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[alder lake]]></keyword>
+    <keyword type="str"><![CDATA[intel]]></keyword>
+    <keyword type="str"><![CDATA[linux]]></keyword>
+    <keyword type="str"><![CDATA[unix-системы]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+    <keyword type="str"><![CDATA[операционные системы]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-11T17:57:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Операционная система Linux получит поддержку планировщика Intel Thread Director, отвечающего за управление гибридной архитектурой процессоров Alder Lake. Об этом сообщает портал Phoronix. Реализация функции ожидается в обновлении Linux 5.18, которое должно увидеть свет весной этого года.Как известно, основной особенностью процессоров Intel Alder Lake является их гибридная архитектура из больших высокопроизводительных ядер Golden Cove (P-ядра) и малых энергоэффективных ядер Gracemont (E-ядра). Нагрузка между ними распределяется в зависимости от конкретных задач, что в целом позволяет снижать уровень энергопотребления системы и повышать производительность там, где это необходимо. При выполнении простых задач в работу включаются E-ядра, а при выполнении задач, требующих большей вычислительной мощности, — большие P-ядра. Управлением работы этих ядер занимается планировщик Intel Thread Director. Проблема в том, что работает он только на операционных системах Windows.В новой версии Linux 5.18, ожидающейся весной этого года, появится функция Intel Enhanced Hardware Feedback Interface (EHFI). Её наличие позволит операционной системе более грамотно распределять нагрузку между потоками и использовать P-ядра и E-ядра по назначению. По сути EHFI — этот тот же планировщик Intel Thread Director.По данным Phoronix, стабильная версия Linux 5.18 должна появиться примерно во второй половине мая.]]></text>
+</doc>

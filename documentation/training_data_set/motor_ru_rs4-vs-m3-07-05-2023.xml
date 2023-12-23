@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Видео: «заряженные» универсалы Audi и BMW сравнили в гонке по прямой]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Александр Пономарёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Автомобили]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[bmw]]></keyword>
+    <keyword type="str"><![CDATA[audi]]></keyword>
+    <keyword type="str"><![CDATA[m3 touring]]></keyword>
+    <keyword type="str"><![CDATA[rs4]]></keyword>
+    <keyword type="str"><![CDATA[дрэг-рейсинг]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2023-05-06T13:00:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Блогеры устроили битву мощных полноприводных универсалов Audi RS4 Avant и BMW M3 Touring. Подразделение BMW M, которое в 2022 году отмечало 50-летний юбилей, по случаю круглой даты выпустило первый в истории универсал M3 Touring — на базе седана BMW M3 поколения G80 была создана более практичная модификация с заводским кодом G81. Очевидно, что основным соперником новинки на рынке стал недавний монополист сегмента «заряженных» универсалов Audi RS4 Avant. В итоге получилось интересное и наглядное сравнение редких по современным меркам «заряженных» универсалов.
+Горячая во всех отношениях новинка BMW оснащается рядным 6-цилиндровым 3,0-литровым бензиновым турбомотором мощностью 510 лошадиных сил и 650 Нм крутящего момента. Двигатель сочетается с 8-ступенчатой автоматической коробкой передач и полным приводом xDrive.
+Что касается Audi, то в её арсенале 2,9-литровый бензиновый турбомотор V6, который выдаёт 450 сил и 600 Нм. Естественно, автомобиль также имеет автомат и полный привод, так что в этом плане универсалы равны. Но RS4 Avant легче M3 Touring — 1745 килограммов против 1865 килограммов.]]></text>
+</doc>

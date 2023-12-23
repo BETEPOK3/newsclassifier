@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Adata выпустила модули памяти DDR5-4800 для ноутбуков]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[модули озу, карты памяти, флеш-накопители, кардридеры]]></keyword>
+    <keyword type="str"><![CDATA[память]]></keyword>
+    <keyword type="str"><![CDATA[оперативная память]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[ddr5]]></keyword>
+    <keyword type="str"><![CDATA[озу]]></keyword>
+    <keyword type="str"><![CDATA[adata]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-01-31T14:17:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Adata анонсировала модули и комплекты оперативной памяти стандарта DDR5 в исполнении SO-DIMM: изделия ориентированы на применение в высокопроизводительных портативных компьютерах.Память функционирует на частоте 4800 МГц при напряжении питания 1,1 В. Диапазон рабочих температур простирается от 0 до плюс 85 градусов Цельсия.Выпущены модули ёмкостью 8 и 16 Гбайт. Они будут предлагаться по отдельности и в комплектах из двух штук суммарным объёмом 16 и 32 Гбайт соответственно. На изделия предоставляется пожизненная гарантия.Новинки имеют встроенную интегральную схему управления питанием PMIC (Power Management IC) для точной передачи данных и повышения энергоэффективности. Предусмотрены также средства устранения ошибок on-die ECC (Error-Correcting Code), что обеспечивает стабильность работы и надёжность.Более подробную информацию о модулях оперативной памяти можно найти здесь. Сведений об ориентировочной цене на данный момент нет. ]]></text>
+</doc>

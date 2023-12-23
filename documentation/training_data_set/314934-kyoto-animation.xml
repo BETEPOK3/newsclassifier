@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Kyoto Animation]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Grigorii]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[закрыт]]></keyword>
+    <keyword type="str"><![CDATA[kyotoanimation]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2020-07-18T13:13:48+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Ровно год с момента трагедии. Сегодня утром (18 июля) на месте бывшего здании студии-1 прошло закрытое мероприятие посвященное памяти 36 погибшим и 33 пострадавшим работникам KyoAni. В установленных шатрах, у алтаря из белых хризантем и лилий собрались более 80 семей и сотрудников Kyoto Animation. Речь брали родственники погибших, но признавались, что у них до сих пор нет слов чтобы описать глубину чувств от потери близких. Что будет с местом где располагалось здание студии пока неизвестно, некоторые местные жители высказались против строительства мемориала. P.S. Поджигатель не раскаялся и до сих пор находится на реабилитации в ожидании ареста. Он перенес 10 новейших операции по пересадки кожи стоимостью десятков миллионов йен и всё еще прикован к постели. Есть шанс что его признают невменяемым и он избежит тюремного заключения.]]></text>
+</doc>

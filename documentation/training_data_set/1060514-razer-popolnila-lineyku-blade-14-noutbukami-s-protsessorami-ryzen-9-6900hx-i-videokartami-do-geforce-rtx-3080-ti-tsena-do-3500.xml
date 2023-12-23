@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Razer представила, возможно, самый мощный 14-дюймовый ноутбук — Blade 14 получит Ryzen 9 6900HX и GeForce RTX 3080 Ti]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Руслан Авдеев]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[рынок it]]></keyword>
+    <keyword type="str"><![CDATA[видеокарта]]></keyword>
+    <keyword type="str"><![CDATA[razer]]></keyword>
+    <keyword type="str"><![CDATA[ноутбуки]]></keyword>
+    <keyword type="str"><![CDATA[видеокарты]]></keyword>
+    <keyword type="str"><![CDATA[ноутбуки и нетбуки]]></keyword>
+    <keyword type="str"><![CDATA[разработка и производство электроники]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[razer blade]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-18T12:42:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Razer начала принимать предварительные заказы на ноутбуки обновлённой серии Blade 14, получившие новейшие процессоры AMD Ryzen 6000HX на архитектуре Zen 3+, оперативную память DDR5 и флагманские видеокарты GeForce RTX. Цены ноутбуков варьируются от $2000 до $3500.Серия Razer Blade 14, представленная в начале прошлого года с процессорами Ryzen 9 5900HX на архитектуре Zen 3 и видеокартами RTX 3080, в текущем 2022 году обновилась более быстрыми моделями. Будет доступен не только флагманский вариант с Ryzen 9 6900HX на Zen 3+ и графикой GeForce RTX 3080 Ti, но и значительно более дешёвые версии с видеокартами GeForce RTX 3070 Ti и RTX 3060.Столь мощные графические решения предположительно удалось уместить в компактных корпусах 14-дюймовых ноутбуков благодаря относительно низкому уровню TGP всех трёх вариантов видеокарт, не превышающему 100 Вт. Например, Razer обещает разгон GPU до частоты 1260 МГц с TGP 100 Вт в случае с GeForce RTX 3080 Ti, тогда как тот же GPU в более габаритных ноутбуках может иметь TGP 150-175 Вт и разгоняться до 1590 МГц.Оперативную память обновили с DDR4-3200 до DDR5-4800. Её объём составляет 16 Гбайт. Для хранения данных используется NVMe SSD на 1 Тбайт. Доступны опции с дисплеями Full HD и QHD с частотой 144 и 165 Гц соответственно. Предварительные заказы уже принимаются на сайте компании, начало поставок покупателям из США ожидается с 17 марта. О продажах в других странах будет объявлено позже.]]></text>
+</doc>

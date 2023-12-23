@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Блогерам в Twitter теперь можно отправлять «чаевые» в криптовалюте Ethereum]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Павел Котов]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[деньги]]></keyword>
+    <keyword type="str"><![CDATA[ethereum]]></keyword>
+    <keyword type="str"><![CDATA[twitter]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+    <keyword type="str"><![CDATA[социальные сети]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-17T18:10:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Наиболее популярные блогеры в Twitter получили возможность получать «чаевые» не только в биткоинах, но и в криптовалюте Ethereum — достаточно указать адрес кошелька. Кроме того, для этих же целей сервис добавил поддержку трёх платёжных сервисов: Barter, Paga и Paytm.Чтобы поддержать любимого автора материально, необходимо перейти на страницу его профиля и кликнуть по кнопке «Чаевые». Включить данную функцию может любой пользователь Twitter, которому исполнилось 18 лет — достаточно отредактировать собственный профиль и активировать «Чаевые».Напомним, в сентябре прошлого года, ещё в бытность Джека Дорси (Jack Dorsey) главой сервиса, в Twitter появилась возможность отправлять деньги в биткоинах. Расширение возможностей оплаты окажется полезным не только адептам криптовалютных технологий: сервисы Barter, Paga и Paytm востребованы в Индии, Нигерии и других странах, где популярны мобильные платежи.Как подчеркнул ресурс TechCrunch, донаты в Ethereum реализованы без поддержки ENS-адресов — в профиле можно указать только «классический» адрес кошелька, клик по которому просто копирует его в буфер обмена, чтобы потом вставить его в приложении кошелька и отправить средства.]]></text>
+</doc>

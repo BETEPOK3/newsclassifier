@@ -1,0 +1,18 @@
+<html lang="ru">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Ошибка</title>
+        {% include 'shared/links.html' %}
+        <meta http-equiv="Content-Type" content="text/html; Charset=UTF-8">
+    </head>
+    <body>
+        <div>
+            <div>
+                <h4>При обработке запроса произошла ошибка</h4>
+                <p>{{content.error}}</p>
+            </div>
+        </div>
+    </body>
+    {% include 'shared/scripts.html' %}
+</html>

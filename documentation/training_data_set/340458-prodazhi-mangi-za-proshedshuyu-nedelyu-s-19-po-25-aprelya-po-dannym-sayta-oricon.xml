@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Продажи манги за прошедшую неделю (с 19 по 25 апреля) по данным сайта Oricon]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[рейтинг]]></keyword>
+    <keyword type="str"><![CDATA[продажи]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-04-30T02:18:04+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Топ-10 по продажам манги за прошедшую неделю выглядит следующим образом: Kingdom  ( Царство  ) — 499 206 проданных копий; Jujutsu Kaisen  ( Jujutsu Kaisen Магическая битва ) — 489 633 проданных копий; ( Сама манга, больше не на первом месте ) Tokyo卍Revengers  ( Tokyo Revengers Токийские мстители ) — 475 475 проданных копий; ( Манга смачно основательно оккупировала третье место ). Kimetsu no Yaiba  ( Клинок, рассекающий демонов ) — 188 156 проданных копий; Detective Conan  ( Детектив Конан ) — 124 835 проданных копий; - Произведение опустилась на пятое место, но продолжает уверенно оставаться в топе. Sousou no Frieren  ( (  Провожающая в последний путь Фрирен )) — 122 233 проданных копий; ( Победитель нескольких премий за лучшую мангу в этом году, снова пробует плотно закрепиться в топе. ). Boku no Hero Academia  ( Моя геройская академия ) — 110 949 проданных копий; Akatsuki no Yona  ( Akatsuki no Yona Йона на заре ) — 106 686 проданных копий; Shingeki no Kyojin  ( Вторжение Гигантов ) — 103 484 проданных копий; Shuumatsu no Walküre  ( Shuumatsu no Walküre Повесть о конце света ) — 98 446 проданных копий.]]></text>
+</doc>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[6 аниме вошло в расширенный список номинантов на 94 премию «Оскар» в категории «Лучший анимационный полнометражный фильм»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Twinqssly]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+    <category type="str"><![CDATA[Фильмы]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[оскар]]></keyword>
+    <keyword type="str"><![CDATA[номинация]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-12-07T06:08:43+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[На « Оскар » претендует картина « Le sommet des dieux » — адаптация манги « Kamigami no Itadaki ». Всего в расширенный список попали 26 анимационных фильмов. 94-я церемония вручения наград премии « Оскар » состоится 27-го марта 2022 года. Полнометражные аниме, попавшие в расширенный список номинантов: •  Ryu to Sobakasu no Hime ; •  Gyokou no Nikuko-chan ; •  Josee to Tora to Sakana-tachi ; •  Uchuu no Hou: Erohim-hen ; •  Eiga Daisuki Pompo-san ; •  Entotsu Machi no Poupelle . На прошлой премии « Оскар » в расширенный список номинантов вошли 6 полнометражных аниме: « Kimetsu no Yaiba: Mugen Ressha-hen », « Aya to Majo », « Lupin III: The First », « Ongaku », « Kimi to, nami ni Noretara » и « Nakitai Watashi wa Neko wo Kaburu ». Однако ни одно из них не попало в окончательный список.]]></text>
+</doc>

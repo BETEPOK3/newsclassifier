@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Сказочная щедрость от Sony]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Tedeika³]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[россия]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-03-17T22:16:59+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Джим Райан, глава Sony Interactive Entertainment, объявил в PlayStation.Blog о скором начале раздачи популярных инди-проектов, однако это еще не все. В апреле можно будет забрать полное издание Horizon Zero Dawn, а также месяц пользоваться сервисом Funimation / Wakanim, показывающим аниме. Сервис Funimation / Wakanim будет бесплатно доступен с 25 марта по 22 апреля. В раздачу, которая начнется 25 марта, войдут: Abzû, Enter the Gungeon, Rez Infinite, Subnautica, The Witness, Astro Bot Rescue Mission, Moss, Thumper, Paper Beast и, начиная с 19 апреля, Horizon Zero Dawn Complete Edition. Прямо сейчас можно забрать Ratchet & Clank, хит 2016 года. Данная раздача не относится к PlayStation Plus и доступна всем.]]></text>
+</doc>

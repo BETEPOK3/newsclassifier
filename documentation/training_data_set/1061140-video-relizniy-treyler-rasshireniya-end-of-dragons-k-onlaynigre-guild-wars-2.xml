@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Видео: трейлер расширения End of Dragons к онлайн-игре Guild Wars 2 по случаю релиза]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Игнатий Колыско]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[guild wars 2: end of dragons]]></keyword>
+    <keyword type="str"><![CDATA[guild wars 2]]></keyword>
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[моды, патчи, дополнения]]></keyword>
+    <keyword type="str"><![CDATA[mmorpg]]></keyword>
+    <keyword type="str"><![CDATA[arenanet]]></keyword>
+    <keyword type="str"><![CDATA[rpg, jrpg]]></keyword>
+    <keyword type="str"><![CDATA[расширение]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-03-01T14:58:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Разработчики из студии ArenaNet выпустили релизный трейлер крупного расширения End of Dragons для своей многопользовательской ролевой игры Guild Wars 2. Аддон официально поступил в продажу вчера, 28 февраля. ]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[22-й ежегодный список «Book of the Year» от журнала Da Vinci]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Манга]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[топ]]></keyword>
+    <keyword type="str"><![CDATA[журнал]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-12-06T14:26:15+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Новостной журнал  Da Vinci  представил 22-й ежегодный список «Книга года». Топ 10 журнала по комиксам выглядит так: 1.  «Семья шпиона»  от  Тацуи Эндо  (1-10 том) 2.  «Ван-Пис»  от  Эйитиро Оды  (1-104 том) 3.  «Золотое божество»  от  Сатору Ноды  (1-31 том) 4.  «Не говори «тайна»»  от  Юми Тамуры  (1-11 том) 5.  «Детектив Конан»  от  Госё Аоямы  (1-102 том)  6.  «Магическая битва»  от  Гэгэ Акутами  (1-21 том)  7.  «Доктор Стоун»  от  Риитиро Инагаки  и  Boichi  (1-26 том)  8.  «Что ты вчера ел?»  от  Фуми Ёсинаги  (1-20 том)  9.  «Импульс мира»  от  Дайсукэ Асихары  (1-25 том)  10.  «Провожающая в последний путь Фрирен»  от  Канэхито Ямады  и  Цукасы Абэ  (1-9 том) Прим.: в источнике топ составляет 50 мест.]]></text>
+</doc>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[PayPal прекращает регистрировать новых пользователей из России]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Руслан Авдеев]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[платежные системы]]></keyword>
+    <keyword type="str"><![CDATA[вирусы, трояны, уязвимости в по, вопросы безопасности]]></keyword>
+    <keyword type="str"><![CDATA[санкции]]></keyword>
+    <keyword type="str"><![CDATA[россия]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+    <keyword type="str"><![CDATA[paypal]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-03-03T07:34:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Платёжная система PayPal в среду объявила о прекращении регистрации новых пользователей из России. Компания уже заблокировала аккаунты некоторых пользователей и ряд крупнейших банков страны, попавших под санкции со стороны США и некоторых других государств.Недавно заместитель министра по цифровой трансформации Украины Александр Борняков призвал PayPal к более радикальным действиям в отношении России — в частности, полностью прекратить деятельность платёжной системы в стране. В PayPal уже заявили, что, как и многие компании, активно работают над введением санкций.К санкциям также присоединились Visa, Mastercard и, например, мало востребованная в стране American Express, а также «мобильные» платёжные системы Apple Pay и Google Pay — первая полностью заблокировала использование своего платёжного сервиса жителями России, а Google Pay приостановила сотрудничество со многими российскими финансовыми институтами.Россия уже ответила на активное финансовое давление, заблокировав возможность продажи зарубежными инвесторами отечественных ценных бумаг на сумму в десятки миллиардов долларов.]]></text>
+</doc>

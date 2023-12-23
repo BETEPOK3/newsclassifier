@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[ 53JapanFest 2.0: You (Can) Not Resist!]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[caligari]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+    <category type="str"><![CDATA[Фильмы]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[кинопрокат]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2019-12-01T00:08:12+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Фестиваль японского кино подготовил для ценителей аниме большой сюрприз    Вторая часть фестиваля  53JapanFest 2.0: You (Can) Not Resist  будет включать в себя:  	- ретроспектива самого яркого аниме легендарной студии  STUDIO4°C  ( Arete Hime Принцесса Аритэ ,  Genius Party Гениальная вечеринка ,  Genius Party Beyond Гениальная вечеринка: За гранью ) 	- лекция с основателем и продюсером Studio 4°C  Эйко Танака  в Москве и Санкт-Петербурге 	- европейская премьера stop-motion анимации  «Лисёнок Гон»  и встреча с режиссером Такэси Ясиро в Москве А также показы лучших фильмов фестиваля. Не пропустите! Подробнее о фестивале и билетах вы сможете узнать на официальном сайте: www.coolconnections.ru/ru/events/53-japanese-fest/moscow]]></text>
+</doc>

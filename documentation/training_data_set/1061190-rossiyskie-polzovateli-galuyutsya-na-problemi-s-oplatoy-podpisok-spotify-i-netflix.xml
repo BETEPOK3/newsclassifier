@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Российские пользователи жалуются на проблемы с оплатой подписок Spotify и Netflix]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Руслан Авдеев]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Интернет]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[санкции]]></keyword>
+    <keyword type="str"><![CDATA[netflix]]></keyword>
+    <keyword type="str"><![CDATA[россия]]></keyword>
+    <keyword type="str"><![CDATA[новости сети]]></keyword>
+    <keyword type="str"><![CDATA[spotify]]></keyword>
+    <keyword type="str"><![CDATA[nintendo]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-03-02T10:16:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Жители России, расплачивающиеся картами «Сбера», «Тинькофф», а также Альфа-банка, столкнулись с невозможностью оплаты стриминговых сервисов, имеющих в стране большую аудиторию. Речь идёт о популярных Spotify и Netflix, ответственных за распространение преимущественно музыки и видео соответственно.Как сообщает портал vc.ru со ссылкой на поступающую от пользователей информацию, проблемы возникают при попытках оплаты подписки Spotify с помощью «Сбера» и «Тинькофф», а пользователи Netflix не могут расплатиться с помощью карт Альфа-банка и «Тинькофф».Кроме того, редакция vc.ru не смогла оформить новую подписку при использовании карт «Тинькофф» и Альфа-банка. В обеих кредитных организациях заявляют, что проблемы с сервисами в случае с Netflix связаны с внесением в санкционный список банка-эквайера, отвечающего за передачу банковских данных.Это уже не первая проблема российских пользователей в международной развлекательной экосистеме. До этого об отказе принимать оплату в рублях объявил игровой онлайн-магазин eShop компании Nintendo.]]></text>
+</doc>

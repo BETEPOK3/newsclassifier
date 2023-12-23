@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новые сейю и дата премьеры аниме «Fuufu Ijou, Koibito Miman.»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Вел1чайший]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[дата_показа]]></keyword>
+    <keyword type="str"><![CDATA[сейю]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-09-02T13:43:40+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Официальный твиттер аниме  «Больше, чем пара, меньше, чем любовники»  представил новых актеров, дизайн персонажей и огласил дату премьеры.  Трансляция начнется 9-го октября 2022 года. История нам поведает о типичном парнишке который попал в пару с гяру на уроках по «Подготовке к замужней жизни». Ребята совсем друг дружке не подходят, но теперь им придется вести себя как женатая пара, ведь если они преуспеют, то смогут поменять партнера на того, кто им действительно нравится. СЕЙЮ И ПЕРСОНАЖИ Minami Takahashi Минами Такахаси  в роли  Сати Такамии Azumi Waki Адзуми Ваки  в роли  Нацуми Охаси Yui Ogura Юи Огура  в роли  Мэй Хамано Shou Nogami Сё Ногами  в роли  Садахары Камо Shuuichi Uchida Сюити Утида  в роли  Сю Тэрафунэ]]></text>
+</doc>

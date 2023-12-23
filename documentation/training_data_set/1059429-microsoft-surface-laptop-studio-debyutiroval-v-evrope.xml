@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Microsoft Surface Laptop Studio дебютировал в Европе по цене от 1699 евро]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[surface]]></keyword>
+    <keyword type="str"><![CDATA[microsoft]]></keyword>
+    <keyword type="str"><![CDATA[ноутбук]]></keyword>
+    <keyword type="str"><![CDATA[рынок it]]></keyword>
+    <keyword type="str"><![CDATA[европа]]></keyword>
+    <keyword type="str"><![CDATA[ноутбуки и нетбуки]]></keyword>
+    <keyword type="str"><![CDATA[дебют]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-03T18:17:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Microsoft выпустила за пределами Северной Америки компьютер Surface Laptop Studio, представленный ещё в сентябре 2021 года. Сегодня устройство дебютировало на европейском рынке по цене от 1699 евро.Microsoft позиционирует Surface Laptop Studio в качестве преемника гибридного ноутбука Surface Book 3. В новинке компания отказалась от съёмного дисплея в пользу шарнирного крепления верхней части, которое также позволяет превратить устройство в планшет. Surface Laptop Studio может похвастаться 14,4-дюймовым экраном с разрешением 2400 × 1600 пикселей и частотой обновления до 120 Гц.Ноутбук доступен с процессорами Intel Core i5 и Core i7 Tiger Lake. Устройство может оснащаться как одной лишь интегрированной графикой Iris Xe, так и дискретной видеокартой NVIDIA GeForce RTX 3050 Ti с 4 Гбайт видеопамяти. Объём оперативной памяти может составлять 16 или 32 Гбайт, а ёмкость накопителя достигает 2 Тбайт.Microsoft заявляет, что Surface Laptop Studio является самым мощным компьютером серии Surface. Компания начнёт поставки всех конфигураций устройства в Европу с 22 февраля.]]></text>
+</doc>

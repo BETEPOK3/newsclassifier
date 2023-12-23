@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[NVIDIA выпустила драйвер GeForce Game Ready 511.65 WHQL с поддержкой мобильных GeForce RTX 3080 Ti и RTX 3070 Ti, а также новых игр]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[драйвер]]></keyword>
+    <keyword type="str"><![CDATA[sifu]]></keyword>
+    <keyword type="str"><![CDATA[драйверы]]></keyword>
+    <keyword type="str"><![CDATA[видеокарта]]></keyword>
+    <keyword type="str"><![CDATA[nvidia geforce]]></keyword>
+    <keyword type="str"><![CDATA[dying light 2 stay human]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-01T19:39:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания NVIDIA выпустила новую версию графического драйвера GeForce Game Ready 511.65 WHQL, в котором добавлена поддержка мобильных видеокарт GeForce RTX 3080 Ti и GeForce RTX 3070 Ti, новых игр и исправлены некоторые старые проблемы.Драйвер улучшает производительность видеокарт GeForce в зомби-шутере Dying Light 2 Stay Human. Кроме того, добавляет в игру продвинутые эффекты трассировки лучей и поддержку технологии DLSS. Также содержатся обновления для повышения производительности в разных новых играх, включая кунг-фу боевик Sifu.Список исправленных проблем:Известные проблемы:Загрузить новую версию графического драйвера GeForce Game Ready 511.65 WHQL можно с официального сайта NVIDIA или через приложение GeForce Experience.]]></text>
+</doc>

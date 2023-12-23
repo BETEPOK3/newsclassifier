@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Первый день «Kadokawa expo 2020»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Tedeika³]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true"/>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-03-06T01:15:49+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Прямая трансляция первого дня «Kadokawa expo 2020» начнётся в 04:00 по московскому времени. Трансляция доступна через VPN японского региона.  lnexpo.kimirano.jp/live/  04:00-04-10 - Открытие фестиваля  04:10-04:50 - Представление мобильной игры  onegai-ss.com/  05:00-05:40 -  Что, если чрезвычайно развитая ролевая игра с полным погружением вызывает большее привыкание, чем реальность  05:50-06:30 -  Непутёвый ученик в школе магии: Воспоминания  06:40-07:20 -  Маг-целитель: Новый старт  07-30-08:10 -  Восхождение героя щита 2  08:20-09:00 -  86  09:10-09:50 -  Удар крови  10:00-10:40 -  Всемогущая магия святого  10:50-11:30 - Радио постановка с персонажами  Date A Live  и  High School DxD  11:40-13:10 - Объявление результатов голосования «Лучшие ранобэ Kadokawa»  13:20 - Окончание первого дня и анонс]]></text>
+</doc>

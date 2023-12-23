@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Тизер и подробности к фильму «Inu-Ou»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Трейлер]]></category>
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[обновления]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-04-28T12:24:52+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Издательство  AsmikAce  представила новый тизер к полнометражному аниме  «Ину-о» . Напомню, что показ состоится в специальной программе, на венецианском кинофестивале. Изначально планировалось выпустить его в прошлом году, однако по различным причинам, фильм был перенесён. Фильм создан по мотивам новеллы "Tales of of the Heike: Chapter Inu-Oh" за авторством Хидео Фурукава.  Трансляция в кинотеатрах 28 мая 2022 года. СОСТАВ СОЗДАТЕЛЕЙ Производство:   Science SARU   &   Asmik ACE  Режиссёр:  Масааки Юаса Сценарий:  Акико Ноги Дизайн: Мацумото Тайо ( персонажи ) ПЕРСОНАЖИ И СЭЙЮ Ину-о : озвучивает  Avu-chan Томона : озвучивает  Мирай Морияма Асикага Ёсимицу : озвучивает  Тасуку Эмото Отец  Ину-о : озвучивает  Кэндзиро Цуда Отец  Томона : озвучивает  Ютака Мацусигэ]]></text>
+</doc>

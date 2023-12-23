@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Новости сериала "Gekidol"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+    <keyword type="str"><![CDATA[премьера]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-01-05T23:34:56+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[В сериале " Gekidol " будет 12 эпизодов. Все их выпустят 3 марта Blu-ray/DVD BOX в комплекте с OVA " Alice in Deadly School ". СОСТАВ СОЗДАТЕЛЕЙ Режиссер:  Сигеру Уэда Сценарист:  Кэйитиро Оти Композитор: Prhythm/epx. Дизайн персонажей: Такуя Имакадо  &  Киёси Татейси  Действие аниме происходит через пять лет после того, как случилось загадочное бедствие, уничтожившее крупные города по всему миру. Серия Морино получает приглашение от загадочной женщины присоединиться к «Alice in Theatre», небольшой театральной труппе, которая выступает с использованием технологии 3D голограммы. По мере того как девушка осваивается в новой среде, она начинает открывать неожиданные истины о себе и окружающем мире. Трансляция сериала началась 5 января.]]></text>
+</doc>

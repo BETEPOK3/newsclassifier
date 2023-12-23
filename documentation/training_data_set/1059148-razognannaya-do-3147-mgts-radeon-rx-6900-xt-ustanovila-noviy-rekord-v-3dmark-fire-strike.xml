@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Radeon RX 6900 XT на частоте 3147 МГц установила рекорд в  3DMark Fire Strike — она обогнала связку из четырёх GeForce GTX 1080 Ti]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[radeon rx 6900 xt]]></keyword>
+    <keyword type="str"><![CDATA[разгон]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[разгон и замеры производительности системы]]></keyword>
+    <keyword type="str"><![CDATA[3dmark]]></keyword>
+    <keyword type="str"><![CDATA[рекорды]]></keyword>
+    <keyword type="str"><![CDATA[видеокарты]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-01-31T20:19:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Видеокарта AMD Radeon RX 6900 XT установила новый рекорд производительности в синтетическом бенчмарке 3DMark Fire Strike и оказалась на первом месте списка достижений Fire Strike Hall of Fame.Прошлый рекорд в виде 61 206 баллов в 3DMark Fire Strike был установлен 22 апреля 2020 года штатным оверклокером компании EVGA Винсом Люсидо (Vince Lucido) с псевдонимом KINGPIN. Для этого он использовал четыре разогнанных видеокарты NVIDIA GeForce GTX 1080 Ti. Новый рекорд этого бенчмарка был официально внесён в статистику 27 января 2022 года. Его установил южнокорейский оверклокер с псевдонимом biso biso, использовавший лишь одну экстремально разогнанную Radeon RX 6900 XT.Частоту графического чипа южнокорейский энтузиаст повысил до 3147 МГц, а видеопамять разогнал до 2370 МГц при номинальном значении в 2000 МГц. Благодаря этому карта набрала в бенчмарке 62 389 очков, то есть на 1183 балла больше предыдущего рекорда.Для эксперимента использовалась материнская плата EVGA Z690 Dark KINGPIN и процессор Intel Core i9-12900K. Весьма вероятно, что в ходе разгона для охлаждения графического чипа видеокарты использовался жидкий азот.]]></text>
+</doc>

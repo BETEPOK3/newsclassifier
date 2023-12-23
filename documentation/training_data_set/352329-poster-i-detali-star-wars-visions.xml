@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Постер и детали "Star Wars: Visions"]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[обновления]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-09-09T08:03:48+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Корпорация " Disney " опубликовала свежий постер короткометражному аниме-сериалу " Star Wars: Visions ". Стоит напомнить, что над данным проектом работает несколько студий и разная команда.  Премьера короткометражек состоится 22 сентября на  Disney+ .  СОСТАВ СОЗДАТЕЛЕЙ Производство:  Kamikaze Douga  ( The Duel )  &   Studio Colorido   ( Tatooine Rhapsody )  &   Trigger   ( The Twins, The Elder )  &   Geno Studio   ( Lop и Ochō ) &  Science SARU   ( Akakiri, T0-B1 )   &    Production I.G  ( The Ninth Jedi )  &   Kinema Citrus   ( The Village Bride ) Режиссёр:  Таканобу Мидзуно   &   Таку Кимура   &   Хироюки Имаиси   &   Хитоси Хага   &   Кэндзи Камияма   &   Абель Гонгора   &   Масахико Оцука   &   Юки Игараси   &   Ынъён Чхве   Композитор:  Кевин Пенкин  ( The Village Bride )]]></text>
+</doc>

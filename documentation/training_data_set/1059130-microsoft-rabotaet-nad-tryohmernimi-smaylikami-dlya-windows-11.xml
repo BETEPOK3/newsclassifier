@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Microsoft работает над трёхмерными смайликами для Windows 11]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[microsoft]]></keyword>
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[операционные системы]]></keyword>
+    <keyword type="str"><![CDATA[операционная система]]></keyword>
+    <keyword type="str"><![CDATA[3d-технологии]]></keyword>
+    <keyword type="str"><![CDATA[смайлики]]></keyword>
+    <keyword type="str"><![CDATA[программное обеспечение]]></keyword>
+    <keyword type="str"><![CDATA[windows]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-01-31T16:59:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Похоже, что Microsoft всё ещё работает над 3D-смайликами для Windows 11. В прошлом году компания анонсировала их дебют в свежей ОС, однако финальная Windows 11 вышла с обычными 2D-эмоджи. Нандо Коста (Nando Costa), дизайнер Microsoft, сообщил, что компания продолжает работу над объёмными смайликами для Windows 11.В пятницу Коста, в ответ на твит пользователя, который интересовался 3D-эмоджи, написал: «Мы работаем над этим». До сих пор непонятно, когда 3D-смайлики появятся в Windows 11, но, по крайней мере, стало известно, что Microsoft всё ещё работает над тем, чтобы реализовать свою первоначальную задумку.Во время презентации Windows 11 Microsoft продемонстрировала оригинальные 3D-смайлики и пообещала, что они станут частью новой ОС. Однако в финальной сборке Windows 11 компания неожиданно вернулась к традиционным 2D-эмоджи без объяснения причин такого решения. Вероятно, это связано с тем, что плоские смайлы лучше работают с некоторыми приложениями. Кроме того, предполагается, что в Windows 11 присутствуют некоторые технические ограничения, которые команде разработчиков необходимо устранить, перед тем как воплотить в жизнь 3D-смайлы.Коста также подробно рассказал в своём блоге о том, как Microsoft пытается сделать эмоджи более «живыми», отразив в них такие человеческие черты, как морщины и причёски, о том, как новые смайлы будут интегрированы в приложения, такие как Microsoft Teams, а также о том, какими инструментами разработчики пользуются при создании 3D-смайликов.]]></text>
+</doc>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Модули памяти Aorus DDR5-5200 получили радиатор с наноуглеродным покрытием]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Сергей Карасёв]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[модули озу, карты памяти, флеш-накопители, кардридеры]]></keyword>
+    <keyword type="str"><![CDATA[aorus]]></keyword>
+    <keyword type="str"><![CDATA[оперативная память]]></keyword>
+    <keyword type="str"><![CDATA[gigabyte]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[ddr5]]></keyword>
+    <keyword type="str"><![CDATA[озу]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-15T11:46:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Компания Gigabyte анонсировала под брендом Aorus новый комплект оперативной памяти DDR5 для игровых компьютеров. Набор включает два модуля ёмкостью 16 Гбайт каждый, что в сумме даёт 32 Гбайт.Память функционирует на частоте 5200 МГц при напряжении питания 1,25 В. Тайминги — 40-40-40-80. Поддерживаются оверклокерские профили XMP 3.0.Модули снабжены механизмом автоматического устранения ошибок On-die ECC. Встроенная интегральная схема управления питанием (PMIC) помогает повысить энергоэффективность.Отмечается, что память проходит строгую проверку качества. Производитель подтверждает высокую надёжность пожизненной гарантией.Модули оснащены композитным алюминиево-медным радиатором охлаждения с наноуглеродным покрытием. Это решение обеспечивает эффективный отвод тепла, удерживая температуру ниже 70 °C даже при больших нагрузках и работе в режиме разгона.Информации об ориентировочной цене комплекта Aorus DDR5-5200 (шифр GP-ARS32G52D5) пока нет. ]]></text>
+</doc>

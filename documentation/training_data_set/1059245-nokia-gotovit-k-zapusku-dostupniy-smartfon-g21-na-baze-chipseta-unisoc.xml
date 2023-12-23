@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Nokia готовит к запуску доступный смартфон G21 на чипе UNISOC]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Максим Шевченко]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[рынок it]]></keyword>
+    <keyword type="str"><![CDATA[смартфон]]></keyword>
+    <keyword type="str"><![CDATA[hmd global]]></keyword>
+    <keyword type="str"><![CDATA[утечка]]></keyword>
+    <keyword type="str"><![CDATA[слухи]]></keyword>
+    <keyword type="str"><![CDATA[nokia]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[мобильные телефоны, смартфоны, сотовая связь, коммуникаторы, кпк]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-02T00:00:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Nokia готовит преемника представленному в мае прошлого года доступному смартфону G20. Новый Nokia G21 был замечен в базе данных бенчмарка Geekbench, благодаря чему стали известны ключевые характеристики устройства.Согласно данным из Geekbench, новинка будет построена на базе восьмиядерного чипсета UNISOC T606 с максимальной тактовой частотой 1,61 ГГц. Устройство набирает 312 и 1157 баллов в одноядерном и многоядерном тестах, что является типичным показателем для платформы начального уровня. Чипсет работает в связке с 4 Гбайт оперативной памяти, но вероятно, будут представлены и модификации с другим объёмом ОЗУ. В качестве операционной системы используется позапрошлогодняя Android 11.По слухам, Nokia G21 будет оснащаться 6,5-дюймовым IPS-экраном с разрешением HD+. Устройству приписывают тройную основную камеру с главным 50-Мп сенсором и накопитель ёмкостью 128 Гбайт. Предполагается, что ёмкость аккумулятора смартфона составит 5000 мА·ч. Nokia G21 будет доступен в чёрном и фиолетовом цветах.  ]]></text>
+</doc>

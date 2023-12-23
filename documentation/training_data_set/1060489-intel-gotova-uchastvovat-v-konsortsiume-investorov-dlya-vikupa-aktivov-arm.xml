@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Intel готова участвовать в консорциуме инвесторов для выкупа активов Arm]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Алексей Разин]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Технологии]]></category>
+    <category type="str"><![CDATA[Экономика]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[инвестиции]]></keyword>
+    <keyword type="str"><![CDATA[разработка]]></keyword>
+    <keyword type="str"><![CDATA[рынок it]]></keyword>
+    <keyword type="str"><![CDATA[intel]]></keyword>
+    <keyword type="str"><![CDATA[arm]]></keyword>
+    <keyword type="str"><![CDATA[softbank]]></keyword>
+    <keyword type="str"><![CDATA[soc и микросхемы-контроллеры]]></keyword>
+    <keyword type="str"><![CDATA[разработка и производство электроники]]></keyword>
+    <keyword type="str"><![CDATA[процессоры]]></keyword>
+    <keyword type="str"><![CDATA[новости hardware]]></keyword>
+    <keyword type="str"><![CDATA[финансовые новости и аналитика]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-18T07:55:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Для японской корпорации SoftBank, которой с 2016 года принадлежат активы британского разработчика процессорных архитектур Arm, повторный выход последней на фондовый рынок изначально являлся «планом Б» на случай развала сделки с NVIDIA. Глава Intel Патрик Гелсингер (Patrick Gelsinger) на этой неделе заявил, что его компания готова объединить свои усилия с инвесторами, намеревающимися вложиться в Arm.Соответствующие заявления генерального директора Intel упоминает Reuters. Пока такой консорциум не сформирован, и для SoftBank приоритетным сценарием является выход Arm на IPO, но если бы нашлись другие желающие выкупить активы британского разработчика, то Intel в этой инициативе охотно приняла бы участие. Как признался Гелсингер, в отрасли ходили разговоры о формировании консорциума для выкупа активов Arm ещё до того, как NVIDIA выступила с инициативой по поглощению этой британской компании.Глава Intel при этом отметил, что процессорный гигант был бы в равной степени счастлив снова видеть Arm в статусе публичной компании. «Мы не являемся крупными пользователями Arm, но используем её разработки. Мы станем более активно использовать Arm, поскольку это подразумевается повесткой развития контрактного бизнеса IFS», — пояснил Патрик Гелсингер. Он также добавил, что если бы сформировался консорциум инвесторов для покупки Arm, корпорация Intel рассмотрела бы возможность принять в нём участие в той или иной форме.]]></text>
+</doc>

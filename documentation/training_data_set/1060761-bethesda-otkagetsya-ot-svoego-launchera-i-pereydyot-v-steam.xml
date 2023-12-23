@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Bethesda откажется от своего лаунчера и перейдёт в Steam]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Рудь]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Игры]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[valve]]></keyword>
+    <keyword type="str"><![CDATA[пк]]></keyword>
+    <keyword type="str"><![CDATA[bethesda.net]]></keyword>
+    <keyword type="str"><![CDATA[steam]]></keyword>
+    <keyword type="str"><![CDATA[bethesda softworks]]></keyword>
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-22T20:11:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Принадлежащее Microsoft американское издательство Bethesda Softworks сообщило о своём намерении в ближайшем будущем отказаться от поддержки программы запуска (лаунчера) Bethesda.net.Как стало известно, в начале апреля пользователи лаунчера Bethesda смогут перенести свои игры и кошелёк в Steam — аккаунты Bethesda.net можно будет использовать и дальше на сайте компании и в её проектах (для авторизации).Bethesda Softworks уверяет, что никакие данные учётной записи Bethesda.net не потеряются, хотя для переноса сохранений некоторых игр (в частности, Wolfenstein: Youngblood) потребуется скопировать файлы в папку Steam вручную.Возможность запускать игры через лаунчер Bethesda.net сохранится до начала мая, но Bethesda Softworks рекомендуют не тянуть с миграцией и приступить к ней, как только появится такая опция.Сообщается, что «переезд» не скажется на доступе пользователей к The Elder Scrolls Online и Fallout 76, а также контенте в них, однако подписку Fallout 1st в апреле придётся продлевать вручную и уже через Steam.]]></text>
+</doc>

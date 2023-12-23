@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Apple выпустила macOS 12.2.1 с исправлением проблемы самопроизвольной разрядки некоторых MacBook]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Николай Хижняк]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Прочее]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[monterey]]></keyword>
+    <keyword type="str"><![CDATA[операционные системы]]></keyword>
+    <keyword type="str"><![CDATA[обновление]]></keyword>
+    <keyword type="str"><![CDATA[macos]]></keyword>
+    <keyword type="str"><![CDATA[новости software]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-02-11T00:34:00+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Наряду с релизом iOS 15.3.1 и iPadOS 15.3.1 компания Apple выпустила сегодня обновление macOS 12.2.1. Оно исправляет баг в работе Bluetooth-модуля, который активировал подключённые аксессуары в состоянии сна и тем самым провоцировал преждевременную разрядку MacBook.До этого некоторые пользователи MacBook на базе процессоров Intel жаловались на быструю разрядку батареи в спящем режиме. В некоторых случаях заряд аккумулятора за ночь снижался до нуля. Как пишет The Verge, среди пользователей выдвигалось предположение, что проблема связана с неправильной работой Bluetooth-модуля в спящем режиме. Однако его отключение в некоторых случаях не приводило к каким-либо положительным изменениям.В описании к обновлению macOS 12.2.1 компания Apple указывает, что устранила проблему с подключёнными Bluetooth-устройствами, которые чрезмерно разряжали аккумулятор MacBook из-за неправильного перехода в спящий режим. О наличие такой проблемы и её исправлении у ноутбуков на базе процессоров Apple M1 компания ничего не указывает.Также в macOS Monterey 12.2.1 была устранена уязвимость в движке WebKit, позволяющая запускать произвольный код.]]></text>
+</doc>

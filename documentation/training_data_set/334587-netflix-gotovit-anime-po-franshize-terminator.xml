@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Netflix готовит аниме по франшизе «Терминатор»]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Maxthon]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[анонс]]></keyword>
+    <keyword type="str"><![CDATA[netflix]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2021-02-27T00:10:37+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Сервис Netflix, анонсировал аниме-сериал во  франшизе Терминатор :. Поскольку проект все ещё находится на начальной стадии, детали сюжета еще уточняются. Netflix стал партнером Skydance в создании сериала, а Skydance продюсировал два последних фильма «Терминатор». Сериал снимается в партнерстве с Production IG, с которой Netflix работает с производственной линией с 2018 года. Новости об аниме-сериале «Терминатор» появились, когда Netflix все активнее стала продвигаться на арену-аниме. Помимо нескольких таких уже запущенных проектов, таких как «Castlevania» и «Blood of Zeus», и несколько других. Среди них сериал «Splinter Cell» сценариста «Джона Вика» Дерека Колстада и аниме-спин-офф фильма Зака ​​Снайдера Netflix «Армия мертвых».  Производство:   Production I.G Режиссёр:  Маттсон Томлин  (« The Batman (2022) »)]]></text>
+</doc>

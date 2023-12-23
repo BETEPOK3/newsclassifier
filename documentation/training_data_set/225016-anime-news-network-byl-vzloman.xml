@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Anime News Network был взломан]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[S John]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true"/>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2017-08-31T12:22:24+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[7 августа 2017 г. при попытке доступа к Anime News Network (ANN) стало выдаваться сообщение об ошибке: Не удается получить доступ к сайту Не удается найти DNS-адрес сервера www.animenewsnetwork.com. Обращение к animenewsnetwork.com отсылает к стороннему сайту из сети Cloudflare, где демонстрируется заставка с фоновым воспроизведением дурацкой композиции Ruben Slikk «Совсем как нигга»: youtube Обновление от 23 августа : www.animenewsnetwork.com все еще недоступен и WHOIS сервис ICANN продолжает сообщать хакнутую информацию о домене. Обновление от 30 августа : Домен www.animenewsnetwork.com восстановлен.  • ANN был взломан 7-ого августа;  • Взлом скорее всего был произведен методом социальной инженерии;  • Хакеры сумели передать ANN веб домен гонконгскому регистратору, пользующемуся дурной репутацией из-за воровства доменов;  • Е-майл письма, посланные после взлома на адреса @AnimeNewsNetwork.com могут читаться хакерами;  • Хакеры на короткий срок получили контроль над ANN Twitter аккаунтом @Anime;  • Серверы не были взломаны;  • Пользовательские аккаунты, пароли, е-мейл адреса и остальное не пострадали. (Много) дополнительной информации  здесь .]]></text>
+</doc>

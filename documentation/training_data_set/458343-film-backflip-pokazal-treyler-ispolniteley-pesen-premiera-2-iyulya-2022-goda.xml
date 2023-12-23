@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Фильм Backflip!! показал трейлер, исполнителей песен, премьера 2 июля 2022 года]]></title>
+  <author auto="true" type="str" verify="true"><![CDATA[Ангел_]]></author>
+  <categories auto="true" type="list" verify="true">
+    <category type="str"><![CDATA[Аниме]]></category>
+    <category type="str"><![CDATA[Фильмы]]></category>
+  </categories>
+  <keywords auto="true" type="list" verify="true">
+    <keyword type="str"><![CDATA[фильм]]></keyword>
+    <keyword type="str"><![CDATA[подробности]]></keyword>
+  </keywords>
+  <date auto="true" type="datetime" verify="true"><![CDATA[2022-05-13T15:31:23+03:00]]></date>
+  <text auto="true" type="str" verify="true"><![CDATA[Официальный сайт предстоящего  Bakuten!! Movie Бэк-флип!! Фильм , основанного на  Bakuten!! Бэк-флип!! , в пятницу, 13 мая 2022 года,  показал новый трейлер фильма, в котором раскрывается и анонсируется  песня-вставка «Hikari no Naka kara Tsutaetai koto» («Что-то, что я хочу рассказать вам внутри света»)   Centimillimental . Сайт сообщил, что премьера фильма состоится 2 июля 2022 года. Веб-сайт также сообщил, что   wacci   исполнит заглавную песню «Bokura no Ippo» («Наш один шаг»). 11 июня 2022 года в кинотеатре Shinjuku Wald 9 состоится специальный показ фильма. В мероприятии примут участие сэйю   Симба Цутия ,   Кайто Исикава ,   Такаси Кондо ,   Хиро Симоно ,   Хироси Камия   и   Аянэ Сакура . В   Бэк-флип!! Фильм   будет показано последнее испытание команды мальчиков по художественной гимнастике "Ao High" на межшкольном турнире, а также будут представлены вернувшиеся сэйю и сотрудники сериала.]]></text>
+</doc>
